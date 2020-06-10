@@ -1,0 +1,3083 @@
+Agreements/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: criticalrole:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */ 
+ 
+  Wikia Beacon Tracking  
+ 
+ 
+  Begin comScore Tag  
+ 
+  End comScore Tag  
+  Start for QuantServe, page_view  
+ 
+ 
+ 
+ FANDOM 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+	Games 
+ 
+	Movies 
+ 
+	TV 
+ 
+	Video 
+ 
+ 
+ Wikis 
+   
+ 
+ 
+ 
+ 
+	Explore Wikis 
+ 
+ 
+ 
+	Community Central 
+ 
+ 
+ 
+	Start a Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+				Search			 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+					Sign In				 
+ 
+ 
+ Don't have an account? 
+ 
+					Register				 
+ 
+ 
+ 
+ 
+ 
+ 
+	Start a Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  BEGIN SLOTNAME: hivi_leaderboard  
+ 
+ 
+  END SLOTNAME: hivi_leaderboard  
+  BEGIN SLOTNAME: top_leaderboard  
+ 
+ 
+  END SLOTNAME: top_leaderboard  
+ 
+  BEGIN SLOTNAME: invisible_skin  
+ 
+ 
+  END SLOTNAME: invisible_skin  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical Role Wiki 
+ 
+ 
+ 2,299 
+ Pages 
+ 
+ 
+ 
+   Add new page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Show 
+ 
+   
+ 
+ 
+ 
+ 
+												List of Episodes											 
+ 
+ 
+ 
+ Campaigns 
+   
+ 
+ 
+ 
+ Specials 
+ 
+ 
+ Campaign 1: Vox Machina 
+ 
+ 
+ Campaign 2: The Mighty Nein 
+ 
+ 
+ Talks Machina 
+ 
+ 
+ 
+ 
+ 
+ 
+ Characters 
+   
+ 
+ 
+ 
+ Actors:   Main Cast 
+ 
+ 
+ Actors:   Guest Stars 
+ 
+ 
+ Character Type:   Main Characters 
+ 
+ 
+ Character Type:   Guest Characters 
+ 
+ 
+ Character Type:   Non-Player Characters 
+ 
+ 
+ Relationship:   Allies 
+ 
+ 
+ Relationship:   Antagonists 
+ 
+ 
+ Characters by:   Race 
+ 
+ 
+ Characters by:   Class 
+ 
+ 
+ More Character Categories → 
+ 
+ 
+ 
+ 
+ 
+ 
+ Factions 
+   
+ 
+ 
+ 
+ Arcana Pansophical 
+ 
+ 
+ Ashari 
+ 
+ 
+ Cerberus Assembly 
+ 
+ 
+ Chroma Conclave 
+ 
+ 
+ Cobalt Soul 
+ 
+ 
+ Dwendalian Empire 
+ 
+ 
+ Kryn Dynasty 
+ 
+ 
+ Mighty Nein 
+ 
+ 
+ Tal'Dorei Council 
+ 
+ 
+ Vox Machina 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places 
+   
+ 
+ 
+ 
+ World:   Exandria 
+ 
+ 
+ Continent:   Issylra 
+ 
+ 
+ Continent:   Marquet 
+ 
+ 
+ Continent:   Tal'Dorei 
+ 
+ 
+ Continent:   Wildemount 
+ 
+ 
+ Nation:   Clovis Concord 
+ 
+ 
+ Nation:   Dwendalian Empire 
+ 
+ 
+ Nation:   Kryn Dynasty 
+ 
+ 
+ Nation:   Tal'Dorei 
+ 
+ 
+ Nation:   Whitestone 
+ 
+ 
+ 
+ 
+ 
+ 
+												List of Transcripts											 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wiki Editing 
+ 
+   
+ 
+ 
+ 
+ 
+ Common Templates 
+   
+ 
+ 
+ 
+ {{art caption}} ----- autoformat art credits/captions 
+ 
+ 
+ {{cite}} ----- [citation needed] 
+ 
+ 
+ {{clarify}} ----- [clarify] 
+ 
+ 
+ {{disputed}} ----- [disputed] 
+ 
+ 
+ {{ep}} ----- autoformat links to episodes 
+ 
+ 
+ {{ep ref}} ----- inline episode references 
+ 
+ 
+ {{infobox character}} ----- infobox for character pages 
+ 
+ 
+ {{infobox episode}} ----- infobox for episode pages 
+ 
+ 
+ {{new artist category}} ----- boilerplate for new artist category pages 
+ 
+ 
+ {{new character}} ----- boilerplate for new character pages 
+ 
+ 
+ 
+ 
+ 
+ 
+ Articles Needing Attention 
+   
+ 
+ 
+ 
+ Article Stubs 
+ 
+ 
+ Articles Needing Citations 
+ 
+ 
+ Articles Needing Clarification 
+ 
+ 
+ Articles Needing Cleanup 
+ 
+ 
+ Articles with Disputed Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newly changed articles 
+   
+ 
+ 
+ 
+ Geek & Sundry 
+ 
+ 
+ The Knowing Mistress 
+ 
+ 
+ Caleb Widogast 
+ 
+ 
+ Beauregard Lionett 
+ 
+ 
+ Fjord 
+ 
+ 
+ Converging Fury 
+ 
+ 
+ Uthodurn (episode) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+   
+ 
+ 
+ 
+ 
+												CritRole.com											 
+ 
+ 
+ 
+												Twitter											 
+ 
+ 
+ 
+												YouTube											 
+ 
+ 
+ 
+												Facebook											 
+ 
+ 
+ 
+												Instagram											 
+ 
+ 
+ 
+												G&S Critical Role Content											 
+ 
+ 
+ 
+												Staff Blogs											 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Links 
+ 
+   
+ 
+ 
+ 
+ 
+												Twitter Hashtag											 
+ 
+ 
+ 
+												Subreddit											 
+ 
+ 
+ 
+												CritRoleStats											 
+ 
+ 
+ 
+												CR Discord											 
+ 
+ 
+ 
+												CR Wiki Discord											 
+ 
+ 
+ 
+												Critical Scope											 
+ 
+ 
+ 
+												Critical Tropes											 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Explore 
+   
+ 
+ 
+ 
+ Wiki Activity 
+ 
+ 
+ Random page 
+ 
+ 
+ Community 
+ 
+ 
+ Videos 
+ 
+ 
+ Images 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Discuss 
+ 
+ 
+   
+ 
+  empty onclick event needs to be applied here to ensure that wds dropdowns work correctly on ios  
+ 
+ 
+ 
+ 
+ 
+ in: 
+ 
+ Transcripts   
+ 
+ Agreements/Transcript 
+ <  Agreements 
+ 
+   Empty div to ensure $actionButton is always pushed to bottom of the container 
+ 
+ 
+ 
+ 
+   Edit 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+							VisualEditor						 
+ 
+ 
+ 
+							History						 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comments 
+ 
+ 
+   Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ watch						 01:32 
+ 
+ The Loop (TV) 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	Do you like this video?	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Google Tag Manager (noscript)   End Google Tag Manager (noscript)  List of Transcripts 
+ 
+   Pre-Show   Edit 
+ MATT: Everyone and welcome to tonight's episode of Critical Role, where a bunch of us nerdy-ass voice actors sit around and play Dungeons & Dragons.
+ TRAVIS: (high-pitched) We play Dungeons & Dragons!
+ MATT: All right. Before we get into tonight's game, we have a few announcements to get through. First and foremost, we have two sponsors for the evening. Our first up is our long time friend of campaign two, our returning sponsors D&D; Beyond. Sam, if you don't mind.
+ SAM: The great thing about D&D; Beyond everybody is it's all about accuracy, right? They can handle the stats for you, they can handle calculating damage, adding bonuses, ability checks, all that stuff. It's super duper accurate, something that I, Sam Riegel, as a candidate for president, am hyper-focused on, accuracy. But a couple of weeks ago, my opponents, O'Brien and Johnson, said some slanderous things about me that were not accurate. I wanted to set the record straight tonight. Ashley Johnson said that I had lily-white hands that had never worked a day in their lives. Inaccurate. It's at least not the whole picture. The whole picture is my entire body is as doughy as Val Kilmer in a funnel cake factory. (laughter) She accused me of looking like a donkey wearing a Jeff Goldblum mask, also inaccurate. My face is much more like a Steve Buscemi Halloween mask that has melted in the back seat of your Kia. Johnson said that my smile made you want to drown yourself in hot goat piss, not accurate. It's my voice that makes you want to drown me out with a stereo mix of Limp Bizkit and Michelle Wolf.
+ TALIESIN: Wow!
+ SAM: The members of the O'Brien-Johnson campaign build themselves as honest, nice D&D; players, but if we're being accurate, Liam isn't nice. He's an authoritarian party pooper whose characters are darker than the last episode of Game of Thrones, and sadder than a double feature of Flight 93 and Requiem for a Dream.
+ TRAVIS: Wow!
+ SAM: His voice is so shrill it's like listening to an ASMR video of someone sandblasting a litter of puppies.
+ LIAM: Much more of a nasally drone, but go on.
+ SAM: And Ashley, her character is, I mean, does she even know? She's missed so many games, it's more games than Michael Vick and Tonya Harding combined. (groaning) But hey, at least she missed them for a good reason. Her "hit show" Blindspot is seen by literally hundreds of people every week. When does it air, by the way? Is it still 3:00am Wednesdays between infomercials for eyebrow implants and a towel that absorbs solid waste? But I'm not here to roast Ashley. I mean, let's be honest, she is America's sweetheart. How could anyone dislike someone who has more OshKosh B'gosh overalls in her closet than Michael Jackson did?
+ ASHLEY: Oh my god!
+ TALIESIN: Wow! Wow!
+ SAM: Liam, on the other hand, is totally fair game. His character choices are so emo, Damien Rice called and said that they were too heavy. His monologues are more emotionally depleting than the discography of Dashboard Confessional. Liam could have single-handedly funded our Kickstarter if he didn't have so many traffic tickets from searching himself on Tumblr while driving. 
+ (groaning)
+ LIAM: I only killed one kid.
+ SAM: But as Dani Carr always advises me, I don't need to go low in this election to win. No, I'm going to win the way I won my Emmy, by porking an executive of a trophy company. And that is accurate. Thank you, and god bless Sam-erica.
+ TALIESIN: Oh it hurts, oh it hurts.
+ MATT: So what about D&D; Beyond?
+ SAM: Oh yes, oh sorry. (laughter) Also, D&D; Beyond wanted me to tell you-- this is an ad-- D&D; Beyond wanted me to tell you that they're going to be hosting a great charity livestream for Jasper's Game Day. All proceeds are going to benefit the American Association of Suicidology, and you can tune in May 9th to Twitch.TV/D&DBeyond;. There's going to be completely random character gen and donation goals to cause even more mayhem. Special guests include DM Satine Phoenix, Patrick Rothfuss, et cetera! Don't miss it May 9th. That's it. 
+ (cheering)
+ TRAVIS: Et cetera's such a hit party.
+ MARISHA: I love et cetera.
+ MATT: And thank you D&D; Beyond. Our second sponsor for the evening, returning once more, our friends at Idle Champions. If you guys aren't familiar with Idle Champions of the Forgotten Realms, it is a strategy video game where it brings together a bunch iconic D&D; characters from the novels, from the adventure books and modules, from popular shows. They actually added--the most recent champion is Spurt from our campaign. They added Spurt the Kobold as the most recent.
+ SAM: He was only alive for 20 minutes!
+ MATT: Yeah! And you can keep him alive for even longer, maybe! You can unlock him for the next 11 days by playing the latest event called The Running.
+ (laughter)
+ TALIESIN: It's what he would've wanted.
+ MATT: It's what he would've wanted. Each new champion adds complexity and depths to the gameplay as you quest through of hundreds of adventures based on existing D&D; books and adventures, like Waterdeep Dragon Heist, there's a whole adventure point there, Tomb of Annihilation, Curse of Strahd. All those classics that have come out in the previous years, all those things can be found in element throughout the game. It's available for PC and Mac on Steam, and on web as well as Xbox 1, PlayStation 4, iPad and on all Android devices. For more information, check out www.IdleChampions.com/criticalrole Thank you, guys. All righty. Our good friends at 826LA, who've been along with us for the entirety pretty much of this journey we've had here, they have one week left to go on their Kickstarter campaign, perhaps you've a few of us tweet it out, to create the Time Scouts handbook, which is a time travel handbook created to help you unlock your inner time hopper. Make sure to check out and join their campaign at TimeScouts.com/Kickstarter Join us next Tuesday at 4:00pm Pacific here for MAME Drop, featuring retro games from our MAME Cabinet, hosted by our classic Taliesin Jaffe.
+ SAM: Classic.
+ TALIESIN: Eternal.
+ SAM: Eternal.
+ TRAVIS: Undying.
+ MATT: Continuous.
+ TALIESIN: Crystal Taliesin, which was very popular in the 1980s.
+ MARISHA: Was more a fan of new Taliesin.
+ TALIESIN: Well, sucrose is weird. Yeah.
+ MATT: Anyway. I believe that's the end of our announcements, so with that, let's go ahead and jump into tonight's episode of Critical Role.
+ [water bubbling]
+ [thunder]
+ [explosion]
+ ♪ Critical Role, Critical Role ♪
+ ♪ Critical Role Critical Role ♪
+ ♪ Roll the dice, Roll the dice ♪
+ ♪ The adventure begins, they were always beside you ♪
+ ♪ Your nerdy best friends and the DM to guide you ♪
+ ♪ And they rise from the flames ♪
+ ♪ For the battles ahead ♪
+ ♪ Villains beware 'cause you're about to be dead ♪
+ ♪ They got magic and flare ♪
+ ♪ They got falchions and cunning ♪
+ ♪ They don't see over there ♪
+ ♪ There's a monster coming ♪
+ ♪ Inspiration is waiting ♪
+ ♪ Rise up, don't think twice ♪
+ ♪ Put your fate in your hands ♪
+ ♪ Take a chance, roll the dice ♪
+ ♪ Critical Role Critical Role ♪
+ ♪ Can you answer the call ♪
+ ♪ Diggin' deep your soul ♪
+ ♪ As the legend unfolds ♪
+ ♪ Now it's your turn ♪
+ ♪ Your turn ♪
+ ♪ Your turn ♪
+ ♪ To roll ♪ 
+ [flames burning]  
+ 
+   Part I   Edit 
+ MATT: And welcome back.
+ (laughter) 
+ Last we left off: The Mighty Nein here in Xhorhas having allied themselves for the time being with the Bright Queen and the Kryn Dynasty. You took on a possible contract under the Professor Waccoh, a kooky half-orc professor who works in the Marble Tomes Conservatory within Rosohna, the capital city of the Dynasty, to inspect the Steelworks of the Deepriver Mine, which seem to have been overtaken by some giants and had halted production on a number of very important war machines that she had designed that were to help with the war effort against the Empire. Upon traveling there, you spoke with some of the figures, you embarrassed the foreman at her request, and then went on to meet these giants, combat them briefly, make friends, and then actually traveling with the Landspeaker-- who seems to be spiritual head of their troop-- head back to their home, the Braan, that existed within the mountains which seems to have been overtaken by some sort of strange demonic incursion. Wandering through the halls, you began to watch as some of the dead flesh of her brethren that were left behind began to be be borrowed by some of these demonic entities and rising to fight you along with other creatures that were tearing through familiar portals, seemingly connected to distant Abyssal areas. Upon traveling through, defeating these creatures, a few of you nearly having your life siphoned a few times, managed to carve your way to the top, seal the portals, discover the source of these portals in a second device, the second you've discovered. That seems to be some sort of an Abyssal anchor that creates or begins to loosen the veil between the realms the longer it resides in those spaces. You also burned a goblin. (laughter) You did.
+ LIAM: Cleared the room.
+ TRAVIS: Fuck your NPC!
+ MATT: After a hard-fought battle and freeing the Braan of this terrible demonic presence, the Landspeaker Soorna and the rest of you took an evening's rest before journeying back to complete this particular quest. In that evening's rest, the storm had come in that had been long been looming as the days of travel had guided you here, and in the rainy evening, Nott and Jester waited out by the door as they watched Yasha make her way into the storm, in a series of attempts to connect with the mysterious Stormlord that seems to be occasionally wandering into your dreams and speaking in riddles. The entity that pulled you from a dark place long ago. In your dreams that night, you seemed to make some connection, and some imagery, some questions, some moments of reflection that you now get to unravel as the morning comes to find you. As you all slowly come to consciousnesses in the morning, still raining outside, the storm, while not as roaring as it was the evening before, does seem to be at least simmered down to a mild consistent rain. Yasha, you're cold, freezing cold and soaked to the bone, but you also grew up in these environments and in some cases unable to locate the warmest of fires and you're used to this harsh lifestyle. It doesn't bother you too much, other than maybe you have a runny nose starting.
+ ASHLEY: (sniffs)
+ MATT: The rest of you, coming to consciousness within the Braan, shake your head awake, most of you sore from the previous day's battle, gathering your supplies, and the morning is yours.
+ MARISHA: You guys are soggy.
+ SAM: We're soggy?
+ TALIESIN: They went outside.
+ LAURA: Oh, no we're not. We're totally dry.
+ SAM: We went outside last night. With Yasha.
+ MARISHA: Camping under the stars?
+ ASHLEY: Yeah, yeah. Just getting the lay of the land, and seeing what was out there.
+ LAURA: Danced in the moonlight, and you know--
+ ASHLEY: Danced in the moonlight.
+ LAURA: --screamed up at the sky 'cause it was fun and stuff.
+ MARISHA: That's cool.
+ ASHLEY: Yeah.
+ MARISHA: Did you see the moonlight? Felt like it was raining all night super cloudy.
+ ASHLEY: I saw a little bit of the moon, but mostly just some thunder and just wanted to go outside and see some things.
+ MARISHA: Hey Jester, can I talk to you for a second?
+ LAURA: Yeah.
+ MARISHA: Come here. Okay.
+ LAURA: What is it?
+ MARISHA: I was awake for like, half the night, just thinking about everything.
+ LAURA: Wait. Oh, is this before or after I gave you a massage? Were you up after that?
+ MARISHA: Well, I fell asleep a little bit and then the thunder would wake me up a little bit, and then my brain kept going. This fabric swatch?
+ LAURA: Mm-hmm, it's really pretty.
+ MARISHA: Right? I feel like I've read of a spell that can help track down owners of items, if you have things?
+ LAURA: Oh.
+ MARISHA: Skeining, skiing--uh--
+ LAURA: "Scrying" I think is what it's called.
+ MARISHA: That's it!
+ LAURA: Yeah, yeah, yeah, the Traveler was telling me about it.
+ MARISHA: You know how to do that?
+ LAURA: Well, not exactly. I would have to talk to him, you know, and then I would probably be able to figure it out.
+ MARISHA: I'll hold on to it until-- you know, until we're ready.
+ LAURA: Okay.
+ MARISHA: If that's okay?
+ LAURA: Sure. I'm just going to go talk to the Traveler and see if I can figure it out, okay? Maybe he can give me some guidance.
+ MARISHA: Do you want--you can take it.
+ LAURA: Okay, cool, thank you.
+ MARISHA: Yeah, yeah, yeah, yeah.
+ LAURA: I just walk away rubbing it on my face.
+ MATT: It's soft.
+ LAURA: Then I sit down and take my spells, and choose Scrying. Oh, Traveler, teach me how to scry. I really want to learn about this thingy.
+ MATT: (laughs) All right, so you pick your spells. Any one else need to prepare anything for the morning?
+ TRAVIS: I feel so much better after that rest.
+ SAM: Oh yeah, you were rough yesterday.
+ TRAVIS: Yep. Half a man.
+ SAM: Half a half a man.
+ TRAVIS: Half a--well yeah, that's true.
+ LIAM: Are you able to make the trip back?
+ TRAVIS: Nah, I feel great. Whatever it was abated in the night. I'm ready to go.
+ SAM: Back up to full half power. That's great.
+ TRAVIS: 100%. Full--yeah, half a--yeah.
+ SAM: That's great.
+ LIAM: Well, what's the plan? Do we want to get our animals?
+ SAM: Yeah, we have to rustle up the animals and go back to Waccoh right? What do we get? What's our treasure, what's our prize? We did the thing right?
+ MARISHA: Well, we should probably escort Soorna back to the mines.
+ TALIESIN: Make sure that everything clears out appropriately.
+ MARISHA: Make sure that they evacuate.
+ TALIESIN: I'm sure just let the camp know that we've taken care of it.
+ TRAVIS: Didn't we have that shitbag's personal what was it, letter? Picture?
+ MARISHA: Yeah, his little secret affair.
+ LIAM: Moppet.
+ SAM: Oh yeah, what was his name?
+ MARISHA: That was--
+ SAM: Darrell?
+ TALIESIN: Looked like a Darrell.
+ MARISHA: What the fuck was his name?
+ TRAVIS: Durmand.
+ TALIESIN: Durmand. Also looked like a Durmand.
+ MATT: Nope.
+ LIAM: Did you have the idea, Caduceus--
+ TRAVIS: Does it start with D?
+ MARISHA: Bodo.
+ MATT: Foreman Bodo, correct.
+ SAM: Bodo, Bodo.
+ LIAM: --go back for the dead little one's skull?
+ TALIESIN: I figured we'd do it by the end of the night, no sense starting the morning with bending the laws of reality and nature. Save that for the evening, just in case.
+ LAURA: Do you want me to do this before we leave or do you want me to do this later?
+ TRAVIS: How long does it take you?
+ LAURA: I don't know. Want me to try it?
+ SAM: Yeah.
+ LAURA: I sit it down and I'm going to cast Scrying.
+ MATT: Okay, you're going to cast Scrying. This is your first time scrying.
+ LAURA: Yeah.
+ MATT: It takes 10 minutes to prepare. Soorna at this point has come to consciousness and leans in as you're preparing the circle and drawing out the space. Scoots in, and looks over towards you. "What is the blue one doing?"
+ TALIESIN: She's trying to ascertain possibly the people who are-- the names and identities of the people possibly responsible for this mess.
+ LAURA: Taking some pretty crystals I got from under ground, and putting it around it.
+ MATT: She reaches into a pouch and pulls out these dried crushed leaves and sprinkles them over Jester, and goes, "To bring good luck." Which you hear as, (low-voiced Giant).
+ TALIESIN: What she said.
+ LAURA: What did she say?
+ TALIESIN: Oh, she said, "For good luck."
+ LAURA: Oh! Thank you. How do I say thank you?
+ TALIESIN: Thank you. Oh, oh. "Cluk (click)." (laughter)
+ LAURA: "Cluk (click)."
+ MATT: "Cluk (click)." (laughter)
+ TALIESIN: Oh, don't try that again.
+ MATT: All right, so you're concentrating on the material.
+ LAURA: Yeah.
+ MATT: You don't know who this belonged to.
+ LAURA: Mm-mm.
+ MATT: So whoever it is, they get a pretty--
+ LAURA: But I got a possession or a garment.
+ MATT: You do, they get a bonus to their saving throw and they get a penalty to their saving throw.
+ LAURA: Okay.
+ MATT: Yeah, nah, that's a fail. Yeah. I rolled a six. So. (Wayne's World flashback noises)
+ LAURA: I'm going to use my scrunchy like it's the fabric.
+ LIAM: Good prop work.
+ LAURA: Thank you.
+ MATT: As you set the piece of blue fabric down in the center of the circle, and then both your hands grasp the symbol of the Traveler, your eyes closed. You feel a warm sensation on the outside of your knuckles, where you feel like two additional hands reach around and clasp your grip. Then in a bit of your left ear you hear the familiar voice of the Traveler say, "Well, let's take a trip shall we?"
+ LAURA: Okay!
+ MATT: As you open your eyes, you're no longer within the Braan. In fact, you don't know where you are. All you see is mist and cloud rushing past, sourceless, movement at a speed you've never traveled with, whatever the space or location you might be is in the sky, in another plane, you have no sense of up or down, left and right, just movement.
+ LAURA: Is this how it's supposed to feel?
+ MATT: "Shh."
+ LAURA: Okay.
+ MATT: "Trust me." Then the mists part. Your eyes clear, revealing a dark lit den, with a carpeted chamber decorated with fine furniture. Standing by a cabinet that remains open to one side, a figure wearing a long blue set of fine wool robes stares down at an object it is holding. Masculine frame, you see golden blond hair, and a soft curl combed back to the shoulder behind the ears. A stoic expression sits on his clean shaven face as he speaks into a stone in his hand. (with Zemnian accent) "You have naught to worry about that. "She is paranoid enough in the widest sense, "but I know her blind spots. "Yes, I have the emblem. Waiting for a window, "but let's plot for next Grissen, shall we?"
+ LAURA: Next Grissen? "Six days. Ah, the week after that."
+ LAURA: (repeating in whispers) "That'll put 13 days. "At the Overcrow? Hm." The figure stops and looks back and forth over the room. "Enough, I've dallied too long. "Angel's eye, friend," and takes the stone and places it in the cabinet, closes it.
+ SAM: (whispers) So many terms. The figure then looks about, checks the curtains. Goes and checks the door, makes sure it's locked. Sits down at the desk and pulls out a book from underneath. Opens it and begins taking notes and reading through. Make a perception check.
+ LAURA: That could've been so bad. 18.
+ MATT: In the brief moment that the book is open-- The text is too small on the inside for you to make out any of the contents, but all you catch is the title of the book, it reads: The King That Crawls.
+ LAURA: The King That Crawls.
+ MATT: For the remainder of your time, of this scry, it's just this figure, quietly going from page to page making notes and occasionally stopping and listening.
+ LAURA: Are his ears pointy or humany?
+ MATT: They appear to be human.
+ LAURA: Okay.
+ MATT: 10 minutes continue.
+ LAURA: Does he pick his nose at all, is he composed, is he just writing?
+ MATT: He seems relatively composed, does scratch and flick something out of his ear at one point.
+ LAURA: Gross.
+ MATT: That's the most amusing hygiene based gag you manage to uncover during this--the important parts of a scry.
+ LAURA: Is the book old? Does the book look old?
+ MATT: The book appears to be pretty old. It's not falling apart by any means but you can see just from the pages that appear to be stained and weathered, the outer leather binding itself appears to be frayed and rubbed at edges. It's not a new tome by any means.
+ LAURA: Do I hear anything coming from outside of the room? Does it sound like outside noises, like a city or blacksmith or anything I can hear?
+ MATT: From this position you don't hear anything. I'd say roll a perception check, why not. Why not, just in case.
+ LAURA: 23.
+ MATT: 23. I'd say with the last few moments of the scrying spell trying desperately to focus, the ward that you've placed here is very limited in what it can maintain. All you do manage to catch is the hint of a horse whinny. Muffled from the exterior of this chamber. Which does cause him to pause for a second, get up and check the window, then sit back down and go back into scrawling his notes.
+ LAURA: He's kind of skittish. Did you say he was clean shaven?
+ MATT: Clean shaven, yes. Then your vision is pulled back, the clouds continue. You come back into your body. You're present once more, eyes still closed now, you can smell the cold moist air from the rainfall here in this stone fortress up on the Penumbra range. The warmth from the grasp of the Traveler's hands on yours begins to fade and you open your eyes just in time to see the spectral hands on yours pull back and then fade away.
+ MARISHA: That was crazy.
+ LAURA: Did you see him? Did you see him? Did you see him? Did you see him?
+ MARISHA: No but your eyes went all like white.
+ LIAM: Rapid eyeball movements.
+ LAURA: Did you hear me talking 'cause I was talking.
+ MARISHA: You were kind of mumbling. You're drooling a little.
+ LIAM: You snort-laughed a little bit as well.
+ TALIESIN: A lot of words.
+ LAURA: I thought I got it.
+ TRAVIS: Other side.
+ LAURA: Okay so--this is going to be hard to remember, there's a dude and he had blond hair and it was curly and he looked like, you know-- but he was wearing the blue robes, and he looked really fancy, and like he's rich and stuff, and he was at the cabinet and he was looking in this little ball and he was talking to somebody through this little ball. I know, and he said "No, she's paranoid enough already" or something and then something about "Gris" and six days and then 13 days, and then he said "Angel's eye." And then he said--
+ SAM: Emblem.
+ LAURA: Something about an emblem, "we have the emblem" and then he went and sat down at this book that said the King That Crawls, and then he's--did I get that right?
+ SAM: Mm hm.
+ LAURA: Then he was writing shit down for a while and then he dug something out of his ear like earwax and he flicked it away. So awesome. Then this horse whinnied and he went over and was like, "Oh I don't know what's going on" and he went back and he started writing again and then I was gone.
+ TRAVIS: That's a lot.
+ LAURA: I think that's everything.
+ ASHLEY: That was a lot.
+ TRAVIS: Very impressive.
+ MARISHA: That's incredible.
+ SAM: What is the King that Crawls what is that?
+ LAURA: Didn't somebody else talk about something that crawls?
+ MARISHA: Yeah, that sounds familiar.
+ MATT: If anybody would like to make a religion check.
+ LAURA: All of us? Anybody?
+ MARISHA: I'm trained.
+ ASHLEY: I'm just going to do it, just 'cause.
+ TALIESIN: 12?
+ LAURA: Five?
+ LIAM: 23.
+ LAURA: Yeah.
+ TRAVIS: 16?
+ MARISHA: 10.
+ MATT: Okay I'll say the 16 and the 23 are both enough to go through on this one. "The King That Crawls"; it's reminiscent of a secondary title of one of the betrayer gods known as the Crawling King, Named primarily as Torog.
+ TRAVIS: Torog?
+ MATT: Torog. Torog is the dark god of endless tunnels and caverns beneath Exandria. He's considered the patron of torturers and jailers, and those that wish to rob others of freedom.
+ TALIESIN: Oh my god.
+ LAURA: I feel like we've heard of him before.
+ MARISHA: Yeah me too.
+ LIAM: We have.
+ MATT: In passing. The Crawling King, the King that Crawls, it seems pretty similar.
+ TRAVIS: I've heard similar tale about one of the ancient deities, right, but on the bad side, like a dark individual. Always represented with like endless tunnels.
+ LIAM: Massive hungering worm?
+ MATT: Actually the imagery as it's described-- and there aren't a lot of sketched representations. In some cases it's considered a taboo to put into books, a full representation, but they speak of supposedly in the physical form of this betrayer god during the Calamity, resembled a large bulbous worm-like creature with a human face and multiple arms just screaming as it tore through under the earth.
+ SAM: Was it one of the three, the worm?
+ MARISHA: I mean, yeah we've already encountered worm.
+ SAM: No but one of the three things on the--
+ LIAM: Titans, yeah.
+ LAURA: Oh my gosh, what if he's like best friends with your deity thingy?
+ TALIESIN: Or in conflict with him.
+ LAURA: (whispering) Uk'otoa.
+ TRAVIS: He could be like a business partner, right? Just could be a casual acquaintance on the dark side.
+ LAURA: Oh my gosh.
+ SAM: What were the three iconography?
+ TRAVIS: Flying purple phoenix.
+ LIAM: His serpent, and a worm, I don't know if it's the same one.
+ LAURA: Probably is.
+ MATT: You would say, from the imagery that was carved in the cave, it seemed to have a toothy mouth that occurs at the front, scaled folds, and then a tongue that curled out that had three eyes at the tip.
+ LIAM: Right, which is different than a human-like face.
+ MATT: It's fairly different from the descriptor of Torog in the classic books.
+ SAM: Then we're fine.
+ MATT: There's some similarities being large worm-like creatures, of course.
+ TRAVIS: He's not fun. He's associated with torture and misery, you know.
+ LAURA: Also, the guy said something about the Overcrow or something.
+ TRAVIS: The Overcrow?
+ LIAM: What about it?
+ LAURA: I don't know. I just remember he said the location was the Overcrow.
+ SAM: The Overcrow.
+ TRAVIS: Any of us ever heard of a tavern or--
+ LIAM: Cuckoo in 13 days. Meet at the Overcrow.
+ MATT: You haven't.
+ SAM: That word she said, Christa, Grista,
+ MATT: Grissen is a day of the week, yes. Next Grissen.
+ LAURA: Next Grissen.
+ SAM: And that's six days from now.
+ MATT: It was six, but then turned to 13 the week after.
+ LIAM: 13 days later at the Overcrow on Grissen.
+ SAM: 13 days.
+ TRAVIS: You said "angel's eye?"
+ LAURA: Something like angel's eye. It was a greeting or something.
+ LIAM: That was like a little greeting or a saying. Under his eye.
+ TRAVIS: Okay. Now, did he see you in this?
+ LAURA: No, he didn't ever look towards me. So I would think he didn't-- I mean, I wasn't like there-there.
+ TRAVIS: He was wearing the same colored robes?
+ LAURA: You guys didn't see the Traveler and he was there with me, so then the guy probably didn't see me.
+ SAM: You just talked to the Traveler just now?
+ LAURA: Well, yeah.
+ SAM: All the time?
+ LAURA: Well, yeah.
+ SAM: That's very impressive.
+ LAURA: Yeah, well, he likes me a lot.
+ SAM: I'd like to meet him someday.
+ LAURA: I would like you to meet him someday.
+ LIAM: Does he ever talk about others like you?
+ LAURA: Well, he says that, you know, that we're going to have a gathering sometime. Hey, you guys want to be his disciples?
+ TRAVIS: Ooh, uh, mm, I don't know, no.
+ LAURA: Because here's the thing, we're all going to go, you know, all of the people that worship him and do the things for him. We're all going to go and I bet if I came with all of you and you all, like, I had converted you then I would be like the coolest one there.
+ SAM: VIP everything.
+ LAURA: Like, totally. I don't think anybody else would be as cool as me.
+ LIAM: Could it work in tiers, though, so that we are your disciples and you are his disciple?
+ TRAVIS: Like a pyramid scheme?
+ LIAM: So we are followers--
+ LAURA: Of me?
+ TRAVIS: Is there bottle service at this get together?
+ LAURA: Maybe.
+ MARISHA: Can you ascribe to more than one god? Does anyone know that? Can you be like, "Yeah, I like both gods?"
+ LAURA: Yeah, sure.
+ MARISHA: Because I already have the Knowing Mistress.
+ LIAM: It might be a little jealous of each other, depends on the gods.
+ LAURA: I don't know. I mean, the Traveler's pretty friendly with everyone.
+ LIAM: We do have faith in you, so you have faith in him.
+ LAURA: Yeah, you're a follower of the Traveler, too.
+ MARISHA: 11.
+ MATT: As best as you can make out, there are people that believe or at least sometimes pray to different gods based on what they need. Some farmers will pray to Avandra for a good journey, some people will pray to the Wildmother for a good crop, some people will pray to the Stormlord or the Wildmother again if they're making a journey across the ocean, but to truly become a proper disciple and acolyte, that type of worship tends to be pretty singular or jealousy can factor in. That's as much you can ascertain about that nature.
+ LIAM: I would think it's in all of our interests to know more about him because he helps you help us and that is a good thing.
+ LAURA: Right, he helps us a lot.
+ TRAVIS: Jester, you've been talking to him for as long as you can remember, right?
+ LAURA: Yeah. I mean, we hung out when I was little he started. I mean, remember before he came. It was really lame. Then he started showing up more and it was cooler. You know?
+ ASHLEY: Did you actually see him?
+ LAURA: Yeah!
+ ASHLEY: What does he look like?
+ LAURA: Well, before, he was a little kid, you know?
+ SAM: When you were a little kid?
+ LAURA: Right. So he's my age.
+ ASHLEY: So he took the place of like a little kid when you were little to be your friend?
+ LAURA: Well, I mean, he would just show up in my room, you know. He's a few years older than me, but he was still a kid, too.
+ MARISHA: But he's like a god though, he's a god, right?
+ LAURA: Yeah.
+ MARISHA: He probably just took that form to be able to relate to you, maybe?
+ LIAM: Well, he's a god, but you've not met anyone else who follows him yet.
+ LAURA: No, I have, I have. Remember we met that gnoll guy?
+ LIAM: Ah yeah, one. MARISHA and
+ LAURA: Yeah.
+ TRAVIS: Has he ever ask you to do anything bad, like hurt anybody?
+ LAURA: Oh, like violent or something? No, no, no. No, he mostly just is like, "Hey, go tie "that guy's shoes together and watch him trip." I did that a couple times, it was real good.
+ MARISHA: Does your god ask you--
+ LIAM: Is your friend a god?
+ MARISHA: --to do bad things and hurt people? Is that why you're asking?
+ TRAVIS: No, no. Take it easy; I'm just asking.
+ SAM: What about Yasha? Does your god ask you to do anything bad or weird?
+ ASHLEY: Not yet.
+ LAURA: I remember on the ship, your god turned into some sort of lightning beast and then you had to violently fight him.
+ ASHLEY: I had to fight it, but I don't know if that was him or he sent something to fight.
+ LAURA: So he's pretty--That seemed aggressive.
+ ASHLEY: I have a feeling he might be pretty aggressive, but I still have so much to learn.
+ LIAM: This world is chockablock with beings far more powerful than any of us are.
+ TRAVIS: Have you talked to yours since you were a kid, too?
+ ASHLEY: No, I only started, I only started to really follow and know about him not that long ago. As a kid, you know, we didn't really have anything like that in my tribe other than the matriarch of our tribe.
+ TRAVIS: Was there a particular reason y'all started communicating?
+ ASHLEY: Yeah, he found me. I guess I found him.
+ SAM: Were you lost? Were you wandering?
+ ASHLEY: Yeah. Yeah, I was lost, I was lost.
+ LIAM: You were with people first, then you weren't?
+ ASHLEY: Yeah.
+ LIAM: Why did you leave?
+ ASHLEY: I left my tribe because...
+ LIAM: If it's a sore subject, we do not have to push it.
+ ASHLEY: No, it's-- Some of them know and we've discussed, but I was-- I was married at one point, and in our tribe, we are chosen a mate by the Sky Spear and I married.
+ LIAM: Sky Spear?
+ ASHLEY: Yeah. She is the head of our tribe. Yeah, who I married was not who I was supposed to be with. And... we got in trouble and... Well... if you disobey, your punishment is death. So I ran away.
+ MARISHA: I mean, yeah.
+ SAM: And that's when your god, the Stormlord, found you?
+ ASHLEY: Yeah, there's some time that I'm missing.
+ LIAM: You left your wife?
+ ASHLEY: I did. They had captured her, and I-- -I ran away.
+ MARISHA: Oh.
+ SAM: You're missing time, though, you said? A gap in your memory?
+ ASHLEY: I am missing a gap in my memory.
+ SAM: How long?
+ ASHLEY: I don't exactly know, but weeks, months?
+ SAM: You have a gap in your memory, don't you?
+ LAURA: Molly had one, too.
+ MARISHA: Don't you, too?
+ TRAVIS: I do as well.
+ MARISHA: Well, I remember everything.
+ LAURA: I do, too.
+ TALIESIN: I don't really remember anything, but that's normal.
+ (laughter)
+ LAURA: Do you ever think, Yasha, about going back and seeing what Zuala's doing? If she's okay?
+ TALIESIN: Mm.
+ ASHLEY: Um. I don't think she's alive anymore, because when I left... they were executing her.
+ SAM: Did you see her die?
+ ASHLEY: No, but I know it was happening. And... I just ran because I was scared and I am a coward.
+ MARISHA: No, you're a survivor.
+ ASHLEY: That's one way to put it.
+ LIAM: I am sorry for your loss.
+ TRAVIS: Yeah, it's terrible.
+ ASHLEY: Well, yeah. There you have it. But... Sometimes I think about going back and turning myself in, I guess, but I guess there's also a part of me that is upset that I wasn't able to be with the person that I wanted to be with.
+ TRAVIS: What about revenge?
+ ASHLEY: Well, I think about that every day.
+ LAURA: We could go with you. We could kill them all.
+ ASHLEY: That sounds like a lot of fun. But that's not--I don't know.
+ TRAVIS: What was that? What?
+ ASHLEY: I don't know. I don't know, I think-- I don't know.
+ SAM: Do you think your murderous revenge could wait 13 days?
+ ASHLEY: Yes.
+ SAM: Because maybe we could follow this clue, and find out where the Overcrow is, and meet up and rendezvous with this person in blue.
+ LAURA: Yeah.
+ SAM: And figure out what the fuck is going on.
+ LAURA: Yeah.
+ TRAVIS: Have to figure out where the Overcrow is.
+ SAM: I mean, can't be too many Overcrows, right?
+ LIAM: Well, we will start by going back to collect on our bounty and ask around the city and hopefully we will have curried favor after this somewhat.
+ SAM: Maybe you have a Yellow Parchments or something that we can just sort of flip through.
+ TRAVIS: Yellow Parchments?
+ SAM: Yeah, you know.
+ TRAVIS: I think only the bigger cities have those.
+ SAM: Maybe you're right.
+ MARISHA: They're starting to expand into rural areas.
+ TRAVIS: People just throw them out, though. I don't even really understand the value of the work that goes into them.
+ TALIESIN: I downloaded the cantrip. It's pretty easy.
+ (laughter)
+ LAURA: I wonder if I could scry on that place or something and figure out where it is.
+ MARISHA: It's so cool that you can do that.
+ LAURA: I mean, I want to do it all the time.
+ MARISHA: It's pretty rad.
+ TRAVIS: You zoom in and you see the person where they are and what they're doing?
+ SAM: You need a thing? You need an item?
+ LAURA: Or apparently if I know the person or if I know a lot of details, I don't necessarily need something of theirs.
+ SAM: You can just creepily watch them?
+ LAURA: I could watch any of you any time.
+ SAM: (gasps) You could be watching Caleb at night?
+ LIAM: The more you know about a person, the easier it is. I have tried to study this, but I have not yet cracked it.
+ LAURA: I know a lot about you, Caleb, so I could scry on you.
+ LIAM: Well, you know that I smell. You know that...
+ LAURA: Oh! And the guy, he sounded like you, Caleb. He kind of had a Zemnian accent.
+ LIAM: All right.
+ LAURA: At least I think he did.
+ SAM: Do you know any--what did he look like? Blond, you said? Do you know any blonds?
+ LIAM: Some.
+ LAURA: He was human and he had really beautiful blond hair that came to about his shoulders and then it had a little bit of a curl to it, and it was like combed back, like he obviously cared about the way he looked. He was very clean shaven.
+ LIAM: The only thing that I could think that would be would be one of the paintings at the Academy.
+ MATT: Maybe, but even--
+ LAURA: Oh! You know what I'm going to do? I'm going to Disguise Self and I'm going to make myself look like the guy.
+ MATT: Okay, there you go.
+ SAM: But do what he's doing.
+ LAURA: I'm going to sit and I'm going to start writing, and I'm picking at my ear, and picking my nose.
+ MARISHA: Do his robes look familiar to any of us?
+ MATT: No, the robes don't appear to be a uniform of any kind, and the individual does not appear to be familiar to any of you. Make a history check, Caleb and Beauregard, if you don't mind.
+ LIAM: I'm not going with that one.
+ LAURA: I'm going to stand up and start dancing like this.
+ SAM: You doing a dance as this guy? Was he dancing in your memory?
+ LAURA: No, but I'm going to make him dance around.
+ MARISHA: 20.
+ LIAM: 14.
+ MATT: Unfortunately, neither of you are able to pick out the individual. You don't think you've crossed paths with them or there aren't any discerning elements. They're youngish, meaning for somebody to be wearings such fine clothing in the way that you were describing and the den that they were in, they probably look like late 20s or so.
+ TALIESIN: We all know what they look like now, so if we run into this person we'll immediately know.
+ MARISHA: He was speaking into a swirly, glass bowl?
+ MATT: No, it wasn't a glass bowl. It was a stone. It was about that big around, smooth.
+ LIAM: Does it look like this one?
+ MATT: It looks similar.
+ SAM: What is that one? Did we find that one? Did we always have that? Did we find that?
+ MARISHA: It's his transmuter stone.
+ LIAM: I got this in Zadash. No, it's not.
+ SAM: Talk into it. Say something.
+ LIAM: We got this in Zadash.
+ LAURA: We don't know where its buddy is, right?
+ LIAM: It's a talking stone. It's for communicating with one other person and whoever has it and I've just been carrying it.
+ SAM: You haven't talked into it yet.
+ LIAM: No, because we did not know who was on the other end.
+ TRAVIS: (exclamation)
+ SAM: Do you want to try? Before we do that, was there anything Zadash-y about what you were looking at. Anything that was like--the zip code was on the-- anything Zadash-y?
+ LAURA: There was a horse whinnying, it sounded Zadash-y like a Zadash-y sort of accent on the horse. Did the room look anything like the Lavish Chateau or anything? Was it that nice?
+ MATT: No, it looked like it was well--
+ LAURA: What was it called?
+ TRAVIS: Pillow Top?
+ LAURA: The Pillow Top.
+ MATT: Oh the Pillow Trove, you mean?
+ LAURA: Yeah yeah yeah.
+ MATT: No, it didn't look like the Pillow Trove. It did look like a nice den, with fine furniture more than your standard, you know--merchant or noble level, at least.
+ LAURA: Okay. It looked like his house. It didn't look a like a room he was renting?
+ MATT: It seemed to be well-lived in? It resembled to be an abode, as opposed to a stay at an inn.
+ TRAVIS: Well, let's go embarrass this fucker and go collect.
+ SAM: You're not going to talk into the stone?
+ LIAM: Well, here's the thing. This belonged to that merchant, and we fucked his life, don't you remember? There was the judge and the wealthy merchant.
+ MATT: Lord Suutan.
+ LIAM: Yeah, and we burned both their--
+ LAURA: And we took his stone.
+ LIAM: Took the stone. But if we fucked his life up--
+ LAURA: Beau, remember you almost died in that rug! That was so sad.
+ TALIESIN: There is something to be said about not starting a fire in a closed cave. I think, perhaps, this isn't the place.
+ TRAVIS: Well, we didn't start the fire.
+ SAM: Was it always burning?
+ MARISHA: Since the world's been turning.
+ LIAM: Get out. Get out.
+ TALIESIN: Never mind. Never mind.
+ (laughter)
+ MATT: The Landspeaker stands up and says, "You ready to go?" (laughter)
+ SAM: All right, let's go back.
+ MARISHA: This is not a good look for the Empire. In terms of--if this is the person planting stones.
+ LAURA: I turn myself back into me.
+ LIAM: The Empire has not looked good in a long time.
+ TALIESIN: That was a lot of hair.
+ LAURA: That was a lot of very blonde hair.
+ SAM: All right, let's go.
+ LAURA: As we leave, I just give Yasha a hug on the way out.
+ ASHLEY: I give her some pats on the back.
+ MATT: (patting)
+ LIAM: First, we're going to the fort, right?
+ SAM: Oh yeah, to drop off the giant.
+ TALIESIN: Drop off the giant, make sure everybody clears out nice and orderly.
+ MATT: You guys exit out into the stormy day, the dark clouded sky above you. You put up your hoods and your cloaks and bundle up. Now, you had taken the moorbounders...?
+ SAM: We did. We took them as far as we could go.
+ MATT: As far as you could go, up to the mountain pass and then left them outside. As you step out to where you left them, you don't see them.
+ (groaning)
+ LAURA: Yarnball! Yarnball!
+ MATT: Make an animal handling check.
+ SAM: Jannik!
+ TALIESIN: (blows raspberry)
+ LAURA: (groans)
+ LIAM: Jannik!
+ ASHLEY: Can I try to give a really loud battle whistle? To see if they come?
+ MATT: Sure. Make a performance check.
+ SAM: Performance check.
+ TRAVIS: --attack your ass.
+ LIAM: 23.
+ ASHLEY: Oh no, that's a negative two for performance. 11.
+ MATT: Okay. Between you whistling very loudly, you calling for your moorbounder--
+ TRAVIS: (whistles)
+ MATT: One by one, they begin to emerge from the base of the woods. They were pack hunting and, as they come up and emerge, you can see chunks of stringy spider flesh in their jaws.
+ TALIESIN: Good for you.
+ LAURA: Oh, Yarnball.
+ MATT: They all come bounding up and leap, and skid to halt, stumbling, knocking Jester off onto the muddy floor and begins licking your face, these long streaks of spider blood left on the side of your cheek.
+ LAURA: Careful, you're going to have the runs for days.
+ MATT: (snorting)
+ LIAM: Halt.
+ MATT: (growling)
+ LIAM: (scratching)
+ MATT: (growling diminishes)
+ TRAVIS: So weird.
+ LAURA: Yarnball, speak.
+ MATT: (retches) (laughter)
+ LAURA: Nice.
+ MATT: Grabbing your monstrous moorbounders, you all get back to your riding positions, I assume. The Landspeaker leads on and guides you back on the path, where you initially came. Heading down the mountainous journey alongside this part of the Penumbra Range, trying to keep from getting too waterlogged, but the rain is pretty intense. Eventually, you come to the base of the Vermaloc Wildwood. Very plain to see the path, once again, that the giants took to rapidly escape from the incursion at the Braan. You can see the branches still broken and pushed in. There is a makeshift tunnel that is formed that you initially took here. You just--(burps) Pardon me-- get back on your path-- trying to hold that back, but it caught up to me. Apologies, everyone. Continue onward, making your way back towards the Deepriver Mines and the Icozrin Steelworks. For the most part of the journey, you can still see the webs, they're still burned away from the first time you came through, and the Landspeaker, once again creating the same ball of flame, which resists the rain. You actually watch as this coat of mist and steam continues to drift off of the rolling sphere of fire. The rain that seems to be coming through the canopy, splattering against it, causes this cloud to emerge and dissipate around it. The rolling ball manages to keep most of the side spiders that you see still waiting up in the boughs of the trees, skittering and pulling away. Not being much of an issue on this journey. Continuing onward, eventually you see the familiar and comfortable sight of the high exterior walls of the Deepriver Mine. You approach. The side gate is still closed, but Landspeaker, leading the cause, comes up to the outside and shouts out in Giant, "Open, we've arrived." Holds her staff up over the edge and glances over the wall. You hear a couple of heavy footsteps (rumbling footsteps) shifting of wood and creak as it pulls open. Two of the stone giants lift and pull both sides of the gate open to the interior of the Deepriver Mine. You all wade in, the mud clomping beneath your feet. The temperature is cold enough to where you can see your breath a bit as you travel. Coming inside, all the giants are there, still armed, still with their patchwork metal armor they've borrowed from the vicinity. Immediately, they begin to question and speak with the Landspeaker. While most of you hear a bunch of giant speech back and forth and calls and questions and responses, the conversation seems to be them saying, "So what happened?" She explains what transpired and speaks on your behalf. They all look a bit surprised, nod. They say to her once more, "Do we need this anymore?" She says no. They all begin to tug on the rope that they had used to affix all this metal plates to themselves as armor. They clatter to the ground in these big piles of scrap, going back to their more natural state. One by one, they all walk up to each of you, looming still. They're anywhere from between 20 feet tall or over, including the main champion, the one that had guided you in the intense conversation around the bonfire the night that you went and partook of your spider meal. Gives a nod and, (in Giant) "Droonga," and begins walking, which you know means "respect." One by one, the giants begin to grab their things. They grab a few things from the mine, just whatever they happened to find that was interesting, trinkets. Some of them have begun to make and weave from materials they've found to create small art pieces and dolls. There's a through line in the culture of the stone giants, in the time you've spent both with them and in their previous home, of craftsmanship. Particularly stone working, but they seem to be grabbing errant pieces of whatever's around that might be useful to them and they've filled up small sacks and made their way back towards their home. Finally, it's just the Landspeaker left. Looks over you all and gives a quiet nod, eyes closed. Turns back to you, Caduceus, and she kneels down to where, still all the way down and hunched forward, she's just now catching your eye level, maybe a little bit above, and says, "You have a heart that pierces truth. "Never ignore your instincts. "Your companions are lucky to have you, "for most are lost in our crazy world of dreams "without someone to wake them."
+ TALIESIN: Thank you for your wisdom. Good luck out there.
+ MATT: "You as well. "I hope you find your interests," and she stands up, grabs the staff. LAURA and
+ ASHLEY: (speaks gibberish)
+ TALIESIN: You know what they're trying to say.
+ MATT: She laughs.
+ TRAVIS: (imitates Giant)
+ MATT: (corrects his Giant pronunciation)
+ LAURA: (attempts to imitate Matt)
+ MATT: There you go. And with that, walks away, footfalls getting fainter and fainter as you see the last of the stone giants making their way towards the west to the home that you helped free for them. Until, eventually, the mine and steelworks are yours, open and empty. You've done it.
+ LAURA: Let's steal everything and run!
+ SAM: We get to keep the whole mine?
+ TRAVIS: Well now, no. We're going to be giving it back.
+ ASHLEY: We live here now?
+ LAURA: It's ours.
+ SAM: I call this room!
+ TALIESIN: Are there piles of armor on the ground now? Is that just--they just sort of--?
+ MATT: It's scrap. It's scrap that was tied together to form a makeshift scale mail.
+ TALIESIN: You want to do a thing with me really quickly?
+ LAURA: Yeah.
+ TALIESIN: I'm going to start taking cantrip potshots at these things and banging them up real good. Make it look like there was a tussle.
+ LAURA: Ooh yeah, me too. I'm going to use my axe and hit a couple.
+ SAM: What are you hitting?
+ LAURA: The armor. LAURA and
+ TALIESIN: Banging them up.
+ TALIESIN: Leaving a couple burn marks around.
+ MATT: Okay.
+ TALIESIN: Making the fight look a little bigger than it was.
+ SAM: Should we break some windows and doors and things?
+ LAURA: Yeah, I run over and break a window.
+ MATT: Jester just runs and fucking destroys two windows.
+ LAURA: (screams)
+ TALIESIN: I let her, I guess, get it out of her system.
+ MATT: It's great. It's like watching somebody deface the outside of a condemned building. The whole place is just in complete disarray from the fight that took place originally when they arrived, so you have indeed added to the chaos.
+ TALIESIN: I say we just head back and tell them how easy it was at this point.
+ SAM: Yeah, where are they all hiding out, all the human people?
+ TALIESIN: Back that ways a spell.
+ SAM: Okay.
+ MATT: The makeshift tent city on the outside of the Vermaloc.
+ TRAVIS: Anyone want to take that locket and do anything with it?
+ MARISHA: Can we do a dramatic reading of his letter?
+ TRAVIS: That is nice.
+ SAM: That's a good idea. Maybe- do you have any magic that could make it--?
+ LAURA: I could Disguise Self as the girl in the locket.
+ SAM: I could turn myself as Bodo.
+ TALIESIN: This feels complicated.
+ LAURA: What if I make myself look like the girl and you make yourself look like Bodo?
+ SAM: Sure.
+ LAURA: And then we like just (grunts)
+ SAM: Yeah, yeah, just yeah.
+ MARISHA: Can you Thaumaturgy my voice so it's super loud?
+ LIAM: I don't think I can do that.
+ MARISHA: Where's that dollar?
+ SAM: What?
+ LAURA: No, do it again! You almost just touched it again!
+ LIAM: Patted the surgery shoulder. I'm good, we're good. We're good here, everything's good.
+ SAM: Your arm's on fire right now.
+ LIAM: How are you?
+ MARISHA: You can't do that?
+ TALIESIN: I can do that.
+ MARISHA: You can do that?
+ TALIESIN: I can do that.
+ SAM: Fjord, do you do Disguise Self? I've forgotten.
+ TRAVIS: Yeah.
+ SAM: You know, I think he's a better body type to be Bodo.
+ MATT: Thaumaturgy can affect your own voice not somebody else's.
+ TALIESIN: Oh, I can't do that.
+ LAURA: You make yourself look like Bodo, I'll be the--
+ SAM: You guys can simulate making out.
+ TRAVIS: What are we doing?
+ LAURA: Just in front of everyone.
+ SAM: Just simulation, just going to act out to go with our story.
+ TALIESIN: Junior high school theater.
+ MARISHA: And Beau's going to--
+ ASHLEY: Like an interpretive letter?
+ LAURA: Yeah, we'll act out the letter.
+ TRAVIS: All right, I don't know if I understand, but I guess I'll just follow your lead.
+ SAM: Follow her lead.
+ LIAM: Save your spells because I can change the way everyone looks, so if we want to do a whole-- the director's not even paying attention-- Just say I'm back and then you're back. I can make everyone look like anything you want, so if you want to have multiple people as part of your production.
+ LAURA: Well, yeah let's make half of us look like the girl and half look like him.
+ TRAVIS: Wow, that seems like taking it to a real--
+ LAURA: Oh! And the we could just do a dance and have an orgy.
+ TRAVIS: It's getting a little Caligula in here. I feel like we don't quite need that much.
+ ASHLEY: If there are more players in the story, as you read, maybe you can decide and bamf one of us into one of the new characters.
+ TRAVIS: You know, what we don't need to talk about this. We should just do it.
+ MARISHA: Yasha, can I get up on your shoulders so we have a bit of a stage?
+ ASHLEY: Yes.
+ MARISHA: Thank you.
+ ASHLEY: Come on.
+ MARISHA: Do you have the letter?
+ MATT: No, we're making this up. You get to read the letter because I didn't think this would be a thing. Great, guys. All right, so.
+ TRAVIS: Let's take it back to the tits.
+ MATT: Riding your moorbounders through the Vermaloc eastward through the beautiful red and deep burgundy leaves, the dark purple smooth barked trees, you find paths that led you initially to the mining camp. As you exit the tree line, you can see, about maybe ten minutes due north of where you're currently standing, this same tent city that you originally encountered upon your arrival. Making your way in that direction. As you get closer and closer, you can see some of the camp has just been in a holding pattern and most people are siting around on stumps or on boxes and crates with card games or whatever else they can do to pass the time. Some of them are just taking naps midday. Nevertheless, you approach the same tent where the foreman had previously come to greet you. Does not appear to be there immediately, but as you approach, one of the guards, one of the Aurora Guards comes up to you. Now, are you all just yourselves right now? LAURA and
+ TALIESIN: Yeah.
+ MATT: All right. Approaches. "Right, do you need the foreman?"
+ SAM: Yes, please.
+ LAURA: Very much so.
+ MATT: "Be right back," and he turns around, tells the other guards to scatter a bit, him and one other are headed inside of the tent. The foreman comes out, a pair of glasses at the end of his nose. He's currently in the process of going through a piece of paper and scratching things out angrily, looks like he's in the middle of a meeting. "What might I ask is this problem-- "Right, right so you've returned. "Very well. How did it go?"
+ SAM: We're all here.
+ LIAM: Problem is solved.
+ LAURA: Giants are kaput.
+ TRAVIS: Really not that big of a deal, actually.
+ MATT: "Well, that is very impressive. "I certainly hope you aren't pulling my leg."
+ TALIESIN: Oh no, we had time to sit around. We actually took a nice long nap afterwards, maybe even found some stuff.
+ LAURA: Yeah, we go to search around.
+ MATT: "Well, that's day of productivity "that we lost, then, if that is the case. "Nevertheless let's go ahead and get everyone back to work!" and he shouts out, "Everyone!"
+ LAURA: Everyone!
+ MATT: Everyone starts gathering up and hearing this,
+ LAURA: Gather round we have an announcement to make.
+ MATT: He's like, "Yes, everyone, please, I need your ears. "So, it seems--"
+ LAURA: It seems.
+ MATT: "It seems--"
+ LAURA: (in the same way) It seems.
+ MARISHA: (giggles)
+ LIAM: And Caleb casts Seeming.
+ (laughter)
+ LIAM: And Caduceus and Yasha and Jester look like the woman in the locket, and Nott and Caleb and Fjord suddenly look like Bodo of different sizes.
+ MATT: All right. Now he's currently not looking at this, he's looking out towards the group, and he goes, "It seems that these fair "mercenaries have been able to remove the giant problem, "and, as such, it is time to return to work "within the Steelworks immediately. "Please grab your stuff--what are you laughing at?"
+ MARISHA: It appears removing problems is a reoccurring theme from you.
+ MATT: He turns around. "(sputters)"
+ LAURA: Ooh!
+ MATT: "What is this?"
+ TALIESIN: Oh, what happened? It looks like he's seen--
+ ASHLEY: I pick up Beau and I put her on--
+ TALIESIN: I would say a ghost, but I'm not sure.
+ MARISHA: Attention, workers of the mine, we have a very important announcement and news from the mining front. It appears--
+ MATT: He's trying to hide you, the three of you, but there's too many of you.
+ MARISHA: It appears your wonderful foreman, Bodo, is quite the poet. And has a mistress. The poet, the bodo-et of the poet.
+ LAURA: We shall be reenacting such poem for you all. I hope you enjoy this wonderful performance.
+ LIAM: We give you the Bodo Players!
+ MARISHA: Everybody, everybody.
+ (claps)
+ MATT: Everyone's like (claps). They're into it. He's like, "(whimpers)"
+ MARISHA: Bodo. Your art deserves to be shared. Just let it happen.
+ MATT: I will give you gold to stop this.
+ MARISHA: (clears throat) My dearest Lorna.
+ LAURA: That's me. And her and her.
+ MARISHA: Just as your namesake suggests, you Lorna in my loins.
+ (groaning)
+ MARISHA: Night after night, as I lay underneath the stars in this encampment.
+ MATT: He crumples to his knees.
+ MARISHA: The only encampment I can think of is the warmth of your embrace. And the soft supple bosom that you have invited me into.
+ LAURA: I grab Nott's little Bodo and push it against my bosom.
+ SAM: (motorboating)
+ MARISHA: As I snuggle this lambskin, I think of your curly hair, laying on the depths of my stomach and loins.
+ (groaning)
+ MATT: He's crawling towards you in the mud, the rain just completely soaking him. "Please. Please stop."
+ MARISHA: I think about the time that I confessed to you of my romance indigestion.
+ (laughter)
+ MARISHA: And the nervousness that you alight in the depth of my bowels.
+ LAURA: Oh, that's lovely. I Thaumaturgy fart noises. I Thaumaturgy fart noises!
+ MATT: "(whimpers)"
+ MARISHA: But you held my face and told me, I love every scent that comes from you.
+ LAURA: I grab Fjord's face and I say, "I love every scent that comes from you."
+ SAM: Kiss him. Kiss him.
+ LAURA: (kiss noises) And I don't kiss him.
+ SAM: Aw.
+ MATT: He passes out.
+ (cheering)
+ MATT: Just (boof) into the mud.
+ MARISHA: It pretty much--it's not as fun when he isn't here to hear it. It pretty much just wraps up and he talks about how he dreams of her and he gets a little flowery some more at the end. But, yeah, that's the story of Lorna.
+ LAURA: We bow.
+ LIAM: Beau-regardless. SAM and
+ MARISHA: Beau-regardless.
+ MATT: Some more clapping and cheers. You see a lot of the folks seem to be particularly enjoying this entire display.
+ LAURA: That was good. I think we succeeded.
+ SAM: You know, a stunning career.
+ LIAM: We're having this discussion all in disguise.
+ MATT: One of the second in command goes, "Right, so anyway, gather your things. Back to work." And they all start gathering their supplies and they start taking down the tents and it seems the encampment is starting to make its way back towards where it originally belonged.
+ TRAVIS: I think that's pretty sufficient.
+ MARISHA: That works, right?
+ TRAVIS: Right, we hightail it out of here. You guys got it from here?
+ MATT: The guards have lifted him up and he's just like groggy.
+ TALIESIN: That may have been the meanest thing I've done to someone I'm not related to.
+ LAURA: That was pretty mean.
+ MATT: They drag him off into the tent.
+ SAM: All right, back to town?
+ TRAVIS: Yep.
+ LAURA: Yeah.
+ SAM: Moorbounders!
+ LAURA: (snaps) I make myself look like me again.
+ LIAM: (cat yowling)
+ MATT: The moorbounders take off. Begin heading southward.
+ LIAM: Just as embarrassing for us as for him.
+ LAURA: I don't know what you're talking about. I have no shame.
+ MATT: All righty so, heading southward you eventually find the original path that had led you up to this area. The day presses on, the sun begins to set just as you begin to see the shapes, the jagged outline of the ruins of the Ghostlands ahead of you. Do you wish to camp for the evening on the outskirts, or do you continue and press on through the night?
+ TRAVIS: We press on into the night.
+ TALIESIN: How much longer of a ride is it?
+ MATT: You're looking at another six hours or so.
+ TALIESIN: That's fine, that's fine.
+ ASHLEY: Let's do it.
+ MATT: Okay.
+ LAURA: Yeah. Yeah.
+ MATT: Okay. Yeah, making all your journey, the first day journeyed there and then making way--yeah. For the sake of brevity, you make your way back towards the roads through the Ghostlands during the day. Still a low mist that hangs through most of the broken stone and barely recognizable shades of what were once structures and temples and buildings and domiciles and squares. Using your imagination, imagine this place a lively if violent locale but a millennia before. You see some shapes shift in the mist and it seems the process of your first arrival and travel through the Ghostlands you begin to think whatever haunts this space doesn't wait till night time. Pushing on, you pass by a few of the Aurora Watch that are watching the road as well, stay clear to the center, and making your way through. Eventually, in the early, early morning hours, I'd say around two, three in the morning, you begin to breach the outer wall and find yourself in the Corona of Rosohna. So. The city is sparser at this time of night, of course, but there are still various people that live here that do most of their work at night as well, especially when the day-night cycle is a little more fluid thanks to the enchantment that's placed above this city and the surrounding region. Stepping through the muddy streets, the storm still raining upon you, and you hear the first crack of thunder since the night before echo off the north side. You continue onward until eventually passing through the Gallimaufry and then making your way to the abode you had previously stayed, the Dim's Inn. It is practically empty, aside from Gaben, the person who runs the establishment. Seems to be resting, eyes half-open looking towards the front. One patron, another drow elf, is passed out on a far table, tankard still clutched in the right hand. As you step in from the rain, pushing through the interior, dripping, holding the reins on your respective moorbounders, Gaben shakes back to lucidity. "Oh, welcome back. You've returned, how nice. "It is late, but do you require "your animals taken care of?"
+ LIAM: Yes, please, the usual.
+ MATT: "All right. Could you help with that?"
+ LAURA: Yeah, yeah, yeah.
+ MATT: You see him nervous and uncomfortable around the moorbounders. The moorbounders, sensing that nervous energy taking an immediate interest in him.
+ LAURA: Yarnball, don't eat him. No, no, no.
+ MATT: (huffs) He keeps a wide berth and eventually you lead them to the back of the establishment where there is a small storage area where he seems to be keeping them overnight. He doesn't have a place to put these creatures, but has found a makeshift space for them.
+ SAM: While they're doing that, I'm going to run upstairs and see if Yeza's home.
+ MATT: Okay, you come back to the door. Do you just throw it open?
+ SAM: Mm-hmm!
+ MATT: You look on the bed and suddenly a figure leaps from the blanket.
+ (scared, surprised shouting)
+ SAM: Oh hi, no, it's me, it's me. Your wife. Who's a goblin.
+ MATT: "Right. I was wondering "when you guys were going to come back."
+ SAM: I'm sorry it took so long.
+ MATT: "No, it's okay. You okay?"
+ SAM: Are you okay? Did anything happen? Did you have to kill anyone?
+ MATT: "No, no."
+ SAM: Good. Did anyone visit? Did anyone knock?
+ MATT: "No, they pretty much--"
+ SAM: Did they bring you food? We arranged for them to bring.
+ MATT: "Yeah no, there was food, it was decent. "Heard footsteps back and forth. "Whenever they did, I'd hide. "Just trying to keep a low profile, like you said."
+ SAM: Was it fun a little bit?
+ MATT: "It was for the first day or two."
+ SAM: Sorry.
+ MATT: "No, it's fine. I mean, it's far better "than being down in the dungeon. "I'll take that (laughs). Hi," and he gets out of the bed and comes over and gives you a hug and pulls away. "Are we staying here much longer?"
+ SAM: I don't know, we have to figure out. My friends have... They're sort of trying to figure out a mystery of sorts, figuring out what our next move is. They'll be up here any second now and we need to get you to a safer place and we need to find Luc.
+ MATT: "Yeah, I'd like that. "I'm worried about our boy. "Anyway, welcome back."
+ SAM: It's good to see you.
+ MATT: He wipes some of the crust from his eyes. "Are you going to come to sleep?"
+ SAM: I mean, yeah. Sure.
+ MATT: "Whenever you're ready."
+ SAM: Sure.
+ MATT: "I'm going to go back to sleep."
+ SAM: Okay. I'll be in in a bit.
+ MATT: "Okay." He wanders back, still a little sleepy, and curls up in the bed and passes right back out. Eventually, the rest of you return back up to the secondary floor of the Dim's Inn.
+ TALIESIN: I'm not going to go to sleep quite yet.
+ MATT: No worries. Well, you guys are gathered.
+ LAURA: The best reunion ever?
+ SAM: It was pretty nice, yes. It's good, yeah. He only screamed a little bit. That's good, that's progress.
+ LAURA: Yeah, totally.
+ SAM: Yeah. I don't know what's next. You know, we have to do something-- we have to do something as a group, but then also, I have to figure out what I'm doing. LAURA and
+ ASHLEY: What do you mean?
+ SAM: Well, I mean, he can't stay here forever.
+ LAURA: Are you going to stay here?
+ SAM: I don't know. Are we going to stay here? Are you going to stay here?
+ LAURA: By here, I mean with us. Are you going with him or are you going to hang out with us some more?
+ SAM: I don't know. I don't know. What are we doing?
+ LIAM: We have only been here for a few days and we haven't even been here for those days.
+ SAM: We have to go check in with Waccoh.
+ LIAM: We have a whole laundry list of things to do. We need to collect on our bounty, we need to make sure--I need to do some homework, I need some time to study so that we can get Jester the ability to visit her home and so that we can get to your boy, and I would like to visit the libraries here, and we want to continue to ally ourselves with these people and gain their trust. We're not going to stay here forever, but we have a purpose here, don't we?
+ TRAVIS: I agree.
+ LAURA: At least for two weeks until we figure out what the deal is with the Overcrow.
+ TRAVIS: But I agree also with Nott, that your husband can't stay here. It's too dangerous. We can't keep him locked in a room. Are you thinking of sending him to be with your son?
+ SAM: I can't send him.
+ LAURA: Well, if Caleb keeps doing some research then, yeah, you can.
+ TALIESIN: Don't we have a way of possibly moving people to that?
+ LIAM: I am close, I just need time. We need sleep now, but I need time. I need about a day.
+ SAM: Oh, I'm sure he can wait a day.
+ LAURA: Also, the Bright Queen has a teleportation thingy. Maybe if she likes us enough then she can use it and you can send him with that.
+ SAM: Mm-hmm. That would be good.
+ LIAM: Also, I'm curious: do you wish to, at some point, get into contact with your higher up?
+ MARISHA: I mean, yeah.
+ LIAM: We could use her. Everything has changed since we spoke to her last. We have so much more leverage than we had before and we could do something together. We could do something together.
+ MARISHA: Yeah.
+ LIAM: The lot of us.
+ SAM: Mm-hmm. Well, but tonight we sleep, I suppose.
+ LIAM: Yeah, we have to think granule, bit by bit.
+ LAURA: Granul-arly?
+ LIAM: Gradularly.
+ ASHLEY: That's not right either, actually.
+ MARISHA: It's hard.
+ LIAM: It's hard with the accent. Granularly. We should do one thing at a time. We should all go to bed probably and go collect and then we pick which of the things on our to-do list is next.
+ TALIESIN: I can borrow Ms. Beau for a moment outside, just for me to finish up a quick thing, if that'd be all right.
+ MARISHA: Yeah, whatever you need.
+ TALIESIN: Perfect. I'm going to hand you a shovel.
+ MARISHA: Okay.
+ TALIESIN: You'll like it. I'm going to go out back and set up the little goblin body on the back wall in the rain, while you dig a little hole for me.
+ MARISHA: Wait, is this the burnt crispy one? You dragged a burnt crispy goblin body eight hours across?
+ TALIESIN: I carefully carried it. Goblin body for eight hours across.
+ MARISHA: I'm surprised it still has all of its limbs.
+ TALIESIN: I was very gentle.
+ MARISHA: I was wondering where that smell was-- anyway, let's do this.
+ TALIESIN: While she digs, I'm going to set up everything I need and I'm going to cast Speak with Dead.
+ MATT: Ah. Okay.
+ TRAVIS: Ooh good, good, good, yeah, yeah. That's awesome.
+ MATT: The incense you have to cover with your hand a bit because of the nature of the rain.
+ TALIESIN: I've got the cloak up.
+ MATT: You have the cloak up and you have it there as the incense fills your nose, and burns your eyes a little bit. They tear up, but it's not unpleasant necessarily. As you're digging, you're just soaking in the rain. You look over and you can see the glow of the embers of the incense lighting up the bottom of Clay's face, and for as sweet as a man as he is, it looks almost ominous in this one visual representation.
+ TALIESIN: It's not really something we're supposed to do very often.
+ MARISHA: Uh-huh.
+ MATT: You complete the ritual, and as you do, the tiny charred goblin corpse gently propped up against the side of the outside wall begins to (clicking). The bones clack a bit, one of the hands reaches up towards its throat and you see the chest move as if it inhales.
+ MARISHA: I take the spade and I hold it.
+ MATT: (clacking) It just holds the breath in the chest and looks towards you.
+ TALIESIN: Hey, turned out real bad, but we're going to do right by you. You're going to be given the most proper burial we can, but in the meantime... Would you mind telling us what were you doing in that cave?
+ MATT: "I lived happily in the bone pit. "Clan-less, the pit had scraps always. "No predators."
+ TALIESIN: There was a... device with crystals and a globe in the bone pit. Did you see who put it there?
+ MATT: "Something rushed through the bones "one day in the dark. I stayed still, not seen. "Human it was, hid shiny thing down there. "Tried to chew it, but broke teeth, "so left it no bother."
+ TALIESIN: That was very, very smart. Human. You sure--could you describe the human or anything you noticed about the human?
+ MATT: "Too dark, too covered in bones hiding. "Did not want to be found, humans make goblins dead."
+ TALIESIN: Two more. Did the human seem to move magically fast, faster than a normal creature would?
+ MATT: "Did not see, too scared."
+ LAURA: Maybe ask how long ago it was?
+ TRAVIS: Did it fall in love before it died?
+ TALIESIN: None of you get to, only you because you're the only one there.
+ MARISHA: I don't know what you ask--okay. Maybe ask him how long he was there, if he started dealing with the invasion.
+ TALIESIN: How long ago did that happen, would you say?
+ MATT: "Hmm. "17 days, maybe."
+ TALIESIN: Rest.
+ MATT: (exhale) The head cracks down.
+ TALIESIN: Put in the hole, cover it up. And now we know it works quickly.
+ MARISHA: Yeah, it lines up with exactly what the giants were saying. All right.
+ TALIESIN: He wasn't in there, that was just-- It's just flesh, not a soul, not anymore.
+ TRAVIS: Kid slayer, NPC slayer.
+ TALIESIN: Just making me talk, man.
+ MATT: You inter the charred goblin corpse. Pat the mud and dirt down. The rain hasn't let up and it's getting colder and colder. This early, early dark morning hour, your breath with every exhale seems to emerge in this little space between buildings. Eventually, you guys make your way back up into the inn to your rooms to dry off a bit and shake off the weather.
+ MARISHA: As we're walking back up: Hey, Caduceus.
+ TALIESIN: Mm-hmm.
+ MARISHA: How do you know if you're special?
+ TALIESIN: I don't understand the question.
+ MARISHA: Well, you all have gods who have taken an interest in you or some weird phenomenon that's happened.
+ TALIESIN: I mean, I lived my whole life in pretty much less than... A small square of land. Everything's interesting at this point. I don't really understand what you mean.
+ MARISHA: Well, you're interesting, you know that, right?
+ TALIESIN: Thank you, I didn't. That's interesting.
+ (laughter)
+ MARISHA: The things you can do, that's--
+ TALIESIN: Sure. Plenty of people in my family can do things like this or do this, have done this. I'm pretty typical.
+ MARISHA: Mm-hmm. Can you follow a god if someone else tells you to? Or they say, "This is what we're doing now?" That's all the monks did to me.
+ TALIESIN: I think you can. I don't necessarily think that's the... I don't think that is necessarily the best way to unfold one's destiny, if that's the sort of thing that one is looking for. Feels like fighting against the tide, if you know what I mean.
+ MARISHA: Seems like the gods all chose you.
+ TALIESIN: I wasn't chosen.
+ MARISHA: But you believe in destiny.
+ TALIESIN: I do. Very much so. But, my family came to this through... Through destiny. I was born into it through destiny, and I continue to live through it through destiny. I mean, the question is: Where do you think you're going? Where would you like to go?
+ MARISHA: I get to choose that on a day-to-day basis, and that's what makes me happy.
+ TALIESIN: Well, that's part of what makes destiny work. There's a lot of free will involved.
+ MARISHA: I like that. Let's go to bed.
+ LAURA: Before they come in the room-- I'm alone, right?
+ MATT: If you choose to be.
+ LAURA: I mean, in our room. I was only rooming with Beau.
+ MATT: That's true, yeah.
+ LAURA: I'm going to cast Sending on The Gentleman.
+ MATT: Okay.
+ LAURA: Hi Dad, it's Jester. I know it's been a while since we were in Zadash, but just thinking about you. I miss you. You miss me?
+ MATT: There's a pause. Then a somewhat tired voice responds.
+ TRAVIS: Three in the morning.
+ MATT: Yeah. "You're being ridiculous. "I'm not your father, but I'm glad you're all right, "wherever you are. "Come back some time. I've got more work. "More money to be made."
+ SAM: Love you, bye.
+ (laughter)
+ MATT: That's as much as he gets out.
+ LAURA: I send a message.
+ MATT: Okay.
+ LAURA: To my mom.
+ MATT: Okay.
+ LAURA: Hi mom, I'm really far away, it's been crazy here, I love you, I miss you. Do you miss me?
+ MARISHA: Aww!
+ LAURA: We fought some dead giants. I talked to dad.
+ TRAVIS: "I talked--" (laughter)
+ MATT: Another moment passes, and then another tired voice comes through on the opposite side. "Jester? "Oh my Jester, I'm so glad you're okay. "How far away are you? "Are you coming back soon? "It's been very busy... "Giants! That's impressive! I'm proud of you."
+ LAURA: I send another one back. Busy? Busy how? Yes, really far away. I'm in Xhorhas, but don't worry, everything's okay. I'm okay. They think we're heroes, but don't worry I still--
+ TRAVIS: Shh! (laughter)
+ SAM: Shh!
+ MATT: "The Gold Chain Mercenary Company "has come through recently to help with the war, "and a lot of patrons means I'm busy. "But I'm proud of you, my little sapphire."
+ LAURA: Ooh! Okay, that was better. All right, I'm going to go to sleep now. I'm going to hold my necklace as I fall asleep.
+ TALIESIN: I'm going to if I can, well, do I have--yeah. I'm going to cast one last spell before I go to sleep.
+ MATT: What are you going to cast?
+ TALIESIN: Commune.
+ MATT: Okay.
+ TRAVIS: Ooh.
+ LAURA: The Gold Chain Mercenaries.
+ MATT: All righty. Pulling out little more of your incense, bit of holy water, it's water actually pulled from the pond. You have quite a collection of it you took before you left, just to ensure. You take a bit of it and spritz it on the incense which causes the steam to rise and the smell reaches your nose. You concentrate and as the warmth of the chamber fades, temperature seems to have no impact in this dark moment before it looks like a sunrise rises out of the darkness and that color and warmth embraces you. On that light, on that gold and reds and oranges begin to fade to a blue and green spectrum of morning colors, you can see the light gently topple down into strands of hair that seem to lift and drift. You can barely make out the essence of a face, a matronly woman's face, the eyes just opening like two small stars towards you with a smile. Lips not moving, but you hear the familiar voice fill your soul. "Hello."
+ TALIESIN: Hello. Is the Overcrow within the city?
+ MATT: "It is nearby, yes."
+ TALIESIN: Does this threaten the people of this city?
+ MATT: She seems unclear of the question being asked.
+ TALIESIN: Does the King That Crawls threaten the people of this city?
+ MATT: "The King That Crawls is far beyond any of us. "He is of no threat to the people of this city."
+ TALIESIN: This might be a lot and I understand if it's vague. Why did they stop expanding the city? Why build the wall?
+ MATT: "They expand. As needed. "But they expand into lands treacherous, "some mind is paid."
+ TALIESIN: I will continue to walk your path.
+ MATT: "Rest well, my Clay," and the sun sets.
+ TRAVIS: Fucking awesome!
+ LIAM: I had one minor bit of--
+ LAURA: So smart!
+ LIAM: Caleb stayed in the common area just looking through notes and over the books that he's collected. Once everyone has gone to bed, he travels up to the second floor, and looks at the different doors that his companions are staying in and hangs for a moment. And pauses on the door that Yasha is sleeping in, and then over to the one that Nott and Yeza are in. He's got his luck stone in his hand and he's just sort of twisting it and not as long as before, but maybe for a minute, just stares at that door. Then goes to his room and takes out the silver thread and methodically starts surrounding the room while Frumpkin bothers Fjord and he gets ready for bed.
+ MATT: All right. Everyone else just going to find an evening's rest?
+ SAM: I still got two rhino sex potions.
+ (laughter)
+ TALIESIN: Roll with advantage.
+ SAM: Probably pop those. One for each partner.
+ LIAM: Oh my god.
+ TALIESIN: We're going to have a post--
+ TRAVIS: We don't always have to have a love--
+ LAURA: Can we--
+ TALIESIN: We're not getting our deposit back.
+ MATT: Okay?
+ LAURA: Can we get some narration?
+ LIAM: Didn't we establish these were placebo?
+ SAM: Placebo works.
+ MATT: So wait, do you wake Yeza up?
+ SAM: You know what? I'll just cuddle in next to him. If he--you can roll for it-- if he wakes up naturally, well, we'll see what happens. If he seems like he's asleep, that's fine.
+ MATT: You're pretty stealthy. Are you trying to be stealthy?
+ SAM: No, I just plop down on the bed hard.
+ LIAM: Do you slip him the digit? (Matt shushes)
+ SAM: I did it with a razor sharp claw.
+ (groaning)
+ LAURA: I feel so uncomfortable. This is a whole new level.
+ MATT: He doesn't awaken, but he seems to just rustle around a minute and then pull the blanket close.
+ SAM: I'll just spoon him.
+ MATT: Okay.
+ (Matt laughs)
+ SAM: That's all.
+ MATT: All righty. An evening's rest. Fjord, you going to do something weird?
+ TALIESIN: That was weird.
+ TRAVIS: Just sleeping.
+ TRAVIS: Somebody's got to keep the standards--
+ MATT: There you go. All right, so each of you get to sleep. Some of you pretty quickly, but by the time that Caleb gets to rest, and probably you, Nott, and actually probably you as well, Caduceus. You begin to sense maybe it should be sunrise right about now, but it's just weird to be in that space where there is no sunrise. Before you drift off to sleep.
+ TALIESIN: Like Anchorage weird.
+ LIAM: Yeah, it's weird.
+ TALIESIN: I like it, but it's weird. I really like it, though.
+ MATT: Fjord.
+ (groaning)
+ TRAVIS: Shit, it's going to be weird.
+ LAURA: Fjord's getting a dream while Nott's thinking about boning Yeza.
+ SAM: Am I in the wrong bed? This isn't Yeza.
+ TRAVIS: In my dream, I just heard (thudding).
+ MARISHA: Hotel rules.
+ MATT: The sound of the rain gently lulls you to sleep. You can hear the water colliding against the wood on the outside of your chamber. As you come to sleep, you can feel the rain on your skin. You feel the water rise above your ankles to your knee, to your torso and it is freezing cold. As soon as it hits the torso, your chest seizes for a moment and you have to catch your breath. It rises higher and higher until you're fighting to catch your last breath of oxygen and inhale, before the water level escapes and continues up into the lightless darkness. You swear you see something move in the water, and you glance to try and catch it and you don't see it. Something shifts this way and you look you try and swim but nothing's catching your eyes. "Where?" The eye opens up before you, the light golden and yellow just completely enveloping your body, nude, swimming through the dark water. "Reward." You feel this little heartbeat in your chest. (heartbeat) You look down and you can see, against the dull gray skin of your chest, there is a yellowish light source, the same light as the eye before you, pulsing. (heartbeat) "Punish." There's a searing pain which shoots into your chest and you look down, and the space where it's pulsing, the water just gets clouded with darkness, blood beginning to pour through and seep from your sternum. You reach and clutch for it, but it won't stop bleeding. You start coughing and inhaling the water and you feel yourself drowning and drowning and coughing and coughing. "Punish." In those throes of your body shaking, the light begins to fade and numb and drift as the darkness takes you. You wake up coughing in your bed, seawater, in a familiar display, sputtering out of your mouth onto the edge of your bed. And you hear the clatter of metal.
+ (clanging)
+ TRAVIS: I reach around in the dark for the sound.
+ MATT: Yeah, your falchion is on the floor.
+ LIAM: Are you okay?
+ TRAVIS: Yep, nope, sorry, I just uh-- (coughing) - was--yes, sorry. Go back to sleep. Everything's fine.
+ MATT: You can still hear the rain outside. You have no idea what time it is.
+ TRAVIS: Can I hear Caleb breathing?
+ MATT: Make a perception check.
+ TRAVIS: Nine.
+ MATT: You can hear him breathing. It's fine. I just wanted to make you roll for it.
+ TRAVIS: Does he sound like he's asleep?
+ LIAM: I did not go back to sleep.
+ MATT: He does not?
+ LIAM: No, and I rolled a 27 deception check.
+ MATT: He's asleep. Unless you make an insight check. Make an insight check, actually.
+ LIAM: Beat a 27, my man.
+ TRAVIS: Ten.
+ MATT: Yeah. He's asleep.
+ TRAVIS: My falchion is not normally just out. Can I try and bamf it away?
+ MATT: You focus on the falchion, gripping the handle and close your eyes to will it away, but it remains.
+ (gasping)
+ LAURA: Oh no!
+ TRAVIS: Do I have any idea what time it is, how long I've been asleep?
+ MATT: You have no idea. It's eternal nighttime here in Rosohna. You have no idea. Just sitting alone in your soaked bedsheets clutching your sword, confused in the darkness.
+ TRAVIS: I will get up and gather shoes and basic armaments and I will try to quietly exit the room.
+ MATT: Okay, make a stealth check.
+ TRAVIS: Nine.
+ MATT: Okay. You grab your things and shuffle and stumble into a chair, grab your bag and, as you step, does he set off your Alarm spell?
+ LIAM: No.
+ MATT: Because he was considered an ally, so.
+ LIAM: Frumpkin and I watch him go, though.
+ MATT: Okay, you watch as Fjord steps out of the chamber. (door creaking) You think it's closed and you push it and goes (thump) like, "Shit!"
+ TRAVIS: Fuck! (clears throat) Is there more light in the hallway?
+ MATT: There is. There are three low-burning oil lanterns that are fixed to the wall.
+ TRAVIS: Can I walk over underneath one of the lanterns and look at the falchion? Does it look the same, different? Is the eye still there?
+ MATT: It looks the same the eye's still there, yeah.
+ TRAVIS: Is there anyone in the hallway?
+ MATT: Right now, no, not at this hour.
+ TRAVIS: Can I conjure up a ball of eldritch energy in my hand and see what the eye does?
+ MATT: You look down at your palm. Nothing emerges. (gasping) You concentrate and focus and all you can see after a minute of trying is the sweat beginning to form on your palm and your forehead. Dripping off your nose.
+ TRAVIS: Uh. Uh. Uh. I hustle down out of the Dim's Inn and into the street. Can I find a corner, like an alley or just a closed space where no one is?
+ MATT: Yeah, it takes you a moment because you're in this half-fugue state; not concentrating, more stuck internally in your thought process. You push out into the cold rain without even feeling it on you. You push off into the nearest alleyway to the right, which is similar to where the moorbounders are brought. You find one little subsection there.
+ TRAVIS: Puddles. Are there puddles? Are there puddles?
+ MATT: There are puddles, yes.
+ TRAVIS: Can I find a puddle and look in the ground and I will use Mask of Many Faces to make myself look like Caduceus.
+ MATT: Okay. You look down in the water and all you see is your face.
+ (groaning)
+ LIAM: Shit!
+ SAM: He's just a guy.
+ TRAVIS: (British accent) (repeated) No, no, no. Okay, uh, right right right. (exhales) (nervous humming) (panicked breathing) Fuck! It's all right. It's fine. It's fine. I will take the sword back inside and walk back up to my room, and try and quietly go back to sleep.
+ MATT: Okay. You hear Fjord step back in, breathing heavily, crawl back into his bed, and lay down. Go ahead and make a wisdom saving throw for me.
+ TRAVIS: 21.
+ MATT: Okay, amongst the adrenaline pouring through your veins, the thoughts rushing through your mind, you force yourself to find a center of peace on the inside of your consciousness and do manage to find sleep once more after about 30 or so minutes of silently panicking in your bed. Eventually you all begin to rouse from your slumber, and we'll return there after our break.
+ SAM: Oh, Matthew Mercer.
+ LAURA: Oh shit!
+ LIAM: That was dope as fuck.
+ LAURA: Oh no,
+ TRAVIS:! You have no powers, oh no! SAM and
+ LAURA: ♪ Regular Fjord, regular Fjord ♪
+ MARISHA: No, don't listen!
+ LIAM: You got muggled! 
+ (Travis screams)
+ TRAVIS: No! Squib!
+ LAURA: Squib!
+ SAM: Oh no!
+ MATT: Before we go to our break, we do have our Wyrmwood giveaway from our friends at Wyrmwood who make these amazing dice trays here. Tonight is the lacewood tabletop dice tray. Awesome. It's got a leather, almost like a dragon skin texture leather inside there. This goes to one lucky winner tonight in our Twitch chat. So those of you in the Twitch chatroom that are of the U.S and Canada excluding Quebec because of stupid laws, the keyword is storm, S-T-O-R-M. Enter it once; more than once, and you'll be disqualified. We'll come back at the end of the break with a winner to announce. We'll see you guys here in a few minutes. 
+ 
+ ==  Break  ==
+ 
+ ♪ You got the perfect warlock ♪
+ 
+ ♪ Her weapons and supplies ♪
+ ♪ But you need a place to track your stuff ♪
+ ♪ 'cause you're so disorganized ♪
+ ♪ You click open the webpage ♪
+ ♪ You heard about on Critical Role ♪
+ ♪ And now you're ready to kick some butt ♪
+ ♪ In that mineshaft full of gnolls ♪
+ ♪ It's D&D; ♪
+ ♪ D&D; Beyond ♪
+ ♪ Yeah D&D; ♪
+ ♪ Yeah ♪
+ ♪ D&D; Beyond ♪
+ ♪ You got your stats, you've got your swords ♪
+ ♪ And you got your invisible wand ♪
+ ♪ It's D&D; D&D; ♪
+ ♪ D&D; ♪
+ ♪ D&D; Beyond ♪ 
+ [high-pitched note] 
+ [thudding footsteps] 
+ BINWIN: Hi I'm Binwin Bronzebottom, celebrity dwarf and video game enthusiast and this is my sidekick, Crowy. 
+ CROWY: Hello! 
+ BINWIN: We're here to tell you about Idle Champions of the Forgotten Realms, a Dungeons & Dragons based strategy management game from Codename Entertainment. They're Canadian so you know it's good. 
+ CROWY: Let's talk about the game. Did you ever play cookie clicker? 
+ BINWIN: Of course not. 
+ CROWY: This game is a management game like that, but with far more emphasis on strategy and with a flavoring of D&D;'s lore and legendary heroes you can unlock your favorite champions like Drizzt Do'Urden from R.A Salvatore's Forgotten Realms novels, Holly Conrad's Stryx from Dice Camera Action, or as Chris Perkins' kobold, Spurt, from Critical Role. He died. 
+ BINWIN: How do you like it, Perkins? 
+ CROWY: Create the best adventuring party possible based on the formation options, your character's ability, and the obstacles and enemies you face. 
+ BINWIN: Or you just randomly click on things like I do and hope for the best. 
+ CROWY: You click on enemies to assist your champions, or you can set them up and walk away and let them do their thing, it's entirely up to you. 
+ BINWIN: I'm playing on the toilet right now! 
+ CROWY: Why wouldn't you be? Idle Champions is available on all your favorite gaming platforms, including tablets for the low, low price of free. So download it now! 
+ BINWIN: End with joke! 
+ CROWY: You're not supposed to read it. 
+ BINWIN: It says end with joke. 
+ CROWY: No, we're supposed to come up with a joke to go with where it says end with joke. 
+ BINWIN: I don't know, "end with joke" is pretty funny. 
+ CROWY: Wait on three, ready? BINWIN: Yeah. 
+ CROWY: One, two, three.
+ BINWIN and CROWY: End with joke! 
+ BRIAN (VO): Last time on Talks Machina.
+ BRIAN: "Fjord seemed more frightened of the snapping "turtle than the undead giant that had just spilled "its guts in front of him. "What horrible experience with a snapping turtle "did Fjord have during his life as a sailor "to create such a phobia?" (laughter)
+ TRAVIS: Yeah, Fjord ate some moldy-ass bread on a ship one day, fell into, (groaning)
+ MATT: My wallet, have you seen my wallet anywhere?
+ ASHLEY: Wait, no, Matt, we can't have any interruptions.
+ MATT: I missed it. Is this the first part of the episode I'm trying to--hold on.
+ BRIAN: No interruptions.
+ MATT: In this area?
+ BRIAN: "What went through your mind when we revisited 'Where do you find your strength?'"
+ TRAVIS: I was going to say, in campaign one, the temple of Kord, right, obviously. Earthbreaker Groon was like, you know, "Where do you find your strength?" and then proceeded to beat Grog's ass until he figured out what the answer was, which was great. In just watching all of that unfold and hearing that come out of the Stormlord. 
+ DANI: Who is Kord!
+ ASHLEY: I completely forgot about that.
+ TRAVIS: Really?
+ ASHLEY: Yes. Until after it was over, and I was like, "Oh my god!"
+ TRAVIS: Uh-huh, uh-huh.
+ ASHLEY: (brain explosion) Yeah. But I blanked. You know and then when the moment is done you're like, "What did I even say, "what did I even say?"
+ TRAVIS: In the first campaign it was a monk, you know, level 20 million badass monk with Quivering Palm or whatever that asked the question. I mean, obviously in the temple of Kord, but the Stormlord talked to you. Holy shit, what does that mean?! Who are you to him? What did you do?
+ BRIAN: What does it mean?
+ ASHLEY: I know! I don't know! What does it mean?
+ BRIAN: "How did the conversation with Wursh "the blacksmith impact Fjord's perspective "on himself and his self-confidence?"
+ TRAVIS: Fucking Matt's just too good.
+ ASHLEY: That was.
+ TRAVIS: I was not ready to have that kind of a conversation and he just kept like-- you know when you're pissed and you want the other person to, like, be pissed or respond to you in the same sort of heated way and they just respond calmly and they're like, "This is agitating you, isn't it?" like "No!"
+ ASHLEY: Yeah!
+ BRIAN: I'm fine!
+ TRAVIS: It was just like that. I was like, "I don't want to talk about why I feel "this way and yes, people treat me like shit "and yeah, it gets under my skin. "I don't want to say any of that!"
+ BRIAN: That is a tough one to answer, isn't it?
+ ASHLEY: I think she--
+ BRIAN: Dude.
+ ASHLEY: I think she's kind of just weird. There's and I think that's all I can say about that.
+ BRIAN: Okay.
+ ASHLEY: She doesn't quite know what she is.
+ BRIAN: "While Pike and Grog were bestest buddies, "Fjord and Yasha haven't had much change to build "a rapport yet. Are you looking forward to forging "a connection, and where do you think their common "ground lies?" Well, both of you have played Yasha, that's where.
+ ASHLEY: That's the common ground, yes.
+ BRIAN: Both of you kill as playing Yasha.
+ TRAVIS: I am, just after the last episode, because Fjord is very interested in Caduceus' relationship with the Wildmother and how the hell that works, Jester and the Traveler, How the hell that works. I'm sure he'll want to ask about the thunderstorms that just always seem to follow the group when Yasha is around, and what that means. Fjord's relationship with his thing is not so bueno and is not a two-way street, and he's not super happy with it. So I think he's looking just to connect and say like, "Hey, I know we don't know "much, but I'll tell you some of my terrible "stuff if you tell me yours."
+ BRIAN: Yeah.
+ ASHLEY: Yeah, I'm definitely looking forward to it. It's fun seeing what sort of relationships pop up or, you know, obviously contrary to popular opinion, we do not plan anything. It's interesting seeing what pops and you're like, "Oh I'm having a conversation with this person about this thing," Yeah, I'm curious to see what Yasha and Fjord's--
+ TRAVIS: and
+ ASHLEY: Connection will be. [birds chirping]
+ SAM: I'm a fan of hot air balloon rides above the Venetian countryside. I'm a fan of Momlan, she's always got my back. I'm a fan of wine older than Taliesin, I'm a fan of Twitch subscriptions, I'm a fan of emotes by ArseQueef. They're neat. I'm a fan of a wife so cool, people forget I exist. I'm a fan of random encounters. I'm a fan of gifting subscriptions, I'm a fan of art dads in their birthday suits. I'm a fan of teeth rejuvenation surgery. I'm a fan of Twitch Prime subscriptions. I'm a fan of manicures, I'm a fan of access to VOD in case my manicure runs long and I can't watch it live. I'm a fan of Critical Role. 
+ [birds chirping]
+ [eerie music and birds chirping]
+ [high-pitched tone]
+ [creepy chattering laughter] 
+ SAM (VO): (distorted) Critical Role. [various jungle animal noises]
+ [static]
+ TRAVIS (VO): Last time on Yee-Haw Game Ranch.
+ ASHLEY: "Would you boys stop yapping about those gosh-darned "high quality hand-crafted metal posters?"
+ BRIAN: Hello there. You must be, you must be Flint Westwood.
+ ASHLEY: "You bet your goddamn bony ass I'm Flint Westwood, "the fastest critter in the west, "or this side of this here game rail."
+ BRIAN: Is your hat is it covering a wound, or some sort of places? Did you need it--?
+ ASHLEY: "Shut up, you emaciated bitch!" "Time never comes to a halt in this here personal hell. "I was sent here by Tet'nus Terry to tell you a tale."
+ BRIAN: Tet'nus Terry's the one with the janky leg right?
+ ASHLEY: "I fought in the great species war with Tet'nus. "He's a good man and an even better soldier. "When Bast'Alar went off the deep end, "we all had to take up arms for the greater good."
+ BRIAN: Wait, Bast'Alar, that's the cat warlock.
+ ASHLEY: "Bast'Alar was a pet union with a human owner."
+ BRIAN: Oh shit.
+ ASHLEY: "His owner abandoned him and well, "I think that's when things went south. "He started dabbling in black magic."
+ BRIAN: What kind of magic is black magic?
+ TRAVIS: Black magic.
+ ASHLEY: "I'm talking the worst of the worst, "shit that'll make the hair on your "saddle stand straight up. "It'll dry up every cow teat in the realm. "And it'll make your bullets blue."
+ TRAVIS: My ears can't hear this. I was born in Texas, man!
+ ASHLEY: "This shit was made illegal thousands "of years ago after the war of the gods!"
+ BRIAN: There was a war of the gods? The war between gods, which gods?
+ ASHLEY: "You really just don't get it, do you, "orange fingers?
+ BRIAN: (wheezing) Orange fingers!
+ ASHLEY: "You humans are all the same. "You love your games, you piss Mountain Dew, "but you don't know shit about your history. "I'm tired of your piss jar brains. "Maybe someone else'll have more patience "but it ain't me! Enjoy playing at Portal 2, "pieces of shit!"
+ TRAVIS: Don't fly away!
+ BRIAN: Oh dude, dude.
+ TRAVIS: Yeah, keep going, yeah, you got it.
+ BRIAN: There's some shiznits here, boom. Okay, now where do I want to go, though? Oh fuck, can I shoot it through this?
+ TRAVIS: Oh, you know what? So here, I'm going to lower this back down and can you jump back up on that crate?
+ BRIAN: Yep.
+ TRAVIS: Okay.
+ (Travis laughs) 
+ BRIAN: I expect it at some point, but this early?
+ TRAVIS: and
+ BRIAN: One, two, three.
+ TRAVIS: On fucking three, not—
+ BRIAN: Do it again.
+ TRAVIS: On three. One, two, three. B
+ RIAN: You went at two, that's the fucking problem.
+ TRAVIS: One, two, three. I panicked. I'm doing some gesture. Why are we doing paper, rock, scissors?! 
+ GAME VO: You will lose 500 points.
+ TRAVIS: She's talking shit. Wait, okay, hold on. Hold on, I got an idea. I'm ready. Are you ready? 
+ BRIAN: Yeah.
+ TRAVIS: Are you ready? 
+ BRIAN: Uh-huh.
+ TRAVIS: One, two, three. 
+ BRIAN: Yes, yes, yes.
+ (laughter)
+ TRAVIS: I don't know why I didn't just try to go through the portal. I mean, look at you. That is really interesting.
+ BRIAN: It's kind of fun.
+ TRAVIS: I wish if I'd just stopped, I'm going to click this. Three, two, one. A-go get him. What happened? (laughter) Shit, hold on! (laughter) 
+ BRIAN: Get in here, Jerry. Guys, someone you should know at Critical Role Land is Jerry, one of our production assistants here.
+ TRAVIS: Right, so we're doing this thing. 
+ JERRY: You made one hole there, you made one hole there, now you make the hole on the other side. One up there, and then one on the other side, and then both of you go through it. Then both of you jump through it, and then once you're on the other side then you create your own little path. Okay, so now you have to make one hole there. 
+ BRIAN: One hole there? 
+ JERRY: Then one hole in the bottom. 
+ BRIAN: I dropped down. I'm at the finish line. 
+ JERRY: Isn't that--can't you shoot--?
+ TRAVIS: No, look, I'll shoot it, you can't.
+ BRIAN: Jerry, are you fucking serious?
+ TRAVIS: Goddamn it, Jerry. God, Jerry. 
+ BRIAN: Get the fuck out of here.
+ TRAVIS: Man! 
+ OFF-CAMERA: Get out of there, Jerry!
+ TRAVIS: Jesus. 
+ BRIAN: I have seen some people do some desperate shit to get on the air in my time, that is.
+ TRAVIS: You know what it's like offering hope to a bunch of lost cow pokes in the wilderness? 
+ BRIAN: I have seen people try to steal the spotlight from you before,
+ TRAVIS:, but never in my life in such a ballsy--
+ TRAVIS: You know who that was? That was a double agent of Balthazar. 
+ BRIAN: Bast'Alar.
+ TRAVIS: Bast'Alar, yep. ♪
+ TRAVIS: Willingham's Yee-Haw Game Ranch ♪ Yee-haw! [dramatic music]  
+ 
+   Part II   Edit 
+ MATT: And welcome back. Before we get into the game we do have our winner of our Wyrmwood giveaway. Congratulations to KittyCatPaddyWhack. (cheering) KittyCatPaddyWhack, we'll get that sent out to you ASAP. Well done, y'all take care.
+ TALIESIN: This dice box will be sent to your home.
+ MATT: So.
+ LAURA: (laughs)
+ TALIESIN: That's what I wanted.
+ MATT: The morning comes to all of you, consciousnesses presents itself. [rain] The rain still beating at the outside of the inn. You all gather yourselves for the day's journey. So. What would you like to do?
+ LIAM: I think that we should just take care of business, ja.
+ MARISHA: Finish Whacko first. Waccoh. We're not saying that right. We should not call her Whacko to her face.
+ LAURA: Is it just going to be you guys going again or are all of us going to see her?
+ LIAM: I think she just us. She was sort of an odd duck and I don't know that she-- I think we should just keep it us, just a gut instinct.
+ MARISHA: If a few more would like to join, if anyone wanted to talk to her.
+ LIAM: I feel like one or two more, but not the entire group?
+ MARISHA: I mean, she knows we're working.
+ SAM: She's a tinkerer, right, she's not a magician or anything?
+ LIAM: No, she deals in the arcane, but she is crafting it towards their military and towards destruction.
+ MARISHA: It seems to be like a war scientist.
+ SAM: A scientist, so if anyone has need of science?
+ MARISHA: Seems somebody that Yeza might actually be able to have like really great boring conversation with.
+ SAM: Would you like to come meet a powerful scientist of the Dynasty?
+ MATT: "Uh, sure. Is it okay? Would that be all right?"
+ SAM: I mean, yes, but did any powerful Dynasty scientists torture you or anything?
+ MATT: "I don't know, it was very dark."
+ TALIESIN: It would also be worth noting that perhaps one of the conversations you're going to have when things turn to the future is how dangerous it is to send people back across the border. Either there's an argument for being checked out to be okay and there's an argument for knowing too much to leave.
+ SAM: Doesn't sound like this Whacko person can give us too many state secrets, right? Or no? Well, let's just go.
+ LIAM: This was the first test that we had in this city.
+ LAURA: She was, what, she's an ogre or an orc?
+ MARISHA: She's a female orc. She was pretty cool. She had, like, crazy wiry hair, glasses.
+ LAURA: How did she feel about, you know, how did she feel about you guys as humans?
+ MARISHA: Well, she definitely gave us the look down.
+ LAURA: You think coming in with two humans and a halfling would be better than going in with two humans and maybe like a half-orc, like Fjord?
+ SAM: Maybe Fjord should come because he's got that orc thing going he could speak her language.
+ MATT: Which Fjord, you guys have been having this conversation while Fjord has slept in a little bit. As Fjord did not get as much sleep as everyone else. You come to consciousnesses, you are alone in the room.
+ TRAVIS: I'm alone in the room?
+ MATT: Yeah. They've all seemed to congregated downstairs.
+ TRAVIS: Where's the sword?
+ MATT: It's still resting on the bed frame.
+ TRAVIS: Can I get dressed and is there a mattress on the bed?
+ MATT: Yeah.
+ TRAVIS: Can I slide the sword under the mattress?
+ MATT: Sure. Slip it under.
+ TRAVIS: Is there like a--can you see?
+ MATT: The mattress is fairly lumpy anyway, it doesn't seem to be extremely noticeable.
+ TRAVIS: Solid frame to the mattress?
+ MATT: No, it's a cushion mattress. Not the most comfortable. There's a frame to the bed, but it's not Tempurpedic.
+ TRAVIS: Okay. I'll exit the room, and on the way down, before I see the group, can I just see someone that works there or the tavern keep or someone that works?
+ MATT: Yeah, you see one of the various inn hands come by some of the folks that normally serves food.
+ TRAVIS: Hey! Do not--do not service our room, I don't want anybody fucking going in where we stay, is that clear?
+ MATT: "That's very clear."
+ TRAVIS: Repeat it back to me.
+ MATT: "You do not want any fucking anyone "to be in your fucking room to clean it, yes?"
+ TRAVIS: That's right, and I give him a silver.
+ MATT: "Thank you."
+ TRAVIS: Get out of here.
+ MATT: Darts off.
+ TRAVIS: How do?
+ SAM: Fjord, we were just talking about going to see an orc.
+ TRAVIS: Oh good, sorry.
+ MARISHA: Hey, Sleeping Beauty, you look like shit. Speaking of, who wrote dicks in this page of my journal?
+ LAURA: Yeah.
+ MARISHA: Damn it.
+ TALIESIN: That a real question?
+ MARISHA: There are dicks in my journal that I did not draw. It is a genuine thing that happened both in real life and in the game.
+ TRAVIS: It's a question and yet not a question at all.
+ SAM: Why don't you two go to Waccoh, we'll bring Fjord for the orc of it all, we'll bring Yeza for the science of it all, and then I'll come for the Yeza of it all.
+ MATT: "Okay, so am I staying in the room, then?"
+ SAM: No, no, come.
+ MATT: "Okay."
+ TRAVIS: I don't need to go.
+ LAURA: Yeah, you do, but here's the thing, yeah, like, I don't know I mean, no offense you guys you're really cool, but I'm afraid that she might look you know because it's two humans and a halfling like it'd probably be better if somebody you know that wasn't human or a halfling went.
+ SAM: We have a half-orc.
+ LAURA: Yeah that's what I'm saying.
+ SAM: And me!
+ LAURA: I know and you you're really--
+ MARISHA: I mean, she already gave us the job.
+ TRAVIS: Devil's advocate.
+ LIAM: Continuing something that has already begun, I feel like we made a good start of it.
+ MARISHA: Yeah I feel like we're pretty cool and we killed the giants.
+ LIAM: We've done what was asked.
+ TRAVIS: Yeah I mean, no reason to bring new partners into a transaction that they clearly handled very well.
+ LIAM: That is what I was saying.
+ SAM: You don't want to go.
+ TRAVIS: I mean, I'm fine to go, I just I think they've got this.
+ MARISHA: I was just offering if anyone wanted to meet her 'cause I thought she was kind of cool.
+ SAM: I want to go.
+ MATT: Okay. Yeah all right, wherever--Nott-- should I call you Nott?
+ SAM: No. It seems weird coming from you. They can call me Nott.
+ MATT: "I agree."
+ LIAM: Veth, Yeza, the four of us, I don't want it to be too big I don't want to--
+ LAURA: How many of those cookies do you have?
+ MARISHA: Do you want some?
+ LAURA: I want one.
+ SAM: He's RP'ing right now.
+ LIAM: No it's fine, share your cookies. I just don't want to spook her because I am trying to accomplish more than one thing. We are going to collect, we also need to decide, I think we're agreed, we are not taking the coin--the jewels-- we are going for these items that she has.
+ MARISHA: That's right, it was either 8,600 GP worth of gems, which could give us some dope tattoos once we see Orly again, right?
+ LAURA: We need like 25 hundred dollars worth of gem dust.
+ LIAM: What is a dollar?
+ SAM: That would be three tattoos.
+ MARISHA: Yeah, we could get three tattoos.
+ LAURA: I think it was 25 hundred gold's worth of gem dust.
+ LIAM: Or she had a staff that maybe could work for anyone but I think is perfect for Caduceus, a staff of withering. She had a cloak--what did that cloak do again? It was a robe right?
+ MATT: Yeah, there was a robe that when opened it had the ability to apparently possibly frighten and throw off an attacker.
+ LIAM: Okay, so a scary robe, and then there is a ring of evasion, which would be good for Yasha or myself because I could be knocked down by a rabbit.
+ LAURA: That would be good for anyone really.
+ MARISHA: I really feel like Caduceus was our MVP this trip.
+ LIAM: That is true.
+ TALIESIN: That's nice.
+ MARISHA: I will say so I'll put my vote if we want to go with one of the items, I think you did a good job, man.
+ TALIESIN: Thank you. I'll also say I always think craftsmanship is worth more in the end than just raw material. Gems will come and go.
+ LIAM: We instantly thought of you when we met her.
+ TALIESIN: I think this might be-- Things are getting tougher so maybe it's time to toughen up a bit.
+ MARISHA: I'm also not against gems I just want that to be known.
+ ASHLEY: Is the staff worth the same amount as the gems? because maybe you can ask her for a couple more things that would be equivalent to the price.
+ LAURA: I bet the staff is worth a lot of money.
+ LIAM: We could make this simple. Show of hands, who wants the items over the coins?
+ LAURA: Wait, who wants the items or the gems?
+ SAM: Over the gems.
+ LIAM: Hands up for items.
+ LAURA: I want Caduceus to have a staff.
+ TALIESIN: Items are always better.
+ LIAM: All right, so we are agreed.
+ SAM: I like shiny gems.
+ MARISHA: Let's see if we can get some more gems though, maybe we can get some gems as like a tip.
+ LAURA: Yeah bring somebody with you who's really good at talking people into things.
+ LIAM: I mean, we really humiliated that person, I'm pretty good at talking when I'm on my game.
+ MARISHA: Yeah, we weren't really on our game last time, but we did okay.
+ SAM: Let's go.
+ MATT: All right, so. We have these three and Yeza going to the Marble Tomes Conservatory, what are the rest of you doing?
+ ASHLEY: I wonder if I could, I mean, you guys do not have to go but I would like to maybe see if I can buy some bracers or something to make myself a little bit tougher on the outside.
+ LAURA: Yeah we can go see if we can find like a cool store or something.
+ ASHLEY: I don't love shopping but I'm nervous to wait to see if I find something somewhere and maybe die in the process.
+ TALIESIN: Do you have anything you need doing? Otherwise I was just thinking about maybe having a look around, maybe figuring out a gentle way to see if this--what was this, Overcrow thing or not.
+ LAURA: Oh yeah, we should find the Overcrow.
+ ASHLEY: We could look around for that.
+ TALIESIN: We could do both.
+ LAURA: Let's just roam around and see what we see.
+ ASHLEY: Let's sight see in where we are right now.
+ TRAVIS: Do you want to meet up or do you want to take two different--?
+ ASHLEY: I would also like to see if we could find the Overcrow.
+ LAURA: Yeah let's wander out to find the Overcrow and look for stores on the way.
+ LIAM: You are going to go shopping?
+ TALIESIN: We'll meet back up for lunch.
+ LIAM: I write a little laundry list out for Yasha specifically. I'm going to write that now and text it to you.
+ ASHLEY: Okay.
+ MATT: Okay.
+ LAURA: Paper, paper, ink, paper.
+ MATT: The four of you, including Yeza--
+ LIAM: I went to text her and I went Y-A-S-H. (laughter) I was like, why isn't it coming up?
+ MATT: That's pretty funny. We've gone too deep guys. We've made Mazes & Monsters-ed this. The three of you plus Yeza make your way from the Gallimaufry to the Firmaments to the Marble Tomes Conservatory. Upon stepping in--and Nott and Yeza, both are you and your husband are kind of taken aback by the structure. It's beautiful, it's elegant and ominous at the same time. It's still strange to have it still dark even though it feels like it's morning. The glowing green lantern light and the bits of flickering internal firelight that shimmies through some of the windows--it's a beautiful display. They take point, and as you approach, the guards walk forward--the Aurora watch that are guarding, seem initially flustered by the arrival of these strange humans but one of the guards puts up a hand to the others, "I recognize them it's okay. "Have you returned to talk to the professor?"
+ MARISHA: We have. We've returned quite victorious.
+ MATT: "And you bring with you--?"
+ MARISHA: Our compatriots and aids in the bite--fight against the big biting giants.
+ LAURA: I thought you were--(cooing)
+ MATT: "And the halfling is part of this how?"
+ LIAM: He is an expert in things alchemical. He's an associate.
+ MATT: "Very well. This way," and the guard leads the four of you into the main chambers up the staircase to the second floor off to the side, and to the familiar exterior of Professor Waccoh's study. The door itself is closed and the guard approaches. (guard knocks) "Yeah?" "Professor, you have guests." You hear things unlocking from behind it and the door opens up for a second. The metallic chains on the inside of the door clang against it from the force of it being opened and brought to an abrupt halt, you see now Waccoh, her head poking out, the same eyepiece protracted quite far, looking out. The singular tooth poking into the cheek, looking out at the midst of you and goes, "Oh." (chuckles)
+ SAM: Hi.
+ MATT: "Was this one here? What's this business here? "Oh. Oh. Oh look at you you're small and plump "aren't you?"
+ SAM: No, he's not plump he's fine.
+ MATT: "No you're right actually, "he's sallow for a halfling. "Sorry didn't mean any offense. "This is weird, I don't know you, "are these friends of yours?"
+ LIAM: Yes they are clever minds I thought they would be interested in meeting you and you might be interested in meeting them.
+ MATT: "All right, well, I am professor Tuss Waccoh. "What's your name?"
+ SAM: My name is complicated, but--
+ MATT: "Complicated, pleasure to meet you. "All right, and this halfling here is?"
+ SAM: That's Yeza, he's a scientist.
+ MATT: "I'm Yeza." You can see him, kind of taken aback. "Oh, are you scared, boy, is that what's going on? "Don't be scared, I'm just a professor," and leans in real close the hair bouncing a bit from her physical movement. He leans back. "No, it's a pleasure to meet you." Puts the hand out.
+ MARISHA: He does the alchemy shit.
+ LIAM: Like us he is a special guest of the dynasty.
+ MATT: Grabs his hand and pulls him in and inspects his hand and goes, "Yeah, I see some chemical scars here, "an alchemist indeed." Sets it back to him. "Well, all right you're here I assume "that means either you succeeded or you failed. "Good news, bad news, come on in. Follow." Opens the door and leads you guys inside. You come in and the smell immediately smells of like burnt turkey or something burned in here and in fact on the far wall where you saw one of the tall windows that has all these panes in it, the wood on that side that had been set in there, is burned black and there is like a burn char mark across that side of the stone. The rest of room looks the same as it was left. You see there's a set up on the far desk. She immediately grabs a blanket and throws it over, hiding a bunch of the things that she is working on.
+ MARISHA: What is she trying to hide?
+ MATT: Make a perception check.
+ LAURA: See something cool. See something cool.
+ (Travis groans)
+ MARISHA: Why is this the story of my day? And my weeks? Six.
+ MATT: Six. Unfortunately you were focused more on the char marks on the wall before you realized the blanket being thrown and it's too late and it's already covered whatever's there. The shapes that it's covering looks to be some sort of--it could be an alchemical set, it could be a contraption of some kind, whatever it is, whatever this work bench desk on the far wall is, it's currently covered. She turns around and goes like, "So, what's your business? How'd it go? "How'd it go? Did you get the giants? "Did you do everything fine? Did you fail? "Did you fuck up? Did you lose friends? "What happened? Tell me."
+ LIAM: We have taken care of you and it has gone optimum. Your rival utterly humiliated.
+ MATT: Tell me, I need all the details. Please, this is--hold on, hold on. She grabs a few chairs and scoots them up to you goes around grabs her chair and scoots it up sits down. (knuckles cracking) "Now tell me please, I want to hear all of it."
+ MARISHA: Do you want it chronologically or you want the highlights?
+ MATT: "No, no, every detail please."
+ LIAM: Well, bottom line is that there is no longer a giant problem.
+ MATT: "Good, good."
+ LIAM: That is cleared, yeah?
+ MATT: "That is fantastic! We're back in business. "Everything going back to Steelworks? We're good?"
+ SAM: We're fine.
+ MATT: "Okay. I'll have to send some specific orders. "I've got some new designs for them to start on. "And the next wave is going to be almost ready. "This is perfect! Your timing is fantastic! "I'm really appreciative. "And about the foreman, the foreman, the foreman."
+ LIAM: I'm not sure. Is it better to re-tell it or to give him the letter?
+ MARISHA: Yeah, well, let's just say that there was a dramatic reading, there was a performance. A lot of thought went into it. I actually learned talents from my partners that I didn't know exist. Of this. Ah. You willing to make a deal with us though?
+ MATT: "I already made a deal with you."
+ MARISHA: Would you be willing to talk?
+ MATT: "Talk about...?"
+ MARISHA: Further negotiations.
+ MATT: "We had a deal there missy. "Don't come in here and try to renegotiate "the deal we've already made, I don't work that way. "The professor doesn't work that way, okay?"
+ MARISHA: I'm not trying to renegotiate the deal we made, just express my interest in future ones, perhaps?
+ MATT: "Oh, more work. My misunderstanding."
+ LIAM: We also just believe you'll be thoroughly impressed because he wasn't slightly embarrassed, he was utterly humiliated.
+ MATT: "That's what I wanted to hear."
+ MARISHA: And we accept tips.
+ MATT: "Great, tips." "Oh hoh, oh no. "Oh, his wife's going to love this."
+ LIAM: We left him passed out in the mud in front of all his workers.
+ MATT: "Oh, do go on please."
+ MARISHA: Well, he passed out--
+ MATT: "From embarrassment?"
+ MARISHA: Yeah.
+ MATT: "I didn't know that was possible, that's amazing. "In front of all the workers?"
+ LIAM: There were two separate days. Day number one, a friend of ours who is not here very successfully dressed him down in front of his men, we thought that was probably enough. It probably would've been. But on the way back, after your giant problem was taken care of, there was a bit of dramatic reading, a bit of a performance.
+ MARISHA: He's also really shitty at hiding letters. It was like not even hidden it was just out on the desk. He really brought it on himself.
+ MATT: "Well, I will say one of my favorite "traits in another person I work with "is overachievement, so I am very happy. "May I keep this?"
+ MARISHA: You may.
+ MATT: "All right." Goes and tucks it in this heavy robe and has to open up to like a third pocket on the inside and stuff it in there.
+ MARISHA: That's our little gift our little tip if you will. Does she get what I'm saying? I don't know if she gets what I'm saying.
+ SAM: I think she's picking up on it.
+ MATT: "If I recall we had some "possibilities here. Gems, right? Gems." She goes over and starts pulling out the materials and grabs the sack of gems and like hits them on some of them scatter out. "All right, so how much would you like?"
+ LIAM: We would be more interested in the items that you had.
+ MATT: "Right! Right, you made your mind up on that one. "All right, fine." takes the gems scoops them in.
+ SAM: Don't take them all away maybe we could do a little--
+ MATT: "A little bit of column A, little bit of column B?"
+ SAM: Maybe, maybe, they're really nice.
+ MATT: "All right, all right, well "I'll leave them here in plain sight. "I'll go ahead and--" she reaches over in the chest on the side and begins pulling some of the items and objects from the inside. Procuring the robe, the staff, the ring, amongst all the other pieces of brass and things that she's like, "No, they didn't want this, this no," basically scatters them out onto the table to the right of her and goes, "So what you want, what you want? You want some gems, you want some items, you want all the items, all the gems, what you want?
+ LIAM: You know specifically that we want that staff for an associate of ours.
+ MATT: "Here you go, staff, that's one. "What else do you want?"
+ LIAM: I am particularly interested in that ring, Beauregard, would you be all right with that?
+ MARISHA: Yes, I think I would approve of that ring.
+ SAM: Is that the only other item we get?
+ MARISHA: Well, there's that flashy robe one.
+ SAM: I know but two items, that's the deal?
+ MATT: "Well, there was two items "and then because you have so thoroughly "done a fantastic job of embarrassing the foreman "in front of, well, pretty much everybody "he's ever cared about--especially once I deliver this note-- "that was a third item. "So it's your choice-- "would you like the robe or some of the other pieces "of pottery here?"
+ LIAM: There was a blade wasn't there?
+ MATT: "Right yeah. It's broken."
+ SAM: If we wanted to substitute the third item for gems how many would that be?
+ MATT: You see her do some calculations in her head. "Put like--let's call it three thousand "gold worth of gems. Your call."
+ SAM: It's pretty good.
+ MARISHA: It's enough for a tattoo, for the start of a tattoo.
+ MATT: "Or this broken blade, it's up to you."
+ SAM: What is the broken blade?
+ MATT: "It's some sort of a keepsake, "still trying to ascertain what the basis "of its enchantment was but--"
+ SAM: Caleb is very smart about these things.
+ MATT: "I'm also quite smart."
+ MARISHA: Does it look anything close to the broken blade that we already have in our possession?
+ MATT: Make a perception check.
+ MARISHA: I've been rolling so terribly today.
+ LIAM: But not this time.
+ MARISHA: Ooh!
+ MARISHA: 19! Perception, I'm assuming.
+ MATT: Perception. From this point you look over and you glance and you take in the break of the blade. It's also part that I'll consider recollection and tying the two together. It looks pretty similar of make.
+ SAM: What are the odds.
+ MARISHA: It's not. There are no odds. It's not a coincidence. It can't be.
+ LIAM: There will always be coin, there will always be gems.
+ MATT: She's holding the blade and looking at it, going--
+ LIAM: Would you be averse to me taking a moment?
+ MATT: "Oh take your time, that's fine, no worries."
+ LIAM: All right, I'll just sit down in the middle of her floor and plant it on the ground and pull out my book and I'm going to cast Identify as a ritual spell right in the middle of her room.
+ MATT: Okay. You complete the spell, take the blade. Spell's not taking. Something about the fractured aspect of it is preventing any clarity.
+ SAM: A broken blade doesn't seem like a lot. Maybe--I'm just throwing it out there-- broken blade plus 15 hundred of the gold of the gems. It's a broken blade, what are you going to do with a broken blade? Kill half a person? Can't do that.
+ MATT: Make a persuasion check.
+ SAM: Oh, I'm good at that.
+ TALIESIN: Yeah, you are.
+ MARISHA: Come on, come on.
+ SAM: Four. Minus-- No, five. I got a plus one.
+ MATT: There you go. "I will say, while it may be broken, "there is some possible cultural significance here, "maybe like in a museum or, if I can find a way "to extract the basis of this enchantment "it can be translocated to another object, "which is something I have done in the past. "That could also be useful. So I'm going to say no, "you choose the item or you take the gems. Your call."
+ LIAM: You are hanging on it, ja?
+ MARISHA: Yeah. You should trust your instinct.
+ MARISHA: What, the sword?
+ LIAM: Yeah.
+ MARISHA: I mean, that's-- it's a sword right?
+ LIAM: Trust your instincts.
+ TALIESIN: I'm not making eye contact.
+ LAURA: Get the sword. [pigeon coos]
+ MARISHA: How about this. We'll take the sword and you give us 90 minutes in your awesome library in the special book section.
+ LIAM: I was going to ask for unlimited access, but okay.
+ (laughter)
+ MARISHA: Or. Unlimited access.
+ MATT: "Yeah, you see, that's the thing. "The library here is only really open to members "of the conservatory and its staff, "so unlimited access is not viable."
+ MARISHA: But 90 minutes?
+ LIAM: How about a day? And I'm holding up the medallion given to me by the empress.
+ MATT: Make a persuasion check with advantage because he's holding up the medallion.
+ MARISHA: Persuasion check. That's not great. That one's cocked.
+ LIAM: Yes, it is cocked.
+ MARISHA: Oh, did you see that? Why does it always happen? It's the same roll. Seven.
+ SAM: Wow! Wow!
+ MATT: "I'm sorry, there's certain things "that are off limits and there's a good reason for that. "I mean no offense, and you've all been very very useful, "but there are things that are best kept under "lock and key for those who have long-term proven "their association and loyalty to the Bright Queen "and all that we hope to achieve here "at the Marble Tomes Conservatory."
+ SAM: Can I make one more offer?
+ MATT: "What is your offer?"
+ SAM: I am a lowly adventurer but my husband here is a fantastic mind, and if you have any need of any alchemical knowledge or expertise I bet he could help you out.
+ MATT: "You talking apprenticeship? "What, you want to apprentice here?"
+ SAM: No, no, not apprenticeship. No, just one little piece of advice if a puzzle you can't crack something, something you've been working--
+ MARISHA: Nott, an apprenticeship could be awesome. Especially if we're going to be here for some time.
+ SAM: What would it entail?
+ MATT: "Well, first off we'd have to get it cleared "because we haven't really never had a halfling here. "So there'd be a period of time in approving "of his presence to ensure that there isn't "any sort of, you know, Empire interests "or muck behind the history there. "After which we'd have to go and get approvals "from Den Thelyss, then we'd have to "ensure that he works under me "for the period of the internship, "which can mean--depending on what you're "looking to learn and what we're looking to do-- "two three years. Up to you." Yeza's just like, "What about our son?"
+ SAM: Yeah we're not going to do that, don't worry.
+ MATT: (as Waccoh) "Okay, well then no worries."
+ SAM: But if there's a singular question you have, or puzzle to solve he might be able to aid you.
+ MATT: "Wonderful, and if I think about it I'll contact you."
+ LIAM: I do have a question for you. We will take this sword fragment and the ring.
+ MATT: "There you go." Throws it down haphazardly, it clings on the edge of the table, and you have to catch it.
+ LIAM: I have an honest question for you.
+ MATT: "What's your question?"
+ LIAM: As proclaimed heroes of the dynasty by the Lady of Kryn herself, what do we need to do to further establish our trust with you, specifically, and the Marble Tomes, because we are willing to do it.
+ MATT: "Well, for one thing I would say "continue doing great little favors like this. "Continue to help us with our war effort. "Continue to prove through actions "and not just words that you believe "in what we're trying to accomplish."
+ LIAM: We have supplied you with many actions and a few words as well. I understand your position and we are eager to show our use to you, so I hope you will continue to allow us to do that.
+ MATT: "Of course, and I will-- "based on the information you've given me today-- "I'll check it and see how well things "are at the Steelworks going forward. "If indeed things are moving as well as you say "and that gives us maybe a few weeks "before the things that we were in the process "of creating should be ready, finished, "and shipping out to the west-- "in which case in the meantime I'll start "looking for more jobs for you. "Plenty of weird things happen around here "so I'm sure we could use your help."
+ LIAM: If I may, check in with the royal line as well. Ask about us. I think you might be illuminated by it.
+ MATT: "Okay. I also want to let you know "that to show just how graciously they've "accepted you for whatever great thing you did "for them, you're both alive in the middle "of the capital of Xhorhas as a couple "of fucking humans. "Let's just say that that's also "part of the gift and favor you've been granted. "Now we made a deal, I've paid you fairly "and then some for what you've done. "I don't mean this as an offense "but I mean, you come in here and start squeezing "my balls on this, I just wanted to, you know, "make it a fair above board transaction."
+ LIAM: We are grateful. We know our worth but we are very grateful thank you.
+ MATT: "Hey, I don't hold the Tomes, all right? "I'm not going to put my neck out there "to go ahead and get--no offense--a couple of humies "in there to read some of our special shit. "I got to be careful and watch my own back. "Keep working, maybe we can pull some favors "in time and I'll see what I can do."
+ LIAM: Verstehen.
+ MATT: "All right, we square? "We square, little guy?" Yeza's like-- "All right. Get out."
+ SAM: Bye.
+ MARISHA: Bye.
+ LIAM: (Vaudeville exit music)
+ SAM: She called you "humies."
+ LIAM: It's fine.
+ MARISHA: It's fair.
+ SAM: It's offensive.
+ LIAM: It's accurate.
+ MARISHA: We humies have also done a lot of offensive things so--
+ SAM: Well, we go back to our friends.
+ MATT: You guys are escorted off the Marble Tomes.
+ SAM: But they're off doing something.
+ MATT: While you guys are doing that, you guys are in the process of searching for, what, the Overcrow, you said?
+ LAURA: Yeah!
+ TALIESIN: Gently, gently.
+ (Matt laughs)
+ MATT: All righty. Still trudging through the day rain, you begin to ask around. Who's helming this? Who's asking the questions and trying to get a bead?
+ TALIESIN: I'll do it. If you guys are looking for a shop, then I'll--
+ MATT: I'm saying one of you has to take point in the attempt to--
+ TALIESIN: I'll take point if you guys want.
+ LAURA: Sure. I can not do that.
+ MATT: You can choose to do either investigation or persuasion your choice.
+ TALIESIN: Definitely persuasion.
+ MATT: Okay.
+ TALIESIN: Not a good investigator. 14.
+ MATT: 14, okay.
+ TALIESIN: Oh, investigation or persuasion?
+ MATT: Yeah, your choice.
+ TALIESIN: Oh nevermind, that's much worse. I'm sorry, I hit the wrong number.
+ LAURA: Oh, you're bad at both.
+ TALIESIN: Oh, I am. That's eight.
+ MATT: All right.
+ TALIESIN: Goddamn it.
+ LAURA: Guess I should've been doing that.
+ TALIESIN: Yeah, you should've been doing that.
+ MATT: For the first three hours of your travel through the Gallimaufry, you stumble upon heavy working ogres and goblins and ornery bugbears transporting goods and resources from side of the city to the other. You can see various beast folk children and waste folk children running through streets and screaming. And every time you try to start a conversation, people go, "I--eh," and ignore you.
+ TALIESIN: This is weird, I don't know what to do with my hands. Never had that happen. Do you always think about that? Do you always think about where your hands--? Because suddenly it's all I can think about, it's like, oh are they supposed to be in your pockets? Or I mean, cause it's cold out.
+ TRAVIS: Hey, Caduceus. This is not really getting us anywhere. Maybe I could give it a try.
+ TALIESIN: Oh, yeah, no, absolutely. You are--
+ TRAVIS: If you don't mind. Okay, can I go up?
+ MATT: You can try it as well, yeah.
+ TRAVIS: Investigation check. (groaning) Damn it.
+ MATT: Or persuasion, your choice.
+ TRAVIS: 12.
+ MATT: Okay, okay. Takes you another 20 minutes or so, but eventually--you're trying to find somebody who looks both knowledgeable and not in the middle of something that would be willing to engage. Especially with the downpour, folks seem to be a little more shut off than usual.
+ TRAVIS: It's what?
+ TALIESIN: It's like your hands just know where to be, I don't know.
+ MATT: You are eventually told to make your way towards the Coronas, which is the outermost edge of the city.
+ TRAVIS: Did we go through there to get to the--?
+ MATT: Correct. You're sent to the Coronas, towards more of the western side of the city. Maybe a 15 minute walk along the south outer edge from the western most road that exits into the Ghostlands. Walking past this neighborhood there's all manner of stacked shanty towns. Especially more in the goblin districts here, there are shacks and homes that are pushed on each other. Some of them look a little ramshackle and ready to slide or crumble yet still seem to hold together. Whether that be a quirk of goblin architecture or just over time just learning to find a proper balance of things that are placed, it's impressive, and also you kind of keep to the center of the road in case anything slides off. It's a little precarious. Eventually making your way through the crowds, try not to call too much attention to yourselves though there are a few eyes that stare at you, Yasha, and a few at you as well. You guys do catch a little bit of attention, less on Jester and Fjord's route, but you do have a color scheme that is not common amongst the city.
+ TALIESIN: No, we went shopping I'm blendy.
+ MATT: Oh, fair enough. You have your Xhorhasian clothing. You do as well, but you are still a human. But nobody seems to be following. They're just gruff and snarl a bit, seem to not want to engage. Take a wide berth around you. Eventually you come upon a narrow but tall two-story structure, with mismatched roofing, lengths of chain running along the edges of the roof, where lanterns and knick-knacks hang from it. You see a single wooden sign that hangs over the top that says The Overcrow Apothecary.
+ (gasping)
+ LAURA: It's an apothecary.
+ LIAM: Oh shit.
+ MARISHA: Interesting.
+ TRAVIS: Nice.
+ LAURA: Yeah.
+ TRAVIS: As we've been making our way within the ramshackle areas, do we see other things like other markets or stores or temples or anything like that that stands out as a structure that's dedicated to something specifically besides lodging, or--?
+ MATT: As you're heading from the Gallimaufry to the Coronas, there are places of business most of them seem to be general goods, food, knick-knacks, handmade little carts on the side that have handmade goods and jewelry. Most of the shops here appear to be not geared towards the more noble dens of the city, tend to be more for functionality and general use. No temples. Most of those seem to gathered towards the center of the city in the Firmament and that area. Are you looking for any particular shop?
+ TRAVIS: Just curious what we saw.
+ MATT: You do pass by the--
+ TRAVIS: There's no barracks or anything there's a collection of guards or other things that would--?
+ MATT: Not that you've come across yet, no. You could look for one if you'd like. But you don't see that here. You do pass by the Hammered Call, which was the armory where you guys had been previously.
+ TRAVIS: Was that where Wursh--?
+ MATT: Wursh the Tapper was, yeah. You pass by there, but beyond that there's been no other places unless you're specifically looking for a particular type of business that catches your eye. You're standing outside the apothecary in the rain.
+ LAURA: Should we go in?
+ TRAVIS: This was the location of--?
+ LAURA: That's where they said they were going to meet.
+ TRAVIS: They were going to meet, they weren't going to place another thing here, were they? Or we're not sure?
+ LAURA: They were meeting, I think.
+ TALIESIN: Let's just go inside maybe try and buy some healing potions.
+ TRAVIS: Average patrons.
+ TALIESIN: Just nothing fancy. Let's just get a lay of the territory.
+ LAURA: Get the vibe.
+ TALIESIN: Before we go in I'm definitely going to cast Detect Magic.
+ MATT: Okay. You cast Detect Magic. You get a very faint magical essence from the inside the building.
+ TALIESIN: Guys ready to go shopping?
+ LAURA: Yeah, yeah, yeah, yeah.
+ TRAVIS: Let's shop.
+ MATT: You guys enter the chamber and on the inside of the apothecary you--surprisingly sparse display of herbs, ointments, oils, alchemical supplies. For the interior space, like I said it's thin but tall. The shelves here seem to be a little more barren in comparison to some of the more cluttered herbalists that you've come across in your past. They do have supplies on display. You do see however a lot of oily blankets, and piles of empty wooden crates scattered everywhere in like a semi-hoarder atmosphere, this entire room is a fire hazard. Just the smell in it between the various herbs there is definitely a heavy flammable oil scent in the air akin to someone spilled gasoline in your car. There's just that smell that's present, it's soaked in to the area.
+ LIAM: Keep Caleb away.
+ MATT: You see a rickety spiral staircase in the far right corner that seems to go up to the second floor, and across the room from you you see clipping toenails with a small knife, this young goblin with her legs up on the edge of a desk table arrangement, and you can see these long nails curling forward that are darkened on the corners, and she's just cutting it off with a blade like you'd cut a pears outer edge or skin an apple. (high-pitched grating voice) "Yeah, come in, come in. "Can I help you?"
+ LAURA: Mm-hmm.
+ TALIESIN: We're looking for possibly just doing some comparison shopping, healing potions. We're also looking for like ink and parchment if you carry such things or otherwise.
+ MATT: "Ink's not really a specialty of mine. "Parchment, I guess I can get you some?"
+ TALIESIN: What's your specialty?
+ MATT: As she leans forward you can see there is a faint underbite, and a row of sharp teeth hook forward from under the upper lip. The ears look chewed a bit on the sides, this goblin's seen some tougher days. But seems to be positive and smiling in your direction. These very bright yellow eyes. She leans forward and goes, "Just parchment and ink? Want else want anything else?"
+ LAURA: What is your specialty?
+ TALIESIN: Yeah you mentioned specialties?
+ MATT: "Well. We got to oils, "we got things to help with your cracked skin, "if want to get out in the sun. "We got things that'll make your cheeks nice and flush. "We got to things that'll help with digestion, "we got things that'll help you grow better hair "like silky and shiny--
+ LAURA: That's cool.
+ TALIESIN: Am I getting a Detect Magic off anything in the room?
+ MATT: There is in the back of the chamber behind her there is a slight magical essence in the corner but you don't see anything there.
+ TRAVIS: This is a beautiful shop. Is it just--
+ MATT: "Why thank you, I appreciate it. "What's your name, handsome?"
+ TRAVIS: Fjord.
+ MATT: Fjord! (chuckles) Leans forward a bit. "My name is Maruo."
+ TRAVIS: Maruo, it is a pleasure to meet you and thank you for welcoming us into your shop, Maruo.
+ LAURA: Maruo, do you live here?
+ MATT: "I do."
+ LAURA: Is that your house upstairs?
+ MATT: "It is."
+ LAURA: Cool.
+ TRAVIS: Just you?
+ MATT: "Just me. "All by my lonesome."
+ TRAVIS: Oh, god.
+ MATT: "For now."
+ TRAVIS: Mm-hm.
+ (laughter)
+ TRAVIS: Well, we are certainly in the market for some of that oil that you mentioned that would protect some of our friends' fair skin.
+ LAURA: How much is that, also the one that grows pretty hair?
+ MATT: "Well, for the skin cream and oil "you'll looking for a single bottle "will last you probably about a month. "That one will run you about five gold pieces "but it'll last you for a long time. "Now for the shiny hair one," pulls up a small vial, fumbles it, "There," and it has this weirdly viscous yellowish brown tint to it. "Just put a couple of drops in your "morning coffee or your tea. "This baby'll take you--ten gold for the vial."
+ LAURA: Ten gold?!
+ MATT: "But that'll last you for like a "long time, so you're good."
+ LAURA: That's a lot.
+ LIAM: It's just a jar of pee.
+ LAURA: Can I open it and sniff it?
+ MATT: Yeah. Smells fucking awful.
+ LAURA: Ugh. Is this specific to goblin hair or is it for all people hair?
+ MATT: I haven't heard any complaints yet.
+ LAURA: Okay I'll buy it, here.
+ MATT: You get both of them? Or just the hair?
+ LAURA: Just the hair.
+ MATT: "All right, ten gold, thank you very much. "I appreciate your patronage."
+ TRAVIS: Surely there's more where that came from. Tell me you got more.
+ MATT: "Oh yeah, I got whole bundles, "you want them?" Puts like three more of them. "What, are you storing up for the holidays?"
+ TRAVIS: That is great I--
+ TALIESIN: I think what our friend was also asking is if you have anything particularly special to show off, I mean, something rare something unusual.
+ MATT: "Maybe."
+ TRAVIS: I sure would like to see whatever you consider your speciality.
+ MATT: "Well," and she goes--
+ TALIESIN: Never okay again.
+ MATT: --takes up this small glass jar. You can see there's burlap pushed over it with a piece of twine wrapped and tied around it. She opens it up. "This is my special "healing anti-chafing balm. "Put it on the edges of joints, "your elbows, your knees, also backs "up if as in-need lubrication, "but it'll just get you nice and greasy."
+ SAM: Cocoa butter?
+ TRAVIS: That's the that is the special specialty?
+ MATT: "Why, you looking for something else?"
+ TRAVIS: Well, I mean, just we've heard so much about your establishment.
+ MATT: "What have you heard?"
+ TRAVIS: That there were wonders to behold and the only way to find out exactly what they were was to come here in-person.
+ MATT: Make a deception check.
+ TRAVIS: I have no powers. That's a natural one.
+ (laughter)
+ MATT: She gives you like a weird once-over look and the expression drops a bit. "Sorry, that's all I got!"
+ TRAVIS: You know, I have forgotten my money pouch. I think you guys should just collect as much as you can. I'll lean over to Jester and go like: I will be over at Wursh's place. I need to ask him a few questions. You guys got this.
+ LAURA: Are you sure?
+ TRAVIS: Yeah, no, it's fine. And I'll head out.
+ MATT: "Do come back."
+ TRAVIS: Thank you for your time.
+ TALIESIN: He's been off all day.
+ LAURA: Yeah, he seems a little off, right?
+ TALIESIN: Just a little off.
+ TRAVIS: I'll head back towards.
+ TALIESIN: That's weird.
+ ASHLEY: I'm going to go follow him.
+ LAURA: While I'm going to give Caduceus a little eye--oh wait, I don't even know that you saw anything in the back.
+ TALIESIN: Do you ever deal in healing potions or anything like that as well?
+ MATT: "I got maybe a couple, let me check. "It takes a lot of time to make them."
+ TALIESIN: I'll tell you what. We'll probably come back in. We've got a lot of shopping to do, but it's good to know that this place is here and I think you'll be seeing more of us.
+ LAURA: What do you have in all these boxes and crates and stuff?
+ MATT: "You know, just for the shipments "we get in for supplies and, you know, "just in case. You never know when you need them."
+ LAURA: That's true, that's true.
+ MATT: "Right?"
+ LAURA: Okay, well.
+ TALIESIN: Pleasure to make your acquaintance.
+ LAURA: Thank you for my hair oil.
+ MATT: "What's your name?"
+ TALIESIN: Clay.
+ MATT: "Clay! What's your name?"
+ LAURA: Fanny.
+ MATT: "Fanny, pleasure to meet you guys. "Come back anytime!" Legs go (thudding) on the table. "Son of a--" and is now going back into this ingrown toenail.
+ TALIESIN: Something in the back couldn't really make it out.
+ LAURA: Oh, you should've told me I could've tried to distract her while you got a better look.
+ TALIESIN: There was no way I was going to get a better look.
+ LAURA: All right. Maybe some other time.
+ TALIESIN: Maybe some other time.
+ LAURA: I did get this really cool hair oil, though, I can't wait to start using it.
+ TALIESIN: I'm looking forward to trying it.
+ MATT: In the meantime, while you guys are having this conversation, you've rushed outside into the rain and a few moments later, you hear the pacing of Yasha following behind as you begin to beeline.
+ ASHLEY: Mostly trailing him.
+ MATT: Okay.
+ ASHLEY: Have I noticed that he's unarmed?
+ MATT: He's usually unarmed.
+ ASHLEY: You are usually unarmed?
+ SAM: He summons his sword.
+ MATT: The sword lives in a pocket space.
+ LAURA: His sword lives inside of him.
+ (Matt laughs)
+ MATT: You're following Fjord. Are you just keeping a distance to watch? Or do you approach?
+ ASHLEY: I'm going to approach.
+ MATT: Okay. You hear Yasha come up from behind.
+ ASHLEY: I have to go there too, I'm sorry. But I'll give you some time if you need to.
+ TRAVIS: To Wursh's?
+ ASHLEY: Yeah, just I want to ask him about making something for me.
+ TRAVIS: You mentioned bracers.
+ ASHLEY: Yeah.
+ TRAVIS: Yeah he, looks like he makes good stuff. We should go there.
+ ASHLEY: Okay. Let's go there.
+ TRAVIS: Yeah.
+ ASHLEY: Yeah. Okay.
+ MATT: You guys exit and you can see back where you came, Fjord and Yasha are quite a ways up, but they're heading in the direction of the Hammered Call.
+ TRAVIS: As we're walking, do we see any kind of temples in particular?
+ MATT: Make a perception check.
+ SAM: One.
+ TRAVIS: 20.
+ MATT: 20. There are no temples or any structures that seem to mark any sort of denomination. You do see small shrines. You see on the mantles and above houses and left by rain collection barrels there's little shrines that have makeshift dodecahedrons, and then a few other have a few other strange sculptures that you don't necessarily recognize. Make a religion check.
+ TRAVIS: 12.
+ MATT: 12. You're not sure what the smaller idols and clay, matted sculptures are. Iconography. It all seems pretty crude. But it seems to be held or at least placed in the same reverence or not necessarily next to or sharing space with but you see a couple, though, largely in the goblin cluster home establishments. They are definitely placed in a religious way.
+ TRAVIS: Great. Great.
+ MATT: You approach the exterior of the Hammered Call, and you stop you can hear in the inside the ting ting ting.
+ (water quenching)
+ TRAVIS: After you and I'll hold out my hand and I'll try and cast Minor Illusion just to make a little bird in my hand.
+ MATT: You concentrate on your hand... nothing. A little bird. MARISHA and
+ LAURA: (gasp)
+ SAM: Oh! Wait!
+ ASHLEY: Well, that was nice.
+ TRAVIS: Wasn't it? It really was. I am glad we are here. After you.
+ ASHLEY: Hello.
+ MATT: You enter. You can see the heavy muscled shoulders and back of Wursh as he's sitting there hammering. He's taking the metal back and actually he's not hammering now. He's holding it in the forge and you can see the metal lighting up brighter and brighter orange, and with his other hand he sets down the hammer for a second rubs his chin. Looks over. "Hey, what I can do to help you?"
+ ASHLEY: Yes, I'm wondering if I could have you make something for me?
+ MATT: "Maybe."
+ ASHLEY: I'm looking for bracers of some sort for--I'm looking to up my armor a little bit.
+ MATT: "I mean, I got all kinds of armor "I can sell to you and make you. "Bracers won't do much to protect you alone."
+ ASHLEY: Okay.
+ MATT: "But if you're looking for armor, "I got breastplates, I got splint mail, "I got ring mail, I got chain mail, "whatever you're asking for. "You just let me know. "Oh hey."
+ TRAVIS: Hey, Wursh.
+ MATT: "Fjord was it, right?"
+ TRAVIS: You got it.
+ MATT: "Good to see you again."
+ TRAVIS: You too. I wanted to thank you for your words the last time we met. I, um--
+ MATT: He sets the metal aside, letting it cool.
+ TRAVIS: I confess, I have a bit of temper when it comes to people talking about our kind.
+ MATT: "It's okay. Our kind has a temper."
+ TRAVIS: Yeah. I've fought against it my whole life. You... caught me on the spot. I haven't ever sort of talked about that sort of stuff nor have I been around our kind that much. Do you mind if I ask you a personal question?
+ MATT: Looks over to Yasha, looks to the rest of the empty room. As soon as Jester and Caduceus step into the doorway he goes, "Depending."
+ TRAVIS: Yeah, if it's a bad timing.
+ ASHLEY: I'm going to step outside.
+ TALIESIN: What are you--?
+ LAURA: What is going on?
+ ASHLEY: We just--I remembered I want to show you guys something outside.
+ LAURA: Okay.
+ TALIESIN: Yeah, all right.
+ MATT: The three of them leave and it's just the two of you.
+ TRAVIS: Uh. I... I grew up around humans and half-elves mostly. You said you grew up with more of our race, is that right?
+ MATT: "Yeah, I'm Boroftkrah."
+ TRAVIS: Were they accepting of you, welcoming our kind?
+ MATT: "They had to be, when I got to a certain age," and he cracks his wrists. "Even I wasn't as big as some. "We were accepting. That's why I stayed in Boroftkrah. "They were proud people and good people, "but we weren't the only orc clan "in the Wildlands and others tended "to lean into their violent side."
+ TRAVIS: Yeah, I only heard stories about that wild side. It was what most people expected my reaction to be, one of anger and rage and violence.
+ MATT: "I tell you what. "I've been to a few Empire establishments "on making my way south, "looking like the way I do. "I've seen some orcs do some terrible things. "I've seen them be violent and angry. "Unfair. "But hell if I haven't seen plenty of humans, "dwarves, elves, half-elves be the exact same. "It's all perspective. It's all about the other."
+ TRAVIS: When they look at you in that way-- granted, you are a fucking ten-ton truck-- what do you do? Shake it off? Give them a look?
+ MATT: "Both. (chuckles) "You pick and choose your fights. "Me? Best not give in to a man I can crush with one hand."
+ TRAVIS: Right.
+ MATT: "Besides, most of them are just bluster. "The ones that draw blades you can see, "the ones that mean to cut and you just "keep on moving."
+ TRAVIS: Are you happy here?
+ MATT: "For now. "Been here long enough to say at least "it's comfortable. I like being where "I can do my shopping and walk through the streets "without too much of a hassle. "Don't know if I take too kindly "to this intensely religious atmosphere."
+ TRAVIS: What do you mean, around their thing?
+ MATT: "Yeah, just not my speed. "They don't push it on you, but it's annoying."
+ TRAVIS: They talk about it all the time, or just fervent worship, or?
+ MATT: "Yeah, just checking to see if you're "interested in coming to one of their little gatherings."
+ TRAVIS: What kind of gatherings?
+ MATT: "Firmaments by the various "high glass temples and such."
+ TRAVIS: They hold regular meetings?
+ MATT: "Not regular. You know the shade above us?"
+ TRAVIS: Yeah.
+ MATT: "They let that slip every now and then."
+ TRAVIS: They do?
+ MATT: "Let some sunlight in. "Those are the holy days."
+ TRAVIS: What happens when the sun is let in?
+ MATT: "Everyone comes out and takes "their time in the light and let me tell you, "it's funny seeing the bunch of them "dark elves out there and force themselves "in the sun for some whispers and worship. "All bleedy eyed and enduring it, "but it's part of how they do their prayer, I guess."
+ TRAVIS: Bet that's good for a laugh, yeah?
+ MATT: "It is, but it means something to them. "That's fine. It's not for me."
+ TRAVIS: Do they do that every few days, once a week, do you know?
+ MATT: "I don't pay too much attention. "Weeks, months, depends on the clouds. "Storm right now, probably won't happen "any time soon."
+ TRAVIS: Sure. I appreciate you extending a kind word. You didn't have to do that, and it's been a while, so thank you.
+ MATT: "Sorry for calling you runt."
+ TRAVIS: It's apt. Present company included. Do me a favor: take care of my friend outside. She is a gentle giant.
+ MATT: "Send her back in and I'll see what I can do."
+ TRAVIS: Will do. And I'll go out. Hey, Yasha.
+ ASHLEY: Yeah.
+ TRAVIS: Think he's got some think he's got some good stuff.
+ ASHLEY: Okay.
+ TRAVIS: Thanks for giving me a second.
+ ASHLEY: Yeah, of course.
+ MATT: You guys all come in with Yasha?
+ LAURA: Yeah.
+ MATT: You come in as well or do you stay outside?
+ TRAVIS: No, I stay outside.
+ TALIESIN: I'll stay outside for a second as well.
+ MATT: Okay, so Jester and Yasha, you come in. He looks over to you and goes, "Like I said, I can make you bracers. "They're not going to do much to protect you "without some of them fiddling magic stuff, "but at the very least, they'll be nice. "They might suit your toughened wrists."
+ ASHLEY: Yeah, I'm trying to think if that's enough. I'm trying to think of what I can wear?
+ LAURA: You know what could work? I've heard of like rings that help protect you. It's like a shield almost, an enchanted ring.
+ ASHLEY: Yeah?
+ LAURA: Yeah, I've seen them before.
+ MATT: Bracers aren't considered armor. They do not improve your armor class, but they're there for show and just to have for flavor, but you can have them enchanted to be more protective, should you find somebody who can do that and you pay them to do so. "Gold piece for the bracers?"
+ ASHLEY: I don't know if those are what I need, then.
+ LAURA: Well, you could always take the bracers and maybe we can find somebody?
+ ASHLEY: Yeah, how much do you charge for that?
+ MATT: "For the bracers, a gold piece."
+ ASHLEY: A gold piece?
+ MATT: "I just told you, yeah."
+ ASHLEY: Oh yeah, I'm so sorry. Yeah, I will buy some of those and maybe see if I can.
+ MATT: "Let me go and take some measurements," and he comes over measures your wrist and your forearm, "Pretty meaty for a human. "All due respect."
+ ASHLEY: Well, I work out a lot.
+ MATT: "Come back--give me a couple hours."
+ ASHLEY: Okay.
+ MATT: "Should have something fashioned for you by then. "This is just a piece of practice material "I can fashion you something nice."
+ ASHLEY: Thank you very much.
+ MATT: "No worries. You want anything?"
+ LAURA: No.
+ MATT: "Okay."
+ LAURA: What were you saying to our friend? Were you being nice?
+ MATT: "We were having a frank conversation, "passing by. Why?"
+ LAURA: I was just wondering. He sometimes, I don't know, he hasn't really been around a lot of people that are like him, so I hope you're being nice.
+ MATT: "I'm being me; I don't "know if that's nice or not. That's all I know."
+ LAURA: Okay.
+ MATT: "He's got a good heart."
+ LAURA: I know.
+ MATT: "Careful. Good hearts don't do well "in times of conflict." He takes the metal prongs and starts heating it in the forge once more.
+ LAURA: Okay, well, we'll come back then.
+ ASHLEY: We'll come back.
+ MATT: "A few hours and it'll be done, I promise."
+ ASHLEY: Okay, thank you, Wursh.
+ LAURA: Did you see his abs, though?
+ ASHLEY: He's massive.
+ LAURA: I mean.
+ ASHLEY: There were so many muscles. A lot of them. I have to go to one more place for Caleb. Would you guys mind? I need to go to a dress shop.
+ LAURA: He needs to buy a dress?
+ ASHLEY: No, just clothes, you know.
+ LAURA: I mean, it's cool if he does, I just didn't know.
+ ASHLEY: Is there a clothing shop nearby? That I can run in very quickly.
+ MATT: Not immediately nearby, but after a short 20 minute search, you find a place that sells standard garments. These aren't fine upper class garments, but these are general clothing, pieces of attire.
+ LAURA: What does he want?
+ ASHLEY: Well, he gave me this list. I show her the parchment.
+ LAURA: What does it say?
+ ASHLEY: Do you want me to read it?
+ LIAM: Sure.
+ ASHLEY: Dark muted purple coat that's fur-lined.
+ LAURA: Whoa!
+ ASHLEY: New boots.
+ LAURA: New boots, he could use some.
+ ASHLEY: Dark charcoal gray in the Kryn style breeches and shirt.
+ LAURA: Cool.
+ ASHLEY: And these are his exact measurements.
+ LAURA: Good to know.
+ ASHLEY: 36-24-36.
+ (laughter)
+ MATT: He's also 5'3"; it's crazy!
+ TRAVIS: Thank you! One second. Only if she's 5'3"
+ ASHLEY: For the sake of brevity.
+ MATT: Yeah, okay, so for those custom outfits, it'll take a few days.
+ ASHLEY: Okay.
+ MATT: I'll say for the full ensemble there it'll run you about ten gold pieces.
+ ASHLEY: Perfect. Okay.
+ MATT: They'll be made with fine materials.
+ ASHLEY: Okay.
+ LAURA: I guess, yeah, that means that we were going to buy some stuff.
+ LIAM: I thought you did?
+ LAURA: Yeah, but they were being custom made, too, so they're probably only getting ready about now.
+ MATT: Yeah, been a few enough days.
+ LAURA: Sweet, so we'll pick up our stuff then.
+ MATT: Do you guys go and regather?
+ TALIESIN: I'm giving him the eye the entire time, but yeah.
+ MATT: Okay.
+ TRAVIS: Moi?
+ MATT: All right, you guys make your way back to gather at the Dim's Inn.
+ LAURA: Ooh! I'm wearing my new coat, and my new dress. I'm spinning in circles so everyone can see it.
+ MATT: As you guys meet up inside and gather and discuss what happened, a voice from the head of the inn goes, "Well, word seems to be saying that you've "done very well lately." You turn and look and there you see Shadowhand Essek Thelyss is there in the doorway. Goes, "Well done! You have done quite "a quite a nice thing. "Well, I apologize for the intrusion, "do you have a moment for your time, please?"
+ TRAVIS: Of course, Slow-Mo. What was on your mind? (Matt laughs)
+ MATT: He says, "Well, "let's just say that we've been very "happy with what you guys "have done for both the Bright Queen "and the good professor. I hear that it fared well. "Because of these deeds under of the light of the Luxon-- "and don't think that Den Thelyss has not noticed this-- "and we would not dare have you stay "as friends of the Bright Queen "in such a--" and he leans in away from the earshot of Gaben, "such a lowly establishment. "While you were gone, we have secured for you "an abode within the Firmaments." (Laura gasps) "It's already furnished and ready. "There's even a pen for your beasts."
+ LAURA: Really?
+ TALIESIN: That is very generous.
+ SAM: Is it like an Airbnb or something? Like, do we have to pay for it?
+ MATT: "No, no, it is being provided."
+ LAURA: You guys are giving us a house?
+ MATT: "Well, you've given us hope "and helped lessen the terrible impact "of what the Empire has wrought "on us, so it's the very least we could do."
+ TRAVIS: That is most welcome. And very generous.
+ LAURA: Yes, thank you.
+ MATT: "Would you like to see it?" LAURA and
+ SAM: Yes!
+ LAURA: Let's just go upstairs and we'll gather our things, okay?
+ TRAVIS: Yeah, we'll just grab our stuff real quick.
+ MATT: "Of course. I will wait for you outside."
+ LAURA: Okay.
+ MATT: He drifts out of the inn.
+ LAURA: How does he do that?
+ SAM: Maybe he's wearing wheels.
+ MATT: He's got Wheelies.
+ SAM: He's got a Segway.
+ TRAVIS: Can I run up the stairs to the room real fast and as soon as I get in there, can I try and summon the sword?
+ MATT: (gust of wind) It appears in your grip.
+ TRAVIS: Can I make it go away?
+ MATT: Yep.
+ MARISHA: Oh, he's fucking with you.
+ LIAM: He's fucking with you.
+ MARISHA: Oh no.
+ LIAM: You know he can fuck with you.
+ TRAVIS: Ready to go.
+ MATT: Yeza's like, "We have a house here now?"
+ SAM: I mean, we're not going to stay for very long, but for right now, I don't know how to get us away from here.
+ MATT: "I know, I understand. "It's just the--wow, it's a lot."
+ SAM: Yeah. Crazy things happen with these guys.
+ MATT: "Apparently."
+ SAM: All the time.
+ MATT: "You've made some unique friends."
+ SAM: I sure have.
+ MATT: "I like them."
+ SAM: Yeah? Who's your favorite?
+ MATT: "Oh, I don't know, they're all pretty nice."
+ SAM: They're really not.
+ MATT: "I like the tall guy," and points over to Caduceus.
+ SAM: He's mysterious. Yeah and wise.
+ MATT: "His energy's more palatable."
+ SAM: Mm-hmm.
+ TALIESIN: (choking and coughing) (laughter) I'm okay.
+ (coughing)
+ MATT: "He'd fit in right in Felderwin, he would."
+ SAM: Except for the tall thing.
+ MATT: "Well, you know that's fine."
+ SAM: Anyway, let's go check it out and you know what? A safe place to just sort of wait. Also, maybe tonight before bed, we can ask Jester to check in on the boy.
+ MATT: "I would love that. Can we do that? Okay. "I'll grab what--I don't have anything, "what am I saying. I'm good to go." The rest of you guys gather your things.
+ LAURA: I give Beau her new clothes.
+ MARISHA: Ooh!
+ LAURA: Yeah.
+ MARISHA: It's one of Avantika's coats. Got it fur-lined. Does it look good? Does it look like I killed a pirate?
+ LAURA: It looks pretty much the same as her coat before, but now it's warm. Pretty cool.
+ LIAM: Yeah, it's very dashing.
+ MARISHA: Thank you, thank you. Still smells like her a little bit. LAURA and
+ TALIESIN: (groaning)
+ TALIESIN: That's weird.
+ MARISHA: That's nice.
+ TALIESIN: Is it?
+ MATT: As you guys are exiting the inn, Gaben in the back goes, "So you're leaving us, "if I am to hear correctly?"
+ LAURA: Mm-hmm.
+ MATT: "Well, it's been fun."
+ LAURA: Yes, it's been great.
+ MATT: "Goodbye."
+ LIAM: Thank you, for being so gracious with our animals and I place five gold on the counter.
+ MATT: "Well, I appreciate your patronage "and paying me... for once."
+ LIAM: Oh, are we behind? I'm sorry.
+ MATT: "No, it was being paid for by "the Den Kryn, "so it's fine. It was a favor."
+ LIAM: Let's make it ten.
+ MATT: "I won't argue."
+ LIAM: Appreciate, it thank you.
+ MATT: He scoops the ten gold, puts it away. "Humans."
+ LAURA: Would you like a tattoo as payment for my room?
+ MATT: "No, I'm fine, thank you."
+ LAURA: I'm sure the Bright Queen would appreciate it if you would take my favor.
+ MATT: "I would think not, but I appreciate "your being so generous."
+ LAURA: All right, I'll let her know you denied it.
+ (Matt laughs)
+ MATT: You guys exit out and you retrieve your moorbounders, and waiting for you standing there, wide shoulder mantle cloak swaying. The rain seems to like fall, but you never see it scatter across the shadowhand. It seems to drift around. He stays dry amongst the storm.
+ MARISHA: That's so goth.
+ TRAVIS: Is the water that's moving around moving slowly or is it just kind of moving around?
+ MATT: No, it's just drifting off.
+ LAURA: I put the collar that I bought around Yarnball. I had the dressmaker make a collar that matches my cloak.
+ MATT: There you go.
+ LIAM: Oh, also bring the staff over.
+ SAM: Oh yes, yes.
+ LIAM: Caduceus--and as we walk, I hand it to him.
+ SAM: What about the sword thing?
+ LIAM: We have that in the bag.
+ SAM: Hold it up to the sword!
+ LIAM: Let's get to where our new digs are and I slide the ring on.
+ SAM: We got some stuff and among the stuff, that was a sword thing.
+ MARISHA: Goddamn, I want that staff. It's good.
+ MATT: And the ring.
+ SAM: Are you taking the ring?
+ LAURA: Of course he's taking the ring.
+ LIAM: Certainly I'm taking the ring.
+ SAM: What about Yasha?
+ TALIESIN: Is it 1d6 halved?
+ MATT: As far as the--?
+ TALIESIN: Recharge-regain?
+ MATT: Yeah.
+ SAM: She's in the front of battle all the time!
+ LAURA: She also has a much lower AC than you.
+ SAM: But you know what--
+ LIAM: She doesn't.
+ LAURA: Yes, she does.
+ LIAM: That's incorrect.
+ SAM: Caleb is very, very important.
+ TALIESIN: Fuck, that's mean.
+ LIAM: You are misinformed.
+ TALIESIN: I can mount my crystal?
+ LIAM: What's your AC, Ash?
+ MATT: Yeah.
+ ASHLEY: 14.
+ LIAM: 14. 11.
+ SAM: Ooh oh! He needs it. He needs it, don't you take it away from my Caleb.
+ TRAVIS: He's a special boy!
+ LIAM: She has raging, which halves all damage. Leave me alone. I am a wee bab on the battlefield.
+ TALIESIN: We're going to figure you out.
+ ASHLEY: Yeah.
+ MARISHA: Can I have your flashlight thing?
+ LIAM: You have the goggles.
+ MARISHA: I want the flashlight thing.
+ (laughter)
+ LIAM: If you give me the goggles.
+ MARISHA: No, fuck you.
+ LIAM: Well, fuck you.
+ SAM: Hit him in the shoulder.
+ (laughter)
+ MARISHA: Let's go find our new fucking house.
+ TRAVIS: Lead on.
+ MATT: "This way," and he glides off to lead you.
+ LAURA: I'm looking low trying to get a look.
+ MATT: Make a perception check.
+ SAM: Is it like a centipede, like there's 100 little legs?
+ LAURA: Perception, perception, perception. 18.
+ MATT: 18. Following below, it's hard to see because the cloak almost meets the ground, but looking below: his feet aren't touching the ground.
+ LAURA: Holy shit!
+ MATT: He's just drifting.
+ LAURA: By the light, that guy floats.
+ TRAVIS: "By the light."
+ LIAM: ♪ By the li-li-li-li-li ♪
+ MATT: So. Leading you through the Gallimaufry, back to the Firmaments, across the way from where the Marble Tomes Conservatory is, and hidden amongst the various other temples and large structures of worship that reside around the core vicinity of this city. Eventually, you are brought to exterior of a two-story mansion that is paneled in Vermaloc wood painted a dark maroon color with a lighter stone foundation. The roofing is dark, near black clay tiling with a single balcony on the second floor. It appears to have a short tower built into the back right corner of the home that raises to a third story. Two stained glass windows installed towards the front are similar to what you've seen in the Lucid Bastion. As you approach and take a moment to look over it, Essek goes, "For as long "as you have need, this home is yours "under the direction of Den Thelyss. "Make of it as you will "and enjoy, friends of the Bright Queen. "There will be more to be done soon enough," and he hands the keys over.
+ TRAVIS: Can I ask a question? We ran into someone who mentioned that they have gatherings over in these areas of worship in the Firmament, regular displays of letting the sun in a bit?
+ MATT: "Right, that is correct."
+ TRAVIS: Is such a display scheduled to happen anytime soon?
+ MATT: "That is not up to me. I am not one "of the priests of the Luxon. "Usually when the weather is right "and it's been time and when they decide, "then yes."
+ TRAVIS: Do they send out like a communique or a call or a horn?
+ MATT: "You'll know because the--"
+ TRAVIS: Sun.
+ MATT: "Sun will come out, which is rare in this town."
+ TRAVIS: Now that I'm saying it out loud, I feel kind of stupid.
+ MATT: "It's all right. "Anyway, enjoy your abode."
+ LAURA: Thank you.
+ MATT: "If you need anything else."
+ LAURA: Thank you.
+ MATT: "You're welcome."
+ TALIESIN: Power move. That's a power move.
+ MATT: Make a persuasion check.
+ TALIESIN: That's such a power move! Wow!
+ TRAVIS: Get that hug!
+ LAURA: Oh yes! 24.
+ MATT: He goes like-- And then ever so slowly drifts.
+ TRAVIS: Hug my wife, bitch.
+ (laughter)
+ LAURA: I hug him like real good and I hold it for an awkward amount of time.
+ LIAM: Give him the Molly Shannon.
+ MATT: "You're welcome."
+ LAURA: Thank you so much.
+ LIAM: Yep!
+ MATT: "Anyway. I'll take my leave." (zooms) (laughter) Well, there is your home.
+ MARISHA: There are blueprints!
+ TALIESIN: What!
+ LAURA: We have a house!
+ TALIESIN: Holy shit.
+ LAURA: Wow, this is so cool.
+ TRAVIS: That's big.
+ MATT: You guys get to decide whose rooms are where and what you want to outfit it with. Also, essentially, depending on what you guys want to do, you have a week or more of downtime. Start thinking about what you want to do in Rosohna with that time.
+ LIAM: Are we doing like a jump cut?
+ MATT: We're going to be--next session, as we're about to finish up here, because I have an early morning. We're going to go ahead and start working through the things you guys want to accomplish and figure out what your next plan of action is. This way, at least you'll have a week to start planning that out, figuring out what you want to do and what your next direction may be.
+ LAURA: I'm taking a picture so that we can send this out and we can claim our bedrooms.
+ MATT: Okay.
+ MARISHA: We haven't done this since Greyskull.
+ LAURA: I know! Where's the tower?
+ TALIESIN: There's three towers, there's--yeah. That's top of the tower.
+ LAURA: Oh, okay. There's the top of the tower.
+ TRAVIS: You know who hasn't seen it all? The people on this side of the table.
+ TALIESIN: Yeah, it's weird it got sent over here, isn't it?
+ LAURA: Isn't that weird how it feels?
+ MATT: Not as colored, but here you have it.
+ ALL: Oh!
+ MATT: Anyway.
+ TRAVIS: (fake sneezes)
+ LIAM: Ew!
+ SAM: We also have to choose a name for the keep that is not copyrighted like the last one. 
+ (laughter)
+ TRAVIS: I was going to call it Winterfell.
+ SAM: The White House.
+ TRAVIS: Yeah, The White House.
+ MATT: As you take the keys and open the front door and enter the dark but comparably warm and dry interior of your new gifted home courtesy of Den Thelyss.
+ SAM: I'm going to carry Yeza across the threshold.
+ MATT: Okay. As you step in, we're going to go ahead and end our session there tonight. We'll pick up there next week on Thursday.
+ MARISHA: Can't believe about the sword situation.
+ SAM: Yeah, the fucking sword.
+ LIAM: We're doing an elapsed time, like I want to do this this and this?
+ MATT: Yeah. You know, we'll do whatever our quick elements. If there is a role play or a social encounter or any sort of challenge involved with these, we'll go through those as we have in past. Yeah, you guys have a week to start figuring out what you want to do for the time period and what your next path is.
+ TRAVIS: Hey, hey, hey. Focus up.
+ LAURA: Sorry.
+ SAM: We're choosing our bedrooms!
+ TALIESIN: Trying to decorate here, what the hell.
+ MARISHA: Is there room for a training pit?
+ MATT: If you want to clear out one of the rooms, you can. We'll talk about it in a minute.
+ SAM: You know, the Empire could have had us on their side if they just gave us a house. Just like a condo.
+ TALIESIN: It's a gilded cage, a gilded cage.
+ SAM: All right, go on, Matt.
+ MARISHA: Sorry.
+ MATT: No worries. We will be back here in a week to pick up from where we left off. We love you guys very much, and is it Thursday yet? Good night.
+ 
+  
+NewPP limit report
+Preprocessor node count: 11/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+ExtLoops count: 0/100
+ 
+  Saved in parser cache with key criticalrole:pcache:idhash:16351-0!*!0!!*!*!*  
+ 
+Retrieved from " https://criticalrole.fandom.com/wiki/Agreements/Transcript?oldid=78622 " 
+ 
+ 
+ 
+ Categories : 
+ 
+ 
+ Transcripts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add category 
+   
+ 
+ 
+ 
+ Cancel 
+ Save 
+ 
+ 
+ 
+	Community content is available under  CC-BY-SA 
+ unless otherwise noted. 
+ 
+ 
+   
+ 
+  WikiaMainContent  
+ 
+ 
+ 
+  BEGIN SLOTNAME: top_boxad  
+ 
+ 
+ 
+  END SLOTNAME: top_boxad  
+ 
+ 
+ 
+ 
+ 
+ 
+  BEGIN SLOTNAME: bottom_leaderboard  
+ 
+ 
+  END SLOTNAME: bottom_leaderboard  
+ 
+ 
+ 
+ Fan Feed		 
+ 
+ 
+ 
+ More Critical Role Wiki 
+ 
+ 
+ 
+ 1 
+ Fjord 
+ 
+ 
+ 
+ 
+ 2 
+ Jester Lavorre 
+ 
+ 
+ 
+ 
+ 3 
+ Caleb Widogast 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Camila Cabello Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gossip Girl Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rurouni Kenshin Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WikiaPage 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Explore properties 
+ 
+ 
+ 
+	Fandom 
+ 
+ 
+ 
+	Gamepedia 
+ 
+ 
+ 
+	D&D Beyond 
+ 
+ 
+ 
+	Muthead 
+ 
+ 
+ 
+	Futhead 
+ 
+ 
+ 
+ 
+ Follow Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+	About 
+ 
+ 
+ 
+	Careers 
+ 
+ 
+ 
+	Press 
+ 
+ 
+ 
+	Contact 
+ 
+ 
+ 
+	Terms of Use 
+ 
+ 
+ 
+	Privacy Policy 
+ 
+ 
+ 
+	Global Sitemap 
+ 
+ 
+ 
+	Local Sitemap 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community 
+ 
+ 
+ 
+	Community Central 
+ 
+ 
+ 
+	Support 
+ 
+ 
+ 
+	Help 
+ 
+ 
+ 
+	Do Not Sell My Info 
+ 
+ 
+ 
+ 
+ Advertise 
+ 
+ 
+ 
+	Media Kit 
+ 
+ 
+ 
+	Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fandom Apps 
+ Take your favorite fandoms with you and never miss a beat. 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+			D&D Beyond		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical Role Wiki is a FANDOM TV Community. 
+ 
+ 
+		View Mobile Site	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JokeyPsych 
+ 
+ 
+ 
+ EndgameHonest 
+ 
+ 
+ 
+ GalaxyQuest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 8]>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif] 
+ [if lt IE 9]>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif] 
+  Combined JS files and head scripts  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

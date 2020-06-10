@@ -1,0 +1,3543 @@
+Lost Treasures/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: criticalrole:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */ 
+ 
+  Wikia Beacon Tracking  
+ 
+ 
+  Begin comScore Tag  
+ 
+  End comScore Tag  
+  Start for QuantServe, page_view  
+ 
+ 
+ 
+ FANDOM 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+	Games 
+ 
+	Movies 
+ 
+	TV 
+ 
+	Video 
+ 
+ 
+ Wikis 
+   
+ 
+ 
+ 
+ 
+	Explore Wikis 
+ 
+ 
+ 
+	Community Central 
+ 
+ 
+ 
+	Start a Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+				Search			 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+					Sign In				 
+ 
+ 
+ Don't have an account? 
+ 
+					Register				 
+ 
+ 
+ 
+ 
+ 
+ 
+	Start a Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  BEGIN SLOTNAME: hivi_leaderboard  
+ 
+ 
+  END SLOTNAME: hivi_leaderboard  
+  BEGIN SLOTNAME: top_leaderboard  
+ 
+ 
+  END SLOTNAME: top_leaderboard  
+ 
+  BEGIN SLOTNAME: invisible_skin  
+ 
+ 
+  END SLOTNAME: invisible_skin  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical Role Wiki 
+ 
+ 
+ 2,299 
+ Pages 
+ 
+ 
+ 
+   Add new page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Show 
+ 
+   
+ 
+ 
+ 
+ 
+												List of Episodes											 
+ 
+ 
+ 
+ Campaigns 
+   
+ 
+ 
+ 
+ Specials 
+ 
+ 
+ Campaign 1: Vox Machina 
+ 
+ 
+ Campaign 2: The Mighty Nein 
+ 
+ 
+ Talks Machina 
+ 
+ 
+ 
+ 
+ 
+ 
+ Characters 
+   
+ 
+ 
+ 
+ Actors:   Main Cast 
+ 
+ 
+ Actors:   Guest Stars 
+ 
+ 
+ Character Type:   Main Characters 
+ 
+ 
+ Character Type:   Guest Characters 
+ 
+ 
+ Character Type:   Non-Player Characters 
+ 
+ 
+ Relationship:   Allies 
+ 
+ 
+ Relationship:   Antagonists 
+ 
+ 
+ Characters by:   Race 
+ 
+ 
+ Characters by:   Class 
+ 
+ 
+ More Character Categories → 
+ 
+ 
+ 
+ 
+ 
+ 
+ Factions 
+   
+ 
+ 
+ 
+ Arcana Pansophical 
+ 
+ 
+ Ashari 
+ 
+ 
+ Cerberus Assembly 
+ 
+ 
+ Chroma Conclave 
+ 
+ 
+ Cobalt Soul 
+ 
+ 
+ Dwendalian Empire 
+ 
+ 
+ Kryn Dynasty 
+ 
+ 
+ Mighty Nein 
+ 
+ 
+ Tal'Dorei Council 
+ 
+ 
+ Vox Machina 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places 
+   
+ 
+ 
+ 
+ World:   Exandria 
+ 
+ 
+ Continent:   Issylra 
+ 
+ 
+ Continent:   Marquet 
+ 
+ 
+ Continent:   Tal'Dorei 
+ 
+ 
+ Continent:   Wildemount 
+ 
+ 
+ Nation:   Clovis Concord 
+ 
+ 
+ Nation:   Dwendalian Empire 
+ 
+ 
+ Nation:   Kryn Dynasty 
+ 
+ 
+ Nation:   Tal'Dorei 
+ 
+ 
+ Nation:   Whitestone 
+ 
+ 
+ 
+ 
+ 
+ 
+												List of Transcripts											 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wiki Editing 
+ 
+   
+ 
+ 
+ 
+ 
+ Common Templates 
+   
+ 
+ 
+ 
+ {{art caption}} ----- autoformat art credits/captions 
+ 
+ 
+ {{cite}} ----- [citation needed] 
+ 
+ 
+ {{clarify}} ----- [clarify] 
+ 
+ 
+ {{disputed}} ----- [disputed] 
+ 
+ 
+ {{ep}} ----- autoformat links to episodes 
+ 
+ 
+ {{ep ref}} ----- inline episode references 
+ 
+ 
+ {{infobox character}} ----- infobox for character pages 
+ 
+ 
+ {{infobox episode}} ----- infobox for episode pages 
+ 
+ 
+ {{new artist category}} ----- boilerplate for new artist category pages 
+ 
+ 
+ {{new character}} ----- boilerplate for new character pages 
+ 
+ 
+ 
+ 
+ 
+ 
+ Articles Needing Attention 
+   
+ 
+ 
+ 
+ Article Stubs 
+ 
+ 
+ Articles Needing Citations 
+ 
+ 
+ Articles Needing Clarification 
+ 
+ 
+ Articles Needing Cleanup 
+ 
+ 
+ Articles with Disputed Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newly changed articles 
+   
+ 
+ 
+ 
+ Geek & Sundry 
+ 
+ 
+ The Knowing Mistress 
+ 
+ 
+ Caleb Widogast 
+ 
+ 
+ Beauregard Lionett 
+ 
+ 
+ Fjord 
+ 
+ 
+ Converging Fury 
+ 
+ 
+ Uthodurn (episode) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+   
+ 
+ 
+ 
+ 
+												CritRole.com											 
+ 
+ 
+ 
+												Twitter											 
+ 
+ 
+ 
+												YouTube											 
+ 
+ 
+ 
+												Facebook											 
+ 
+ 
+ 
+												Instagram											 
+ 
+ 
+ 
+												G&S Critical Role Content											 
+ 
+ 
+ 
+												Staff Blogs											 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Links 
+ 
+   
+ 
+ 
+ 
+ 
+												Twitter Hashtag											 
+ 
+ 
+ 
+												Subreddit											 
+ 
+ 
+ 
+												CritRoleStats											 
+ 
+ 
+ 
+												CR Discord											 
+ 
+ 
+ 
+												CR Wiki Discord											 
+ 
+ 
+ 
+												Critical Scope											 
+ 
+ 
+ 
+												Critical Tropes											 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Explore 
+   
+ 
+ 
+ 
+ Wiki Activity 
+ 
+ 
+ Random page 
+ 
+ 
+ Community 
+ 
+ 
+ Videos 
+ 
+ 
+ Images 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Discuss 
+ 
+ 
+   
+ 
+  empty onclick event needs to be applied here to ensure that wds dropdowns work correctly on ios  
+ 
+ 
+ 
+ 
+ 
+ in: 
+ 
+ Transcripts   
+ 
+ Lost Treasures/Transcript 
+ <  Lost Treasures 
+ 
+   Empty div to ensure $actionButton is always pushed to bottom of the container 
+ 
+ 
+ 
+ 
+   Edit 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+							VisualEditor						 
+ 
+ 
+ 
+							History						 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comments 
+ 
+ 
+   Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ watch						 01:32 
+ 
+ The Loop (TV) 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	Do you like this video?	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Google Tag Manager (noscript)   End Google Tag Manager (noscript)  List of Transcripts 
+ 
+ Contents [ show ] 
+   Pre-Show   Edit 
+ MATT: Hello, and welcome, everybody, to tonight's episode of Critical Role, where a bunch of us nerdy-ass voice actors sit around and shout dirty things at me and play Dungeons and Dragons. Way too late on that draw. But yes, welcome! First and foremost, before we jump into tonight's game, we have some announcements to get through.
+ LIAM: Testicle roach!
+ (dubious noises)
+ MATT: Before we get into the formal announcements, first off, those of us who were at the Stream of Many Eyes this past weekend had a great time. Hope you guys who tuned in to check out any of it have looked on YouTube to see the videos. We had some fun games with some great DMs-- I had the opportunity with the Force Grey game-- and we all got to play with a bunch of other great people in the community. And Deborah Ann Woll is an amazing DM. She's pretty badass. But yeah, anyway, hope you guys enjoyed it. But, bringing us into our first announcements tonight, we have our fantastic returning partner-in-crime for this campaign thus far: our sponsor, D&D Beyond. Sam.
+ SAM: D&D Beyond, everyone. Yeah, there's an animated thing that, if you haven't seen, you should check out, that's pretty cool. As announced during the Stream of Many Eyes this past weekend, new adventures, Waterdeep: Dragon Heist and Waterdeep: Dungeon of the Mad Mage, are now available-- on Laura's phone-- for preorder on D&D Beyond.
+ MATT: Fun note to that, actually, too: the Dragon Heist adventure, I was one of the story creative consultants on for that book.
+ LIAM: Humble dragon-brag.
+ MATT: A little bit, every now and then. But I got to put a little bit of my flavor on there. So many great people put it together; I was just happy to be even a part of that.
+ LAURA: I like how none of us knew that.
+ (laughter)
+ MATT: Great friends, guys. It's really-- just exemplifies the relationship.
+ LAURA: What's your name again?
+ SAM: Check out the D&D Beyond marketplace now to learn more and order now. And the great thing about D&D Beyond, guys, is that it simplifies managing your stats and inventory so you can just focus on creating. Creating new encounters, creating new characters, creating new monsters. And I thought I would inspire our audience by showing them what kind of-- some samples of some new monsters that they could create. Now, you could use the same old stats, but maybe you give them a little new spin or a new flair. And to help, I made some artistic interpretations of some of my new monsters. So these are some new monsters you can create. You guys have all heard of a bulette? We fought them? Well, this is a bull-ette. It's a female bullet! You can tell 'cause it's pink!
+ MARISHA: Did you print out a picture of a bullet?
+ SAM: Yeah, I printed out a picture of a bullet and I colored it in pink. And it only fires once, so it's a very quick encounter. You've heard of a displacer beast? This is a Despacito beast. It's the same thing as a displacer beast, except you hear "dub-a-dub-a Puerto Rico dub-a-dub-a ay, bandito" when it goes invisible.
+ MATT: They don't actually go invisible, but continue.
+ LIAM: Which is a problem, 'cause it blows the invisibility.
+ LAURA: Did your children draw these, or--
+ SAM: No, I drew these. You guys have heard of an owlbear. Well, what about putting a little creative spin on it and making it a bowel-bear? It has crippling IBS. Oh, there's more, guys.
+ TRAVIS: It could also be like a fro-yo factory, I mean, that's not--
+ SAM: Yeah, it has a shit-spray attack. Here's one I'm pretty proud of. You guys, there's a monster in the Manual called the giant wasp. Well, this is the giant WASP. But he's a White Anglo-Saxon Person. A WASP! You know, a WASP-y guy! He's a WASP!
+ ASHLEY: Is that what the 'P' stands for?
+ SAM: Yeah!
+ MARISHA: I don't think that's--
+ SAM: That's not true? I don't know.
+ MARISHA: I feel like you're reaching.
+ SAM: Okay, there's two more.
+ LAURA: Oh my god, please stop.
+ SAM: Okay, there's two more. This is a bone dirtdevil. It's a bone devil that cleans up after every fight.
+ LIAM: Did you draw that one, or is it your kid?
+ SAM: Yeah, I drew that one! Last, but not least, it's a Fanta-core!
+ (laughter)
+ SAM: It's just a manticore with Fanta as a head.
+ TRAVIS: There's a lot of work going into this. You can tell. I mean, there's Xeroxed copies.
+ SAM: You like the bone dirtdevil?
+ LAURA: I do.
+ TALIESIN: I want a Fanta right now.
+ MATT: Fanta-core, I'm down with.
+ TALIESIN: What flavors does the Fanta-core come in?
+ MATT: Dangerous and well-branded.
+ SAM: Guys, there were more that I didn't even draw. There was the Lin Manuel Miranda-boleth.
+ (laughter)
+ SAM: There was a Nick Frost giant. He always has Simon Pegg with him.
+ (laughter)
+ SAM: Check out more on my website.
+ MATT: Save those for the next Sam Riegel bundle you can buy on D&D Beyond six months from now.
+ LIAM: I'm pretty sure the only monster here is you.
+ MATT: Thank you, Sam, and thank you, D&D Beyond.
+ LAURA: Sorry, D&D Beyond.
+ MATT: To that note too, as well, I released some small updates to the Blood Hunter that went up on D&D Beyond as well, as well as on the DMs Guild. So for those who are playing, check and see if there's anything that affects your class. It might be the case. Minor tweaks, but things that I think will help improve gameplay and more fun, so. All right. The standard edition of Vox Machina: Origins are still for sale, apparently. We're sold out of the special editions. Seems to be the case. But the standard editions are still available. You can go to critrole.com for information and detail on that. Or the Geek & Sundry and Alpha online shops, as where you'll find it for purchase. Let's see. Talks Machina, of course, will be happening about this episode, tonight, next Tuesday at 7 PM Pacific Time, with our wonderful host, Brian W. Foster, and a number of our cast members will be attending to discuss the insanity that is imminent to occur this evening. So check that out. Don't forget to submit your fanart or gif of the week to submit@talksmachina.com. And a reminder, through Twitch Prime, if you have your Amazon Prime account, you can connect it with your Twitch account, and once a month you get a free subscription to a Twitch channel of your choice. It's free, and you get to support some of your favorite creators out there, so go check it out if you haven't.
+ LAURA: For a split-second, you sounded like Kermit the Frog.
+ MATT: (Kermit voice) Oh, I'm just trying to make sure that you get your proper announcements there for your game. Okay. Let's play some D&D.
+ (laughter)
+ MATT: (Kermit voice) Roll initiative. (normal voice) All right, so, on that note, I believe it's time to dive into tonight's episode of Critical Role.
+ [click, TV static]
+ [groovy Critical Role theme]
+ 
+   Part I   Edit 
+ MATT: Hello, and welcome back.
+ (laughter)
+ TRAVIS: Oh man, that's a good one. Winner. That's a blue-ribbon echelon.
+ LIAM: (tearfully) I just thought of it five seconds ago and I'm so happy.
+ MATT: Welcome back, everybody.
+ (laughter)
+ MATT: So. Where we last left off, the Mighty Nein have been making their way towards Beleben and the Labenda Swamp to tackle the first of their two tasks they had taken from the Gentleman in Zadash. Traveling along the way, you managed to save and make friends with a very young kenku named Kiri who has been accompanying you through your journey thus far. You managed to find an individual who could guide you through the swamp, who was summarily taken and probably eaten by a troll that was stalking you through the swamp. You found an ally named Cali, Calianna, who was a dragon-blooded sorcerer who seemed to have aligned interests towards the direction you were traveling to find the safe house that belonged to the Gentleman that had gone quiet. Upon hearing that there had been some sort of attack on it, all of you went through the swamp, forded the dangers, made your way to the base of the tree, where it was discovered to be within and below the base of this large banyan tree on the northern side of the Labenda Swamp.
+ LAURA: What a bangin' tree.
+ MATT: Banyan. It's a bangin' tree. Just want you to know, of all the tree I've seen, it's pretty bangin'. After investigating the scene and trying to pick up details about what had transpired, you found a number of bodies that had been put up, left to bloat, and die as a warning for those who had made their way in. On the inside, it looks like the interior of the safe house had been cleaned out and summarily dragged through a subterranean tunnel. Following this tunnel down below, you found strange, twisted looking merfolk called merrow that seemed to have been living in these partially submerged tunnels, this system beneath the swamp. You engaged in battle, killed a number of them and upon sifting through some of the remnants of what was dragged out of the safe house, you discovered Cali's quarry, which was a bowl that could speak to the Scaled Tyrant, Tiamat. You decided what to do, and after a brief confrontation, the bowl was handed over to Yasha, who attempted to sunder it using her Magician’s Judge, which succeeded: the item was left shattered into pieces. Cali, with her quest complete and not wishing to put herself into any further danger, decided to leave, bidding you all *adieu* and clambered back up through the strange, dug tunnel that leads to the surface. You guys were left to think about what the next course of action was before Fjord made a brief swimming excursion into one of the far off tunnels that led to a larger chamber and a base of operations where more of these merrow live. From the outskirts of what you could see, more remnants of what was taken from the safe house existed further in. Mighty Nein, you've seen Cali clamber off. You guys have taken down from the heat of the moment. What do you wish to do? 
+ TRAVIS: We got to rest up, right? 
+ MARISHA: Yeah, I'm a little tired. 
+ LAURA: We should probably sleep.
+ SAM: But there's fish men and possibly fish women right down there that could come out and kill us in our sleep. 
+ TRAVIS: I think Caleb has a little booby trap for that, don't you? 
+ LIAM: Caleb starts silver threading the entrance that Fjord swam through. 
+ TALIESIN: I say we sleep upstairs. 
+ LAURA: Upstairs? 
+ TALIESIN: Pull the rope up, that way we'll have plenty of time if we hear them coming back up. 
+ TRAVIS: Add some distance, yeah.
+ LAURA and TRAVIS: Okay, okay, okay. 
+ SAM: What if there's unlimited numbers of them? What if there's a whole--
+ TRAVIS: I only saw, like, five.
+ SAM: You only *saw* like five. Did you keep going down into the tunnels?
+ TRAVIS: No, but I got pretty fucking sharp eyes, all right? They call me Eagle-Eye Fjord where I come from.
+ LAURA: Did they really? 
+ TRAVIS: (cawing) Crow Fjord, or maybe raven, you don't know.
+ MARISHA: That's a lot of nicknames.
+ TRAVIS: It is.
+ TALIESIN: With the warning system, we'll have plenty of time to get away if there's too many of them and they'll have no way up if we pull the rope up.
+ LAURA: Well, what will we put in the doorway of the tree, though?
+ TRAVIS: I don't know if we leave the tree.
+ LAURA: No, are we sleeping in the tree? 
+ TRAVIS: Yeah. 
+ TALIESIN: People will keep watch. 
+ LAURA: Oh, okay.
+ TALIESIN: That way we'll have an early warning before they even manage to crawl their way up.
+ TRAVIS: And we know where the entrance is.
+ LIAM: The moment that they exit the pool, we'll know and it would wake me up, or you up, or anybody up. 
+ SAM: We're just going to gloss over the fact that Fjord has three bird nicknames? 
+ LAURA: Bird-Eye Fjord I think was what he was getting at, you know?
+ TRAVIS: Also very popular. 
+ MATT: Kiri pipes up. (like Jester) "Bird-Eye Fjord."
+ TRAVIS: That's right, Kiri, Bird-Eye Fjord.
+ MATT: (like Jester) "Bird-Eye Fjord."
+ TRAVIS: It's sticking.
+ MATT: (like Fjord) "Sticking."
+ SAM: That does not sound good. 
+ MARISHA: Can we call you B.E.F. for short? Bird-Eye Fjord.
+ TRAVIS: No. We make our way up the rope into the bottom of the tree, but the entrance is still open. 
+ MATT: Okay. You guys are making your way up and climbing using the roots and the rope and the interior. You begin to, now that you're not focused on what’s below, notice that a lot of the earth in this particular tunnel-- that isn't too wide necessarily, it's about three feet wide in most places-- You can see the claw marks where it'd been dug out. The softer portion of the ground where you landed upon emerging from making your way down, a lot of the earth and chunks of root had been carved out. It wasn't a natural tunnel or something they discovered, they dug up into the safe house to retrieve whatever was inside. Nevertheless, you all make your way up into the hollow base of the safe house tree. You guys can set up camp if you'd like to.
+ TRAVIS: I'll take first watch. If you want, I can post up outside and do a little illusion work.
+ MARISHA: I'll join you. 
+ LAURA: I'm going to spend a little time with Kiri. I want to teach you some things. How long can you keep mimicking things? 
+ MATT: (like Jester) "Mimicking things."
+ LAURA: I'm going to take that as a long time.
+ MATT: (like Jester) "Long time."
+ LAURA: Okay, good. I'm going to tell you if someone asks what your name is, you say, “I am Kiri.”
+ MATT: (like Jester) "I am Kiri."
+ LAURA: See, look at this, this is great!  Okay, and then if they go, “Are you nice?” You say, “Yes, I'm very sweet.”
+ MATT: (like Jester) "Yes, I'm very sweet."
+ LAURA: If they say something you don't like you say, “Go *fuck* yourself.”
+ MATT: (like Jester) "Go *fuck* yourself."
+ LAURA: Yes.
+ TRAVIS: Oh my god, I can’t believe you said it.
+ SAM: It's like a sound board. 
+ TRAVIS: Go fuck *your*self. 
+ LAURA: You say, “Fuck *your*self.”
+ MATT: (like Jester) "Go fuck *your*self."
+ LAURA: Yes, that's good. Okay, that's a good start.
+ SAM: Wait, if you get really excited, you should go (air horn blaring).
+ MATT: (air horn blaring)
+ LAURA: Oh no, don't do that, Kiri! Don't!
+ LIAM: Frumpkin’s hair gets poofed out and his tail floofs out and he starts growling at the sound. 
+ MARISHA: Hey, Fjord. 
+ TRAVIS: Yeah?
+ SAM: Are we going to sleep?
+ LAURA: I think so. 
+ TRAVIS: About what time is it, anyway? Light still coming in from the outside of the tree?
+ MATT: At this point, it's probably just past dusk. There's a little bit of blue cresting into night time. Light’s coming through the trees, but it looks like you're about half an hour out from a pitch black sky.
+ TRAVIS: All right. 
+ LIAM: Is it my turn with the dodecahedron? 
+ LAURA: Oh yes! Do you want it?
+ LIAM: I do.
+ SAM: For today?
+ LAURA: But wait for the morning, unless you want to use it today, and then somebody else will get it in the morning. Because it only lasts for 24 hours.
+ LIAM: Did you use it?
+ SAM: I did not. Oh, I did. We have to save it for tomorrow. 
+ LIAM: I more want to examine it. 
+ LAURA: Oh, yes, here. Do you want to take it out of the bag?
+ LIAM: No. Can I borrow the bag? 
+ LAURA: Here's the bag. 
+ LIAM: I'm going to spend maybe a half hour before bed not trying to use it, but just examine it. 
+ MATT: Okay. Make an arcana check. 
+ LIAM: 15. 
+ MATT: Okay. Assessing its design, paying attention to its construct and the handles, and the edging of where the different facets of it are affixed to this cage-like exterior to it, you really have no idea what material it's made from. The faint magical essence that comes off of it, and with the training you have had across the various schools of magic, this seems hard to pin down. You're not sure the source of its magic, but it does seem very old. It seems like it's been shaped or it's been polished from whatever its raw form was at one point in time. 
+ LIAM: Well, this evening I'm going to use it for the grand purpose of being my pillow in the bag, so I'm going to sleep. 
+ MATT: Okay. 
+ LIAM: It’s in the bag.
+ LAURA: (whispering) I’m putting it back on my body.
+ LIAM: Does my head do this?
+ LAURA: Oh, you were sleeping on it?
+ MATT: Yeah, using it as a pillow.
+ LAURA: Just kidding!
+ MARISHA: Hey Fjord. 
+ TRAVIS: Yep. 
+ MARISHA: Let me ask you something. 
+ TRAVIS: Shoot. 
+ MARISHA: I think I messed up. I think maybe I should apologize to Caleb. I'm not very good at apologizing, though. I waswondering if maybe you could give me some pointers for apologizing.
+ TRAVIS: You're not good at apologizing? 
+ MARISHA: You're being facetious, aren't you?
+ TRAVIS: Yeah, I'm fucking with you. You reckon you need to apologize?
+ MARISHA: I probably got a little too aggressive, probably shouldn't have grabbed him like that. Got a little too angry. That's not necessarily my good side, you know, don't like people seeing that.
+ TRAVIS: You know, a great place to start with apologies, is to mention the stuff you just said. 
+ MARISHA: That I'm not good at apologies?
+ TRAVIS: No, after that, right. 
+ MARISHA: I got a little too aggressive?
+ TRAVIS: One.
+ MARISHA: And I have a bad side.
+ TRAVIS: *Dos.*
+ MARISHA: And I shouldn't have done it.
+ TRAVIS: Yeah, that's a really good apology. 
+ MARISHA: Is that pretty good?
+ TRAVIS: Yeah. However, right? Be genuine. Don't be embarrassed to apologize. It takes a big person to apologize for something. Little people are the ones that make mistakes and just let them go.  
+ MARISHA: Oh, like Nott? A little person.
+ TRAVIS: No, like small on the inside. 
+ MARISHA: Right, like in your soul.
+ TRAVIS: That's big of you. 
+ MARISHA: It's, you know, I want to try, I guess. 
+ TRAVIS: Yeah, I think he deserves that. He's been good to us. 
+ MARISHA: Yeah, I think so. 
+ TRAVIS: All right. 
+ MARISHA: Hopefully it goes well. 
+ TRAVIS: I think it will. You can actually leave the smile out of it this time, just to be clear.
+ MARISHA: Oh, okay. Not like: I'm sorry!
+ TRAVIS: No, that's going to set the tone in a real weird way. There's a thing called sarcasm that you ride a line with sometimes.
+ MARISHA: Okay, that's good to know. 
+ MATT: All right, the rest of you find yourselves to sleep, or is there anything else you wish to do before the night’s done? Any order of taking watch, or are you all just resting under the protection of Caleb's silver thread?
+ TRAVIS: No. Beau and I are up first. 
+ LAURA: I'll do second. 
+ MATT: Okay. 
+ SAM: Second as well. 
+ MATT: We'll say that was for your first watch, while you guys are having that conversation, one of you roll with advantage on your perception check, or you can both roll separately, your call. 
+ MARISHA: Let's roll separately. Oof, terrible. 
+ TRAVIS: Yep. Five. 
+ MARISHA: Five. 
+ MATT: Oh, leave him hanging. 
+ LAURA: Her perception is low, you wouldn't see the high five. 
+ MATT: That's true. 
+ MARISHA: Five? Oh five!
+ MATT: In-character moment there. 
+ MATT: As you guys are finishing your conversation, your watch comes to an end without incident. 
+ TRAVIS: With an arrow in our throat? I didn’t see-- (choking)
+ MATT: You rest so easily with the blood leaking out. You finish your watch, you wake up Nott and Jester, and you guys take on your second watch. Do you want to both make a roll for perception or--
+ LAURA: Let's roll separately!
+ MATT: Okay! Worked out great last time. 
+ LAURA: Yeah. 
+ SAM: That's a four. 
+ LAURA: Oh no. I think it's 12 for me. 
+ MATT: Okay.
+ SAM: High roll!
+ MATT: You guys are taking some time, concentrating on listening out for anything and feeling pretty solid in your ability to maintain vigil across this dark, eerie night in the center of this hollow tree. You don't hear or see a goddamned thing. But a little twinkle hits your ears, Caleb. 
+ SAM: Oh shit!
+ MATT: As suddenly something down below, down by the pool on the opposite end of that kidney-shaped interior cavern, seems to go off. 
+ LIAM: I'm awake?
+ MATT: Yes, you come to consciousness. 
+ LIAM: They're awake? 
+ MATT: They are awake. 
+ LIAM: Ah, fish, Nott. 
+ SAM: No, we're on watch. We haven't seen anything, it's just a dream. 
+ LIAM: No, down below, in my--
+ LAURA: In the cavern? In the tunnel?
+ LIAM: Yeah. 
+ LAURA: What should we do? Should we wake everyone up?
+ SAM: We should wake everyone up!
+ LIAM: Wake up!
+ MARISHA: Ow!
+ LAURA: Wake up!
+ SAM: Fjord! (cawing)
+ TRAVIS: What, what?
+ SAM: Don't wake up Kiri, though. She deserves a really nice night's sleep. 
+ LAURA: She really does, let her sleep.
+ MATT: She's all curled up in the corner, like (trilling) with her feathers all poofed up. 
+ SAM: I'm going to give her my blanket.  
+ LIAM: I'm going to send Frumpkin to crawl down and get a look. 
+ MATT: Okay, roll a stealth check for Frumpkin. 
+ LAURA: Does Frumpkin fall down the tunnel, then?
+ MATT: Cats can do some pretty crazy shit. 
+ LIAM: It’s fine. Good, four. 
+ MATT: Okay. Frumpkin drops down onto the soft and makes it around. Focusing on it, you can see that another merrow has emerged into that chamber and-- nope. 
+ LAURA: We didn't hide the bodies. 
+ MATTS: Goes around and sees the bodies lying there in the middle of the space. He (growls). 
+ LIAM: Oh, we left the corpses out.
+ LAURA: Oops. 
+ MATT: He goes and drags him back a little bit, begins rifling through whatever it might have had, and looks over right at Frumpkin. Grabs the trident spear and throws it.
+ LAURA: Did you snap him out?
+ LIAM: I don't know. 
+ MATT: You weren't close enough to do that, I don't think. 
+ LIAM: No? Hundred feet.
+ MATT: Hundred feet to snap him back, or is it shorter than that? Double check on that real fast.
+ LAURA: Oh, again again!
+ TALIESIN: Kitten kebab.
+ SAM: I remember saying that we should hide the corpses and Cali actually said, “Don't do it, there's no point to it.” So we should blame Cali. 
+ LAURA: I don't remember Cali saying that. 
+ SAM: That's what Cali said.
+ LIAM: I actually have no memory of anything on range for bamfing in and out, but I will defer to you because you're my DM. 
+ MATT: “As an action, you can temporarily dismiss your familiar.” It doesn't say range. “You can cause it to *reappear* within 30 feet of you.” That's what I forgot. So you can do that. The last thing you see, briefly, before Frumpkin vanishes is this three-pronged trident rocking through the darkness, with what faint little bit of visibility that Frumpkin has, not even being able to see much down there in the darkness before disappearing.
+ LIAM: *Ja*, there is one down there right now and he tried to kill my cat. 
+ LAURA: Do we go down there or do we stay up here? 
+ TRAVIS: Hit the wall against the hole, right? We'll take either side of it, either flank. 
+ SAM: Why don't we just blow up the hole? 
+ TRAVIS: No, because we still want to go down there. 
+ SAM: Why do we want to go down there? There's crazy people down there! 
+ LAURA: Nott, shut up! Because there's treasure and stuff. 
+ SAM: You could just say, “Be quiet.”
+ LAURA: Nott, please be quiet. 
+ SAM: Thank you. 
+ TRAVIS: Molly, I want you to get right on the edge of the hole and keep an eye down the shaft. 
+ MATT: (chirping) (like Jester) "Go fuck yourself."
+ LAURA: Oh, I love her!
+ SAM: We woke her up, though, but it was cute. 
+ LAURA: Kiri, (shushing).
+ LIAM: Am I able to prepare Magic Missile like a held spell for a fish head popping out of the hole? 
+ MATT: Holding your action, if it comes back around, the spell is either fizzled or released. So you can wait for something and then cast the spell as an action. 
+ LIAM: But I’d lose the slot if I held the--
+ MATT: If you end up holding it for a few minutes, yes, because the idea is that you're casting the spell and then holding onto that last piece of the incantation. 
+ LIAM: I won't do that, then, but I will watch the hole. 
+ SAM: Is our rope still dangling down the hole? 
+ MATT: No, you pulled the rope up. 
+ LAURA: I'm going to hold Sacred Flame because it's a cantrip. 
+ TALIESIN: I'm going to activate one sword, hold it behind my back, sit at the edge, and wait to give a swing. See if anything is going to pop up. 
+ TRAVIS: Let it come all the way up if it does. 
+ SAM: If it comes up, should we grab it?
+ TRAVIS: Grapple it, fall flat, kill it quietly.
+ MATT: You guys take a moment in silence.
+ LAURA: It might be going back and telling its friends, though, and they’re all going to come back. 
+ MARISHA: You think those guys have strong family bonds? 
+ LAURA: Probably. 
+ MATT: Two minutes pass. Three minutes pass. 
+ LAURA: Oh no. What if it digs up a hole in another area, you guys? 
+ MATT: Then you hear this ever so faint grinding of root on scale. This merrow sentinel slides, slithering like a snake out of the curtain of roots that currently cover that one portion of the wall that leads further beneath the safe house. All of you guys take a surprise round. As soon as it emerges to go ahead and inspect, it's like, "Huh?"
+ TRAVIS: It came up the tunnel that was already there?
+ MATT: Yeah. It emerged and jack-in-the-boxed out towards you. 
+ LAURA: Dex save of 15. 
+ MATT: That is a four, nope! 
+ LAURA: Ten radiant damage. 
+ MATT: Ten radiant damage. Good to know.
+ SAM: I fired and missed with a natural one. 
+ MATT: Oh buddy. (whoosh) Nothing. 
+ TALIESIN: Just a standard attack, or standard and bonus? 
+ MATT: For the purpose of it all happening at once, just one attack.
+ TALIESIN: Two strikes or one strike? 
+ MATT: Two strikes. It's whatever your attack action is. 
+ TALIESIN: That's awful. 11? 
+ MATT: Misses. 
+ TALIESIN: Then an eight. 
+ MATT: Both miss. Unfortunately, because you guys don't have any light in here, when it emerges, you're all swinging in the darkness hoping to hit it in the direction of where it is. 
+ LIAM: I have no lights up, so I should be at disadvantage, right? 
+ MATT: You would be, yes. 
+ LIAM: I'm going to roll again. What does that say? 
+ MATT: Is this Magic Missile? 
+ LIAM: No, I had to Fire Bolt so it wouldn't matter how long I held it. My lower is a 12. 
+ MATT: That misses. 
+ MARISHA: I rolled a 20 total. That's 11 damage. My second attack missed. 
+ MATT: All right. 
+ TRAVIS: I did Eldritch Blast and a 20 and a 24. 
+ MATT: Both hit. Roll damage. 
+ TRAVIS: Ten and a nine. 19 points of Eldritch Blast.
+ MATT: All righty. 
+ ASHLEY: I rolled a ten, total. 
+ MATT: On your first attack? 
+ ASHLEY: Yeah. There we go. That's a 21. 
+ TALIESIN: Someone hit something. Yay. 
+ LAURA: You should really separate out your dice, Ashley. 
+ ASHLEY: I know it's making you crazy.
+ TRAVIS: Monstrous or--?
+ MATT: They are considered monstrosities, so consider that for any damage you deal to them with your sword.
+ TRAVIS: I will.
+ MATT: You're not raging, so you don't have the plus two. Nor do you have your--
+ ASHLEY: Path of Divine.
+ MATT: Correct, because you're not raging.
+ ASHLEY: It's ten.
+ MATT: That's enough. Even with all of your misses, you watch as it emerges, and then (multiple impacts) and slumps. Yeah, as you grab it, it starts sliding back into the tunnel. You grab and lift him-- he's heavy as shit-- and you all together manage to slip it into and onto the floor.
+ LIAM: I just watched all that.
+ TALIESIN: I'm staying on guard in case anything else comes through.
+ MATT: Fair enough.
+ TRAVIS: Yeah, same.
+ MATT: What little bit of light you have in the chamber right now is a little faint, radiant glow from the sword that Molly currently has that is like candlelight, if anything.
+ LIAM: I'm going to pull out a rag and do my veiled lantern thing with Dancing Lights.
+ LAURA: You should probably put another one of those things up, Caleb.
+ LIAM: Put one of what things up?
+ LAURA: Another alarm!
+ LIAM: Down there? You want me to go down there?
+ ASHLEY: Do you want me to go with you?
+ TRAVIS: Yeah, you and Yasha go.
+ ASHLEY: Okay, let's go.
+ SAM and LAURA: No!
+ LIAM: I'm going to send Frumpkin down again.
+ MATT: Frumpkin emerges, you send Frumpkin back down. Make a stealth check for Frumpkin.
+ LIAM: Come on, Frumpy. Nine.
+ TRAVIS: *Nein!*
+ MATT: The loudest cat you've ever heard. Frumpkin is the neighborhood cat in heat at this point. He makes his way down through the tunnel. Make a perception check with disadvantage for Frumpkin because he’s now coming around the edge.
+ LIAM: Someone told me that cats have advantage on perception. Are they full of shit? You’re my DM. Would it cancel out, is why I'm asking.
+ MATT: Would it cancel out? I would ask you to keep the stats of your cat on you for future reference.
+ LIAM: I will.
+ MATT: They have advantage on wisdom perception checks that rely on smell. I'd say sure.
+ LIAM: So cancel?
+ MATT: Yeah, it'll cancel out, so a straight roll.
+ LAURA: And it's a fish. Cats are really perceptive when it comes to fish.
+ LIAM: That's pretty good. Perception, 19.
+ MATT: Okay. Frumpkin heads on down, keeps an eye out on that space, does a little pass. No sign of any other emerging or present merrow.
+ TALIESIN: Instead of putting another wire down there, you could leave Frumpkin down there, and he can alert us if there's any problem.
+ TRAVIS: But he's got to stay awake for it.
+ LIAM: He could watch, but the alarm is just as good. It's automatic, gets me up, Frumpkin can sleep. After you.
+ SAM: You're going down there?
+ LIAM: *Ja.*
+ SAM: By yourselves?
+ LAURA: With Yasha.
+ ASHLEY: With me.
+ SAM: Take good care of him.
+ ASHLEY: I will.
+ TALIESIN: If we hear anything, we're going to charge down there. They'll be fine.
+ SAM: He can't make it without you.
+ ASHLEY: I know.
+ SAM: He will not come back alive.
+ ASHLEY: I know. I will take care of him as best as I can. Even better than that, I will take care of him. I promise you, he will not die.
+ SAM: He will have no chance of survival. Okay.
+ MATT: Slowly lowering the rope back down the tunnel, which one of you is taking point on climbing down?
+ ASHLEY: I will go first.
+ MATT: You make your way down, the rope aiding you in the process. You get to the bottom, you as well. I'd like you both to roll stealth checks, please, as you emerge in the lower cavern.
+ LIAM: 12.
+ ASHLEY: 13.
+ MATT: You two gingerly step your way around the edge, back to the site you can see of the three corpses of the merrow there in the center of the opposite side of the cavern.
+ LIAM: I have my hand on Yasha's enormous, rippling shoulder.
+ MATT: As you make your way around to the other pool, you can see the water, disturbed relatively recently, isn't perfectly still, but it's nearing there. It's coming to rest. No sign of anything down there.
+ ASHLEY: Okay, do your shit.
+ LIAM: I need about ten minutes. In the dark, I pull out the thread and I start doing the thing.
+ ASHLEY: Make it a little faster than ten if you can.
+ LIAM: I can't do that, but I will do that.
+ MATT: Five minutes go by.
+ SAM: I'm going to cast Message. Are you still alive? You can reply to this message.
+ TALIESIN: Mention that they should clean up the bodies.
+ SAM: Oh, yeah. While Yasha's waiting, she can clean up the bodies. You can reply to this message.
+ ASHLEY: I will start to move the bodies.
+ LAURA and ASHLEY: Stealthily.
+ LIAM: We'll say that I said that out loud to her.
+ ASHLEY: Yes. What did you say?
+ LIAM: Nott had a wonderful idea for you to pick up all of the dead things.
+ MATT: Yasha, you begin to drag the bodies back into the central pool. They sink.
+ ASHLEY: Flow in.
+ MATT: Yeah. You complete the latter half of it. Okay. You finish the spell, you sense the arcane, unseen net of the alarm click in and it's prepared and set to keep watch.
+ LIAM: Let's get the shit out of here.
+ LAURA: (whispering) Run away!
+ ASHLEY: Let's go.
+ MATT: You guys make your way back, climb back up the rope, and make your way into the interior of the tree, seemingly without incident.
+ ASHLEY: Seemingly?
+ LAURA: I'm going back to sleep, you guys. I need to get my spells back.
+ ASHLEY: I'll take the next watch since I'm awake.
+ MATT: Yasha takes final watch. Go ahead and roll a perception check for me.
+ LIAM: I'm freaked out, so I'm going to stay up with Yasha.
+ MATT: Both of you guys make perception checks for me, please.
+ LIAM: Perception, 11.
+ SAM: (singing) Run away, run away!
+ ASHLEY: 15.
+ MATT: As you guys complete the third watch for the evening, you sense the morning come as the temperature, which previously had gotten quite chilled, is beginning to rise a bit, though now you can still see your breath in the air. A faint bit of bluish light begins to appear at the outer edges of the driftwood piece that is wedged in the doorway to make it look flush with the rest of the exterior bark. You all complete a long rest. You have your abilities back, your hit points full, and you are ready to continue.
+ LIAM: Could I back up one hour and ask Yasha a quick question?
+ MATT: Sure.
+ LIAM: This is a small group for you, you traveled with the circus.
+ ASHLEY: Yeah.
+ LIAM: This is a big group for me.
+ ASHLEY: It is?
+ LIAM: Do you have any advice?
+ ASHLEY: Well, I mean--
+ LIAM: You seem awkward like me.
+ ASHLEY: Yeah.
+ LIAM: But you made it work with a lot of people.
+ ASHLEY: Well, if someone has a conversation with me, I will talk to them.
+ LIAM: I've tried that too, and it goes horribly.
+ ASHLEY: No, I don't think it goes as bad as you think.
+ LIAM: I think it goes really bad.
+ ASHLEY: I mean, yes, sometimes I think it's been pretty bad even for me sometimes, watching you. But that doesn't mean-- there's always room for improvement--
+ LIAM: I'm confused, did you have advice?
+ ASHLEY: I don't think I'm good at giving advice, but just talk to people if they talk to you, and be nice, you know. Eat with your mouth closed, wash your hands.
+ LIAM: I start writing these things down.
+ TRAVIS: Oh my god.
+ ASHLEY: Wash your hair when you can, that's fine.
+ LIAM: It just rained though. This is the cleanest I've been in weeks.
+ ASHLEY: (noise of disagreement) I feel like you're still-- how do you stay dirty all the time?
+ LIAM: Most of the time I'm trying to-- people don't pay attention to beggars so much.
+ ASHLEY: So you don't want people to pay attention to you.
+ LIAM: Yeah, in general.
+ ASHLEY: I get that. I feel that way, but I'm hard to miss. I don't mean that in a, "Woo, I'm hard to miss."
+ LIAM: You're as big as a giant barn, you are hard to miss.
+ ASHLEY: Yeah. Well, I--
+ LIAM: Do you know what I miss?
+ ASHLEY: What?
+ LIAM: Shaving.
+ ASHLEY: I could shave you right now with my sword.
+ TRAVIS: Yes!
+ ASHLEY: I've done it before, I like to not have hair on my arms. This is what I do. I really think that cleanliness and hygiene is very important.
+ LIAM: One thing that I have realized today is that I need to work on my interpersonal skills and friendship making. So try not to cut up my face, okay?
+ ASHLEY: Okay, do you just want a trim? Is there a certain look you want?
+ LIAM: No, leave my hair on my head, but I have not had a clean-shaven face in a long time.
+ ASHLEY: Do you want it all gone, or you just want--?
+ LIAM: No, you can take it all.
+ ASHLEY: It's easier to do that.
+ LIAM: You can crush a person, but I'm not quite sure how dexterous you are, so I don't want any fancy tricks.
+ ASHLEY: I won't. I'm going to hold it like this, and then the blade-- this is how I do it. I hold it, and then I whoosh, you know?
+ LIAM: Okay.
+ SAM: This is your five-foot greatsword?
+ (laughter)
+ ASHLEY: So sit here.
+ LIAM: Should I lie on the ground?
+ ASHLEY: Oh yeah, lie down. I've never done it like that, but yeah, lie down.
+ LIAM: Have you done this before?
+ ASHLEY: I have done this before.
+ LIAM: With that?
+ ASHLEY: Not with this, something a little smaller.
+ LIAM: I lie on the floor.
+ MATT: Okay. In the early dawn hours of the new day, as the blue begins to slowly become brighter in the distance--
+ LIAM: Wait! This means we are friends.
+ ASHLEY: Yes.
+ LIAM: (inhales)
+ ASHLEY: You don't have to hold your breath because it will take a very long time and you'll pass out.
+ LIAM: That might be better.
+ ASHLEY: You need to relax, breathe in, breathe out. Okay, I got it. Here we go.
+ MATT: I would like you to roll a dexterity check, please. Take advantage because he's not moving.
+ LIAM: Four globules of light rise up around you as you begin to shave.
+ ASHLEY: 16.
+ MATT: Maybe it's the tensile strength of her arm muscles, but such a large instrument seems unexpectedly delicate across the features of your face. It's not a complete shave, there are areas that get missed because it's not a very fine implement, but for the most part, the stubble gets closer to your face. There are a few sections that are unevenly smooth, but it's an improvement from where it was before. It's as good a shave you can get with a greatsword. Manages to avoid nicking any major arteries, and as you complete your work, you're proud of it, the sweat on your brow-- Caleb has no idea of how it looks other than you reaching up and touching your chin as it finishes. The rest of you come to consciousness.
+ LAURA: Are you killing Caleb?!
+ ASHLEY: No, I was giving him a shave.
+ LAURA: Oh. Whoa!
+ MARISHA: Wow.
+ SAM: It's much better.
+ LAURA: You have a little thing! You have a little dimple on your chin! That's the cutest! I didn't know.
+ TRAVIS: So boyish.
+ MARISHA: Yeah, you almost look innocent.
+ SAM: It looks good!
+ LIAM: Caleb's inner monologue is: I want to shrivel up and die.
+ TRAVIS: Nice work, Yasha.
+ ASHLEY: You know, if anyone else-- none of you--
+ SAM: Or Jester might want a bikini.
+ LAURA: Maybe soon, yeah.
+ ASHLEY: Yeah, I mean, I've done it before.
+ TALIESIN: This I can confirm.
+ LAURA: Should we gear up and head down and kill a bunch of fish people?
+ TRAVIS: Indeed.
+ LAURA: All right.
+ LIAM: I take a brief moment with the dodecahedron before handing the bag back to Jester.
+ LAURA: So you don't forget.
+ LIAM: I'll forget.
+ TRAVIS: Take the rope, we start lowering it down there.
+ LAURA: Stealthily.
+ SAM: We're going down there? Again?
+ TRAVIS: Yep.
+ LAURA: Yeah, we're killing everything.
+ TALIESIN: On the way down, I smack Caleb a bit on the back and say: Well done, she likes you! And head down.
+ LAURA: Should I cast Pass without a Trace on us and be stealthier?
+ TRAVIS: I think right before we go under the water we should.
+ SAM: Under the water?
+ TRAVIS: Oh yeah, this is an amphibious assault.
+ SAM: How many v's are in that word?
+ ASHLEY: What did you say?
+ TRAVIS: Like five.
+ TALIESIN: Amvivious.
+ TRAVIS: Amphibious. Yeah, there's a sea “anenome” under there as well.
+ SAM: I don't do well with water. I don't think I can go down there. Why don't I stay watch?
+ TRAVIS: Why aren't you good in water?
+ SAM: I don't like water.
+ TRAVIS: You can hold your breath, right?
+ SAM: Probably.
+ LAURA: What if I hold onto you and push you along?
+ TALIESIN: Are you going to be all right with Caleb going without you?
+ MARISHA: Remember our swimming lesson?
+ SAM: I don't like it, though.
+ TRAVIS: Listen, when we get down there, I'm going to swim a rope under the water to where we're going. It's going to be like a guideline, so whoever you ride with can pull on the rope and you’ll just hang on.
+ LIAM: It's a bad idea for you to stay. We would need you.
+ MATT: (chirping)
+ LAURA: Oh Kiri.
+ MATT: Pulls the knife out. (like Fjord) "It's an amphibious assault."
+ TRAVIS: Fuck you, Kiri.
+ SAM: Taking the piss.
+ LAURA: Where should we leave Kiri for this. We can't bring her over with us.
+ SAM: I'll stay with Kiri. You guys can go, and I can stay with Kiri.
+ ASHLEY: I don't like that idea.
+ LAURA: We need you, Nott.
+ SAM: I'm not good at many things.
+ LAURA: Yeah you are! You can shoot things. And you can sneak around.
+ LIAM: You're not very good at finding traps, but everything else you're quite good at.
+ ASHLEY: Then what are we going to do with Kiri?
+ MARISHA: She can't go with us.
+ TRAVIS: No, she can't. We can leave her in here with you if you want, but if you see trouble you're going to have to get in that water and come across.
+ SAM: (groans)
+ TRAVIS: Yep.
+ SAM: (groans)
+ TRAVIS: Yep. One or the other.
+ MATT: (like Jester) "Yes, I'm very sweet."
+ SAM: I'll stay with Kiri, and if there's trouble, we'll see what happens.
+ LAURA: Kiri, you stay here with Nott, then, okay?
+ TALIESIN: We're going to be one down, then.
+ TRAVIS: All right, I'll take the other 50-foot section of rope and I'll start wading into the water, and I'll take a swim back the way I went.
+ LAURA: Wait, wait! Pass Without a Trace.
+ TRAVIS: (high-pitched sound)
+ MATT: All right, so Pass Without a Trace.
+ LAURA: Yes.
+ TALIESIN: Is that the sound of Pass Without a Trace?
+ TRAVIS: It's like Aqua Velva.
+ TALIESIN: Like Ed Wynn getting tickled.
+ MATT: It's true.
+ TALIESIN: Oh my!
+ MATT: Pass Without a Trace. What's the range on that?
+ LAURA: 30 feet. So it’s not going to to be for a very long time. But--
+ TRAVIS: What do you mean?
+ LAURA: Well it’s only 30 feet in front of-- around me.
+ MATT: So you may want to go next.
+ LAURA: You'll go away-- huh?
+ MATT: You may want to go next then if you want that to affect other people.
+ LAURA: Yeah.
+ TRAVIS: Don't worry about me. I'm just swimming over there and coming back. And then we can cast it.
+ MATT: Okay.
+ TRAVIS: It's a guideline.
+ MATT: You, for the moment, wade into it and (burbling). You guys watch as Fjord, once again, disappears beneath the surface of the water. Now with the confidence of knowing that there is a breaking point and air ahead, that fear doesn't creep up into your brain and you rush for it. Making your way through, make an athletics check.
+ TRAVIS: 12.
+ MATT: 12, okay. You manage to find it through, and then come up quietly, just--
+ TRAVIS: Apocalypse Now.
+ MATT: Yeah, Apocalypse Now and/or The Descent. You slowly emerge from the water.
+ LAURA: Ugh, The Descent. Now it makes me want to swim through that little tunnel even less!
+ MATT: Yeah!
+ MARISHA: So Descent-y, you guys!
+ MATT: Glancing up, your range of darkvision is 30 feet or 60 feet?
+ TRAVIS: 60 feet.
+ MATT: 60 feet, okay.
+ TRAVIS: Where is that? Class features--
+ MATT: Racial features, it should say.
+ TRAVIS: Racial traits. Darkvision. 60 feet.
+ MATT: 60 feet, great. That gives you enough perspective for now as you come up and look. You can see this chamber, and you got a brief glance at it before. Most of it is natural rock, but there are elements of it that look like it was once a old bit of mason architecture. You can see edges where there are actual stones stacked and placed. Walls that have seemingly been partial reclaimed through the ages. You can see two large central pillars where stalagmite and stalactite met eventually and created a structure in the center. A large portion of the floor is submerged in water, and you see different paths and avenues of it that curve off and vanish. Probably openings to other tunnels beneath. The pool you're in right there, looking up you can see there's that weird set of natural stairs that step up in front. You can see four of these merrow creatures, two of which are in a conversation off to the left, two that are currently rummaging through what looks to be piles of things that have been pulled out and placed near the top of the stair. You can hear the clinking of metal and things falling and tumbling down the stairs. You see a fifth figure that's at the outskirts of your visual range that's currently faced away and looking at whatever's on the other side of that upward pillar. But nobody else seems to have noticed you emerging at this point. You haven't made any shifting or movement.
+ TRAVIS: Do they have an eye line on me if they were to look over this way? Could they see my head above the water?
+ MATT: It's possible if they were looking carefully for you. You don't know how far their darkvision extends.
+ TRAVIS: Can I wade forward and look for any stones or pillars that I might be able to throw the rope around and tie a knot on?
+ MATT: Looking around you can see there are small mounds of various minerals that have long dripped from the ceiling from condensation and various water flows that have come through this interior cavern and built this hard, rocky platform that's emerging just outside of where the pool ends. So you can bring the rope around and affix it to that. Make a stealth check as you do so, please.
+ TRAVIS: That's a two.
+ SAM: Pass Without a Trace.
+ LAURA: Well no. He didn't take it. More than 30 feet away from me, right? He's more than 30 feet away from me.
+ MATT: He is, yes.
+ LAURA: I should have given him Blessing of the Trickster. Oh no!
+ TRAVIS: Yep! That's amazing.
+ MATT: That's a natural one. You lucky son of a bitch! Through whatever grace your patron has granted upon you--
+ TRAVIS: I'm in the water, Matt.
+ MATT: The merrow are too distracted with whatever they are in the process of doing to notice you slip and hit an elbow, send a pebble falling. You get low and finish tying it off. They don't notice.
+ TRAVIS: Okay, great. I give it a gentle tug. Does it seem like the structure moves at all?
+ MATT: No. It seems pretty solid.
+ TRAVIS: I'll take a deep breath and I'll use it to pull myself chest up towards the surface.
+ MATT: Easy enough. So after a few moments, Fjord emerges back where you guys are waiting.
+ LAURA: Hey, you made it!
+ TRAVIS: Yeah. Still five of them. I tied it off. Everybody should be able to pull their way across no problem. But we got to be ready to rock when we get in there. They're a little distracted.
+ MARISHA: Are we going to try and wait in the water and ambush as we go?
+ TRAVIS: Yeah.
+ MARISHA: Okay.
+ TRAVIS: Or distract away from us and then go.
+ MARISHA: Okay.
+ TRAVIS: Or if we want we could cause a commotion and have them come through the water at us and use the hole as a funnel.
+ MARISHA: As a funnel? Might not be a bad idea.
+ TRAVIS: Thoughts?
+ LAURA: That might be smarter, and then you could fight with us, Nott, for awhile at least.
+ SAM: I mean, I don't like fighting, but sure.
+ LAURA: You're so good at it, Nott!
+ ASHLEY: Someone’s going to have to go make a distraction and then make it back.
+ MARISHA: And I bet those things are pretty good swimmers.
+ TALIESIN: Super fast in the water. I bet they're really fast in the water.
+ SAM: We could tie the rope-- oh, we can't tie the rope to you, because now it's tied on the other side.
+ TRAVIS: I'm a very fast swimmer.
+ MARISHA: But faster than fish?
+ TRAVIS: I think it's 60 feet, actually, is my swimming speed with this damn Mariner’s armor. Ignore what I said.
+ LAURA: Your regular swimming speed.
+ TRAVIS: Regular speed, yeah.
+ (laughter)
+ MATT: Your swim speed is half your movement.
+ TRAVIS: Well then yeah, it’s 30 feet.
+ MATT: 15 feet.
+ TRAVIS: Well with it, it’s my normal walking speed.
+ MATT: Oh right, with that it is, yes.
+ SAM: So your a fast swimmer.
+ LAURA: So yeah, that's pretty good.
+ TALIESIN: But probably not as fast as they are.
+ TRAVIS: Nah, could I guesstimate how far it was from entrance to portal? Where the rope is?
+ MATT: From where you are to the-- make a survival check.
+ TRAVIS: 13.
+ MATT: 13. Best you could estimate, it's close to 40 or so feet.
+ LIAM: How long has he been gone for?
+ TRAVIS: I'm back.
+ MATT: He's back.
+ LIAM: Oh, you're in here talking about what was there.
+ LAURA: What if we've just made a lot of noise in here?
+ TALIESIN: I'm of the opinion that the problem with this bottleneck is we don't know what they are doing on the other side. It would be easier to assess what's coming and make sure that they can't-- if we take care of everything there, then we can assess what's there and they can't prepare or get more together. Have time to--
+ TRAVIS: So you want to head over there?
+ TALIESIN: I feel like over there is the way to go.
+ TRAVIS: Okay. I see the validity in that argument.
+ LAURA: I'll get in the water.
+ TRAVIS: Pass Without a Trace first?
+ LAURA: Well yeah!
+ TRAVIS: Okay!
+ TALIESIN: We'll stay together in a group.
+ LAURA: How long did you have to hold your breath for, Fjord?
+ TRAVIS: I don't know. About 45, 50 seconds.
+ LAURA: Easy peasy lemon squeezy. Pass Without a Trace.
+ MATT: Coming back on the rope, it's a lot easier. Your first dive down took a while to feel your way through.
+ LIAM: I was distracted. I was thinking about my books. I don't want them to get harmed. Your bag is probably water resistant, yeah?
+ LAURA: I don't know, but we can try it. Give me your books, Caleb. Give me the books.
+ ASHLEY: Do you want to leave them with Nott?
+ LIAM: I do want to leave them with Nott. I'm going to unharness the--
+ SAM: Can you still cast spells?
+ LIAM: Yeah. 
+ SAM: Oh, okay.
+ TALIESIN: I'll leave my coat here. I'm not dragging that into the water. 
+ LIAM: If you come after us, would you please hide them under a stone or something?
+ SAM: Sure.
+ TRAVIS: How many books you got there?
+ LIAM: Two.
+ TALIESIN: That's a very nice, sling thing. It'd be a shame if anything happened to it. Are you sure you're not coming?
+ SAM: My duty is to take care of Kiri. Right?
+ MATT: (chirping)
+ TRAVIS: Shall we, Pass Without a Trace.
+ LAURA: I did it already!
+ TRAVIS: Shit balls ass! Let's do it.
+ LAURA: Lasts for an hour, though, so it’s okay.
+ MATT: Kiri leans into you. "This means we are friends."
+ LAURA: She heard!
+ MATT: She woke up early.
+ SAM: Sounds like Caleb. Wow.
+ ASHLEY: Wait, that was-- okay.
+ MARISHA: She's going to rattle off some secrets.
+ TRAVIS: Kiri's got to die. Thousands of artists are like (gasping).
+ LAURA: Who's first? Are you going back through first?
+ TRAVIS: Yeah, I'll go first.
+ LAURA: Okay. I'll go second. People should follow quickly behind me because you’ve got to stay within 30 feet of me.
+ TALIESIN: One quick attack, or do we try and take them out quietly? I assume-- well, we'll take a look at what it is.
+ TRAVIS: Distract and attack.
+ LAURA: So we're doing the distract? But then they know somebody's there! If we just come out of the water and attack, we get a sneak attack.
+ TRAVIS: If they don't see us.
+ TALIESIN: If they don't see us, then we get the sneak attack. And if they do--
+ LAURA: Just go for it!
+ TALIESIN: We'll see what we see.
+ TRAVIS: As I go underwater, I'm going to go about halfway and then stop and tread and make sure that everybody gets along the rope fine.
+ MATT: Okay, all right. You're casting Pass Without a Trace first? All right. You finish casting the spell. The shadows, already super dark in here with almost no light source beyond what Caleb's providing, they coalesce around you and the rest of the members of the team as you all dive into the pool of water. It's black.
+ LAURA: Caleb, Blessing of the Trickster on the way through.
+ MATT: On Caleb? Okay. Blessing of the Trickster on you, and that's advantage on your stealth checks. I need everybody, including Fjord, to roll a stealth check, please. Plus ten to your stealth score.
+ MARISHA: Natural 20!
+ MATT: They rolled really high.
+ TALIESIN: 16.
+ TRAVIS: Thank god for Pass Without a Trace. 19.
+ MARISHA: 37.
+ SAM: Jesus!
+ LIAM: Yeah, girl! Yeah!
+ MATT: That's some Vax numbers right there!
+ LIAM: *Zweiundzwanzig.* 22.
+ LAURA: Oh, 16. Oh, no! 18!
+ TALIESIN and ASHLEY: 16.
+ LIAM: Yeah. That's pretty good, Ashley.
+ MARISHA: I am one with the water.
+ MATT: You guys all quickly emerge from the water below, your eyes focusing. There is no light source in this chamber. So for those of you-- you have your darkvision on. You guys all have darkvision, I am pretty sure, except for you, Caleb. So you're relying on the rest of them to give any sort of presence--
+ LIAM: Listening to their footfalls.
+ MATT: Yeah, so.
+ LIAM: I am so excited. So pretty!
+ LAURA: Wow! Where are we?
+ ASHLEY: Wow wowie wow!
+ SAM: What is happening? Why is there a remote control?
+ LAURA: Oh, he's putting water effects on it! Shut up!
+ SAM: Ooh, it just got blue!
+ LAURA: Oh my gosh!
+ MATT: I would need you guys to place yourselves amongst this pool.
+ MARISHA: There it goes!
+ LIAM: Here comes the smoke!
+ TRAVIS: Oh shit, we got smoke!
+ LAURA: We've never had smoke before!
+ TALIESIN: I didn't think I'd enjoy this quite so soon.
+ MATT: Kiri and Nott exist on the outskirts.
+ ASHLEY: This is Dungeons & Dragons!
+ MATT: As you guys glance up, the first thing you see is there is one merrow right there who's currently talking and discussing with one right here.
+ LIAM: This is wrong. This is right.
+ MATT: Place yourselves where you want to be.
+ LIAM: That's still wrong, that's right.
+ MATT: There's one at the base of this, right there. Up at the top, facing away, is the one that you had seen at the top of the stairs, Fjord.
+ TRAVIS: That's the one that was distracted.
+ MATT: As you guys all emerge head first from the water, everybody gets a surprise round except for Yasha and Molly, unfortunately. You two did not roll high enough to beat the stealth.
+ TRAVIS: They rolled really high.
+ MATT: They rolled pretty high. Everyone roll initiative, but you guys will be out of this round.
+ LIAM: Don't fuck me, Colville. You fucked me, Colville.
+ TALIESIN: Do we want to try and do a clockwise attack? Knock them out as we go?
+ LAURA: Should we try to do a distraction?
+ MATT: 25 to 20?
+ ASHLEY: 21.
+ TRAVIS: Yo, what's up?
+ ASHLEY: Might be a first.
+ MATT: I know. 20 to 15?
+ TRAVIS: 20 to 15?
+ LAURA: Oh Jesus.
+ TRAVIS: Oh fuck. Oh shit.
+ LAURA: Oh no.
+ MATT: 15 to ten?
+ MARISHA: 12.
+ TRAVIS: What? Oh my god, you guys.
+ SAM: Oh no. Single digits and 21.
+ ASHLEY: That's a first.
+ MATT: Ten to five?
+ TALIESIN: Seven.
+ LAURA: Eight.
+ LIAM: *Sechs.*
+ MATT: Okay, hold on.
+ TRAVIS: Jester.
+ TALIESIN: Molly, Caleb.
+ TRAVIS: Caleb, Molly.
+ SAM: What about you, Fjord?
+ TRAVIS: I'm a big fat three.
+ ALL: Ooh!
+ LAURA: Oh my lord.
+ MATT: Nott, you're not engaging? Just for the sake of it.
+ SAM: One.
+ MATT: Wow, guys.
+ SAM: I have a plus four to initiative, so I guess that's five.
+ MATT: That's still better than Fjord.
+ SAM: My natural one beats yours.
+ MATT: You all emerge from it. Yasha, you would be first, but your stealth, you did not surprise the individuals from this round point. He doesn't notice you guys, that's a seven. Beau, you're up first.
+ MARISHA: Wow, okay. Beau's up first. Are we just going to go for these guys? We're not going to do some sort of distraction?
+ TRAVIS: We got the surprise round, so it's fine. This is the surprise round.
+ MATT: Now that you're getting a better view of this, you can see a low mist is pouring down the stairs and is filling the space around them.
+ MARISHA: This is all water, I'm assuming, in the middle?
+ MATT: All of this is water, yeah.
+ TRAVIS: Okay, good. It's acid.
+ MARISHA: Can I move? I'm going to go for this guy.
+ MATT: (counting) Easy enough. You get right to him.
+ MARISHA: Is there a way I can jump across and try and fight him from over here? Do I have enough?
+ MATT: You'll splash in the water. You won't make it all the way to the opposite side, or you may, but he'll get an attack of opportunity on you as you dart out of his melee range.
+ MARISHA: Okay, no. I'm going to try and do some KGB-level shit. I'm going to do a quick kidney punch and try and go for the temple.
+ LIAM: Krav Maga!
+ SAM: And influence the election.
+ MATT: Actually, if you wanted to jump across, I will say because he’s surprised, and he isn't aware that you're there quite yet, if you want to leap across, make an acrobatics check, if you still wanted to try and do so. You will land in the water. You'll be about waist-high in the water, if not more.
+ MARISHA: No, I'll be good. This is regular attacks, right?
+ MATT: Correct.
+ MARISHA: First attack. That was good. 20?
+ MATT: 20 hits.
+ MARISHA: Second attack. That's garbage, that's an eight.
+ MATT: First one hits.
+ MARISHA: Eight damage. I'm going to spend a ki and do flurry of blows. Two unarmed strikes. Natural one.
+ MATT: Nope.
+ TRAVIS: Man, that thing does not make up its mind.
+ MARISHA: No, it does not. 24.
+ MATT: 24 hits. Roll damage for that fourth attack.
+ MARISHA: Four damage. Wait, I rolled the wrong one. That's much better. Ten damage. I'm going to spend another ki point and do stunning strike. Jab to the ribs.
+ MATT: Natural 17. It resists the stun, I'm sorry. But it's doing damage to it. As you slam into it again, turns around. It looks like it's surprised and reeling from the impact of it.
+ MARISHA: You were supposed to go to sleep.
+ MATT: Gills flaring angrily towards your face. Some spittle flies out of its growling mouth. That finishes your turn, Beau?
+ MARISHA: Yeah. It'll be awesome when that stunning strike works.
+ MATT: Jester, you're up.
+ LAURA: I'm going to cast Spiritual Weapon right next to that one that Beau's fighting.
+ MATT: Right here, or this side?
+ LAURA: No, in between the two of them. Yeah, right there.
+ MATT: Floating in the air.
+ LAURA: At level three.
+ MATT: Oh snap, all right. Go make your attack roll.
+ LAURA: It's extra big, that's right. It's got more sparkle to it. It's got more sparkly bits.
+ TALIESIN: Marshmallow in the center.
+ LAURA: I'm going to try to attack the one that Beau is attacking
+ TALIESIN: Oh my god.
+ LAURA: That was on 20--
+ TALIESIN: And then it was like: nope!
+ LAURA: That is not going to hit.
+ MATT: Nope, swings wide. However, it has apparated and is useful in future rounds.
+ LAURA: He already took some damage, so I'm going to Toll the Dead on him for my action.
+ MATT: That is a natural three.
+ LAURA: He gets hit.
+ SAM: Tolled.
+ LAURA, TRAVIS, and MARISHA: He got Tolled.
+ LAURA: Jesus H. Macy. Seven points of necrotic damage.
+ MATT: Seven points of necrotic damage to him, got it.
+ SAM: That's pretty good.
+ MATT: Not too bad. That finish your turn, Jester? You're going to stay where you are?
+ LAURA: Yes. I'm going to get out of the water, and I'm going to go stand next to that thing that's coming out of the ground. Yeah, that thing.
+ SAM: The booby-looking thing.
+ LAURA: Yeah, the booby. The big pile of poo-looking thing.
+ MATT: That finishes your go. Caleb, you're up.
+ LIAM: Quick question: From the fish guy up at the top there, if that was the corner of a cube, would it reach the one down by the lollipop?
+ MATT: How big is the cube?
+ LIAM: 40-foot cube, excuse me, sorry. That's probably not big enough. That's too big, right? It's too far?
+ MARISHA: 40 feet's huge.
+ MATT: Wait, you mean from you?
+ LIAM: If I were to hit the fish guy at the top and make that the corner of a cube and go this way, it would probably only get two of them, right?
+ MATT: Possibly.
+ LIAM: Forget it. I'm going to cast Haste on Mollymauk.
+ LAURA: Would I have had enough movement to get behind the big poo pile?
+ MATT: You would.
+ LIAM: I can't see. It's dark, I'm blind. It's the safer bet, to aid my friend on the next turn.
+ MATT: For you, Molly. That's to signify your Haste. Keep that in mind.
+ LIAM: You have just been Hasted, and I am going to move along the wall this way away from the enemies that I think I can detect.
+ MATT: You're still in the water, thrashing, trying to make your way to the edge. Molly, you're up, but you lose this round, because you were not part of the surprise. You were lagging a little behind, as Yasha-- best way I can do this quickly, because they're losing their turn as well. That brings us to-- Nott isn't even paying attention. Fjord.
+ TRAVIS: Yep. I'll make my way towards the two on the left side, as far as my--
+ MATT: On the edge there?
+ TRAVIS: Yeah. Oh damn, that's as far as I can get, huh?
+ MATT: No, you can go into the water if you want to go further. You want to get up to him?
+ TRAVIS: Yeah, melee range.
+ MATT: You can get melee range. You're in the water, and you're swimming in the water, but because of your armor, it doesn't reduce your attacks, so you're not taking disadvantage on your attack rolls.
+ TRAVIS: Nice. I will use Booming Blade in a melee strike with the Wastehunter falchion against that fishy fuck.
+ MATT: Fjord, take your one attack.
+ TRAVIS: 14.
+ MATT: 14 hits.
+ TRAVIS: It does? Oh my god, thank you. 1d8, because I didn't say two-handed. That's 12 points of damage, plus because it's monstrosity?
+ MATT: It is.
+ TRAVIS: 12 points of damage plus four. That is a four. 18 points of damage.
+ MATT: 18 points of damage on that guy.
+ TRAVIS: With Booming Blade--
+ MATT: If he moves at all, on his next turn, he takes an additional 2d8. Good to know.
+ TRAVIS: Yes sir. With my bonus action, I will Hex this guy over here.
+ MATT: This guy there?
+ TRAVIS: Yes sir.
+ MATT: He's been Hexed. Does that finish your turn?
+ TRAVIS: Yes, it does.
+ MATT: As you pull back, the energy sparks around, and there's this weird movement in the water like it's thrashing, the booming energy keeping that one merrow locked in place, as the other one, the Hex coalesces around its chest and holds it.
+ TRAVIS: I'll give him disadvantage on wisdom.
+ MATT: Wisdom checks, got it. That ends top of the round. Now Yasha, you can take your turn. The ambush round is over.
+ ASHLEY: I'm going to mosey on up over next to Beau, and I would like to rage.
+ TRAVIS: Yeah!
+ LIAM and ASHLEY: (air horn blaring)
+ LIAM: From the cavern behind us: (muffled air horn noises)
+ ASHLEY: I'm going to pull out my blade and--
+ SAM: Take the stubble off of it?
+ ASHLEY: Take an attack. Give it a nice shave. That is 18.
+ MATT: 18 hits.
+ SAM: Come on, Yasha! Come on, Yasha, plan ahead!
+ ASHLEY: Listen, I know, I'm sorry. Where's the ones that I really like? There it is. (counting) 19.
+ MATT: Nice. You rush up next to Beau, cleave down with the blade. It carves through part of its torso and it retracts and tries to pull itself lower in the water to make itself harder to hit. What are you going to do? You have a second attack, right?
+ ASHLEY: Yeah, I have a second attack.
+ MATT: Go for it.
+ ASHLEY: That's not going to hit. Eight.
+ MATT: Eight misses, unfortunately. Next one swings, and a miss. Now the merrow all go together, because you guys left a big old gap of initiative there.
+ LAURA: Oh no.
+ TRAVIS: It's after Yasha, right?
+ MATT: Correct. First part, I'm going to say-- Let's make it fun.
+ SAM: Yes, let's.
+ MATT: This guy here is going to take his trident and chuck it right towards Beau.
+ TRAVIS: Are these free tridents, or do they also have that cord that's attached to them?
+ MARISHA: Like the harpoons?
+ MATT: They have the cords still attached. That's a 17 to hit.
+ MARISHA: 17 is my armor class.
+ MATT: There you go. With that to there, first off, Beau. As it strikes you in the chest, you take ten points of piercing damage, and I need you to make a strength check for me, please.
+ MARISHA: So good at this. Just a straight check, or a saving throw?
+ MATT: A strength check.
+ MARISHA: 19-- sorry, ten. It looked like a 19 upside down.
+ MATT: It was a 14. You get pulled through right next to it there, in the middle of the water. As you fall to the ground, it's going to attempt to bite at you. Since you're in the water, outside of your terrain, I will give it advantage on the strike, because you're now thrashing water and swimming, and it's in its own terrain. That'll be 18 to hit. With the bite on you there, you take an additional eight points of piercing damage. At that moment, this one here is going to turn around onto Fjord, and is going to shift this way and unleash both bite and claw attack against you, Fjord. 17 to hit?
+ TRAVIS: That hits; it's my armor class.
+ MATT: For that claw attack, it's going to be 2d4. Seven points of piercing damage against you, Fjord.
+ TRAVIS: Okay.
+ SAM: Did you guys scan the area for Despacito beasts?
+ TRAVIS: Seven points of damage.
+ MATT: It's going to pull back as it finishes clawing into you. It's going to try and bite down with its jaws. That's a 19 to hit.
+ TRAVIS: That hits.
+ MATT: You take another seven points of piercing damage. The one behind there, who sees his friend digging into Fjord's torso and body, watches as it finishes its round of strikes and then under-handed throws its harpoon towards him. That's another 18 to hit.
+ TRAVIS: That hits.
+ MATT: With that, you take ten points of piercing damage. I need you to make a strength check. As it pierces, you grab it, and it manages to careen into the side of your hip, and it hits bone. You feel it grind against the inside with the pain.
+ TRAVIS: That's a 17.
+ MATT: You beat it. Rolled a 15. So you do not get pulled. It does not give him his follow-up attack. However, he's going to move forward to get his follow-up attack anyway with the rest of his movement, and is going to attempt to bite you, and is going to miss. That's a nine.
+ TRAVIS: *Nein!*
+ MATT: He goes to bite and as you pull the harpoon out, and turn back your shield you bash the side of its face and manage to pull back. It scrapes across its fish-like face, but no impact or damage. All right, that's going to finish his go. The one that is right next to you, Yasha, is going to shift around, not leaving combat with you, but going behind the pillar to give itself some cover from anybody who's out in the vicinity. It's going to attempt to make two strikes against you.
+ TRAVIS: I didn't-- I need to make Hex checks.
+ MATT: Yes, you do.
+ TRAVIS: Oh shit, how many of them? Three?
+ MATT: Three.
+ SAM: Ooh!
+ TRAVIS: At advantage because war caster, right?
+ MATT: Yep.
+ TRAVIS: Okay.
+ MATT: Roll higher than a ten.
+ TRAVIS: What is that, constitution?
+ MATT: Constitution saving throw.
+ TRAVIS: Okay. That's a 15. Did 15 work?
+ MATT: 15 works.
+ TRAVIS: Nice. Higher than a ten, sorry. That's a natural 19, that'll do it. And 13-- that's an 18. All three save.
+ MATT: All righty, that's good on your end. For you, Yasha, you didn't use reckless last turn, right?
+ ASHLEY: No.
+ MATT: That's a natural 20 on that first strike with the claws at you. That is going to be 14 points of piercing damage, reduced to half so you only take seven because you're raging. And the bite attack against you is a natural two plus six. No, that misses you with an eight. However, that finishes their round and this guy up here who now spins around and sees the rest of you come inside begins shouting out in a language you don't understand (snarling). As it's holding up this staff that has this almost crystal spike of natural crystal at the end of it, it begins to chant something under its breath. And as it spins its hand in the air, you watch as the ceiling above you in this chamber begins to grow into this low cloud that spirals out, encompassing the entirety of the interior of the chamber.
+ LAURA: Run away!
+ MATT: You see little sparks of lightning arcing through the cloud as it spools above.
+ MARISHA: Motherfucking druid fish.
+ MATT: Beau, I need you to make a dexterity saving throw, since you're the one closest to it.
+ MARISHA: Saving throw.
+ MATT: Correct.
+ MARISHA: That's a natural one.
+ MATT: You suffer 16 points of lightning damage as you get struck by lightning in the water. Which you watch as technically now, yeah, if any of you are in the water when the lightning hits you, you have disadvantage on your saving throw because you are in the water. Didn't matter this time because you failed anyway, but you watch as the bolt strikes Beau and she starts thrashing in the water as the muscles tense. There's a giant burn mark on the side of your head.
+ TRAVIS: Oh shit, you guys! Oh, fuck.
+ MATT: Looking pretty rough on that one.
+ MARISHA: I just got fucked up.
+ MATT: And it's going to go ahead and spin itself over to the edge this way, using the one below. Getting itself between the rest of its merrow compatriots and you guys. That finishes their turn; Beau, you're up.
+ MARISHA: Ah! Okay, I'm going to take the one who's got a trident jabbed into my shoulder. I'm going to grab the chain and I'm going to yank it towards me as I deck him in the face twice.
+ MATT: Go for it.
+ MARISHA: The first attack-
+ MATT: If you want to move around to get onto land, otherwise you're going to be having a hard time in the water here attacking them because you're constantly swimming.
+ MARISHA: Can I do that?
+ MATT: You still have movement, yeah. So you can move five, ten, 15, 20, 25 there. So you manage to whip around, get out, up onto land and not end up with a disadvantage on your attacks.
+ MARISHA: Okay, the first one is 15?
+ MATT: 15 does hit, yes.
+ MARISHA: Woohoo! Okay, second attack; not as good, 12.
+ MATT: 12 does not hit, unfortunately. But the first strike, as you pull up, cracks it right in the jaw. The next one, it manages to bash your arm out of the way and it deflects off the side-- no impact.
+ MARISHA: Okay, that's seven damage.
+ MATT: Okay, the first strike.
+ MARISHA: And then, I am going to take my bonus and spend a key point to do patient defense.
+ MATT: Okay, so as you get up on land, you focus and looking around side-to-side, make you that you're aware of everything around you and get ready to defend and deflect.
+ MARISHA: A little in shock. (pants) Ah!
+ MATT: Okay, that finishes Beau's turn. Jester, you're up.
+ LAURA: Okay, I'm going to use Spiritual Weapon that I have up and try to hit that thing.
+ MATT: Go ahead and roll the attack for that guy.
+ LAURA: Ooh, that hits, that's a good one.
+ MATT: Okay, all right, what was the number?
+ LAURA: 15 plus my attack.
+ MATT: 15 beats his armor class, so yeah, that's fine. Well, 13 actually, so that definitely hits.
+ LAURA: And then 2d8-- seven points of force damage to him.
+ MATT: Seven points plus your wisdom modifier.
+ LAURA: Oh, plus four, so 11!
+ MATT: There you go. 11 points of damage to him. All right, how do you want to do this?
+ ALL: (cheer)
+ LAURA: Oh man, that feels good. I haven't got that in a long time! I'm going to use the giant lollipop and it's going to raise really high up on the roof and then slam down onto it as hard as I can! 
+ MATT: Yasha, as you're engaged with it, both growling at each other, you watch as suddenly its body jcrumples into the stonework.
+ ASHLEY: I scream out, yeah Jester!
+ MATT: It slips into the water and vanishes beneath the waves.
+ ASHLEY: I flip it off.
+ MATT: So that's your bonus action. You still have your movement and action.
+ LAURA: I'm also going to move it closer to the one next to Beau.
+ MATT: Right here?
+ LAURA: Yeah.
+ MATT: All righty.
+ LAURA: And then I'm going to cast Cure Wounds at-- Should I do that? Or should I Toll the Dead on him?
+ MATT: Cure Wounds is touch, so you have to be right next to him.
+ LAURA: Just kidding! I'm going to Toll the Dead on the one that Beau's fighting.
+ MATT: Okay, what's the range on that?
+ LAURA: Okay, hold on.
+ TALIESIN and SAM: That's a lot of spells.
+ LAURA: Yeah, well, you know.
+ MATT: Caleb, you're up next so be ready.
+ LIAM: What's the lighting like in here?
+ MATT: Right now? None, there is no light.
+ LAURA: 60 feet.
+ MATT: 60 feet? All right, yeah, so you can do that from there if you want.
+ LAURA: Okay, cool. It's a wisdom save and he's Hexed on wisdom.
+ MATT: Natural 20.
+ TRAVIS and LAURA: Disadvantage?
+ MATT: No, that's disadvantage on wisdom checks, not wisdom saving throws. Hex doesn't affect saving throws.
+ TRAVIS: I am sorry. I did not understand that part.
+ MATT: Yeah, but, for instance, if you had said strength checks, then every time it tries to pull somebody, it would have disadvantage on that.
+ LAURA: Oh, that would have been better, then huh?
+ TRAVIS: The lesson in the lesson.
+ MATT: But now you know, going forward with Hex.
+ SAM: If we survive this.
+ TRAVIS: Well, fuck me sideways.
+ TALIESIN: I feel your pain.
+ LAURA: Yay, that's pretty much all I can do.
+ MATT: Going to stay where you are?
+ LAURA: Yeah.
+ MATT: All right, that finishes Jester's turn. Caleb, you're up.
+ LIAM: I cannot see anything. I'm going to move towards the sound of Jester shouting in the dark and I'm going to raise up the glove of blasting and try to shoot the fish-man that I heard way up high ahead of me, up the hill. They'll all be at disadvantage.
+ MATT: The one that's attacking Beau, or the one at the very top?
+ LIAM: The one with the staff at the top.
+ MATT: All right, go for it. Disadvantage on all the attacks.
+ TRAVIS: We get like, little strobes from the lightning. It's like that opening sequence in Blade.
+ LIAM: First one's 15.
+ MATT: 15 just barely hits.
+ LIAM: Second one is 14.
+ MATT: 14 misses.
+ LIAM: And then, that is also 14 so just one of them hits.
+ MATT: So, one of them hits. The two other ones careen off and you watch as they streak out into the darkness past this merrow, what looks to be a priest-like entity up there that's commanding the storm. Exploding on the rocks behind it, one hitting this piece of long-lingering temple-like interior. And one finally strikes it in the chest. Go ahead and roll damage on that one.
+ LIAM: That is six points of fire damage.
+ MATT: It does make a concentration check. Natural 17 plus two. It does succeed in maintaining concentration.
+ LIAM: Okay, that's it.
+ MATT: That's your turn. Caleb's done. Molly, you're up.
+ SAM: Yeah, Hasty.
+ TALIESIN: Okay, I'm going to run, I'm going to use my bonus action to activate one of my swords.
+ MATT: The other one? Or do you still have the one activated from before?
+ TALIESIN: Technically, that would have still be activated, so shit, that's right. Yeah, I'm going to use my bonus action to activate the other one, too. I'm going to see if I can make it to that little hill over there.
+ MATT: Which one? Here?
+ TALIESIN: I'm going to attack the one that's right in front of Fjord.
+ LIAM: Double speed.
+ MATT: Okay, that will put you right there. So you rush up to the edge there. You used your bonus action, you have your two attacks and your hasted attack.
+ TALIESIN: Yes, so I'm going to do two attacks plus a hasted attack. That's 17. That hits, one does not, and then my third attack is a 16 that also hits.
+ MATT: So, two attacks. Go ahead and roll damage on that.
+ SAM: Wow!
+ TALIESIN: That's eight points of damage.
+ MATT: Eight points of damage, nice.
+ TALIESIN: And nine points of damage.
+ MATT: All righty. You're using the d6's for your--
+ TALIESIN: I am using the d6's.
+ MATT: Cool, so as you rush up, you swing the scimitars in this blast of speed. Two of them manage to strike true to its body, cutting out a piece of it. It's looking pretty hurt now, starting to bleed out where the wounds are hit. But it's growling in your face as it spins around. Its fins curl up from the side and you can smell this awful, swampy, almost sulfurous smell from its breath in your face. Is that your turn? 
+ TALIESIN: That's the end of my turn.
+ SAM and LAURA: Two attacks?
+ TALIESIN: That was three attacks, one missed.
+ LAURA: Oh.
+ MATT: All right, that brings us to Nott, who is waiting patiently with Kiri.
+ SAM: I'll send a Message to Caleb. Are you guys alive and do you need anything? You can reply to this message.
+ LIAM: Fuck, fuck, fuck, fuck, fuck, fuck, fuck, fuck!
+ SAM: Uh oh.
+ MATT: Is that your turn?
+ SAM: That's it.
+ LAURA: You didn't move at all?
+ SAM: I'm going to think about it.
+ MATT: That brings us to Fjord.
+ TRAVIS: After getting so fucked up that last round: the scratch, the bite, and the trident in the gut; I'll put both hands on the falchion and say do not see me, and I'll cast Blink.
+ MARISHA: (gasps)
+ MATT: Okay!
+ ALL: Ooh!
+ MATT: And Blink is not concentration, correct?
+ TRAVIS: It is not.
+ MATT: Yes, all right. So with that, Fjord vanishes from the battlefield. We'll use this as a spatial positioning device of where you were before.
+ TRAVIS: That's my turn.
+ MATT: That ends Fjord's turn. That brings it to the top of the round. Yasha, you're up.
+ ASHLEY: Okay.
+ MATT: Fjord vanished. You see two now turning their eyes towards Mollymauk who's right there. There's one across the way that's currently barrelling on Beau and there's the one at the top of the stairs right now that looks like it's commanding a giant storm.
+ ASHLEY: I'm going to go over to the one by Beau.
+ MATT: Over here?
+ ASHLEY: Yeah.
+ MATT: So that's five, ten, 15, 20, 25, 35. You're in the water swimming, so your attacks are at disadvantage right now.
+ ASHLEY: Okay. All right.
+ MATT: If you wanted to do reckless, you could counteract that, but you'll be taking--
+ ASHLEY: Well, I had one natural 20, and then 18 was my lowest.
+ MATT: Wait, so that was disadvantage?
+ TALIESIN: She rolled a natural 20 for her other roll.
+ MATT: Got you, so the first attack was what?
+ ASHLEY: 12 plus six.
+ MATT: That hits. So your first attack hits. Go ahead and roll damage on that.
+ ASHLEY: Okay, same as last time. 19 points of damage.
+ MATT: 19 points of damage, nice! All right, and you have your second attack, with disadvantage
+ ASHLEY: 15.
+ MATT: 15 hits. Go ahead and roll damage on that.
+ TALIESIN: Murder it.
+ ASHLEY: 15 points of damage.
+ MATT: This is-- you only do five additional damage on this one. Right? So 15?
+ ASHLEY: Yeah.
+ MATT: Damn, nice roll! As you, in the water, cleave out once with the blade in this giant splash arc of water from the middle of the pool in the center, it carves across the side of its back. (snarling) It turns around towards you right as you bring the second strike up into its abdomen. It pushes off the blade and it looks pretty hurt. It's bleeding out of its wounds in the middle of its stomach and its back. That finishes your turn?
+ ASHLEY: Do I have a-- no, never mind, that's not a bonus action. Never mind, sorry. Was going to try Healing Hands.
+ MATT: That ends your turn. It's their turn. So, I will need you, first off, to make a dexterity saving throw. As you come up and carve into the back of it, the one on top hisses and directs its finger down towards you as a bolt of lightning arcs out of the--
+ ASHLEY: Ten.
+ TALIESIN: Wait, no, it's a saving throw, right?
+ MATT: Yeah, saving throw. Plus?
+ TALIESIN: Oh, it's a dex saving throw? Never mind, sorry.
+ MATT: That does not succeed. You're in the water, so it would be disadvantage anyway.
+ TALIESIN: That makes me sad. 
+ MATT: That is 25 points of lightning damage, which is not halved on you because the rage doesn't affect it. It only affects slashing, piercing, and bludgeoning. So you're blasted in the middle of water. You sink for a moment as your muscles give out, your sword almost falls out of your grasp, and you manage to right yourself as you're treading water here. Your feet can't touch the bottom of this pool and your eyes go flashing white for a second, and for an instant, you see the face of Kord the Stormlord there from the vision your recently had. Then clarify and shake it out of your head and carry yourself back into place. That's going to finish this guy who's going to move around. He can only move ten feet so he goes five, ten. He's going to stop right there. 
+ SAM: She got shocked so hard we saw parts of her dream.
+ (laughter)
+ MATT: This guy right here is going go ahead towards you, Beau, as you're right there. He has disadvantage on the attacks against you, though. He’s going to go ahead and make its claw attack against you, with disadvantage. That's cocked. You save yourself from a natural 20 with that one. It's a 16, which I believe misses, right?
+ MARISHA: Misses. Just misses.
+ MATT: So, as it claws toward you, you, being prepared for it, dart off to the side. It's going to go ahead and take a bite at you.
+ MARISHA: You have such big hands.
+ MATT: With disadvantage, another natural 20 averted! However, that does come to a 19, so I believe that does hit you.
+ MARISHA: Ah!
+ TRAVIS: Whoosh. Worcestershire sauce.
+ MATT: That is 11 points of piercing damage as it bites down onto the front of your clavicle and face.
+ MARISHA: I'm unconscious. Again.
+ MATT: Beau falls to the ground. As she sinks from its jaw under the rock there, it spins around towards you, right in your face, its gills flaring up. That's going to end its turn. The two over here, this one's going to move there and they're both going to flank Molly. They are both going to harpoon you-- jam melee at the one on this side. First attack is going to be an 18 to hit.
+ TALIESIN: That hits.
+ MATT: What's your armor class?
+ TALIESIN: 17.
+ MATT: Plus two because of the Haste.
+ TALIESIN: That is with the plus two, I'm an AC of 15. I am easy target.
+ MATT: Oh, buddy. That does hit you. So the first harpoon strike against you-- that's eight plus four, 12 points of piercing damage. It jams you into the abdomen from that side. The other strike--
+ TALIESIN: The other person, I'm casting Curse of the Eyeless on the second.
+ MATT: This guy's finishing his round. He's attempting to bite you, that's going to be a 15.
+ TALIESIN: That does not hit.
+ MATT: As he bites down towards you, this time as you pull the trident out you jam it up and it throws him off and clips him in the side of the chin, breaking off one of his teeth. At that moment, the guy behind you is going to swing in with his harpoon as well.
+ TALIESIN: Curse of the Eyeless.
+ MATT: Okay, reaction to that.
+ TALIESIN: And I take my three points of damage.
+ MATT: That's cocked. So he has a regular strike on this one, so the attack with the harpoon is going to be a 21 to hit, unfortunately.
+ TALIESIN: With disadvantage?
+ MATT: Well, he had advantage because he had you flanked, so it just made it a general roll.
+ TALIESIN: Okay, that hits.
+ MATT: So that is going to be ten points of piercing damage as the other harpoon jams you in the back. As you're arcing upward, it's going to attempt to bite down at you, but its eyes have gone dark and it's just biting wild in front, using the thrashing of your body to guide itself. That is going to be a natural seven plus six, 13. Misses. So it bites down, you manage to duck out of the way and slam the hilt of your scimitar up into its face and knock it off to the side. That's going to end their go. That brings us to Beau. I need you to make a death saving throw, please.
+ SAM: Were you saying the Curse of the Islands?
+ TALIESIN: The Eyeless.
+ MARISHA: Let's go cobalt blue. 17.
+ MATT: That's one success. Mark it on your tattoo. Jester, you're up.
+ LAURA: Okay. I'm going to use my action to Invoke Duplicity, and I'm going to make her appear standing right next to Yasha. But I can't use my action to make her doing anything--
+ MATT: It's a 30-foot range, right? So it'd be right there.
+ LAURA: Okay. And then I'm going to use my bonus action--
+ MATT: She's gliding on the water, tiptoe.
+ LAURA: Yeah. Healing Word at level two on Beau. I know that's lame, but it's something. Oh that's good, that's 11 points of healing.
+ MATT: 11 points to Beau. You come back to consciousness on the ground, your body was just starting to roll and slip into the water. You catch one of the rocks and keep yourself from going back into the drink.
+ MARISHA: I'm going to try to still play dead.
+ LAURA: That’s all I can do and my action, and I'm not going to move.
+ MATT: Well, your action was to--
+ LAURA: Invoke Duplicity.
+ MATT: Right, that's correct. That finishes your go there. Caleb, you're up.
+ MARISHA: Thanks, Jester!
+ LIAM: *Ja*, how far can I get towards this one over there? Even if it means going in the water.
+ MATT: Over here? You can get partway into the water.
+ LIAM: Will I get within 30 feet of him?
+ MATT: Possibly?
+ LIAM: Well, show me how far--
+ MATT: He's here. That's (counting) 30, so most likely.
+ LIAM: I'm going to try it. I'm going to wade in. 
+ MATT: (counting) Just outside of 30 for the range.
+ LAURA: Attack the one next to Beau. (coos)
+ LIAM: I was considering it, it's just not what I wanted to do. I'm going to cast Dispel Magic on the storm above me.
+ MATT: Looking at that, I believe the level is level three or lower? It's a 3rd-level spell. The storm immediately, with one final crackle, fades and dissipates above. The cavern above now just the empty, dark roof it was before, the storm no longer present.
+ LIAM: Everybody hears (nervous laughter).
+ MATT: That ends Caleb's turn. Molly, you're up.
+ TALIESIN: I am yelling: Fjord! I am going to take a swing at the one that's looking a little rough. I believe it's that one, yeah. Oh my fucking god. 11.
+ MATT: 11 does not hit. You have three more attacks with your bonus action, if you want to.
+ TALIESIN: 24.
+ MATT: 24 hits. Roll damage on that.
+ TALIESIN: Nine points of damage.
+ MATT: Nine points of damage, all righty.
+ TALIESIN: Still standing?
+ MATT: Barely.
+ TALIESIN: I'll swing again. 23.
+ MATT: 23 hits.
+ TALIESIN: Ten points of damage.
+ MATT: That'll do it, how do you want to do this?
+ TALIESIN: I'm literally just a windmill at this point.
+ MATT: A whirling dervish of blades as you carve through. You start biting through with the blades, carves one part of its chest, part of its arm, down on its chest, looks up and right through its face.
+ TALIESIN: Then spinning around, I go right to face the other one and I'm going to take my last attack against it.
+ MATT: Go for it.
+ TALIESIN: Nope. I don't even know why I'm bothering.
+ LAURA: It's okay, stick with the ones that were good for you. That one and the pink one.
+ MATT: That finishes Molly's turn. Nott.
+ SAM: I hand the books to little Kiri and I say: Keep these safe.
+ MATT: (like Jester) "Wrapped around his weenie?"
+ SAM: Good idea. I'll take a little bit of fleece and rip it and cast Silent Image, and make a wall of stone around Kiri. Just say: Don't move.
+ MATT: Okay. You cannot see Kiri, just vanishes amongst the visuals of the illusion.
+ SAM: Go over to the water, put my foot in, and then-- withdraw it, and take a big swig.
+ (laughter)
+ MATT: All right, finishing Nott's turn. Fjord. Where do you want to emerge?
+ TRAVIS: I forgot to do the 2d8 of booming damage on the gentleman behind Molly. So that's a big one, and three, so four points of booming damage.
+ MATT: Well, technically that was the other guy.
+ TRAVIS: Oh was it?
+ MATT: Yeah. They shifted around.
+ TRAVIS: Ah. They do-si-doed?
+ MATT: They did.
+ TRAVIS: Fair enough. Can I appear right next to this gentleman on his reverse? There you go. I will break my--
+ MATT: If you'd like to-- fucking stay! If you want to, you can appear up top there and get a flanking bonus.
+ TRAVIS: That sounds dandy.
+ MATT: You can use it against them, they can use it against you, as long as you are directly across from an enemy with an ally, you can give yourself flanking benefit.
+ TRAVIS: Great. I will break my Hex, and I will use a Hexblade's Curse as my bonus action on that gentleman.
+ MATT: On this one? Okay. There you go.
+ TRAVIS: I will make two attacks with the Wastehunter falchion against him with the monstrous--
+ MATT: Go for it.
+ TRAVIS: Flanking gets-- what does it add? Does it do anything?
+ MATT: Flanking? It's advantage on your attacks.
+ TRAVIS: Okay, so first attack. 15.
+ MATT: 15 does hit.
+ TRAVIS: Great. And the second one. Neither of those are a crit, but that's a 24 on the second one.
+ MATT: That hits, roll damage for each.
+ TRAVIS: (counting) 17. For the Hexblade, four points of damage, so 21 on the first one. (counting) 17 on the second.
+ MATT: How do you want to do this? You fucked that guy up.
+ TRAVIS: I'll shift in right behind him and see Molly looking around, give him a little wink, and I'll take the falchion and take the back of his head off.
+ MATT: Molly, it’s pulling back ready to leap at you, and as it lurches towards you it stops, you watch as the upper half of its shoulders and head slip and slough off into the water.
+ TALIESIN: You fucking arsehole.
+ TRAVIS: Sorry. I was getting what for, man. Shit. And I'll-- oh wait. Natural 20. Peace out!
+ MATT: You vanish out of the space. That's a hell of a round. Yasha, you're up.
+ ASHLEY: Okay. I'm going to go after this buddy here. Are we flanking him, technically?
+ MATT: Right now? No.
+ LAURA: Technically, because Beau's on the ground?
+ MATT: Beau is not threatening. You have to be on the opposite sides.
+ ASHLEY: So disadvantage still?
+ MATT: Yep, because you're in the water.
+ ASHLEY: 13.
+ MATT: 13 just hits.
+ TALIESIN: Oh god, that looked like a one for a moment. Sevens are scary. No, it was a seven. I was just staring at it going: oh no.
+ ASHLEY: Did I get it, though?
+ TALIESIN: Yeah you did, you're right.
+ LAURA: How much damage do you do? Because you hit it.
+ ASHLEY: Oh shit. Sorry.
+ TRAVIS: I heal 13 points.
+ MATT: Nice.
+ ASHLEY: 14 for the first hit.
+ MATT: It's hanging on by a thread.
+ ASHLEY: Okay, that hits. Eight points of damage.
+ MATT: Yeah, that'll do it. How do you want to do this?
+ ASHLEY: I'm going to take my blade, slit it in its throat, pull its tongue through and give him a Xhorhasian necktie!
+ (cheering)
+ TRAVIS: That's that barbarian shit!
+ MATT: So one-handed wide swing, with the same motion, you reach up right into the wound, tear it through, and maintain eye contact as it tumbles over into the water and disappears beneath the surface.
+ TRAVIS: All day. I'm up for that all day. That's what I'm here for.
+ LIAM: That did not sound good.
+ MATT: That ends your turn? You still have your movement.
+ ASHLEY: Beau, what are you at? Oh no, I can't do that.
+ MARISHA: On my back, out of air I go: That was awesome!
+ ASHLEY: All right, could I walk over a little bit so I can stand on the--
+ LAURA: Stairs?
+ ASHLEY: Yeah, so I'm not in the water.
+ MATT: You're right next to Beau on the ground. You got out of the water. All right, ends your turn?
+ ASHLEY: Yes.
+ MATT: There's a sound in the nearby water, as emerging from one of the other caverns on the side, another merrow emerges from that side and another emerges from this side. The one up top here that sees everyone closing in is going to back up into the water, and is going to cast Call Lightning again. It wants to bring it about. Use the other level three spell slot. With that, as the cloud forms up in the sky again, seeing you step out of the water, you do not have disadvantage on the saving throw, but I need you to make another dexterity saving throw.
+ ASHLEY: 14.
+ MATT: It is a 13 DC, so you only take half damage. Which is good, because that would be 24 damage, so you take 12 points of lightning damage.
+ ASHLEY: 12, you said?
+ MATT: Yes, 12 points of lightning damage.
+ SAM: She’s got, like, 100 more points.
+ TALIESIN: Nah.
+ ASHLEY: I'm, as Matt would say, looking rough.
+ MATT: He's going to dive into the water. You know where he disappeared beneath the surface as you see the water rippling out, but you're not sure where he is or how deep he is. These two have emerged. This one's going to move through the water to there, and is going to make a harpoon-- Let's move over a bit further because it can, to about there. It's going to make a harpoon strike towards you, Yasha, throwing it in your direction. That's a 20 to hit.
+ ASHLEY: Yeah, that hits.
+ MATT: All right, you take-- that's a bad roll, eight points of piercing damage reduced to half, so you take four points of piercing damage. I need you to make a strength check, so roll a d20 and add your strength modifier as its attempting to yank and pull you towards him.
+ TRAVIS: Let him know!
+ SAM: This is your thing, you are strong!
+ ASHLEY: Get out of the thing, go away. Okay, okay, okay. Oh shit.
+ MATT: You have advantage on your strength checks because you're raging.
+ ASHLEY: Oh, I do! That's not much better. Ten!
+ MATT: He pulled a 13, natural nine plus four. You get yanked. Beau, you watch as Yasha gets yanked over you as you're lying on the ground, and it's going to attempt to bite you as you're down in the water once more. Natural 19. That's 25 to hit. So with that, the bite attack, let's roll damage on that. That is going to be ten points of piercing damage, reduced to five, 'cause you're raging.
+ ASHLEY: Okay.
+ MATT: This guy here is going to go ahead and move up right next to Caleb, rushing out of the water from underneath with the harpoon in its arms, and jam it towards your torso. That's going to be a 15 to hit.
+ LIAM: Shield.
+ MATT: All right. You watch as it deflects off of your body. It's going to angrily attempt to bite down on you. That's a natural 17 plus six.
+ LIAM: I will use the dodecahedron and roll a 20 on this side. I got a natural two.
+ SAM: So you're rerolling for him.
+ LIAM: I get to choose, it says it on this paper. Alternatively, after an attack roll is made against me, I can expend the fragment to roll an additional d20 and choose. So two plus whatever.
+ MATT: As as it attempts to bite down towards you, there's a brief moment where the bite sinks into your shoulder, and there's a brief burst where time seems to dart back, and you step out of the way as its bite hits  air with no effect.
+ LIAM: Caleb will remember this.
+ MATT: All right. That ends their turn. Now it is Beau.
+ MARISHA: I'm good. I'm still alive. And I get up. I go, (slurred) Who's-- who's next? And I run over--
+ MATT: It's half your movement to get up, so you have 20 movement.
+ MARISHA: I have 20 movement.
+ TRAVIS: She healed up drunk.
+ MATT: Wouldn't she, though?
+ TRAVIS: Yes.
+ MARISHA: Am I able to, if I use Step of the Wind, am I able to make it around and get to this one who's harrassing Caleb?
+ MATT: You can certainly try.
+ MARISHA: 'Cause I'd have 20 movement and then my speed, which is 40. So I should be able to make it.
+ MATT: You should. Do you want to try? All right. So five, ten, 15, and then go ahead and make an athletics check to make the leap. I'm letting you see if you can make it across the water without losing your movement.
+ SAM: You're great at jumping over small bodies of liquid, Marisha.
+ MARISHA: I am. Yeah, that's 15.
+ MATT: 15? Yeah. (counting) You're just outside of it to be within melee.
+ MARISHA: Really? I've got extended melee. Come on, man.
+ MATT: (counting) Actually, 35, 40, you can do it with just one if you're there. So you manage to spin around, using your bonus action for Step of the Wind, so you still have your action.
+ MARISHA: All right, two attacks. Let's see what happens. First one: natural 20!
+ (yelling)
+ MARISHA: I'm super pissed off! Okay, okay, okay. Roll high on this one. That's good. 12 plus another six. That's 18.
+ MATT: 18 points of damage on that one. Damn. Nice.
+ MARISHA: I hate fish.
+ TRAVIS: Hate-fish. They have great sushi there.
+ MARISHA: And then I'm going to take the end of my bo, jab it right in its throat, see if I can get another one.
+ LIAM: That's cocked. You've got to take the good with the bad.
+ MARISHA: Ten.
+ MATT: Ten misses, however the critical did-- as you run up from the side, you parkour off the wall, the side of the pillar there, leap, whack! Slam it with the staff. You see its head get pushed underwater again. It turns around; its eyes are adjusting like yours were a moment ago, and as you go to swing a second time, it does manage to deflect it with the side of its trident. No impact.
+ MARISHA: I think that's all I've got.
+ MATT: All right, that ends Beau's turn. Jester, you're up. Caleb, you're on deck.
+ LAURA: Are any of them looking rough?
+ MATT: At the moment? This one's been hurt, this one has not been, and this one is not visible. It is beneath the surface of the water.
+ LAURA: I'm going to have Jester run up to the one that Beau just hit-- yeah, the me. Yeah. And I'm going to Inflict Wounds on it at level one.
+ MATT: Okay. So go ahead and roll a melee spell attack on it. If you want to move here, you can flank it. All righty. So you're opposite of Beau, using that flank maneuver. So don't forget, you guys can flank on direct opposites. They can also flank against you.
+ TRAVIS: So what is it? What is it?
+ TALIESIN: I don't even know why I bother.
+ TRAVIS: At advantage, too?
+ MATT: Oh, natural one and a natural four.
+ LAURA: It's a touch, though. Yeah, no, it doesn't matter. They're slippery little suckers.
+ MATT: So as you swing out with your hand, your foot catches the edge of one of the pebbles, and you stumble for a second, and your hand goes wide off to the side, hits some of the stone on the wall behind you and releases the spell's impact against lifeless wall, unfortunately.
+ MARISHA: Don't touch attacks avoid AC?
+ MATT: No, that's Pathfinder rules.
+ MARISHA: Aw. Man, that's old school.
+ LAURA: For my bonus, I'm going to move my Spiritual Weapon and try to do the same thing and hit it.
+ MATT: That it can do.
+ LAURA: Can I flank it and get a bonus on--
+ MATT: No, not technically a creature.
+ LAURA: Okay, that hits.
+ MATT: All right, so 2d8 plus four.
+ TRAVIS: Come on, now!
+ LAURA: 11.
+ MATT: 11 points of damage. Crack! The giant lollipop swings and hits the side of the jaw. It dislodges for a second, then for a moment it's trying to hold the trident with one hand and the other's trying to push it back into place.
+ LAURA: And I say, tastes good, doesn't it?
+ MATT: (laughs) Awesome. That finishes your go. Caleb, you're up.
+ LIAM: I'm going to save my higher stuff for the guy who's disappeared, so I'm going to Fire Bolt it right at point-blank range at disadvantage.
+ MATT: All righty.
+ LIAM: Ugh.
+ (laughter)
+ LIAM: I rolled a two.
+ MATT: Nope. Nope. You get scared in the moment, because you're still thrashing in the water, and you put the hand up and go (effort sound, fizzle). You were aiming six feet from it. It goes up like a firework and hits the roof.
+ LIAM: I'm going to crouch down to the water and submerge up to my neck in the hopes that it does not know where I am and I'm too short to be hit.
+ TRAVIS: Like the gas range, he's trying to--
+ MATT: That ends Caleb's go. Molly, you're up.
+ TALIESIN: Shite.
+ SAM: You're super fast. Remember, you're super fast.
+ MATT: You have 60 feet of movement.
+ LAURA: Help Yasha!
+ TALIESIN: Yeah, I suppose we're doing-- yeah.
+ LIAM: Flank that Yasha enemy! (pigeon coos)
+ TALIESIN: Running to the Yasha creature.
+ MATT: Are you running through the water or going to make a leap across?
+ TALIESIN: I'm going to run through the water. Speed's doubled.
+ MATT: (countings) If you want to flank, you'll be in the water, which is disadvantage on your attacks.
+ TALIESIN: That doesn't matter, then.
+ LIAM: Advantage to disadvantage, straight roll.
+ MATT: It's a straight roll if you stay there, or a straight roll if you end up flanking it. Yes.
+ TALIESIN: Actually, here's an interesting thing, is-- oh, god, yeah. I don't want to be in the water, so I'm going to stay on that little patch of land so I don't get--
+ MATT: So make your four attacks on it, if you want.
+ TALIESIN: All right, first two rounds. That's a 14 and a natural 20.
+ MATT: Okay, yeah, that'll do.
+ TALIESIN: So the natural 20 is double the dice?
+ MATT: Yep, just roll the dice.
+ TALIESIN: All right. Eh. That's nine. And the other one is 11.
+ MATT: 11 points of damage. And then your third strike with your Haste.
+ TALIESIN: Third and fourth. That's-- one of them misses, but the other one's 19, the other one hits, the other one is ten.
+ MATT: All right, so that hits on the third strike, there.
+ TALIESIN: That's better. 11 points of damage.
+ MATT: Ooh. 31 points of damage in one round. As you're carving through it rapidly, it is looking pretty hurt. It's not on death's door, but you singlehandedly carved it pretty hard in one round.
+ TALIESIN: I'm going to use my bonus action--
+ MATT: You already used your bonus action.
+ TALIESIN: Oh, I did, for the attack! Never mind. Never mind. That's literally everything I can do.
+ MATT: All right, that ends Molly's go. Nott.
+ SAM: See, Kiri, I think they would have called if they really needed me. I think no news is good news, and--
+ TRAVIS: Just then, a couple bubbles.
+ SAM: That's probably a good sign. And the water looks cold anyway, and you could get hypothermia, so, you know, I've got to protect you, and, yeah. That's my turn.
+ (laughter)
+ MATT: That's amazing. Okay, Fjord, you're up. As you reapparate within ten feet of where you were--
+ TRAVIS: Closer to Molly. And I go, boo! Ah, shit. 
+ MARISHA: Party's left.
+ TRAVIS: Fuck. And seeing that they're engaged elsewhere, I'll fire my first two Eldritch Blasts at the one that's engaged with Molly and Yasha. Which is 18 to hit.
+ MATT: Just remembering, why did you drop Hex again? It was because you cast--
+ TRAVIS: Hexblade's Curse.
+ MATT: All righty. So first strike was 18, that hits.
+ TRAVIS: That is 12 points of damage.
+ MATT: 12 points of damage, nice.
+ TRAVIS: Is he still up? Then I'll send the second one in his direction as well. That's 22 to hit.
+ MATT: That works.
+ TRAVIS: Seven points of damage.
+ MATT: Seven points of damage, that'll do it. How do you want to do this?
+ (cheering)
+ TRAVIS: I'll pop up and be like, fuck, the first time I do it, son of a bitch. And I'll go (magical buzzing and whooshing) and send both of them over there.
+ MATT: Both (impacts) on its side. You watch as one of its arms gets blown off and flings, landing on the top of the stairs before rolling down a few steps and coming to rest.
+ TRAVIS: As Molly looks over, I'm like (blows).
+ MATT: It slips down into the water. Yasha, you take one swipe at it for good measure as it slips below. All right, and roll your d20 to see whether you stay or go.
+ TRAVIS: 13.
+ ALL: (singing) Should I stay or should I go now?
+ TRAVIS: It's important to remember that you don't--
+ (laughter)
+ TALIESIN: So irritating.
+ MATT: Yasha, you're up.
+ ASHLEY: All right. Can I get out of the water?
+ MATT: Right now, you're in the water, so with full speed, you're probably not going to get to it unless you take an action to dash.
+ ASHLEY: Okay. I'll hop up back on that, out of the water there.
+ MATT: You have 30 feet of movement. There's the guy who's underwater over here somewhere, and there's the guy that's currently assaulted by most of your team on the other side.
+ ASHLEY: Okay, so I'll move closer to where I think the guy is.
+ MATT: (counting) There?
+ ASHLEY: And then I will cast Healing Hands on myself.
+ MATT: All right, you reach down and touch the front of your chest--
+ ASHLEY: Bring me to a whole seven.
+ MATT: Oh, shit.
+ MARISHA: You were that bad? Wow.
+ TALIESIN: Two. Two hit points. That's two kittens, man.
+ MATT: So that ends your turn?
+ ASHLEY: Yeah, maybe not a good idea to walk over there.
+ MATT: Emerging from the water, the water splashes up as it glances up. On the other side, that one merrow's right there, have him surrounded, is going to make one strike again towards Caleb. That is a 23 to hit.
+ LIAM: I'll take it.
+ MATT: Okay. That comes to 12 points of piercing damage. I need you to make a constitution saving throw.
+ MARISHA: Do I have a reaction? Can I hit it?
+ MATT: You can, because it's attacking someone that's not you.
+ MARISHA: Yes, Sentinel shit!
+ LIAM: Get out of here, status thing.
+ MARISHA: Terrible, terrible. That's a ten.
+ LIAM: What was the damage before, DM?
+ MATT: 12.
+ LIAM: Thank you, thank you. My web browser's going insane. I can't. Hold on.
+ SAM: Refresh.
+ TRAVIS: I got you. I got it right here.
+ LIAM: I have no internet right now. I rolled a six, and I don't know what my con is because I have lost--
+ SAM: It's in your notebook somewhere. Your character sheet. You printed it out somewhere, right?
+ MARISHA: You don't have a print-out of your character sheet?
+ LIAM: Oh, you're right, I do, after you asked me nine times.
+ (laughter)
+ MATT: I believe your constitution is 14, if I recall? Which brings a +2 to what you rolled.
+ TRAVIS: If you got that right, that's some fucking Beautiful Mind shit.
+ MATT: Yeah, 14. Failure. Haste wears off, because you lose concentration.
+ TALIESIN: Oh god, does that mean I-- oh, shit. I'm out for a round, aren't I?
+ LIAM: Does the exhaustion happen when the spell's broken?
+ MATT: When the spell ends, the target can't move or take actions.
+ MARISHA: Oh, shit.
+ LAURA: Oh, that's a shitty side effect.
+ MATT: And, to follow that up, it's going to bite down towards Caleb, seeing that you're probably the easiest meat around here, unarmored. That's a natural 20. I'm having really good luck.
+ LAURA: I'm easy meat!
+ MARISHA: Check the lollipop, it's so inviting!
+ ASHLEY: Tasty treat.
+ MATT: All right, so with a bite attack against you, that is 14 points of piercing damage to you, Caleb.
+ LIAM: Okay. Earlier, I'm sorry, because the internet shit the bed on me, so it was 12 plus 14. I'm still up.
+ MATT: Oh my god. Okay. Ending that turn, the other one standing there emerges, the storm in the sky. It sees you standing up again and goes (growls). Sounds like some horrible curse. I need you to make a dexterity saving throw.
+ TRAVIS: You know what, it's okay, because there's fucking smoke on our map.
+ MARISHA: It looks great.
+ TALIESIN: I'm pleased.
+ MATT: Thank you, Taliesin. A great gift I'm glad I've been able to use finally.
+ ASHLEY: 18.
+ MATT: 18, okay, so half damage. We'll see what it rolls.
+ TRAVIS: Come on, 13 or less.
+ MATT: That is a nine, a one, and a three. 13 points of damage. Lightning damage. Halved to six. Not even joking. You can look at the dice.
+ TRAVIS: I believe you.
+ MATT: I can't fucking believe that.
+ SAM and LAURA: She's okay.
+ TRAVIS: Yep, you're at one.
+ MATT: You are a fucking warlock, is what that is. You know that, but--
+ TRAVIS: (singing) You got the perfect warlock.
+ (laughter)
+ MATT: Goddamn it.
+ TALIESIN: Holy cow.
+ MATT: And is going to vanish once more beneath the surface of the water. You don't know quite where it is, that’s where you last saw it disappear. That brings us to Beau.
+ MARISHA: It's me already? Oh, shit. I'm going to unleash on this guy. Again, crack, crack, see what happens.
+ MATT: You have advantage on these because you're flanked currently with Jester.
+ MARISHA: Oh, goodness gracious! Yes! I'm going to try and use my staff and pole vault me up in the air and go crack, crack, with two big swoopy swoops. I'll take the 13, eight plus six is 13. 14!
+ MATT: 14 hits him. Armor class of 13.
+ MARISHA: That's eight plus another four so that's 12 damage for the first one. Second one. That hits, 18.
+ MATT: 18 hits, roll damage for the second strike.
+ MARISHA: Five damage.
+ MATT: Whack, whack! You hit both sides with the staff. It's being knocked around, spitting blood out of its mouth. It's hurt.
+ MARISHA: It's hurt.
+ SAM: Mildly hurt.
+ MATT: It's hurt pretty bad.
+ MARISHA: I have one more ki point. I can stun it, or I can do flurry of blows and try to kill it.
+ LAURA: Kill it! Flurry of blows it!
+ MARISHA: All right, last ki point. Flurry of blows.
+ MATT: Make two more strikes against it.
+ MARISHA and TRAVIS: (chanting) Apology, apology!
+ SAM: Guilt attack!
+ TRAVIS: "Did I say I was sorry?"
+ MARISHA: Hey Caleb, we should talk later. I'll take that 13, so it's 20 for the first attack. And then 12? No. Yes. No, 12.
+ MATT: 12 does not hit, but one of them does.
+ MARISHA: Stupid. Seven damage.
+ MATT: Seven points of damage, how do you want to do this?
+ (cheering)
+ MARISHA: I pole vault up, do the two hits, and then I want to parkour off of the spiritual weapon a little bit, Marty McFly on the lollipop, and then do a flying roundhouse to his face!
+ MATT: Whack! Right across his face. The impact throws its head with such a speed down onto the rocks, right at the bottom of Jester's feet. Crack! It slowly slides, gurgling, into the water, sinking below.
+ MARISHA: I stand up, throw my hair out of my face, and that ends my turn.
+ MATT: Jester, you're up.
+ LAURA: Okay, I'm going to cast Cure Wounds. I'm going to walk up behind Caleb and give him a hug around the waist and say: you're okay, my friend.
+ LIAM: He's like this in the water.
+ LAURA: I cast at level two, so that's 2d8 plus four. 12 points of healing for you. For my bonus action, I'm going to have my duplicity self run up and stand right next to the spot where the fish wizard comes out.
+ MATT: Right there?
+ LAURA: Yeah. She's going to--
+ TRAVIS: Look real mean.
+ MATT: Good to know. Finishing your turn, Jester, Caleb, you're up.
+ LIAM: Am I able to wade onto the land, just behind Beau there? Yeah, if I go in that direction, can I get off on dry land?
+ MATT: You can just barely get onto land if you want.
+ LIAM: Okay, I'm going to do that, and as I'm doing that, I'm pulling out my little clay cat's paw and I'm going to hold Maximilian's Earthen Grasp. As soon as I hear fish talking in the water, I'm going to let it go.
+ MATT: Okay.
+ LAURA: I'm going to step out of the water, by the way, for my movement.
+ MATT: Okay, you step back. That ends your turn, Caleb, as you're holding your action. Molly?
+ TALIESIN: I'm going to (retching), and throw up for a second, because I got vertigo because I lost Haste. And that's my turn.
+ MATT: Nott?
+ SAM: I'll take one more swig, and I'll jump in the water.
+ MATT: With your movement, you get most of the way across on the rope, but you can bonus action to dash.
+ SAM: Bonus action dash!
+ MATT: With that, Nott just barely emerges from the distant pool of water.
+ SAM: Where are they?! Let me at them! I'll save you all!
+ MATT: You don't see any monsters.
+ SAM: Get this water off me! Ah!
+ MATT: Nott's splashing behind you.
+ SAM: I'll shake like a dog.
+ MATT: Perfect. Fjord.
+ TRAVIS: I'll reappear and take--
+ MATT: Whereabouts?
+ TRAVIS: Ten feet closer to Yasha's direction, on land still. I will hold Eldritch Blast until I see the reappearance of--
+ MATT: Good to know. Roll your dice.
+ TRAVIS: To hit for it? Oh. Aww, shitballs. 
+ MARISHA: Oh no.
+ TRAVIS: 16. Ah ha- (yelp)
+ MATT: Held actions and Blink can be a really tricky thing.
+ TRAVIS: Show your fucking fa-- (yelp)
+ TALIESIN: Can you move while you're not blinked, by the way?
+ TRAVIS: No. 
+ SAM: Can you see into our world?
+ TRAVIS: I can see and hear and all that stuff.
+ MATT: It's like an ethereal-- like Frodo with the ring on.
+ TRAVIS: Guys? (distressed yelp)
+ MATT: This is what Ripley used on you guys last campaign. 
+ TRAVIS: Fuck you, Molly!
+ MATT: That finishes Fjord's turn. Yasha, you're up. 
+ ASHLEY: Oh my god, okay. I’m going to hold-- I'm going to stay where I'm at. I've got nothing to attack so I'm just going to hold my turn until I, you know.
+ MATT: Hold your action in case something shows up?
+ ASHLEY: Yeah, in case something shows up in the water and then I can--
+ MATT: That ends your turn. That brings us the merrow shallow priest's turn. As you're all focusing on this element a small ripple of water emerges over here as it has swum down below the water.
+ LIAM: Cat's Paw!
+ MATT: Cat's Paw. What does it have to roll for it? 
+ LIAM: 16. Strength. 
+ MATT: 16 strength?
+ LIAM: Yeah. 
+ MATT: Does it get a saving throw you mean? A strength saving throw?
+ LIAM: “On a failed save, the target must make a strength saving throw.” Versus my 16. 
+ MATT: That is an eight. No. 
+ TRAVIS: Yeah!
+ (meowing) 
+ MATT: It is currently restrained, right?
+ LIAM: And it takes 2d6 damage. Bludgeoning damage.
+ MATT: Go for it.
+ LIAM: Five points of bludgeoning damage.
+ LAURA: That's a really big cat paw.
+ LIAM: It's so big.
+ MATT: Yeah, it's gargantuan. All right, how much damage was that?
+ LIAM: Six total.
+ MATT: Six total damage.
+ LIAM: So a big muddy claw sinks into its tail and pulls it down in place.
+ MATT: At which point it's holding its staff still and (hissing), spins its arm around. A level two Thunderwave bursts out in front of it in a 15 foot cube, hitting both Beau and Caleb. I need you both to make a constitution saving throw, please.
+ LIAM: The damage doesn't do anything to its spellcasting ability, does it?
+ MATT: No.
+ LIAM: Okay. So what do I take?
+ MATT: A constitution saving throw.
+ MARISHA: 17 for me.
+ MATT: That is a success so take half damage.
+ LIAM: I'm not going to make this. Eight.
+ MATT: Nope. That is 17 points of thunder damage. You take half of that, so you take eight.
+ TRAVIS: Oh yeah, just Caleb. She's still up. 
+ LIAM: Yeah, I'm out.
+ MATT: You're still up?
+ MARISHA: I'm still up.
+ SAM: Cat's Paw's gone.
+ MATT: Cat's Paw's gone. Caleb's unconscious. Easy come, easy go. Beau, you are thrown ten feet back into the wall there as the smoke dissipates from the Thunderwave. Wham! Into the wall and fall to one knee. Let's see. No, that's all of its movement. It took all of its movement to get there, so that's where it stands. That's going to end its turn. Beau.
+ MARISHA: Okay.
+ TRAVIS: Turn this man into fish sticks.
+ MARISHA: (grunts) I'm a little out of-- it knocked the wind out of me.
+ MATT: Oh, it has to make a constitution saving throw to see if it maintains the thunderstorm above. Which it succeeds.
+ MARISHA: Okay, I'm going to go for this mother. I'm going to run up towards it, once again parkour off of that little-- yeah, and give a nice flying Superman punch and then an uppercut. 
+ MATT: Go for it. 
+ MARISHA: First hit. All right, I'll take that 21. 
+ MATT: You're technically in the water, so the attacks are at disadvantage.
+ MARISHA: Okay. 16. 
+ MATT: 16 still hits. 
+ MARISHA: That's ten damage. 
+ MATT: Ten damage. Got it. 
+ MARISHA: Second attack. 16 for the first one. 16 again total. 
+ MATT: All right, that hits again. Second attack.
+ MARISHA: 12 damage.
+ MATT: 12 damage. Two constitution saving throws. That's a success, and a success, so it's still maintaining concentration on the lightning storm. 
+ MARISHA: And bonus attack. Not good. Nine to hit. 
+ MATT: It swings wide. It's laughing under its hissing breath as you're punching, and it's starting to try and slowly submerge into the water.
+ MARISHA: (panting) I'm losing steam. That's my turn.
+ MATT: That brings us to Jester.
+ LAURA: I'm going to run to the other side of Beau.
+ MATT: Right here?
+ LAURA: Yeah, so I'm flanking it.
+ MATT: Over here, you mean?
+ LAURA: Yeah. I wouldn't be able to hit it from the land, would I? 
+ MATT: (counting) That's where you are, but you're in the water right now. You're (splashing).
+ LAURA: Okay, so I would get a straight attack, right? 
+ MATT: Yes, you would.
+ LAURA: Okay. I'm going to try to hit it with a level three Inflict Wounds. 
+ MATT: Go for it. You have disadvantage. 
+ LAURA: Well, a straight because it's flanked. 
+ MATT: You're flanking it, so it's a straight attack, yes. You pull back (energy crackling). 
+ LAURA: That's 11. 
+ MATT: (fizzling) You reach up and right as you-- That dice are not with you. I'm so sorry, Laura. I'm so sorry.
+ LAURA: No, it's fine, it's fine, it's fine.
+ SAM: These dice are wrong and bad dice and they should be put away forever.
+ MATT: As you reach out with this crackling bolt of looming necrotic energy, it manages to spin around and a burst of wind immediately pushes your arm just off course and it releases harmlessly in the air. I'm sorry. 
+ LIAM: At least you got an apology when you rolled shit.
+ LAURA: Yeah, cool. I'm going to use Spiritual Weapon at level two and then try to slam it down.
+ MATT: All right, roll for the attack on it. 
+ LAURA: It's a level three Spiritual Weapon. It's a natural one. 
+ MATT: You cast it at level two earlier though. I'm so sorry.
+ LAURA: No, I cast Spiritual Weapon at level three.
+ MATT: No, it was level two at the beginning.
+ LAURA: No, I didn't. I cast it at level three. I did.
+ MARISHA: We all went, "Whoa! Level three!"
+ TALIESIN: Yeah, there was a “whoa” there. We will all get yelled at on the internet if we're wrong.
+ LAURA: Yes, it's three. It was level three. It doesn't matter. I rolled a one.
+ MATT: I trust you guys.
+ ASHLEY: But for next time, when you kill it and get a How Do You Want To Do This with it. Just in case. 
+ MARISHA: How do you want to sweet tooth this? 
+ LAURA: That's all I can do.
+ MATT: Sorry, Jester. That finishes your turn. Caleb, I need you to make a death saving throw, please.
+ LIAM: Sure. Let's do this. That's a six. 
+ MATT: That's a failure. First failed save on Caleb. 
+ MATT: All right. Molly, you have a turn now.
+ TALIESIN: Yes, I do.
+ LAURA: Yeah, laugh. Laugh it up. *I'm pregnant!*
+ (laughter)
+ TALIESIN: Is it possible to make a leap across the some of water at the very least to try and get get back to land?
+ MATT: Make an athletics check. 
+ MARISHA: A woman scorned by her dice. 
+ TRAVIS: I know. I only see that at home.
+ TALIESIN: That's a ten?
+ MATT: No. You go (splashing) (counting) 30. 
+ TALIESIN: I'm going to then also use my action to dash. 
+ MATT: (counting) 20. You get up there. 
+ TALIESIN: And I'm within range?
+ MATT: Combat range, yes. 
+ TALIESIN: I'm going to use my bonus action--
+ MATT: You can only use your bonus action to attack if you've used your action to attack.
+ TALIESIN: Okay, that's fine. Wait. Double check, because I thought that's just using my off-hand.
+ MATT: That's what I'm thinking, but I'll double check what the rules are there.
+ TALIESIN: That's okay, I've got options. Sort of.
+ MATT: Every now and then you need a reminder, folks.
+ SAM: Did Laura go to deliver the baby right now?
+ TRAVIS: Yeah, just real quick.
+ MATT: “When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action--” If you don't attack, you cannot bonus action attack.
+ TALIESIN: Okay. That’s fine. I'm going to try something weird, hold on. Since that's not going to work, can I take Enthrall? I'm going to take Enthrall. I'm going to try and use Enthrall.
+ MATT: Is it an action or a bonus action to use? Because you've used your action this turn.
+ TALIESIN: Yeah, that's true. I'm trying to see.
+ MATT: I believe Enthrall as a spell is an action. 
+ TALIESIN: It might be it. Yeah, it's an action, nevermind. Vicious Mockery. 
+ MATT: Vicious Mockery, I believe, is also an action.
+ TALIESIN: Oh my god, everything is an action. I have no bonus actions or anything reasonable that I can do.
+ MATT: But you're in melee. 
+ TALIESIN: I'm in melee. That's fine.
+ MATT: That ends your turn, Molly. Nott.
+ SAM: Seeing my friend Caleb down, I'm filled with a mighty rage and I will draw my crossbow, load my Burning Bolt, and I run at it screaming and firing.
+ MATT: (counting) It's within 20 feet. As you're running out of the water, (screaming) (splashing).
+ SAM: That's a 20 to hit? 
+ MATT: That hits. Roll damage with the additional Burning Bolt.
+ SAM: (counting) Fury of the Small, 21, plus the Burning Bolt is another three. 24 total?
+ MATT: 24 points of damage.
+ SAM: On the first hit. 
+ MATT: It has to make a constitution saving throw to see if it maintains. No, it does not. It drops the lightning.
+ TALIESIN: That alone.
+ MARISHA: That will keep Caleb alive.
+ SAM: Is it still alive? 
+ MATT: Yeah. Next attack.
+ SAM: Bonus action, shot. 22 to hit? 
+ MATT: That hits. Roll damage.  
+ SAM: It's just one now. Another eight points. 
+ MATT: The shallow priest is looking hurt. 
+ MARISHA: Shallow priest? 
+ MATT: It's a merrow shallow priest. 
+ TALIESIN: Very shallow. Really hot Instagram account, though.
+ MATT: Does that finish your turn, Nott? 
+ SAM: That's it.
+ MATT: Fjord. 
+ TRAVIS: I'll reappear ten feet closer to Jester. Yep. And I'll unleash two Eldritch Blasts. 
+ MATT: Ten feet right there. 
+ TALIESIN and MARISHA: Beach priest.
+ TRAVIS: That's not going to hit. That's a ten.
+ MATT: Goes wide, strikes a rock.
+ TRAVIS: And that's a 14 on the dot. 
+ MATT: 14 misses. 
+ TRAVIS: Oh, it does, that's right.
+ MATT: This one has higher armor than the rest. As you release both bolts, it's flailing around, hurt after taking impact from the bolts. You can see the burst of flame on its back from the shot it took from Nott and as it lurches forward, it manages to arc out of the way of your bolt. No impact. 
+ TRAVIS: Oh, roll to see--
+ MATT: Roll to see if you stick around.
+ TRAVIS: I disappear. (bamfing noise)
+ MARISHA: Oh god! You're cutting out Fjord, I can't--
+ TRAVIS: You guys are doing good-- (bamfing noise). 
+ TALIESIN: Take ten feet to the right. I can't--
+ MATT: Black spikes are rough when you're on a raid, guys.
+ LIAM: This is like those Tatasciore spells. Like (mimics cutting out). 
+ MATT: Top of the round. Yasha, you're up.
+ ASHLEY: I'm going to go around to-- Can I flank him? Behind or somewheres?
+ LIAM: Front of Molly.
+ MATT: Right now? No, the space right there where technically it is-- I'll say you can get up on there, sure. Using all your movement you can get on there. It's a little wobbly.
+ ASHLEY: Then, you know, attack.
+ MATT: No. Hold on, Beau was in the water. This technically is not a space you can get on. You will not be able to flank with it. You can get there if you want to. Because this is in the space.
+ ASHLEY: It's not considered flanking?
+ MATT: No, because you have to be on the exact opposite. That space is currently occupied by the stalagmite.
+ ASHLEY: That's fine. Okay.
+ MATT: You're in the water, so disadvantage on your attacks.
+ ASHLEY: Disadvantage. Okay. 
+ LAURA: I didn't even realize I was sitting here like---
+ ASHLEY: 18.
+ MATT: 18 hits. 
+ MARISHA: It's like this little dark cloud right over you.
+ TRAVIS: Come on, Yasha.
+ LAURA: Kill it, Yasha.
+ ASHLEY: I'm going to try. 
+ LIAM: That's what you do. 
+ ASHLEY: Nine.
+ LIAM: Yasha. 
+ TRAVIS: *Nein!*
+ ASHLEY: 12 for the first hit.
+ MATT: Nice.
+ LIAM: Come on, buddy.
+ ASHLEY: Okay. 20?
+ MATT: 20 hits. Roll damage for your second strike.
+ ASHLEY: 12. 
+ MATT: 12 points of damage. It is so close. It is hurt so bad. As you slash twice, in the water, you see these large arcs of stale, stagnant cave water splashing in the air with this gleaming blade as Yasha's tearing into it. The pool around it is turning dark purple as its blood is seeping in and it's looking desperately around for some means of escape. That end your turn, Yasha? 
+ ASHLEY: Yeah. I don't think I can't do anything else.
+ MATT: It's now the shallow priest's turn.
+ LAURA: Oh no. Thunderwave. 
+ SAM: Oh no, you're all grouped together.
+ MATT: Yeah. That's what it's going to do. Level two Thunderwave. 
+ LIAM: Would Caleb have flown backwards when he was struck before?
+ MATT: Hmm?
+ LIAM: When Caleb was knocked down by Thunderwave the first time, would he have been thrown backwards?
+ MATT: It would have thrown you back into the wall. There's nowhere more for you to push this way. 
+ LIAM: Oh, I thought--
+ SAM: Oh no. Is he within the cube? 
+ TALIESIN: Well, it depends where the cube goes. 
+ MARISHA: Yeah, it's a direction. It's not a cube around you, it's a-- you have to shoot it. 
+ TRAVIS: It's shallow priest discretion. What will he do? Look as the DM muddles his choices. Considers consequences. Plans his retribution. 
+ SAM: Decides to kill Liam forever. 
+ TALIESIN: If he wants to escape, he's got to knock us all back.
+ TRAVIS: As his hair dangles beautifully in front of his face. Thinks-- (singing) I'm in another dimension!
+ MARISHA: Doing the Charleston.
+ MATT: The placement here makes it a little hairy. It's going to go ahead and--
+ SAM: That's only three squares, right? 
+ MATT: It's a fifteen-foot cube. In front of you. And it's trying to-- Yeah, you guys are positioned in such a way where it--
+ SAM: 15-foot cube? It says in any direction.
+ MATT: Well yeah, but you can't be part of a cube, and I'm trying to figure out what would be the most optimal way for it to use it. I'm going to say--
+ TALIESIN: It's going to be the two of us, I think. Yeah, that's my money.
+ MATT: No, the ones who are hurt the most are Beau and Yasha and they've been the biggest problem for these guys. It's not too worried about the other two. 15-foot cube. Okay. All right, you know what? It's going to go ahead and attempt to shift this way one square, into the space with the Spiritual Weapon.
+ TALIESIN: So it gets an attack of opportunity from--
+ MATT: From Yasha.
+ LAURA: And from Jester.
+ MATT: And from Jester. Both of you guys, make an attack. With disadvantage for you, Yasha. It's risky on it's endeavor, but it's what's going to give it an opportunity to try and get out of this lockdown.
+ ASHLEY: It hits.
+ MATT: What'd you roll?
+ ASHLEY: I rolled a 16 and a 21.
+ MATT: Okay, 16 hits.
+ ASHLEY: That's just a regular attack.
+ MATT: Yeah, regular attack.
+ LAURA: I rolled a 15.
+ MATT: 15 just hits.
+ TRAVIS: So if you hit with your sentinel does that mean its speed is reduced to zero?
+ MATT: Yep. It can't move. So with sentinel, it does not get a chance to move as you arc towards it. How much damage did you do?
+ ASHLEY: Nine.
+ MATT: Nine.
+ LAURA: Five.
+ MATT: Five. How do you two want to do this?
+ (cheering)
+ LAURA: I go low, you go high?
+ ASHLEY: Yeah!
+ LAURA: All right. I go low with the handaxe.
+ MATT: Okay. So as you swing with the handaxe and you swing with the sword as it backs away, charging the energy of the Thunderwave in its hands, it tries to slink through the water, the blade of your handaxe carves into its throat from this side (painful grunt). At which point the blade hits from this side (slurp). And like a terrible scene out of Riki-Oh, because I have not used that reference in this campaign, the body gets split in two sides and you watch as it falls to the ground in three separate pieces, (thuds) all sinking beneath the water below.
+ ASHLEY: See ya!
+ TRAVIS: Wouldn't want to be ya!
+ ASHLEY: Oh my god. Can we grab some of the stuff before he goes into the water?
+ SAM: You're looting him before he--
+ ASHLEY: Yeah, before he sinks down.
+ LIAM: Should I make another death save?
+ MATT: Yes you do, Caleb. That's cocked.
+ LIAM: That's an 11.
+ MATT: Okay.
+ LAURA: I go-- Are we still in initiative order?
+ MATT: Right now, at this point, there is no threat.
+ TRAVIS: Can I Blink back in and go, stop!
+ MATT: Yes. You drop the spell.
+ TRAVIS: (panting)
+ LAURA: I'm going to Cure Wounds Caleb.
+ MATT: Okay. Go ahead and heal up for that.
+ LAURA: I'm going to be so pissed off though, about nothing working. I'm just going to touch him with my toes.
+ (laughter)
+ MATT: The last slab of its flesh that you had carved from its head and shoulder area you push into the water, kicking it forward.
+ LAURA: Oh, that's good. 12 points of healing.
+ MATT: So, Caleb, you heal 12 hit points.
+ LIAM: Thank you. (groans) Ow.
+ SAM: Not attractive.
+ TRAVIS: Can I make my way over and up the steps?
+ TALIESIN: I'll join you.
+ MATT: We'll say as you guys gather to go ahead and deal with the aftermath of this battle, we're going to take a break.
+ (cheering)
+ MATT: Because there is time to take a break. We'll be back here in just a little bit, guys.
+ TRAVIS: Good shit, man. Good shit.
+ MARISHA: Look, there's condensation on the map.
+ LAURA: I know, it's really cool.
+ MATT: Apologies for the humming of the motor from earlier. This is the first time trying it out. Didn't really need it. It was fine. But yes, so. We'll be back here in a few minutes, guys. We'll see you in a little bit.
+ 
+   Break   Edit 
+ [break]
+ 
+   Part II   Edit 
+ MATT: Welcome back, everybody! Carefully clapping, so not to clap too much.
+ LIAM: No, you got to just do this.
+ MATT: Hi everyone. Welcome back. Before we jump into the story, real fast we wanted to say a quick hello from a friend of ours who stopped by the office and tonight's studio to say hello. Babs Tarr, the very, extremely talented comic book artist for many different comic series. Incredibly talented and is very much a Critter along with us and stopped in to say hi!
+ BABS: Thanks for having me, guys!
+ MATT: Of course, thanks for coming by! Where can they find you?
+ BABS: Oh, babsbabsbabs.com or @babsdraws on Instagram and Twitter. Check it out, guys!
+ LIAM: Check out her book, Motor Crush!
+ BABS: Thank you! Yes, Motor Crush Volume 2 just came out, so check it out.
+ MARISHA: And your nails are amazing.
+ MATT: Thank you, Babs.
+ BABS: Bye, guys!
+ ASHLEY: She did that and I was like, ooh!
+ MARISHA: So blue!
+ MATT: Picking up where we left off. You guys rush to pull Caleb off the ground. You're all beaten, battered--
+ MARISHA: I'm standing right there, so I'll get you up.
+ LAURA: I'm going to use my Pearl of Power to regain a 3rd-level spell and then I'm going to use Prayer of Healing on everyone. So everyone I can see within my range. So everybody get within 30 feet of me! I'll do 3d8 of healing for everybody.
+ SAM: Wow!
+ LAURA: Seriously? (shouting) Seriously!
+ TRAVIS: Think of the baby! Stay calm.
+ LIAM: A one, a one, and a two.
+ TALIESIN: Oh, wow.
+ MATT: Laura.
+ LAURA: (shrieks through gritted teeth) So eight points of healing, you guys, for that level three spell.
+ ASHLEY: Okay, but that's still--
+ SAM: I didn't even need it because I wasn't hurt at all in the fight.
+ MARISHA: Can I take your eight points?
+ TRAVIS: Seven points of healing?
+ MATT: Eight points of healing.
+ ASHLEY: I'll take it.
+ LAURA: (muffled shrieking)
+ SAM: The baby can hear all of this.
+ LAURA: This game’s going to make me go into labor!
+ MARISHA: What if it does, you guys?
+ MATT: No, we need her for as long as we can keep her.
+ MARISHA: That’d be so magical.
+ LAURA: I'm not really mad. I'm fine.
+ SAM: Roll for dilation.
+ TRAVIS: Roll low.
+ MATT: Anyway. Your wounds close up a bit through the incantation.
+ LAURA: The smallest amount.
+ LIAM: You look pretty bad.
+ MARISHA: You look pretty shitty, too.
+ LIAM: I'm good.
+ MARISHA: Your shave is still very nice, though.
+ LIAM: What's that stuff up there? I'm going to start hobbling towards the bottom of the stony steps.
+ SAM: I'll help him.
+ MARISHA: Caleb, do you-- yeah, all right.
+ LAURA: Check for traps, you guys!
+ SAM: Oh, okay! I can do that. Are there any boxes or treasure chests?
+ MATT: You see remnants of crates and broken goods littered across the rough staircase, now that you take a moment to inspect it. Make an investigation check if you want to glance about the space.
+ SAM: With disadvantage!
+ MATT: Yes, because you are drunk.
+ SAM: That's an eight.
+ MATT: You find some broken pieces of pottery, it seems like. Nice, polished on one side, with a nice glaze.
+ SAM: I'll take those.
+ MATT: You can write down in your inventory "broken pieces of shiny pottery." Fjord?
+ TRAVIS: Can I pick up his big trident that has the cord attached to it? Is it wrapped around his wrist, or anything? Is that how he was pulling people?
+ MATT: If you look at the trident, it looks like it's a very tightly woven rope, but the individual threads of rope are treated like a leather-type stat, so it's a really tight leather cord.
+ TRAVIS: Is it attached to his person in some way?
+ MATT: From what you can see, where it was dangling from there, they’re wrapped in a loose loop around the side of their armor, and when they throw it, they catch the end of it and pull it back.
+ TRAVIS: I'll take the trident and unhook it from his armor.
+ MATT: Okay. It's about 60 feet of leather cord, if you want to call it that. Sturdy leather cord. It's heavy, so it's about twice the weight of hemp rope. It's stronger, but it's heavier.
+ TRAVIS: These guys were big.
+ MATT: Yeah, they're pretty strong.
+ MARISHA: Can I take a short rest while everyone's doing this?
+ MATT: If you guys want to take a short rest, if you guys are inspecting the rest of the area.
+ TRAVIS: Yeah, y'all look for shit. I'm going to meditate for a hot second.
+ SAM: If you're going to meditate, maybe go back and check on the little bird?
+ TRAVIS: Where did you leave her?
+ SAM: I think she's okay, I left her in an invisible-- I made a false rock.
+ LAURA: I go into the water to look for her.
+ MATT: Jester, as you come back into the next chamber, you're looking around and there's no sign of Kiri. You see natural stone, the pool, a piece of wall to the side, and there's no sign.
+ LAURA: Oh no! She's been taken! Kiri! Kiri!
+ MATT: (like Jester) "I'm Kiri!" You look around and you don't see anything.
+ LAURA: Kiri? Where are you? Are you invisible?
+ MATT: (like Jester) "Yes, I'm very sweet!"
+ LAURA: Oh, Kiri! I'm going to find you. Say "warmer" or "colder," and I start walking around the room. Warmer?
+ MATT: (like Jester) "Warmer?" You slowly start making your way towards this weird cylindrical stone wall that you now realize wasn't there before.
+ LAURA: This is a weird-looking wall.
+ MATT: You reach through and your hand goes right into a tuft of feathers. (startled chirping)
+ LAURA: Kiri!
+ MATT: Kiri reaches up and grabs your hand, and you pull her through the illusion. She steps out and goes, (like Cali) "I killed people!"
+ LAURA: Good for you! I did too, just barely. It was a bad day for me, Kiri.
+ MATT: Kiri points to one of the bodies of the merrow that you had killed the night before that's barely visible out of the water there. It looks like it has a couple stab wounds to it, and Kiri's like--
+ LAURA: Did you go stab a dead person?
+ MATT: (chirping)
+ LAURA: We should probably teach you that's not the coolest thing to do, I don't think, but it's fine that you did it this time. I'm sure he didn't feel it. But probably if we're in a place where other people are around, we probably shouldn't stab people that are already hurt.
+ MATT: (like Jester) "Okay, okay, okay."
+ LAURA: I mean, no, that's a lie. Unless they are attacking you. Don't stab people that are dead-dead.
+ MATT: (like Jester) “Okay, okay, okay.”
+ LAURA: Okay, okay, okay.
+ LIAM: I realized something in a panic and I trudge through the water back towards the entrance and I pull out the wire and I put it in my hands and I cast Message and say to Jester: Please, please, please get my books and put them in your bag, please?
+ LAURA: Okay.
+ MATT: Make an investigation check, Jester.
+ LAURA: Watch me roll a fucking 20 on this.
+ TALIESIN: Oh god no.
+ LAURA: Oh god no. That was cocked, and I just moved it. Oh good, that’s worse. Four.
+ MATT: As you spend a moment searching around in the middle of the dirt with no luck, there's a little knock on your shoulder with a pointed finger. You glance over and Kiri has the book bundle, the leather strap--
+ LAURA: Were you holding those the whole time?
+ MATT: (chirping) Points to the side corner.
+ LAURA: Put those books in this pink bag, okay? All right.
+ TRAVIS: Are there any stairways, or doors, or gates, or anything that would lead upwards from this cavern?
+ MATT: If you want to start inspecting the area: up the stairs, there's a platform above where there's more of the boxes and crates and there's piles of things gathered around some sort of rock formation, where that mist seems to be emanating from, which is still loosely drifting off of the surface of the water.
+ TRAVIS: Yeah, I'll take a closer look.
+ MATT: Okay. Make an investigation check.
+ TRAVIS: 14.
+ MATT: 14, okay. You can see scattered bits of gold and silver and copper that have been lost amongst the steps here, some of them covered in dirt or mud and can be cleaned and pulled out of there. As you ascend the steps, if anybody wants to join Fjord as well? You go with him as well? You also see there's a bunch of silverware thrown around. Very nice, fine silverware that is, in many cases, partially packed with more mud, sand, and whatever grime is here. It looks like everything was brought here, and largely a number of it has been discarded or left with no particular purpose. As you begin to pore through some of it, you see there's a crate that's partially open. There's a cache of weapons in there that are bound in clusters with leather straps around them. Looking there, there are four well-made longswords, four well-made shortswords, two battleaxes, and two halberds that are part of this cache. They're resting open on the inside of this open crate. There's a locked, dark wood case, about four feet across and a foot wide, that is currently closed and latched. There's also a locked iron box that's flat, a foot and a half by a foot and a half. It's simple, steel, iron look to it. Then there's the stone formation that's about six to ten foot at different places. It's a bit oblong and strange. It's not a perfect oval, but it's made to be this pool of water, where the mist is rising and sifting out of it. Around the edges of it, there are dozens and dozens of metallic objects of different shapes and configurations and designs. Make a religion check.
+ TRAVIS: Natural 19, for 21.
+ MATT: You recognize a majority of the iconography here. It looks like one of these bundles-- one of these boxes that was gathered here-- was filled with holy symbols and religious iconography, most of which appear to be deities that are outlawed by the Empire. You see symbols and worship idols for the Archeart. You see some for Avandra, the Changebringer. You see a number of Moonweaver holy symbols with the two crescent moons across the silver cross. You see the hook and the wreath of the Wildmother, Melora, a number of those scattered about, some in disrepair, with actual pieces of dried barley and other grains around it. You see a number of symbols of Kord, the Stormlord. You see a handful for the Everlight. There are a few more dubious symbols as well. There's one that looks like a dark, horned crown that you recognize that is used to invoke Asmodeus, the Lord of the Hells. You see one that looks like-- you only see a few of these, but it looks like a series of chains and shackles that are across a coffin-like box, and you know that, because you rolled super high, to represent Bane, the Strife Emperor, who is a deity of conquest.
+ SAM: Let's hear it, Liam.
+ LIAM: (Bane voice) "Your punishment will be more severe."
+ MATT: There it is.
+ MARISHA: You were waiting for it!
+ MATT: As well as the clawed hand on a number of items that resemble Tiamat, the Scaled Tyrant.
+ TRAVIS: You guys, come up here. There's a ton of arms up here. There's battleaxes and swords, but there's all these trinkets and holy symbols.
+ LIAM: Are you being careful up there?
+ TRAVIS: Careful?
+ LIAM: Yeah, you know. Nott could have a look around, I could have a look around once Jester returns with my books.
+ TRAVIS: Yeah, I actually wouldn't mind if you check for magic. And Nott, actually, there's this four-foot long box if you want to try and open her up for me.
+ MATT: Jester, you return. Did you take Kiri with you?
+ LAURA: I'll have her hold on to my belt as we swim.
+ SAM: Is it locked?
+ TRAVIS: I think so. It looks to be latched shut in some way.
+ MATT: At this point, you hear a distant sound that echoes through the wall (fluttering). You spin and look over and you can see Jester emerging from the water and a little black bird that is currently fluttering to try to get the water off the feathers.
+ LIAM: I start speed wading back. (stuttering) Are my books dry?
+ LAURA: Oh yeah, I put them in my coat. Don't worry, they're fine.
+ LIAM: But can I see them?
+ LAURA: Yeah. Just kidding. They're in the bag. Don't worry.
+ LIAM: Are they dry?
+ MATT: They're dry.
+ LIAM: They're dry. Okay.
+ MATT: Nott, what were you looking at?
+ SAM: There's a locked box?
+ TRAVIS: The four-foot long one.
+ MATT: Yeah, there's two boxes.
+ SAM: Two boxes?
+ TRAVIS: The iron one and the wooden one.
+ LIAM: I recommend that you allow me to check for magical problems. Then once we know what's what, then you go in. But that takes about ten minutes.
+ SAM: Okay. Yes. Sounds good to me.
+ TRAVIS: Yeah, sure. We're kind of in the middle of a short rest anyways.
+ LIAM: So I will pull out my spellbook and I will use ritual casting to cast Detect Magic.
+ MATT: Okay. As you focus, there is a-- as you look over, there is a faint magical aura from inside the pool where the mist is emanating, and the long wooden box emanates a magical source from the inside.
+ TALIESIN: Is the staff that the--
+ MATT: You'd have to try and retrieve the body. It sunk into the water.
+ TALIESIN: We grabbed it before it sank.
+ MATT: The staffed one? Okay. As you pull the staff over, the staff does not have any magical properties. It looked like it was just a focus for whatever spellcasting it was doing. Make an investigation check as you were going back to the body.
+ LIAM: There's a glow in the water as well?
+ MATT: If you want.
+ LIAM: Well, I'm not doing anything. I'm just saying.
+ MATT: You feel a magical presence within the pool. Not the pool itself, but within. And the mist is still pouring over the edges of it.
+ ASHLEY: The pool that's up at the--
+ MATT: Yeah, the upper platform.
+ MARISHA: I like having codenames.
+ LAURA: Are you looking? Who's looking?
+ SAM: I'll try-- Should I try to open the box?
+ TRAVIS: He's still doing his magic circle or whatever.
+ LIAM: We know that there is something magical in the pool itself and then you said the long wooden box is glowing?
+ MATT: Yes.
+ LIAM: What kind of magic is coming off of the wooden box?
+ MATT: Enchantment.
+ LIAM: Enchantment.
+ LAURA: (exaggerated cockney accent) Enchantment!
+ MATT: (exaggerated cockney accent) Enchantment! Hi, Yuri.
+ TALIESIN: I'll take a look in there. I'll walk towards the pool at the very least. I'm going to pick up any of the Moonweaver pieces.
+ MATT: Make an investigation check as you pore through and find as many as you want to.
+ LIAM: I don't believe that there is any kind of protection or magical lock on that. So, yeah, try to pick the lock from a distance.
+ LAURA: Ooh, what are all these things, Molly?
+ TALIESIN: I'm not entirely sure, but they're very, very nice.
+ MATT: Are you glancing through as well?
+ LAURA: Yeah. I want to find something for the Traveler.
+ MATT: Okay. Make an investigation check.
+ TRAVIS: Is this on the priest? The shallow priest?
+ MATT: This is the pile of religious iconography.
+ LAURA: 11.
+ MATT: 11. Okay. Because--
+ TALIESIN: Also 11.
+ MATT: All right. You find-- and there's a number of these. You see, probably, in total, well over 100 to 120 various holy symbols, idols, small representations pressed into metal or clay. These are all means of worship from a grand scale to a pauper scale that seem to have been part of what was moving through this smuggling path.
+ LAURA: I'm looking for the Traveler's symbol.
+ MATT: Which you find two.
+ (gasps)
+ MATT: You, who have never met anybody else who has ever met the Traveler, you look down and find amongst this pile two holy symbols of different make. One appears to be almost pure silver. One looks like it's a little more of a burnished bronze or a dull iron that's very, very heavily tarnished. But they both have the same door arch with the road expanding from the center.
+ LAURA: Whoa! Look!
+ SAM: What is it? What are they?
+ LAURA: Oh, I wasn't talking to you.
+ SAM: Oh, okay.
+ LAURA: Look!
+ TRAVIS: Who are you talking to, Jester?
+ LAURA: The Traveler! Look it! You have symbols here!
+ TALIESIN: It looks like a door.
+ LAURA: It is a door. He's a traveler. He travels.
+ TALIESIN: His symbol is a door?
+ LAURA: Yeah.
+ TRAVIS: Do you feel the Traveler in here?
+ LAURA: Well, if he is, he was fucking with me earlier. Are you in here?
+ MATT: No response.
+ LAURA: I don't think so.
+ MARISHA: Do I see anything from Ioun? I hobble up, crack my rib back in place.
+ MATT: Make an investigation check.
+ MARISHA: Okay.
+ TRAVIS: It's actually a little discomforting, these symbols.
+ TALIESIN: I would say so.
+ MARISHA: You said investigation?
+ MATT: Yep.
+ MARISHA: Ten.
+ MATT: You give a solid glance through and it looks like, no. Ioun, the Knowing Mistress, is one of the approved religions, and you get the sense that all the symbols that are here are religions that are unapproved by the Empire or considered betrayer gods and are not approved anywhere.
+ TALIESIN: What do I find for the Moonweaver?
+ MATT: Oh, plenty of Moonweaver symbols. There's probably a good 12 or 13.
+ TRAVIS: There's also some very dark deities here. Asmodeus.
+ LAURA: Which ones are the bad ones?
+ TRAVIS: As*mo*deus?
+ MATT: Asmo*de*us.
+ TRAVIS: Asmodeus, Bane the Strife Emperor, Tiamat--
+ LAURA and MATT: (singing) Asmodeus, Asmodeus!
+ SAM: I'll cast Mage Hand from afar and try to unlock the big box.
+ MATT: Go ahead and make your-- with disadvantage.
+ SAM: Oh, an 18 and a 19.
+ MATT: Oh, look at that! Even while drunk, little Nott's able to--
+ LIAM: (sing-song) Do-de-do-de-do!
+ SAM: (sing-song) Whoopie-doopie-doopie-doopie-doop, click!
+ TALIESIN: You did check for traps, right?
+ LAURA: Doesn't matter.
+ SAM: No, I'm opening it! Fuck off, grandpa!
+ TALIESIN: I'm going to sit back and watch.
+ LIAM: She's doing it from 30 feet away. Hopefully that's enough.
+ MATT: The latch spins off, and a blade fires out from where the lock was, shoots across the room, and vanishes into the darkness before it scrapes off some stone in the distance.
+ LAURA: Good job, Nott!
+ TALIESIN: Again!
+ MATT: It appears to be open. There's a slight gap now where the lid is now open. You lift it up. Looking inside, you see this beautiful jewel-inlaid, curved golden blade of some kind. With little bit of light that you guys have at your disposal now, you can see it shining and it's this pure gold color. As you swing it for a moment, it seems to bend with the movement before flicking back into place.
+ LAURA: It’s made of rubber.
+ MARISHA: It’s the rubber pencil trick.
+ SAM: Is it a super long blade? Or, is it like a rapier-type thing?
+ MATT: It would constitute in the vein of a scimitar.
+ TALIESIN: That looks very exciting. I'm going to run over--
+ SAM: No, I don't think--
+ TALIESIN: Yeah, nope, no-- I'm pushing aside. I'm going to try the weight.
+ MATT: It's pretty well-balanced. Lighter than you expect. And gold is not a good metal for any sort of combat. It's a soft metal and you see the flexibility seems such but yet it'd probably hit pretty hard, but you're a little worried about using gold for any sort of combat scenario.
+ LAURA: Maybe it's ceremonial.
+ TALIESIN: Perhaps.
+ ASHLEY: Swing it around.
+ TALIESIN: I give it a swing.
+ MATT: Swings pretty solid.
+ ASHLEY: Want to hit me with it?
+ LAURA: No, wait! Let Caleb look at it. What if it's super-duper cursed, Yasha?
+ SAM: We'll melt it down and sell it for raw gold.
+ TALIESIN: It's worth more as it is.
+ LIAM: That looks heavy, so first, you hold that. Have we found everything? Also, while all that was going on, I was looking for a jagged cross with two crescent moons in it.
+ MATT: Yes, and you managed to find it. You find probably about 6 or 7 different variations to the Archeart's iconography.
+ MARISHA and TALIESIN: Archeart?
+ LIAM: Of those 6 or 7 that I saw, I will take the one that looks the most familiar to me from my memory.
+ MATT: You find one that's pretty similar to the one that you saw. 
+LIAM: I’m going to keep that.
+ MATT: You pocket it.
+ ASHLEY: I rolled a 13.
+ MATT: A 13 to--
+ ASHLEY: To look for a symbol of the Stormlord.
+ MATT: You find about four of them. Two of them are medallions and one of them looks like a ceramic marker that would be hung on a wall. One of them looks like it was part of a latch on a small chest and was torn from it. You see bits of rotted wood at the back of it where it may have been previously pressed and bolted against the outside of a chest.
+ MARISHA: Can I look around on the walls and in the doors and, using my criminal background, see if I see anything that’s Thieves’ Cant or smuggling operation things?
+ MATT: Sure. Make an investigation check.
+ MARISHA: 23.
+ MATT: Okay. While you guys are having this conversation, Beau is casing the joint here. There are no hidden exits. In fact, you get the sense that all the entrances and exits here are through the various pools of water. You begin to think, based on placement, that there's probably a network of caverns here, and possibly more merrow that exist in the vicinity of the lake, of the Ounterloch beyond here.
+ TRAVIS: Can you describe what the Bane, the Strife Emperor, symbol looks like?
+ MATT: Yes, actually. I can show you an image of it.
+ LAURA: You know, there are a lot of shackles around everywhere, right?
+ TRAVIS: Here?
+ TALIESIN: In general.
+ LAURA: Didn't we find, like, four manacles? And there were four dead bodies, too, right in the other room?
+ MARISHA: We keep finding dead skeletons.
+ ASHLEY: And also steal 185 gold, which we did not disperse.
+ MATT: That is what you see. It's like an upside-down, coffin-like design, with these chains that cross over.
+ TRAVIS: It's just this little handheld thing?
+ MATT: Yes. It's roughly a little larger than your palm.
+ TRAVIS: Can I toss it into the well?
+ MATT: Sure. It sinks down and for a moment, it obscures this very faint yellowish color on the bottom. It disappears into the pool.
+ LAURA: Why would you do that? Are you trying to bring it about this really weird god? Can I reach in and try to get it out?
+ MATT: Sure. You reach in and you scour around and your hand touches and finds the symbol. Next to it, there's a polished stone about that big that's resting in the silt at the bottom.
+ LAURA: Ooh. I reach in and grab that.
+ MATT: Okay. You pull out the stone, and as soon as the water merges from it, it's smooth. It looks like a cat's eye. It has a yellowish color to it and there are striations that refract light around it. At one end, it looks like there was an impact carved a line about three inches across on one side.
+ LIAM: Clearly that's what's glowing at the bottom to my eyes?
+ MATT: It has a very faint yellowish glow.
+ LIAM: What kind of magic, school of magic, is it?
+ MATT: It's not a school of arcane magic.
+ LAURA: What is this? I still grab the other little symbol.
+ MATT: Okay, symbol there.
+ LIAM: I don't know. I think you should put it--
+ LAURA: Want to look at it?
+ LIAM: Yeah, let's put it down with that sword that we found, Mollymauk.
+ MARISHA: Does the groove in it looks like it matches the size of the blade of the sword?
+ MATT: She sets it down, and rests it there next to the other symbol, at an angle. It doesn't look like it matches the sword. The groove that's hewn into it, what first looked like it was impacted or wounded by some sort of damage, upon closer look, it looks intentionally placed or carved in. So you have this cat's eye, yellowish sphere with this three inch-wide, pointed oval line in the front.
+ LAURA: Looks like it's an eyeball.
+ MARISHA: Yeah.
+ SAM: Could be the end of a sending stone or something.
+ TRAVIS: Are any of the shortswords, longswords, battleaxes-- any of those register under Caleb's magic sweep or they're just nicely made?
+ MATT: They're just well-made, like freshly-made and were being sent somewhere.
+ SAM: Should we take them all?
+ LIAM: Do you want to see something?
+ LAURA: I hold it up in front of my face.
+ SAM: Ah, you're a cyclops! Kill her!
+ LAURA: Can I see through it?
+ MATT: You cannot.
+ LIAM: Come with me, okay?
+ LAURA: All right.
+ LIAM: I'm going to lead Jester up to the top where fish guy was at the beginning with his staff. Set it down, and--
+ MATT: That's where you guys are standing right now.
+ LIAM: We’re already up there?
+ MATT: That's where you've removed from the pool.
+ LIAM: Yeah, I want to go up where all the little thingies are.
+ MATT: Yes.
+ LIAM: Let's set it down, just in case. Okay? Then I pull out my spell book again and-- Will you hold this for me?
+ LAURA: Of course I will. Thank you very much.
+ LIAM: Sit down with me. I rifle through the pages to the right one for Identify and the sword is down. Okay, I'm going to use this one. You can see-- and I start showing the different glyphs and I start the ritual.
+ MATT: Something about that orb is very familiar.
+ SAM: He's teaching you magic. Listen carefully.
+ LAURA: I am.
+ SAM: You'll learn new spells this way.
+ LAURA: I'm listening.
+ SAM: What did he just say?
+ LAURA: He's not talking right now.
+ SAM: Oh, yes. Okay.
+ LAURA: He's muttering.
+ LIAM: So it takes ten minutes to make the spell.
+ MATT: Okay. So, while you're doing that.
+ TALIESIN: Is there one more box we haven't opened?
+ MATT: There is one more metal box that's not been opened.
+ SAM: Should I open it?
+ TALIESIN: You should check for traps, you know?
+ SAM: All right. I'll finger it from afar.
+ MATT: Make an investigation check.
+ LAURA: Are we far enough away from it?
+ MATT: With disadvantage, because you are drunk.
+ SAM: It's a one.
+ MATT: Okay. Seems fine.
+ SAM: I'll open it.
+ TALIESIN: In theory, we've moved it aside.
+ MATT: All right. Disadvantage, to try and open the lock.
+ SAM: What is this, thieves' tools?
+ MATT: Thieves' tools. So it's dexterity plus your proficiency bonus.
+ SAM: I'll never figure this out. Dexterity plus--
+ LAURA: Proficiency.
+ SAM: I rolled a ten.
+ LAURA: So 17.
+ MATT: 17? That'll do it. You needed a 16. The iron box opens. Nothing goes off; no blades, no traps. On the inside, you see a beautifully-smithed sword handle and hilt made from silver with an acorn-sized emerald set on each side of the hilt, right in the center.
+ TALIESIN: Oh, let's put that in the pile.
+ SAM: There's no blade?
+ MATT: The blade extends for an inch before it's broken off at a jagged angle.
+ TALIESIN: Let's put that in the pile, too.
+ MARISHA: An inch?
+ MATT: There's an inch of the blade. It seems to have broken off at some point.
+ LAURA: Is it magic?
+ LIAM: I thought it was just the long box that we already opened.
+ SAM: Well, this was a metal box.
+ MATT: Right. You did not sense any magic from this.
+ LAURA: (gasps) Can I use Mending on it?
+ LIAM: If the box was solid enough, that's true.
+ MATT: You attempt to cast Mending on this?
+ LAURA: On the sword.
+ MATT: Strangely, it resists it.
+ TRAVIS: Oh, put that shit in the pile.
+ LAURA: Yeah. Okay.
+ MATT: There's something about it. Even though it didn't emanate a magical essence from what he was requesting, the Mending spell, for some reason, is unable to grasp the nature of this object to complete it.
+ LIAM: I would think there would be enough time overlap, though, for Detect Magic to still have one or two minutes left before we get to the end of Identify. So if that is brought over, do I notice any sort of glow from--
+ MATT: No magical essence from it, but as you're looking over it, beyond just the beautiful make of it, you do see runes carved across the hilt, not the pommel. It looks like at one point it was an enchanted blade, but was sundered and is missing the rest.
+ LIAM: Okay. So I mutter. I pause my chanting and say: I will take a look at that in a moment. Hold on. And finish my 11 minutes of ritual casting.
+ TRAVIS: I'm not going to interrupt, but that sphere looks very--
+ LAURA: Like an eyeball.
+ TRAVIS: Yeah, famili-- Do you mind if I-- is it wet?
+ LIAM: Wait. Is anyone going to interrupt me before I get to the end of Identify?
+ SAM: No. Let's wait in real time. 11 minutes.
+ LIAM: Yeah?
+ (laughter)
+ TALIESIN: Roll initiative.
+ MARISHA: It doesn't look like the gash in the orb is deeper than the length the blade that's left, correct?
+ MATT: I'm sorry. What was that?
+ LIAM: You said a bunch of sexual innuendo, Matt.
+ ASHLEY: But what about the other sword?
+ MATT: What was your question?
+ MARISHA: The-- goddamn it.
+ SAM: No. He said before that it didn't look like the blade made the gash in the eye.
+ MARISHA: But this was a different blade.
+ ASHLEY: That was a different blade, though.
+ MARISHA: There are two blades.
+ LIAM: Yes. There's a complete blade that's magic.
+ MARISHA: But I'm just wondering if it fits. Never mind.
+ MATT: Oh, fits the--
+ MARISHA: Let him finish the damn spell.
+ TRAVIS: If it fits the gash in the side of the sphere.
+ MARISHA: The sphere. The broken hilt.
+ MATT: No. The carve in the sphere is about three inches long. The blade looks like it would've been about two inches wide and it's broken off at a jagged side angle.
+ LIAM: Caleb is furrowing his brow at everybody arguing about this as he's 30 seconds away from ending.
+ MARISHA: Stop! Con-cen-trate! Con-cen-trate!
+ LIAM: Lost. Gone.
+ MARISHA: Yeah, I'll help Jester look around. Maybe we see a broken blade somewhere while he finishes that.
+ LIAM: Jester's holding my spell book.
+ LAURA: I know. I pass it over to Nott. Here. I'm not learning anything.
+ MARISHA: Jester and I do a quick scan to see if we can find the broken blade.
+ MATT: Okay. Investigation check. Either both of you roll, or one of you roll with advantage. Up to you.
+ LAURA: Take advantage.
+ MARISHA: Do you see anything? Take advantage? A nine and a ten? It's okay. 15.
+ MATT: 15. Looking around, you see no sign of any other half of the blade, broken or not.
+ TALIESIN: It was in a case, so I suppose it would be unlikely. Or if it was on its way somewhere, it's probably on the way to the other end of it.
+ LAURA: I walk back over to Caleb.
+ MATT: Okay. Anybody else? Okay.
+ MARISHA: What do you find out?
+ MATT: So you finish casting Identify on--
+ LIAM: On sword and cat's eye. It's whatever's sitting in my little--
+ MATT: All right. The sword is not magical, and so it does not give you any essence as to what enchantment it is. Looking at the runes, you could see that there was once held magic--
+ LIAM: The complete sword?
+ MATT: Oh, the finished one? Sorry, I misunderstood. That, yes.
+ LIAM: All this shit doesn't exist, so sometimes it's hard to tell what we're talking about.
+ MATT: I'm sorry.
+ LAURA: It exists, Liam.
+ MATT: That, you do have immediate grasp of what it is capable of.
+ LIAM: This blade is called Summer's Dance.
+ MARISHA: (singing) Ooh, I want to dance with somebody
+ MARISHA, SAM, and LAURA: (singing) I want to feel the heat with somebody!
+ LIAM: Mr. Mollymauk?
+ TALIESIN: Mr. Caleb.
+ LIAM: I feel like this might be good for you. There is a kind of magic that I do not even possess that allows you to vanish from one point and reappear in another, and this blade will allow you to do it.
+ TALIESIN: (maniacal laughter) You're going to get yours, oh yes.
+ LIAM: It is a very fine blade. It is more lethal than a regular blade and will allow you to poof, poof, poof.
+ TALIESIN: I'll be living the dream.
+ LIAM: You can all argue over it, but I hand it to Mollymauk. As well as the cat's eye.
+ MATT: Okay, so you begin concentrating another ten minutes on the cat's eye.
+ LIAM: Is it one spell, one item?
+ MATT: You choose one object to cast on.
+ LIAM: Okay, next.
+ MATT: So wait another ten minutes.
+ TRAVIS: While he's concentrating on it, can I sit down next to him and touch it?
+ MATT: Sure.
+ SAM: Touch it, meaning his penis.
+ TRAVIS: Yeah.
+ LIAM: You're welcome, internet.
+ MATT: As Caleb's concentrating on it, you reach out and touch the stone. Your body immediately goes cold.
+ SAM: Oh! He's dead, he died.
+ LIAM: Could have waited 11 minutes, but no.
+ MATT: Your vision vanishes from your eyes as darkness fills your world. Your lids itch like some sand or dirt now scrapes the inside of the skin, and you rub them with your wrist. Your eyes open to find yourself somewhere else. The sky is moonlit and cloudless, the starry night looking down at you. Your clothes are not your own, nor is your body. A thick, brown, leather overcoat lined in buckles wraps around your torso while sun-weathered human skin marks your flesh. You notice your hands are dirty and thick with calluses as you clutch the very same yellow, polished stone in your left hand. Looking down, you see the body of the individual who was its previous owner, now still in a pool of crimson dark. You glance around the place, some jungle-grown natural landmass by a pond. The smell of seawater is strong on the wind in the middle of the night. Flash-- in your right hand grasps the familiar falchion, water dripping from the blade. A voice booms into your mind, “Potential.” A sudden, uncontrollable hunger overcomes you as you instinctually jam the stone into your gut. It slowly sinks into your human flesh painlessly. As it's being pushed into your torso, “Consume.” As it quickly vanishes within your belly, the hunger subsides as exhaustion takes over. You fall to your knees and look within the water, your reflection familiar, but not your own: Vandrin. “Reward.” Just as quickly as the vision came, in the blink of an eye, it's gone. Your reflection now that of the familiar half-orc, looking into the pool where the stone was found, but the stone is gone. The rest of you guys watched, in the middle of this concentration, while Fjord touched the stone, grabbed it, and jammed it into his chest. Before all of you could even react and push forward, it had already been thrust through his armor and into his body. You reach over and try and grab him, and with a strength you've never felt in his body, he lurches towards the pond and thrusts it fully in, seemingly under some sort of uncontrolled force, his eyes glazed over and staring forward. Suddenly, he comes back, and as you glance around, you feel tension on your body as all your friends are grabbing onto your body and pull you away from the pool.
+ MARISHA: Where's the orb?
+ MATT: It's gone.
+ SAM: What the fuck was that?! What just happened?!
+ TRAVIS: How do I feel?
+ MATT: Exhausted.
+ MARISHA: Are you clammy, a little warm?
+ MATT: You actually take a point of exhaustion.
+ LAURA: Can I touch his chest and his stomach?
+ TALIESIN: Yeah, check to see if there's a scar or anything.
+ MATT: There's no damage to the armor, and as you pull back some of the leather plates, there's no sign of a wound.
+ TRAVIS: I feel funny. What happened?
+ LAURA: Caleb, did you Identify it before it went into him? What was it?
+ TRAVIS: Into me?
+ LAURA: You have the thing in you!
+ ASHLEY: It's now in your chest.
+ LIAM: You grabbed the stone before I had a chance to finish what I was doing. Why did you do that?
+ TRAVIS: I felt like I'd seen it before. I just wanted to touch it.
+ LIAM: Why?
+ TRAVIS: I don't know. You ever see something you felt like you'd seen it in a dream before, but you don't know why or how?
+ LIAM: No.
+ TALIESIN and LAURA: Yes.
+ TRAVIS: I'm sorry. I felt compelled to-- I felt like there was half a chance I'd touch it and it wouldn't be there. I saw things.
+ MARISHA: Like what?
+ TRAVIS: People I knew. A man, he's very dear to me. I don't understand it, but he was-- I was him, and he was holding the sphere. The eye.
+ LIAM: I was him, what does that mean?
+ ASHLEY: Who was he?
+ TRAVIS: Again, you ever have that dream where you look in the water and you see another face looking back at you, like you're someone else?
+ SAM and TALIESIN: Yes.
+ LAURA and LIAM: No.
+ TRAVIS: 50/50. You said I put the sphere in my--
+ LAURA: Yeah, you stuck it into your chest.
+ TRAVIS: I saw him do-- I saw *me* as him doing the same thing. He was standing over someone, covered in blood, and he put the sphere inside of him.
+ LAURA: Who was he?
+ TRAVIS: He was my mentor, a captain of mine. A man named Vandrin.
+ LAURA: I've heard you say his name before.
+ TRAVIS: Yeah. I haven't seen him in quite some time. I don't know what any of this means, but I'm not a fan of losing track of time like that.
+ LAURA: Well, what if you're cursed now? How do we know you're going to be okay? You have a weird thing inside of you!
+ MARISHA: Yeah, do you feel any heartburn or any constipation? Because that thing was big, and it's--
+ TRAVIS: I bend over and put my hands on my knees, and--
+ MATT: You don't feel any strange spheres in the inside of your abdomen.
+ TRAVIS: I don't feel anything. I do feel pretty tired, though.
+ ASHLEY: What happened to Vandrin?
+ TRAVIS: I'm not exactly sure. He may be dead. He captained a ship that I worked on for many years and there was an incident.
+ SAM: Did the ship sink?
+ TRAVIS: I believe so. There was an explosion, and we were in terrible weather. There were waves, we were being thrown about, and I was knocked overboard. I never saw what happened to Vandrin, but when I woke up, I was back on shore and I didn't see anything of the ship or him or any of the other crewmates.
+ LAURA: Maybe he's alive and you were seeing through his eyes right now?
+ TRAVIS: I would like that. I would like that very much; he was very good to me when a lot of people in my life haven't been, but he was holding the sphere-- how could he be holding it if I was?
+ LAURA: Maybe there's more than one?
+ MARISHA: Maybe if you concentrate on his idea, maybe you can feel him some way. Or maybe this thing is like a beacon to him?
+ SAM: Or maybe he's cursed and he's going to turn evil and kill us all in our sleep?
+ MARISHA: Maybe you're cursed.
+ LIAM: Are you skipping any details?
+ ASHLEY: Yeah, how did you survive?
+ [battle music]
+ LAURA: (gasps) I feel like something's going to attack us.
+ SAM: Roll for initiative.
+ TRAVIS: (demonic voice) I'll tell you how I survived!
+ MATT: Don't spoil the surprise, Travis!
+ MARISHA: It's a trauma film, no!
+ LIAM: Are you skipping any details?
+ TRAVIS: Did I recognize the body that was lying in blood?
+ MATT: No. Nobody you'd seen before. All you recall is seeing the orb and the same sword that you have in his hand.
+ TRAVIS: No, no details. I knew this man very well. He was almost like a father to me, and I never saw him holding anything like this. Not that I remember. Do I ever remember seeing anything like that in his quarters, in his offices, anything?
+ MATT: No, weirdly.
+ TRAVIS: It's unique, I'd remember.
+ MATT: There's a strange aspect as you focus really hard to remember, but the face that you saw in the water was definitely Vandrin. Maybe a little younger than you remember him: faintly less gray to his hair and facial hair.
+ TRAVIS: I'm not leaving anything out.
+ ASHLEY: But how did you survive that?
+ TRAVIS: I'm not entirely sure. I remember getting thrown overboard, the waves overtaking me. It was a hell of a fight, and I'm a real good swimmer, but you’d come up for air one second and your mouth would be full of salt water the next. I remember losing track of which way was up. It's funny, when you're underwater and it's dark, the only way to tell which way is towards the surface is by blowing bubbles. I did that as hard as I could with all the air that was in my lungs and those bubbles disappeared. I remember it stinging, filling my chest and the next thing I knew, I was face-down on the shore.
+ MARISHA: Sounds a lot like dying.
+ TRAVIS: Yeah. I've heard a lot of tales of men drowning, being brought back. They say that same thing. But no one was with me on that shore, I was alone.
+ LAURA: Maybe mermaids rescued you.
+ SAM: Or maybe your father is a sperm whale and that's how you survived, because you're half whale or fish.
+ LAURA: Maybe you're a mermaid and you don't know.
+ SAM: I think that that's likely.
+ ASHLEY: What kind of ship was it?
+ TRAVIS: Just a merchant ship. He had many.
+ LAURA: What was the explosion you talked about?
+ TRAVIS: There was a bit of sabotage on the ship.
+ MARISHA: A coup?
+ TRAVIS: I wish I knew. If I'm lucky, one of these days I'll find out.
+ MARISHA: Well, might be sooner rather than later, now.
+ LAURA: Oh man, that's totally weird.
+ TALIESIN: I'm going to walk up and take a look at this pool one more time. I want to taste the water; is it fresh or salt?
+ MATT: The water is salt water.
+ TRAVIS: The pool water?
+ MATT: The pool water is salt water. All the rest of the water in this cavern is fresh.
+ MARISHA: The pool water is salt water?
+ MATT: Yes.
+ TALIESIN: It's sea water.
+ ASHLEY: Fjord, what if you try jumping in this water?
+ MARISHA: I agree with that.
+ TALIESIN: Why were they bringing religious iconography to this thing? What were they trying to do with it?
+ MARISHA: Well, this is all, from what I can recognize, deities that are not sanctioned by the empire.
+ TRAVIS: But good and evil deities.
+ MARISHA: I mean, things that are wanted that are illegal are going to be wanted. It seems like there was clearly a high demand for some people to worship who they want to.
+ TRAVIS: On the edge or around it, right? Not in?
+ MATT: Yeah, and you get-- make an intelligence check for me.
+ LIAM: I feel like we're missing something.
+ TRAVIS: 16.
+ MATT: Looking at this, and looking at the way things are spread about, you get the sense that something drew the merrow to the safe house. They took whatever they found in the safe house below, tore through it, and placed whatever was important to them in this area.
+ SAM: They wanted this eye thing.
+ LAURA: That was the whole reason they attacked was-- what if they attack you now?
+ TRAVIS: For what?
+ LAURA and SAM: For having the thing inside of you!
+ TRAVIS: But you can't see it! I don't have it!
+ LAURA and SAM: Maybe they can sense it.
+ LAURA: Yeah!
+ SAM: We solved it.
+ LAURA: We solved the mystery.
+ LIAM: I'm going to cast Dancing Lights and scour the room. Is there anything we're missing?
+ MATT: Make an investigation check.
+ TRAVIS: How big is the well?
+ MATT: It's roughly five to eight feet in diameter.
+ ASHLEY: What happens if you look over, do you see yourself?
+ TRAVIS: Oh shit, that's not a bad call. I'll check my reflection in the well.
+ MATT: Okay. You look in the well, the water is moving in there. It's you.
+ TALIESIN: I'm going to push his head underneath the water.
+ MATT: (splashing water, sputtering) Salt water, you start coughing for a minute and come up.
+ TALIESIN: Anything?
+ TRAVIS: (coughs once)
+ LAURA: He's coughing up salt water again!
+ SAM: Just like his dreams.
+ TRAVIS: Try again.
+ TALIESIN: Tap three times when you're done. Push him under.
+ SAM: Can you breathe? Can you breathe underwater?
+ TRAVIS: (inhales)
+ MATT: You are drowning.
+ TRAVIS: I'm tapping like a motherfucker.
+ MATT: You pull him out of the pool. He starts coughing up the water.
+ TRAVIS: (coughing)
+ TALIESIN: We're even for the teleport now.
+ LAURA: I don't think he's a mermaid anymore.
+ TALIESIN: Of course, it's possible it hasn't actually had an effect on you yet, either.
+ SAM: Or it can only be on the full moon, or something.
+ TALIESIN: That doesn't make any sense.
+ SAM: I know mythology.
+ LAURA: Caleb, can you Detect Magic on Fjord? Can you sense anything?
+ LIAM: If you have 11 minutes to spare, yes I can.
+ SAM: Can I just point out, not to be a jerk--
+ TALIESIN: Is this about whales?
+ LIAM: I begin ritual casting Detect Magic.
+ MATT: As you're doing that, you do get the sense that the longer you're here, in a nexus between these numerous merrow tunnels, the higher your chance gets of having more arriving.
+ LIAM: Oh man, ritual casting.
+ LAURA: No, let’s get out of here.
+ TALIESIN: This place is definitely making me nervous. We should do our best to cut off this particular flow through.
+ MARISHA: Maybe they were gathering a bunch of these items because they were looking for the exact one for this one.
+ TALIESIN: I think they were trying to activate it. They were trying to please it.
+ LAURA: Should we gather up all of the things and put them back up in the tree?
+ SAM: Can we put them all in the bag?
+ TRAVIS: Anybody want any of the weapons? Shortsword, longswords, battleaxes?
+ TALIESIN: Let's leave it exactly where they're supposed to be so we did our job.
+ SAM: What do you mean, "where they're supposed to be?" They stole it from the smugglers.
+ TALIESIN: We're working for the smugglers. We'll put it back in the safe house.
+ LAURA: Okay, we'll take it all back upstairs.
+ MATT: You guys gather up as much as you can, take your way via the rope through the water, Kiri in tow. You make your way back up, handing things off up into the tunnel. Eventually, over the next hour or so, get most of what was down there that you could back up into the safe house.
+ LAURA: Are any of the weapons that we found better than my handaxe? 
+ MATT: I mean, they're all what they are.
+ MARISHA: Any dope bos?
+ LIAM: Just one.
+ LAURA: You're Beau. You're looking for a staff?
+ MARISHA: Bo staff?
+ MATT: No quarterstaffs. They all appear to be steel weapons that are part of this cache. There is a long polearm-- a halberd, there’s two of them-- that does have a shaft of wood, but it's designed for the weight of the bladed edge. You could break it off and make it a quarterstaff if you really wanted to, but it would be comparable to what you already have.
+ MARISHA: No, I have a staff.
+ SAM: Any shortswords better than my shortsword?
+ MATT: They're well-made and fresh.
+ SAM: I like mine. Do they seem sharper, or deadlier?
+ MATT: They're less worn, but they're not deadlier, per se.
+ TRAVIS: Who's holding onto the broken-off hilt?
+ LAURA: I put it in the bag.
+ TRAVIS: Do you mind if I carry that?
+ TALIESIN: You know, yeah.
+ LIAM: Can I take 30 seconds to see if it jogs my memory since I'm such a history buff?
+ MATT: Yeah, make a history check.
+ MARISHA: Can I assist him on that?
+ MATT: Sure.
+ MARISHA: You have assistance. Roll with advantage.
+ LIAM: Nope. Big 13.
+ MATT: Doesn't jog your memory. It looks old. Looks like it's been around a while.
+ MARISHA: Can I try and do it myself and do a ki point thing?
+ MATT: Unfortunately, you already aided somebody with it.
+ TALIESIN: He wants to do this. See if it does anything. That's fair.
+ LAURA: Don't try to stick this inside of you too, though, okay?
+ TRAVIS: No, I'm not.
+ SAM: We're back up on the upper level?
+ MATT: You guys are back in the safe house now, yes.
+ SAM: Should we blow up the tunnel?
+ TALIESIN: If it's possible, I would love to cave this thing in.
+ MARISHA: Do you have boom sticks still?
+ SAM: I don't, but two of us do. Wait, do I?
+ TRAVIS: We have four sticks.
+ LAURA: Won't the sound attract all of the things? I feel like the sound will attract all of the merrow people.
+ MARISHA: As long as we're not here.
+ TALIESIN: I don't think they're going to come up once we're out of here. They'd have to dig, through.
+ SAM: We have two of them among us.
+ TALIESIN: Mind like a steel trap.
+ LIAM: I do not have any.
+ TRAVIS: I just said we have two sticks.
+ LIAM: I heard that, but who’s got them?
+ MARISHA: Who's got the sticks? We've got sticks.
+ LIAM: I also have a propeller beanie, and a bag of chips, and-- I heard you say that. Who has them?
+ SAM: I think it's Molly and Fjord.
+ TALIESIN: I don't have any.
+ ASHLEY: I have a tinderbox.
+ TALIESIN: No, I don't have any.
+ MATT: Amongst you, you have two of those. Whoever has them, you're fine.
+ LIAM: We're pretty sure we have them, guys. 
+ MARISHA: Light the damn sticks of dynamite! Just do it!
+ LAURA: Oh man, wait, but-- Oh, okay. 
+ MARISHA: What? 
+ LAURA: I wanted to check out those bodies that were downstairs. 
+ TALIESIN: We did.
+ LAURA: No, the human skeletons that were down. 
+ SAM: They were probably smugglers that were keeping the safe house for the Gentleman. 
+ TALIESIN: We did check them. 
+ LAURA: They had manacles on them, though, didn't they? That means they were slaves or something.
+ SAM: Or taken prisoner. 
+ TALIESIN: There's lot's you can do with manacles. 
+ TRAVIS: Okay, all right. 
+ MATT: What are you guys doing?
+ LAURA: Blowing up a cave, I guess.  
+ TRAVIS: Climbing the rope back up top, to the base of the tree. 
+ MATT: You guys get up, you all get ready to go. You gather your things. (lighting dynamite) Watch it sparking. It disappears, you begin to leave. As you guys are all walking out of the storehouse, from behind you, off to the left, there's a dull sound, and some dirt and water from the left side of the tree in the middle of the hot afternoon (muffled impact). The still water that currently exists around begins to slowly drain as a part of the swamp off to the side sinks down about ten feet or so. The water level drops a solid foot, but it comes to rest. You're sure that whatever structure that remained down there before is now filled with dirt, sludge, swamp water, and rock. 
+ LIAM: I hope we brought Kiri with us.
+ MATT: Kiri is with you. 
+ SAM: Oh my god!
+ TRAVIS: “Why would they do that?!”
+ ASHLEY: Can I take down the bodies that are on the trees?
+ MATT: Okay. Is anybody helping you with that?
+ LAURA: Yeah, I'll help.
+ LIAM: Nope. 
+ ASHLEY: Leave them to rest in peace.
+ MATT: Jester and Yasha start taking down the bloated bodies.
+ LAURA: Why are we doing this? 
+ ASHLEY: So that people know that we took care of it. So it's not a danger any more. 
+ TALIESIN: And to rifle through their pockets, I imagine. 
+ MATT, SAM and LAURA: We already did. 
+ SAM: We're the worst people ever. 
+ MATT: What are you doing with the bodies? Are you leaving them in the swamp to fester?
+ LAURA: Should we put them in the water or something?
+ ASHLEY: Yeah, food. It's the circle of life. 
+ MATT: (singing) Circle of-- You take them and pull them off site, and leave them in a pile to become one with the swamp over time. It's pretty gross work. 
+ TALIESIN: You want swamp things? This is how you get swamp things. 
+ MARISHA: While they bury bodies, I pull Caleb aside, and say: Hey, can I talk to you for five seconds? Ten, maybe, tops. 15. Okay, it might be more like 20 seconds. Will you give me 20 seconds? Over here? No, you know what, it's fine. I can say it in front of everybody. I'm sorry. I wanted to apologize for last night. I got a little aggressive, a little handsy. I shouldn't have done that, I was out of line, and I shouldn't have brought up your past shit. Sorry. See, 20 seconds, that was about right? That was good? 
+ TRAVIS: Genuine. 
+ MARISHA: I'm-- He's just staring at me.
+ LAURA: Caleb! Here's where you respond to her. 
+ MARISHA: You saw the worst side of me--
+ LIAM: I give Beauregard a hug, and say: I don't know what I'm doing. Just go with it. 
+ MARISHA: I look at Fjord over my shoulder.
+ LIAM: I look to Yasha. 
+ MARISHA: I hug him back? Do I go like this?
+ TRAVIS: Not too tight. 
+ ASHLEY: Pat, pat. 
+ SAM: This makes me feel awkward. 
+ LAURA: It's so uncomfortable. 
+ (applause)
+ SAM: That was really good, guys!
+ MATT: (like Nott) "Welcome to the Mighty Nein!"
+ (laughter)
+ LIAM: Caleb doesn't laugh like that at all. (awkward laughing) That's not necessary. 
+ SAM: Yes it is, she was really rude to you and--
+ LIAM: Not. Necessary. Working on it.
+ TRAVIS: Nice job.
+ MARISHA: Was it? I don't know how I feel about that. Good talk, friend. Seriously though, friend?
+ LIAM: *Ja* okay.
+ MARISHA *Ja*? How do you say it?
+ TRAVIS: (coughing) Quit while you're ahead.
+ MARISHA: All right. And I walk away.
+ TALIESIN: Been a while.
+ ASHLEY: It was good.
+ LAURA: Hey Caleb, do you know how to find our way out of this swamp?
+ SAM: Find our way out?
+ LIAM: Of course I do.
+ LAURA: Yeah, aren't we done here?
+ TALIESIN: We're done, we're heading out.
+ SAM: I think we have (gun loading sound) a troll to find.
+ TRAVIS: Drunk ass fucking Nott, dwelling on old shit.
+ LIAM: You made Babs Tarr hide her head in her laptop, man!
+ SAM: Or we could just leave.
+ ASHLEY: I mean, that is a hundred gold.
+ LAURA: Yeah, but he almost killed us like super easy.
+ TRAVIS: He bleeds death and stuff. We'd have to hit him from afar. It might not be worth it.
+ LIAM: Well, my friends, whatever we do, we are really fucked up. At least Beauregard and I are really fucked up.
+ LAURA: Well, I have a couple of level ones left. Blam blam!
+ SAM: Did you just Salt Bae them?
+ MATT: That is now my new favorite--
+ LAURA: That's great! You both heal 12 points!
+ MARISHA: Oh my goodness! I'm almost up to full now!
+ MATT: I think Salt Bae cleric is my new favorite idea for a character.
+ ASHLEY: Was that for everyone?
+ LAURA: No, that was just for them. I'm sorry, Yasha.
+ ASHLEY: No, it's fine.
+ TALIESIN: That was a great roll.
+ LIAM: Shit, let's go find Vecna!
+ MATT: As you guys gather your things and begin to trudge southward, back into the Labenda Swamp to make your way back to the city of Barleben. A bit wounded, but you've succeeded in your first task for the Gentleman. You begin to make your way through the reverse guidance of Caleb in the direction you were traveling. Backward guidance, we'll put it that way.
+ LIAM: Reverse math. We came from that direction precisely.
+ MATT: As you're all taking a moment to look through, keeping your eyes peeled, weapons drawn, Fjord, your eyes catch the summoned falchion in your hand, and there, glittering in the center of the hilt, where there was none previously, is a single yellow eye. And that's where we're going to end tonight's episode.
+ (cheering)
+ SAM: Wait, where was it?
+ MATT: On the hilt of the blade.
+ LIAM: Oh, that's a Final Fantasy VII Materia rogue.
+ MATT: That's Materia slot?
+ LAURA: His sword keeps getting cooler and cooler.
+ MARISHA: It does.
+ MATT: It's like it's the basis of his class.
+ LIAM: Bling it out, man. Bling that shit out.
+ MATT: All right. We're going to pick up on that next Thursday, as you guys return. Oh man, shit's getting interesting and weird. Thank you for hanging with us. Hope you guys enjoy it as much as we did. Thank you, Babs, for being awesome and hanging out with us tonight. That was awesome. Have a wonderful week, we'll see you guys next Thursday, we love you, and is it Thursday yet?
+ [music]
+ 
+  
+NewPP limit report
+Preprocessor node count: 15/300000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+ExtLoops count: 0/100
+ 
+  Saved in parser cache with key criticalrole:pcache:idhash:16601-0!*!0!!en!*!*  
+ 
+Retrieved from " https://criticalrole.fandom.com/wiki/Lost_Treasures/Transcript?oldid=78650 " 
+ 
+ 
+ 
+ Categories : 
+ 
+ 
+ Transcripts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add category 
+   
+ 
+ 
+ 
+ Cancel 
+ Save 
+ 
+ 
+ 
+	Community content is available under  CC-BY-SA 
+ unless otherwise noted. 
+ 
+ 
+   
+ 
+  WikiaMainContent  
+ 
+ 
+ 
+  BEGIN SLOTNAME: top_boxad  
+ 
+ 
+ 
+  END SLOTNAME: top_boxad  
+ 
+ 
+ 
+ 
+ 
+ 
+  BEGIN SLOTNAME: bottom_leaderboard  
+ 
+ 
+  END SLOTNAME: bottom_leaderboard  
+ 
+ 
+ 
+ Fan Feed		 
+ 
+ 
+ 
+ More Critical Role Wiki 
+ 
+ 
+ 
+ 1 
+ Fjord 
+ 
+ 
+ 
+ 
+ 2 
+ Jester Lavorre 
+ 
+ 
+ 
+ 
+ 3 
+ Caleb Widogast 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gossip Girl Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Club 57 Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Camila Cabello Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WikiaPage 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Explore properties 
+ 
+ 
+ 
+	Fandom 
+ 
+ 
+ 
+	Gamepedia 
+ 
+ 
+ 
+	D&D Beyond 
+ 
+ 
+ 
+	Muthead 
+ 
+ 
+ 
+	Futhead 
+ 
+ 
+ 
+ 
+ Follow Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+	About 
+ 
+ 
+ 
+	Careers 
+ 
+ 
+ 
+	Press 
+ 
+ 
+ 
+	Contact 
+ 
+ 
+ 
+	Terms of Use 
+ 
+ 
+ 
+	Privacy Policy 
+ 
+ 
+ 
+	Global Sitemap 
+ 
+ 
+ 
+	Local Sitemap 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community 
+ 
+ 
+ 
+	Community Central 
+ 
+ 
+ 
+	Support 
+ 
+ 
+ 
+	Help 
+ 
+ 
+ 
+	Do Not Sell My Info 
+ 
+ 
+ 
+ 
+ Advertise 
+ 
+ 
+ 
+	Media Kit 
+ 
+ 
+ 
+	Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fandom Apps 
+ Take your favorite fandoms with you and never miss a beat. 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+			D&D Beyond		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical Role Wiki is a FANDOM TV Community. 
+ 
+ 
+		View Mobile Site	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JokeyPsych 
+ 
+ 
+ 
+ EndgameHonest 
+ 
+ 
+ 
+ GalaxyQuest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lt IE 8]>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif] 
+ [if lt IE 9]>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif] 
+  Combined JS files and head scripts  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
