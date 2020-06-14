@@ -83,6 +83,7 @@ def download_all(names):
         #Dark waters is incomplete... need different preprocessor
         if(names[i]== ' Dark Waters '):
             output = preprocess_wiki_UNOFF(outputin)
+            print("processing unofficial")
         else:
             output = preprocess_wiki(outputin)
         
@@ -110,6 +111,8 @@ def preprocess_wiki(output):
     
     haspost = re.search('Post-Show\s+Edit', output)
     hasbreak = re.search('Break\s+Edit', output)
+    if (hasbreak == None):
+        hasbreak = re.search('==  Break  ==', output)
     hasstart = re.search('Part I\s+Edit', output)
     hasmid = re.search('Part II\s+Edit', output)
     if(hasstart == None):
@@ -160,7 +163,7 @@ def preprocess_wiki(output):
 def preprocess_wiki_UNOFF(output):
     
     last = output.find('NewPP')
-    output = output[output.find("List of Transcripts"):last]
+    output = output[output.find("- Dark Waters - temporary"):last]
     output = output.replace(" NewPP ",'')
     output = output.replace("List of Transcripts",'')
     
@@ -170,24 +173,63 @@ def preprocess_wiki_UNOFF(output):
 def tran_catch_name_mis(output):
     #Catch common name typos: 
     output = output.replace("MARISH ", "MARISHA")
+    output = output.replace("MARISH:", "MARISHA:")
+    output = output.replace("MARIASHA", "MARISHA")
+    output = output.replace(" ARISHA", "MARISHA")
+    output = output.replace("\nARISHA", "\nMARISHA")
+    output = output.replace("MAISHA", "MARISHA")
+    output = output.replace("MARISA", "MARISHA")
+    output = output.replace("MARIHSA", "MARISHA")
+    output = output.replace("MATISHA", "MARISHA")
     output = output.replace("BEAU", "MARISHA")
-    output = output.replace("CALEB", "LIAM")
     output = output.replace("EVERYONE", "ALL")
+    output = output.replace("EVERYBODY", "ALL")
     output = output.replace("CAST", "ALL")
+    output = output.replace("ALL TOGETHER", "ALL")
     output = output.replace("MAT ", "MATT ")
-    output = output.replace("MaTT", "MATT")
+    output = output.replace("MAT:", "MATT: ")
+    output = output.replace("MATTS", "MATT ")
+    output = output.replace("\MATT", "MATT ")
     output = output.replace(" ATT", "MATT")
     output = output.replace("MARIK", "MARK")
     output = output.replace("ASHLY", "ASHLEY")
     output = output.replace("ASHLYE", "ASHLEY")
+    output = output.replace("ASHLEYE", "ASHLEY")
+    output = output.replace("YASHA", "ASHLEY")
+    output = output.replace("ASLY", "ASHLEY")
+    output = output.replace("LLIAM", "LIAM")
+    output = output.replace("RIAM", "LIAM")
+    output = output.replace("LAIM", "LIAM")
+    output = output.replace("CALEB", "LIAM")
     output = output.replace("SAN", "SAM")
+    output = output.replace("\nAM", "\nSAM")
+    output = output.replace(" AM", "SAM")
+    output = output.replace("NOTT", "SAM")
+    output = output.replace("SAM(VO)", "SAM")
     output = output.replace("NATT", "SAM")
+    output = output.replace("\nAURA", "\nLAURA")
     output = output.replace(" AURA", "LAURA")
+    output = output.replace("LAUDA", "LAURA")
+    output = output.replace("LARUA", "LAURA")
     output = output.replace("NILA", "SUMALEE")
     output = output.replace("LTRAVIS", "TRAVIS")
+    output = output.replace("TRAVIS,(VO)", "TRAVIS")
+    output = output.replace("TRAVS", "TRAVIS")
+    output = output.replace("TARVIS", "TRAVIS")
+    output = output.replace("TTRAVIS", "TRAVIS")
+    output = output.replace("TRAVIA", "TRAVIS")
+    output = output.replace("TRAIVS", "TRAVIS")
+    output = output.replace("TRAVIS' PHONE", "TRAVIS")
+    output = output.replace("``TRAVIS", "TRAVIS")
+    output = output.replace("TAIESIN", "TALIESIN")
+    output = output.replace("TALISEN", "TALIESIN")
+    output = output.replace("TALISIN", "TALIESIN")
+    output = output.replace("TALISEIN", "TALIESIN")
     output = output.replace("AUDIENCE MEMBER", "AUDIENCE")
     output = output.replace("AND", "and")
     output = output.replace("&", "and")
+    output = output.replace("ALL except SAM:", "MARISHA, TALIESIN, LAURA, TRAVIS, LIAM, ASHLEY")
+    output = output.replace("ALL BUT SAM:", "MARISHA, TALIESIN, LAURA, TRAVIS, LIAM, ASHLEY")
     return output
     
 main_page = get_page()
