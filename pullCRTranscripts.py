@@ -112,13 +112,21 @@ def preprocess_wiki(output):
     hasbreak = re.search('Break\s+Edit', output)
     hasstart = re.search('Part I\s+Edit', output)
     hasmid = re.search('Part II\s+Edit', output)
+    if(hasstart == None):
+        #and sometimes the transcript is different 
+        hasstart = re.search('Part 1\s+Edit', output)
+    if(hasstart == None):
+        #or possibly this 
+        hasstart =re.search('Part One\s+Edit', output)
+        hasmid =re.search('Part Two\s+Edit', output)
+        
     #haspost = output.count('Post-Show Edit')
     #hasbreak= output.count('Break Edit')
     #hasstart = output.count('Part I Edit')
     
-    print(hasstart)
-    print(hasmid)
-    print(hasbreak)
+    #print(hasstart)
+    #print(hasmid)
+    #print(hasbreak)
     #Split out the times when the show is actually going on: 
     last = output.find('NewPP')
     if(not haspost == None):
@@ -126,7 +134,7 @@ def preprocess_wiki(output):
     
     if(not hasbreak == None):
         #given break, split on break
-        if( not hasmid ==None):
+        if(not hasmid ==None):
             output = output[hasstart.start():hasbreak.start()]+output[hasmid.start():last]
         else:
             output = output[hasstart.start():hasbreak.start()]+output[hasstart.end():last]
