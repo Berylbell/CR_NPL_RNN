@@ -81,7 +81,17 @@ def build_order(speakers, length=2):
     return(order)
 
 #Generate the script from the trained rnn with given order of speakers
-def generateScript (order):
+def generateScript (order, speak_text):
+
+    #Make empty string for generated text 
+    #Run in the order to generate dialog 
+    #Save in a file 
+    gen = ''
+    count = 0
+    gendia = 'PreShow' 
+    file = open("genCR.txt","r+")
+    file.truncate(0)
+    file.close()
     for pers in order:
         length = len(random.choice(speak_text[pers]))
         #print(''.join(speak_text[pers]))
@@ -97,18 +107,7 @@ def generateScript (order):
         count+=1
         if(count>50):
             break
-    #print(gen)
-    #Make empty string for generated text 
-    #Run in the order to generate dialog 
-    #Save in a file 
-    gen = ''
-    print(len(order))
-    count = 0
-    gendia = 'PreShow' 
-    file = open("genCR.txt","r+")
-    file.truncate(0)
-    file.close()
-
+    
 #Run TODO: option to download the transcripts, options for generate text, option for filepath for gen
 def runRNNTrans ():
     #Choose File Path
@@ -145,6 +144,6 @@ def runRNNTrans ():
     #order = ["OTHER", "MATT", "LAURA", "SAM", "LIAM", "TRAVIS", "TALIESIN", "MARISHA"]
 
     #-----------------------Generate Script-----------------------------------------
-    generateScript(order)
+    generateScript(order, speak_text)
 
 runRNNTrans()
