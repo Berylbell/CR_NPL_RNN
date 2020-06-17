@@ -13,34 +13,12 @@ import tensorflow as tf
 import numpy as np
 import os
 import trnscrptClean as trclean
+import pullCRTranscripts as pullTran
 import rnn_nlp
 import random
+import azureml
 
-
-#Choose File Path
-path_to_file = 'Transcripts\\transcript2_master.txt'
-text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
-
-#First load text and run transcript clean
-[speakers, dia, speak_text] = trclean.seperate_Chara(text)
-
-#input('Reached text processing: cont')
-
-#---------------------------Train a RNN for Each Speaker---------------------------
-
-#rnn_nlp.run_rnn_nlp(text,"test", 1)
-def train_speakers(speak_text):
-    for speak in speak_text:
-        #print(speak_text[speak])
-        print(speak)
-        #print(''.join(speak_text[speak]))
-        #input('running rnn. cont:')
-        if(len(''.join(speak_text[speak]))>=400):
-            rnn_nlp.run_rnn_nlp(''.join(speak_text[speak]), speak, 2)
-    
-#train_speakers(speak_text)
-#---------------------------Learn the Dialogue Order---------------------------
-
+#Use transcript to train a RNN on the order of the speakers
 def run_model_order(speakers):
     #Make vocab 
     vocab_s = sorted(set(speakers))
@@ -87,6 +65,8 @@ def run_model_order(speakers):
     model_s.build(tf.TensorShape([1,None]))
     #return(model_s)
     #return(order)
+
+#Use a Trained RNN to generate an order of speakers 
 def build_order(speakers, length=2):
     #Building the Model
     vocab_s = sorted(set(speakers))
@@ -99,34 +79,72 @@ def build_order(speakers, length=2):
     model_s.load_weights(tf.train.latest_checkpoint(checkpoint_dir))
     order = rnn_nlp.generate_text(model_s, speakers[3:], speakers, length, returntype='list')
     return(order)
-    
-    
-#run_model_order(speakers)
-order = build_order(speakers)
-#order = order[10:]
 
-#order = ["OTHER", "MATT", "LAURA", "SAM", "LIAM", "TRAVIS", "TALIESIN", "MARISHA"]
-#order = order 
-gen = ''
-print(len(order))
-count = 0
-gendia = 'PreShow' 
-file = open("genCR.txt","r+")
-file.truncate(0)
-file.close()
-for pers in order:
-    length = len(random.choice(speak_text[pers]))
-    #print(''.join(speak_text[pers]))
-    topic = trclean.pick_topic(gendia,speak_text[pers])
-    print(topic)
-    gendia = rnn_nlp.prod_text_from_file(''.join(speak_text[pers]), pers, topic, length)
-    #print(gendia)
-    gen =': '.join([pers, gendia])
-    gen = gen + '\n'
-    with open("gen2_1.txt", "a") as myfile:
-        myfile.write(gen)
-    
-    count+=1
-    if(count>50):
-        break
-#print(gen)
+#Generate the script from the trained rnn with given order of speakers
+def generateScript (order):
+    for pers in order:
+        length = len(random.choice(speak_text[pers]))
+        #print(''.join(speak_text[pers]))
+        topic = trclean.pick_topic(gendia,speak_text[pers])
+        print(topic)
+        gendia = rnn_nlp.prod_text_from_file(''.join(speak_text[pers]), pers, topic, length)
+        #print(gendia)
+        gen =': '.join([pers, gendia])
+        gen = gen + '\n'
+        with open("gen2_1.txt", "a") as myfile:
+            myfile.write(gen)
+        
+        count+=1
+        if(count>50):
+            break
+    #print(gen)
+    #Make empty string for generated text 
+    #Run in the order to generate dialog 
+    #Save in a file 
+    gen = ''
+    print(len(order))
+    count = 0
+    gendia = 'PreShow' 
+    file = open("genCR.txt","r+")
+    file.truncate(0)
+    file.close()
+
+#Run TODO: option to download the transcripts, options for generate text, option for filepath for gen
+def runRNNTrans ():
+    #Choose File Path
+    #OPTIONAL PULL TRANSCRIPTS
+    #pullTran.pullScripts()
+    path_to_file = 'Transcripts\\transcript2_master.txt'
+    text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
+
+    #First load text and run transcript clean
+    [speakers, dia, speak_text] = trclean.seperate_Chara(text)
+
+    #input('Reached text processing: cont')
+
+    #---------------------------Train a RNN for Each Speaker---------------------------
+    good_list = ["MATT", "MARISHA", "LAURA", "LIAM", "SAM", "ASHLEY", "TRAVIS", "TALIESIN", "ALL", "KHARY", "MARK","SUMALEE", "DEBORAH", "CHRIS", "MICA", "OTHER"]
+    #rnn_nlp.run_rnn_nlp(text,"test", 1)
+    def train_speakers(speak_text):
+        for speak in speak_text:
+            if (speak in good_list):
+                #print(speak_text[speak])
+                print(speak)
+                #print(''.join(speak_text[speak]))
+                #input('running rnn. cont:')
+                if(len(''.join(speak_text[speak]))>=400):
+                    rnn_nlp.run_rnn_nlp(''.join(speak_text[speak]), speak, 3)
+        
+    train_speakers(speak_text)
+    #---------------------------Learn the Dialogue Order---------------------------
+    run_model_order(speakers)
+    order = build_order(speakers)
+
+    #Options to Shorten the order and options to use and test order
+    #order = order[10:]
+    #order = ["OTHER", "MATT", "LAURA", "SAM", "LIAM", "TRAVIS", "TALIESIN", "MARISHA"]
+
+    #-----------------------Generate Script-----------------------------------------
+    generateScript(order)
+
+runRNNTrans()

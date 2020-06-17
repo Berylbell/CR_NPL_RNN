@@ -12,12 +12,14 @@ import tensorflow as tf
 import numpy as np
 import os
 
+#Given a chunk of text, spilt it into the input and target text
 def split_input_target(chunk):
     input_text = chunk[:-1]
     target_text = chunk[1:]
     return input_text, target_text
 
 
+#Given a piece of text from the transcript, build a 3 layer RNN to predict it
 def build_model(vocab_size, embedding_dim, rnn_units, batch_size):
     model = tf.keras.Sequential([tf.keras.layers.Embedding(vocab_size, embedding_dim, batch_input_shape= [batch_size, None]),
                                  tf.keras.layers.GRU(rnn_units, return_sequences = True, stateful = True, recurrent_initializer = 'glorot_uniform'),
@@ -28,8 +30,7 @@ def build_model(vocab_size, embedding_dim, rnn_units, batch_size):
 def loss(labels, logits):
     return tf.keras.losses.sparse_categorical_crossentropy(labels, logits, from_logits=True)
 
-
-#Generate the Text
+#Generate the Text given a starting string, and return it
 def generate_text(model, start_string, text, num_generate=100, temperature =1, returntype ='none'):
     
     vocab = sorted(set(text))
@@ -67,7 +68,8 @@ def generate_text(model, start_string, text, num_generate=100, temperature =1, r
         return(start_string + text_generated)
     else:
         return(''.join(text_generated))
-        
+
+#Run the RNN on a given text, for a given number of epochs and return the model      
 def run_rnn_nlp (text, suffix='suffix', EPOCHS =3):
     #Make vocab 
     vocab = sorted(set(text))
@@ -110,8 +112,9 @@ def run_rnn_nlp (text, suffix='suffix', EPOCHS =3):
         filepath= checkpoint_prefix, save_weights_only=True)
     
     
+    steps = int(len(text)/BATCH_SIZE)
     #Run the code with Epochs
-    history = model.fit(dataset,epochs=EPOCHS, callbacks= [checkpoint_callback])
+    history = model.fit(dataset,epochs=EPOCHS, callbacks= [checkpoint_callback], steps_per_epoch = steps)
     tf.train.latest_checkpoint(checkpoint_dir)
     
     #Build the Model
@@ -119,7 +122,7 @@ def run_rnn_nlp (text, suffix='suffix', EPOCHS =3):
     model.load_weights(tf.train.latest_checkpoint(checkpoint_dir))
     model.build(tf.TensorShape([1,None]))
     
-    
+#Given a file, load the model and produce text 
 def prod_text_from_file(text, suffix='suffix', start_string='', length=100):
     
     vocab = sorted(set(text))

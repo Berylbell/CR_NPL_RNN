@@ -14,6 +14,7 @@ import os
 from bs4 import BeautifulSoup
 import trnscrptClean as tc
 
+#Downloads Wiki page with list of episodes
 def get_page (url= 'https://criticalrole.fandom.com/wiki/Transcripts'):
     #download a webpage and preprocess the html
     res = requests.get(url)
@@ -39,13 +40,14 @@ def get_page (url= 'https://criticalrole.fandom.com/wiki/Transcripts'):
     
     return output
 
+#Get all the episode names from the wiki page
 def get_eps_names(main_page):
     #finds all the ep names from season 2 and returns them in a list
     main_page = main_page[main_page.find("Campaign 2: The Mighty Nein Edit")+1:main_page.find("Specials Edit")]
     names = re.findall(r'\"(.+?)\"',main_page)
     return names
     
-
+#Using all the names, download the scripts for each episode and clean them
 def download_all(names):
     #make urls for all eps transcripts
     wiki= 'https://criticalrole.fandom.com/wiki/'
@@ -107,6 +109,7 @@ def download_all(names):
             #print(len(output))
             print("This one is empty: "+str(i+1)+"\n \n")
  
+#Clean the transcript from wiki
 def preprocess_wiki(output):
     
     haspost = re.search('Post-Show\s+Edit', output)
@@ -160,6 +163,7 @@ def preprocess_wiki(output):
         print(haspost)
     return output
 
+#Clean the special cases from the wiki
 def preprocess_wiki_UNOFF(output):
     
     last = output.find('NewPP')
@@ -170,6 +174,7 @@ def preprocess_wiki_UNOFF(output):
     output = tran_catch_name_mis(output)
     return output
 
+#Catch common name misspellings 
 def tran_catch_name_mis(output):
     #Catch common name typos: 
     output = output.replace("MARISH ", "MARISHA")
@@ -232,7 +237,10 @@ def tran_catch_name_mis(output):
     output = output.replace("ALL BUT SAM:", "MARISHA, TALIESIN, LAURA, TRAVIS, LIAM, ASHLEY")
     return output
     
-main_page = get_page()
-names = get_eps_names(main_page)
-download_all(names)
+#Call function to pull all the scripts and save to a master file 
+def pullScripts():
+    main_page = get_page()
+    names = get_eps_names(main_page)
+    download_all(names)
 
+#pullScripts()

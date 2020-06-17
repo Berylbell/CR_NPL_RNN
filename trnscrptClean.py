@@ -12,17 +12,15 @@ from nltk.stem import PorterStemmer
 import random
 import re
 
-path_to_file = 'Transcripts\\transcript2_master.txt'
-text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
-#re.sub(r'(\r\n){2,}','\r\n', text)
-
+#From the CR transcripts, create a dictionary of the speakers and a string of their full dialog
+#as well as lists representing the order of the speakers and the order of the dialog
+#the seperator between speaker and dialog is the ":". This processor does its best to work on this 
+#principal and account for special cases. 
 def seperate_Chara(text):
     lines = text.split('\n')
     speaker = []
     dia = []
-    speak_text = dict()
-    
-    good_list = ["MATT", "MARISHA", "LAURA", "LIAM", "SAM", "ASHLEY", "TRAVIS", "TALIESIN", "ALL", "KHARY", "MARK","SUMALEE", "DEBORAH", "CHRIS", "MICA", "OTHER"]
+    speak_text = dict()    
     for line in lines:
         
         #remove the newlines
@@ -140,7 +138,9 @@ def seperate_Chara(text):
     
     return [speaker, dia, speak_text]
         
-   
+
+#This function takes the previous generated text and picks a topic from it which is within the 
+#vocabulary of the current speaker
 def pick_topic(prevtext, currentvocab):
 
     vocab = set(list(''.join(currentvocab)))
@@ -168,16 +168,9 @@ def pick_topic(prevtext, currentvocab):
                 break
         
     return choice
-                                        
-[speaker, dia, speak_text] = seperate_Chara(text)
 
-for spk in set(speaker):
-    print(spk)
-
-# for speak in speak_text:
-#     #rnn_nlp.run_rnn_nlp(speak_text[speak], speak)
-#     print(speak)
-#     print(speak_text[speak])
-#     print("------------------------------------------------------------------")
-#     input("cont")
-    
+# path_to_file = 'Transcripts\\transcript2_master.txt'
+# text = open(path_to_file, 'rb').read().decode(encoding='utf-8')                                    
+# [speaker, dia, speak_text] = seperate_Chara(text)
+# for spk in set(speaker):
+#     print(spk)
