@@ -1,2 +1,4 @@
 # CR_NPL_RNN
-Small Project to train a rnn on CR transcripts
+Contained within this repository are the tools required to train a recurrent neural network from the TensorFlow library on transcripts pulled from the Critical Role wikia. The scripts to complete this project from scratch are included. The pullTranscripts.py file will pull the transcripts from the appropriate source, and the trnscriptClean.py file will clean and preprocess them for use in the neural network. 
+
+After the transcripts have been downloaded the rnn can be run on them. The network is structured to be run on the text of each speaker individually to learn their speach patterns. A rnn is also trained on the most common speaker order. The text generated is in the leanred order, with a topic being passed from the previous speaker to the next, in order to simulate the flow of the conversation. 
