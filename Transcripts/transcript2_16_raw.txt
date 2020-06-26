@@ -126,7 +126,7 @@ A Favor in Kind/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ A Favor in Kind/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),
  
  
  
- Geek & Sundry 
+ Critical Role 
  
  
- Wildemount 
+ Race to the Tower 
  
  
- The Knowing Mistress 
+ Campaign Two: The Mighty Nein 
  
  
- Caleb Widogast 
+ Gustav Fletching 
  
  
- Fjord 
+ Soltryce Academy 
  
  
- Lost Treasures 
+ Desmond Moondrop 
  
  
- Converging Fury 
+ Berleben 
  
  
  
@@ -3401,17 +3401,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Favor_in_Kind/Transcript
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3432,7 +3428,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Favor_in_Kind/Transcript
  
  
  
- Dynasty Wiki 
+ 
+ 
+ 
+ 
+ Rurouni Kenshin Wiki 
  
  
  
@@ -3440,7 +3440,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Favor_in_Kind/Transcript
  
  
  
- Xavier Riddle and the Secret Museum Wiki 
+ Camila Cabello Wiki 
  
  
  
@@ -3448,7 +3448,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Favor_in_Kind/Transcript
  
  
  
- Adopt Me! Wikia 
+ Let's Go Luna! Wiki 
  
  
  
@@ -3676,10 +3676,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Favor_in_Kind/Transcript
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

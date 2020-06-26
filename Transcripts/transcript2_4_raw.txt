@@ -126,7 +126,7 @@ Disparate Pieces/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb)
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Disparate Pieces/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb)
  
  
  
- Geek & Sundry 
+ Critical Role 
  
  
- The Knowing Mistress 
+ Campaign Two: The Mighty Nein 
  
  
- Caleb Widogast 
+ Jester Lavorre 
  
  
- Beauregard Lionett 
+ Gustav Fletching 
  
  
- Fjord 
+ Soltryce Academy 
  
  
- Converging Fury 
+ Desmond Moondrop 
  
  
- Uthodurn (episode) 
+ Berleben 
  
  
  
@@ -2869,17 +2869,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Disparate_Pieces/Transcrip
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -2900,7 +2896,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Disparate_Pieces/Transcrip
  
  
  
- Camila Cabello Wiki 
+ 
+ 
+ 
+ 
+ Let's Go Luna! Wiki 
  
  
  
@@ -2908,7 +2908,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Disparate_Pieces/Transcrip
  
  
  
- Rurouni Kenshin Wiki 
+ Hilda Wiki 
  
  
  
@@ -2916,7 +2916,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Disparate_Pieces/Transcrip
  
  
  
- Adopt Me! Wikia 
+ Club 57 Wiki 
  
  
  
@@ -3144,10 +3144,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Disparate_Pieces/Transcrip
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

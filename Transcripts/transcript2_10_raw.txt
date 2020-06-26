@@ -126,7 +126,7 @@ Waste and Webs/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Waste and Webs/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a
  
  
  
- Geek & Sundry 
+ Critical Role 
  
  
- Wildemount 
+ Campaign Two: The Mighty Nein 
  
  
- The Knowing Mistress 
+ Jester Lavorre 
  
  
- Caleb Widogast 
+ Gustav Fletching 
  
  
- Fjord 
+ Soltryce Academy 
  
  
- Lost Treasures 
+ Desmond Moondrop 
  
  
- Converging Fury 
+ Berleben 
  
  
  
@@ -3409,17 +3409,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Waste_and_Webs/Transcript?
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3433,6 +3429,18 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Waste_and_Webs/Transcript?
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Let's Go Luna! Wiki 
  
  
  
@@ -3441,14 +3449,6 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Waste_and_Webs/Transcript?
  
  
  Xavier Riddle and the Secret Museum Wiki 
- 
- 
- 
- 
- 
- 
- 
- Britney Spears Wiki 
  
  
  
@@ -3684,10 +3684,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Waste_and_Webs/Transcript?
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

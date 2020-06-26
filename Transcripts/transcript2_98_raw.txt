@@ -126,7 +126,7 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  
  
  
- Geek & Sundry 
+ Exandria 
  
  
- Wildemount 
+ Gatshadow Mountain 
  
  
- The Knowing Mistress 
+ Darrington Brigade 
  
  
- Caleb Widogast 
+ Theodore 
  
  
- Fjord 
+ Jennah 
  
  
- Lost Treasures 
+ Professor Thaddeus 
  
  
- Converging Fury 
+ A Pirate's Life for Me 
  
  
  
@@ -613,40 +613,196 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  
  
   Google Tag Manager (noscript)   End Google Tag Manager (noscript)  List of Transcripts 
- The following is an unofficial transcript that does not include the pre-show or break, and may contain errors and missing dialogue. It will be replaced with the official transcript when it becomes available.
- C2E98 - Episode 98 - Dark Waters - temporary
+ 
+ Contents [ show ] 
+ Pre-Show Edit 
+ MATT: Hello everyone, and welcome to tonight's episode of Critical Role, where a bunch of us nerdy-ass voice actors sit around and play Dungeons & Dragons.
+ TRAVIS: (hollering) We play Dungeons & Dragons!
+ MATT: Just like that. Before we get into tonight's session, we have a few announcements to get through, beginning with our fantastic sponsor for tonight, our friends since the beginning of Campaign Two, D&D Beyond. Sam. 
+ TRAVIS: ♪ D&D Beyond! ♪
+ SAM: D&D Beyond! Thanks to D&D Beyond for continuing to support the show. The Wildemount Campaign Guide is only a few short weeks away from being released. Go grab it and find out more at dndbeyond.link-- (chair scraping)
+ LAURA: Sorry. 
+ SAM: Dot link. /criticalrole. To celebrate this amazing literary achievement, I'm going to present to you a musical spectacle tonight that you've never seen before. We have-- D&D Beyond has a theme song that I, Sam Riegel, wrote, recorded, and vocalized. But Ashley Johnson is such a beloved fan of the song, that she does not know how the melody goes. 
+ ASHLEY: Yeah, it's crazy how much I've listened to it and know it so well.
+ SAM: So tonight, I proudly present, Ashley Johnson singing the D&D Beyond theme song a capella.
+ ASHLEY: A capella?!
+ SAM: Yeah, a capella. Without having listened to it ahead of time.
+ TRAVIS: Yep, the immediate reaction.
+ MARISHA: Yeah!
+ SAM: She's got the lyrics. She can use them if she needs them, but I know she's such a huge fan of the show and the song she won't need  them. Take it away, Ashley.
+ ASHLEY: ♪ You got the perfect warlock ♪
+♪ Her weapons and supplies ♪
+ (laughter)
+ SAM: Close.
+ ASHLEY: ♪ But you need a place to track your stuff ♪
+♪ 'Cause you're so disorganized ♪
+ SAM: Hey, that was pretty good!
+ ASHLEY: ♪ You click open a web page ♪
+ SAM: That's the same.
+ ASHLEY: ♪ You heard about on Critical Role ♪
+ SAM: That's good.
+ ASHLEY: ♪ And now you're ready to kick some butt ♪
+♪ In a mineshaft full of gnolls ♪
+There it is.
+ LAURA and ASHLEY: ♪ It's D&D ♪
+ ASHLEY: ♪ D&D Beyond ♪
+ SAM: That's good, that's good! 
+ ASHLEY: ♪ D&D ♪
+ TRAVIS and TALIESIN: ♪ D&D ♪
+ ASHLEY: ♪ You've got your staffs ♪
+♪ You've got your swords ♪
+♪ You got your stuffs ♪
+(laughter)
+♪ And you got your invisible wand ♪
+♪ It's D&D ♪
+ MARISHA: ♪ D&D ♪
+ ASHLEY: ♪ D&D ♪
+ TRAVIS: (drum fill)
+ ASHLEY: ♪ D&D Beyond! ♪
+ (applause) 
+ SAM: Yay, Ashley! It was a pitch perfect performance. 
+ ASHLEY: Yeah, thank you so much. 
+ SAM: So good, thank you.
+ LIAM: The cutest thing that ever happened. 
+ ASHLEY: I know it well.
+ TALIESIN: That was amazing.
+ SAM: Oh, thank you, Ashley. Thank you, D&D Beyond. Matt, back to you.
+ ASHLEY: I can't wait to listen to that song.
+ MATT: It's going up on Spotify next week.
+ SAM: Can someone can throw some instruments under it?
+ MATT: Yeah. Yeah, one of you Critters out there, mix your own version of Ashley Johnson's D&D Beyond.
+ ASHLEY: No, don't you do it. We don't need it. 
+ TRAVIS: No, no.
+ MATT: If I have to suffer through Sam's shirts every week.
+ ASHLEY: Fair enough. 
+ MATT: I'm dragging you with me. Thank you, D&D Beyond, for your fantastic support. And super excited for the Wildemount Campaign Guide, The Explorer's Guide to Wildemount comes out in, like, less than two weeks. That's insane. So excited for you guys to check it out. It's a lot of hard work from a lot of great people and myself. I'm really proud of it. And hope you guys enjoy it. So if you haven't pre-ordered it yet, you can still, or buy it when it comes out at your friendly local game store. Couple other announcements. (laughs) There you go. 
+ TRAVIS and TALIESIN: Yeah.
+ MATT: Big thanks to all the fantastic Critters that came out to C2E2. 
+ TRAVIS: Yeah.
+ MATT: As well as our live show last Thursday. Thank you for your patience, as there were issues with the ticketing system and other things that ended up causing this huge delay. So thank you so much for your patience in very, very harsh weather. That sucked. And we are so glad that you guys made it and it was a great show. Thank you for attending it, and thank you guys for watching it. 
+ TRAVIS: The energy was so good. 
+ MATT: I know.
+ LAURA: It was so much fun.
+ MATT: I do want to say, though, our hearts, here at Critical Role, do go out to everyone in Nashville who've suffered and been devastated by these tornadoes recently. If you're able to, please consider donating to any of the reputable nonprofit organizations that are working to help provide aid for the people in need and provide assistance in those areas. We like the Community Foundation of Middle Tennessee, so you can make a donation, if you'd like to there, at cfmt.org. But do your research and find the right folks to donate to. But thank you for helping out. Laura, you have an announcement.
+ LAURA: I do!
+ SAM: Balls, balls, balls.
+ LAURA: No, there's a couple good ones in here. There's my announcement. Um, no. You guys might have noticed, in the store, right now. We got some shirts available. We got-- okay, wait, hold on.
+ TALIESIN: I'm waiting. I'm not going to do anything. 
+ LAURA: The US one first. This is by Bryan Weiss. He's done our other shirts for us. (cheering) This is in Zemnian and in Common! What does it say, Caleb?
+ LIAM: Well, it says-- woo-szuh bah!
+ MARISHA: Ooh! 
+ TRAVIS: Oh!
+ LIAM: Zuhause liegt im Herzen. Which is a close approximation of "home is where the heart is." 
+ (awwing)
+ LAURA: Yeah, so this was-- 
+ LIAM: On fire.
+ LAURA: -- conceptualized by Liam O'Brien, which is pretty freaking cool. And then for our special UK shoppers, we've got another one. It's the same shirt, but it's-- it's different color. 
+ ALL: (oohing and aahing)
+ SAM: It looks British.
+ LAURA: Doesn't it? This one's got an accent.
+ MATT: Like it has history. 
+ SAM: Uh-huh. Yep. It's a little bit smarter than the other one. 
+ MARISHA: Yeah.
+ LAURA: Those are our shirts and that are available. We also have, which something I've been wanting to have for a very long time, are some stickers. 
+ SAM: We got stickers! 
+ LAURA: We got vinyl stickers by Jenny Park. They're the same-- oh! (laughter) I'm opening them, so this are mine now. So we got our Mighty Nein logo, and we got all of the chibi people! 
+ (cheering)
+ SAM: What can you stick them on, Laura?
+ LAURA: You can stick them on anything!
+ ASHLEY: Could I stick it on my water bottle?
+ LAURA: You could definitely stick it on your water bottle.
+ SAM: Right now? 
+ LAURA: Sure. They're vinyl.
+ (laughter)
+ TALIESIN: I'm going to die. 
+ SAM: That's the slogan. 
+ TALIESIN: "They're vinyl!"
+ TRAVIS: Ding!
+ LAURA: So yeah. Go look at store.
+ MATT: Thank you, Laura.
+ LAURA: You're welcome.
+ MATT: All righty. 
+ LAURA: Oh, that's so cute!
+ TRAVIS: Which one'd you pick?
+ TALIESIN: Clay. 
+ SAM: Aww.
+ LAURA: Aw, I was going to pick my own character. MATT: It's going to be a shame when I kill him.
+ SAM: No, no that's--
+ TRAVIS: What'd you say?! MATT: I didn't say anything.
+ TALIESIN: No. Ah!
+ MATT: Anyway, I believe that's the end of our announcements. So let's go ahead and jump into tonight's episode of Critical Role.
+ (growls)
+(water bubbles)
+(thunder rumbling)
+(explosion booming)
+♪ Role, Critical Role ♪
+♪ Critical Role ♪
+♪ Critical Role ♪
+♪ Critical Role ♪
+♪ Critical Role ♪
+♪ Mighty Nein ♪
+♪ Roll the dice ♪
+♪ The adventure begins ♪
+♪ They were always beside you ♪
+♪ Your nerdy best friends ♪
+♪ And the DM to guide you ♪
+♪ And they rise from the flames for the battles ahead ♪
+♪ Villains beware 'cause you're about to be dead ♪
+♪ They got magic and flair ♪
+♪ They got falchions and cunning ♪
+♪ They don't see over there ♪
+♪ There's a monster incoming ♪
+♪ Inspiration is waiting ♪
+♪ Rise up, don't think twice ♪
+♪ Put your fate in your hands, ♪
+♪ Take a chance, roll the dice ♪
+♪ (Roll the dice) Critical Role ♪
+♪ (Roll the dice) Critical Role ♪
+♪ (Roll the dice) Critical Role ♪
+♪ Ooh, aah ♪
+♪ Can you answer the call ♪
+♪ Diggin' deep in your soul ♪
+♪ As the legend unfolds ♪
+♪ Now it's your turn, (your turn, your turn) ♪
+♪ To roll ♪
+(flames whooshing)
+ 
+ Part I Edit 
  MATT: Wow.
  TALIESIN: I’ve been holding onto that for a while.
- MATT: Welcome back. So, last we left off: The  Mighty Nein  had returned to  Nicodranas , to prepare their travel towards the negotiation between the  Kryn Dynasty  and the  Dwendalian Empire . Upon arriving and settling yourselves, you discovered that on one of the vessels, which was built by and belongs to the  Cerberus Assembly , that a few members were present, as well as a new figure that you had not encountered before. After a bit of  monkey  espionage, you revealed this individual to be  Essek  in disguise, who was revealed to have some connection with the Cerberus Assembly. As the intrigue continued to spread, you completed the ‘’Transmogrification’‘ spell on  Nott  with the curse lifted, and restored  Veth Brenatto  as she was always meant to be.
- After a bit of shopping, you also were invited to a party at the local Marquis’s estate, and upon attending, you convinced  Marion Lavorre  to go and perform. Through a series of spells,  Beau  had a very interesting altered experience. Some fancy dress was purchased and designed by  Caduceus  and  Jester , and upon realizing that Essek in his illusory form was attempting to escape when pressured at the party, you managed to subdue him and escort him to  your ship  at the docks. There, an interrogation led you to some revelations, some emotions, and where we left off, a bit of a climactic conversation continues.
- So, as now all of you there, dressed to the nines–
- TALIESIN: Neins!
- MATT: – in the shadowed gun deck of the Ball-Eater, Essek sits upon the crate as you all surround and inquire. You had just made an invitation to the Mighty Nein to Essek as a thank you. Essek at this point looks up to you, Veth, and kind of (skeptical sound).
+ MATT: Welcome back. So, last we left off: The  Mighty Nein  had returned to  Nicodranas , to prepare their travel towards the negotiation between the  Kryn Dynasty  and the  Dwendalian Empire . Upon arriving and settling yourselves, you, one, discovered that on one of the vessels, which was built by and belongs to the  Cerberus Assembly , that a few members were present, as well as a new figure that you had not encountered before. After a bit of  monkey  espionage, you revealed this individual to be  Essek  in disguise, who revealed to have some connection with the Cerberus Assembly. As the intrigue continued to spread, you completed the  Transmogrification  spell on  Nott  with the curse lifted, and restored  Veth Brenatto  as she was always meant to be.
+ After a bit of shopping, you also were invited to a party at the local Marquis’s estate, and upon attending, you convinced  Marion Lavorre  to go and perform. Through a series of spells,  Beau  had a very interesting altered experience. Some fancy dress was purchased and designed by  Caduceus  and  Jester --
+ LAURA: Yay!
+ MATT: --and upon realizing that Essek within the illusory form was attempting to escape when pressured at the party, you managed to subdue him and escort him to  your ship  at the docks. There, an interrogation led you to some revelations, some emotions, and where we left off, a bit of a climactic conversation continues. So, as now all of you there, dressed to the nines–
+ TALIESIN and TRAVIS: Neins!
+ MATT: – in the shadowed gun deck of the Ball-Eater, Essek sits upon the crate as you all surround and inquire. You had just made an invitation to the Mighty Nein to Essek as a thank you. Essek, at this point, looks up to you, Veth, and kind of "(chuckles) (sighs)".
  SAM: Oh, and also, I’m the goblin, from before.
  MATT: “Right. I assume it worked, then, yes?”
- LIAM: Ja, we removed the impediment. We discussed with you, ja.
- LAURA: Yeah, we broke my mom’s tub doing– Mama! I gotta go! I gotta go! I gotta go! I run out of the room.
- MATT: Okay.
- TRAVIS: I’ll chase after her.
+ LIAM: Ja, we removed the impediment we discussed with you, ja.
+ MATT: "I gathered."
+ LAURA: Yeah, we broke my mom’s tub doing– (gasps) Mama! I gotta go! I gotta go! I gotta go! I run out of the room.
+ MATT: Okay. "Very well, it is--"
+ TRAVIS: I'll go, I’ll chase after her.
  TALIESIN: Is this the thing we’re doing, or–
  SAM: No, no, no. This is important. We should stay here.
- MATT: “I appreciate what you’re saying. I am thankful that you have a modicum of faith in me, undeserving as I might be. It is in that interest that I want to warn you about getting too close. I am tied to a lot of dangerous individuals, and deep in the shadows of the crux of all of this conflict, intentional as it may not have been. I don’t want to put you in a situation– or put myself in a situation where I would have to choose between myself and the rest of you.”
+ TALIESIN: Okay.
+ MATT: “I appreciate what you’re saying. I am thankful that you have a modicum of faith in me, undeserving as I might be. It is in that interest that I want to warn you about getting too close. I am tied to a lot of dangerous individuals, and teeter in the shadows at the crux of all of this conflict, intentional as it may not have been. I would never want to put you in a situation, or put myself in a situation, where I would have to choose between myself and the rest of you.”
  LIAM: Why don’t you talk us through the next few days and weeks?
- MATT: “Well, I currently exist in a delicate balance with the Cerberus Assembly, for either could reveal this charade to the detriment of the other. There is respect, I believe, at least on an intellectual level, but I am but one working across from many. I think my utility with the Assembly, continuing to cover up this endeavor from the inside of the Dynasty, as well as my insights into the dunamantic interests, make me too valuable at the moment to be... buried. That doesn’t mean that I can stop being paranoid. Nor can I assume that my presence here doesn’t put you in continuous danger, either. So, in time, I hope this will pass. But for now, I will continue to escort a handful of Assembly members to this negotiation, and if you are indeed coming with your ship as well, we will be nearby. You will oversee the transference of the beacon to the Dynasty, as well as the trade of the prisoners. Some discussions and agreements will hopefully come to bear, and to bring the outer conflict, the public conflict to an end. After which, I stay quiet. I go back to the Dynasty, the Assembly returns to their research, and we continue as if none of this had happened.”
+ MATT: “Well, I currently exist in a delicate balance with the Cerberus Assembly, for either could reveal this charade to the detriment of the other. There is respect, I believe, at least on an intellectual level, but I am but one working across from many. I think my utility with the Assembly, continuing to cover up this endeavor from the inside of the Dynasty, as well as my insights into the dunamantic interests, make me too valuable at the moment to be... buried. That doesn’t mean that I can stop being paranoid. Nor can I assume that my presence here doesn’t put you in continuous danger, either. So, in time, I hope this will pass. But for now, I will continue to escort a handful of Assembly members to this negotiation, and if you are indeed coming with your ship as well, we will be nearby. We will oversee the transference of the beacon to the Dynasty, as well as the trade of the prisoners. Some discussions and agreements will hopefully come to bear, and to bring the outer conflict, the public conflict to an end. After which, I stay quiet. I go back to the Dynasty, the Assembly returns to their research, and we continue as if none of this had happened.”
  SAM: Well, it’s hard to forecast out past the next few days. But– I mean, let’s not kid ourselves. At some point, someone is going to have to pay for some of the damage that has been done.
  MATT: “I admire your sense of heroism, but history is full of people who have not paid for their sins.”
  MARISHA: It’s full with a lot of people who have.
- TALIESIN: And people who have paid for others.
+ TALIESIN: Or some who have paid for others.
  MATT: “Some.”
  SAM: And while we feel a kinship towards you, and apparently you toward us, unless you’re lying about that, there’s nothing necessarily stopping us from enacting justice on other folks who have been involved in this scheme. 
  MATT: “I am not going to get in the way of any perceived vengeances. Just know that it is safest that I not involve myself in particular--”
  SAM: Of course.
  MATT: “–in such endeavors.”
  SAM: It might help us, though, if we knew if there were any members of the Cerberus Assembly or anyone that you are particularly beholden to, or allied with that we should steer clear of, or be especially mindful of?
- MATT: “The Martinet is extremely intelligent, and very resourceful. So the less that be revealed to him, the safest we all are. Lady Vess DeRogna is clever in her own way, and I am curious as to what her involvement is to the Biting North in particular. That may or may not be involved in this, but I trust her less than most, I think.”
+ MATT: “The Martinet is extremely intelligent, and very resourceful. So the less that can be revealed to him, the safest we all are. Lady Vess DeRogna is clever in her own way, and I am curious as to what her involvement is to the Biting North in particular. That may or may not be involved in this, but I trust her less than most, I think.”
  LIAM: Are you prepared for all of this to go sideways on you?
  MATT: “Always. I have been since the three years since we began this plot.”
- LIAM: I feel conflicted about this, but I would like to see even a temporary end to conflict.
+ LIAM: I feel conflicted about this, but would like to see even a temporary end to conflict.
  MATT: “Well, outwardly.”
  MARISHA: Why do you keep saying that? What does that mean?
  MATT: “I would hope that in your studies within the Cobalt Soul, you would understand that conflict is perpetual.”
@@ -656,8 +812,8 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  TALIESIN: When the Dynasty finds out that there’s another artifact...
  MATT: “They cannot.”
  TALIESIN: WHEN they find out.
- MATT: “Let’s hope we are far away, and well-protected, when it happens.”
- TALIESIN: Let’s hope it takes a very long time. Or that it make its way home without anyone ever having to admit it was gone in the first place.
+ MATT: “Then let’s hope we are far away, and well-protected, when it happens.”
+ TALIESIN: Let’s hope it takes a very long time. Or that it makes its way home without anyone ever having to admit it was gone in the first place.
  LIAM: It doesn’t seem like you have a choice here. You seem fairly well painted into a corner.
  MATT: “So it would seem. But I’ve gotten this far by leaning into my resources. I know I can protect myself. I don’t think I can protect all of you. And that is why I’m worried.”
  LIAM: Well, I would just hope that if things go pear-shaped on us, counter to how you hope and believe things will go, if your life is in danger and our lives as well, that you are willing to work with your friends to survive it.
@@ -665,11 +821,14 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  LIAM: Make no mistake. We do not trust you.
  MATT: “Good. That’ll help you survive.
  LIAM: It doesn’t mean we don’t hope for you. It’s a tricky balance, Essek.
- MATT: “Isn’t everything? Even if this is successful, and the war is declared over, that doesn’t mean everything goes back to normal. The tangled espionage between both sides of this has gone on for long and will continue to go. The Augen Trust is deeply ingrained, as is the Lens, and we just have to be careful who we tell anything to. My recommendation is nothing to anyone.”
+ MATT: “Isn’t everything? (sighs) Even if this is successful, and the war is declared over, that doesn’t mean everything goes back to normal. The tangled espionage between both sides of this has gone on for long and will continue to go. The Augen Trust is deeply ingrained, as is the Lens, and we just have to be careful who we tell anything to. My recommendation is nothing to anyone.”
  SAM: Well, if there’s anything that we are adept at, it’s being careful and keeping information close to the vest.
+ TALIESIN: (chuckles) Oh.
  MATT: “We are in so much trouble.”
+ TALIESIN: That was serious.
  LIAM: And there’s no one else? No one else has your ear in this way?
  MATT: “No.”
+ LIAM: No.
  TALIESIN: At least try to keep us informed.
  MATT: “Of course. To the best of my ability.”
  TALIESIN: Of course.
@@ -678,7 +837,7 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  MARISHA: He doesn’t speak for all of us.
  TALIESIN: I definitely do not.
  MARISHA: Why don’t you get some rest, Essek?
- MATT: “You do the same.  The night is still young, and I would hate for you to waste such a polished presentation.” He gets up off his crate and glides back to his faint hover. “Good night.” His illusion once more transitions to the blond elven figure that he’s been masquerading as since his arrival in Nicodranas. He waits tensely to make sure that he can leave.
+ MATT: “You do the same.  The night is still young, and I would hate for you to waste such a polished presentation.” He ets up off his crate and glides back to his faint hover. “Good night.” His illusion once more transitions to the blond elven figure that he’s been masquerading as since his arrival in Nicodranas. He waits tensely to make sure that he can leave.
  LIAM: If you truly hope for a second chance, truly, step very carefully with us.
  SAM: Glide.
  MATT: And he just leaves.
@@ -686,23 +845,26 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  MARISHA: What the fuck.
  TALIESIN: Is it?
  MATT: Make a history check.
+ MARISHA: Oh. Okay.
+ LAURA and MARISHA: Eh-ooh-ahh.
  LIAM: Answer your own question.
  MARISHA: 23.
  MATT: Okay. You did hear him mention the Augen Trust and the Lens.
  SAM: He said “the Lens”. What is that?
  MARISHA: Did you say the Og..
  MATT: The Augen Trust, which you know is– because there’s been a lot of– they’re a competitive force with the Cobalt Soul in the sense that they are the Crown’s spy network.
+ TRAVIS: Augen Trust.
  MARISHA: On the Dy–
  MATT: On the Empire side. And it’s often that the Cobalt Soul and the Augen Trust butt heads, and sometimes find themselves in similar spaces going for similar information for different reasons, and are very competitive and tense about achieving their own unique means.
  SAM: So the Cobalt Soul is an independent organization?
  TALIESIN: Yep.
  TRAVIS: Yes. Not affiliated with anyone.
  SAM: Wow. I thought it was like loosely Empire.
- MATT: In the sense that it’s an approved religious institution within the Empire, that works alongside, in some ways, but is very much– presents itself as a subtle check and balance to the Empire, and the Empire does not always appreciate that, and there’s pushback on both sides in this kind of really strange in-between space.
- TALIESIN: They’re international, too, the Cobalt--
+ MATT: In the sense that it’s an approved religious institution within the Empire, that works alongside, in some ways, but is very much– presents itself as a subtle check and balance to the Empire, and the Empire does not necessarily appreciate that, and there’s pushback on both sides in this really strange in-between space.
+ TALIESIN: They’re international, too, as well, the Cobalt--
  MATT: Correct. Correct. 
  MARISHA: And the Lens?
- MATT: The Lens is the Bright Queen’s spy network in the Dynasty.
+ MATT: The Lens is the Bright Queen’s spy network in the Dynasty. 
  TALIESIN: That’s a good name.
  MATT: And so his talk of shadow wars and espionage... in your mind, you immediately begin to put together that this is–
  MARISHA: What he was talking about.
@@ -711,10 +873,10 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  MATT: At least in recent times.
  MARISHA: Interesting. Okay.
  LIAM: Well, nothing changes if everybody’s on the up and up.
- TALIESIN: I think if anything, this illuminates a bunch of mysteries pretty thoroughly. It’s at a certain level the best this could have possibly worked out. We now know why they had two. We know what they were hiding. This is– this feels helpful.
- LIAM: It’s a moment in time. The Empire is obviously trying to leverage their possession for a later date. An end to killing for now is better than no end to the killing. 
+ TALIESIN: I think if anything, this illuminates a bunch of mysteries pretty thoroughly. It’s on a certain level the best this could have possibly worked out. We now know why they had two. We now know what they were hiding. This is– this feels helpful.
+ LIAM: Well, it’s a moment in time. The Empire is obviously trying to leverage their possession for a later day. An end to killing for now is better than no end to the killing. 
  TALIESIN: Always.
- LIAM: But as far as this meeting goes, I will happily mistaken, but I find it hard to believe the Martinet and his friends are genuine in their intentions.
+ LIAM: But as far as this meeting goes, I will happily be mistaken, but I find it hard to believe the Martinet and his friends are genuine in their intentions.
  SAM: Of course not.
  LIAM: I still fear for the artifact they are returning. The Beacon. I worry they have tampered with it somehow.
  SAM: But we need to be close to the action when this meeting takes place, now more than ever.
@@ -725,10 +887,10 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  TALIESIN: I’m not interested in– I don’t understand what it’s for.
  SAM: Well, they’ve done horrible evil things that killed thousands of people.
  TALIESIN: What if in our search for punishment we create more horrible evil things? What if we re-ignite the war?
- LIAM: That is very likely, Caduceus.
+ LIAM: I think that is very likely, Caduceus.
  TALIESIN: I will not stand by and let someone’s desire to feel better get in the way of–
  SAM: You can stand by and–
- TALIESIN: –end more lives.
+ TALIESIN: –and end more lives.
  SAM: You can just watch bad people get away with it?
  TALIESIN: They did what they did. All we can do– the best we can do, I think, is stop it. I don’t see the sense in risking other people. If there’s a way to do it that’s safe, that maintains the peace, certainly. But I don’t see that.
  MARISHA: Maybe there is a way.
@@ -741,32 +903,35 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  ASHLEY: Yeah, both sides are guilty. I think I just had a different experience with it. My tribe floated across the lands without any connection to either side. I don’t quite know where I stand on this, to be honest.
  MARISHA: Yeah, me neither. And that’s really weird for me.
  TALIESIN: I feel no obligation to the guilty, but I do feel it to the innocent.
- SAM: Maybe it’s because I have a personal connection here, but my husband was kidnaped and imprisoned, partially due to this. By Essek’s people. I’d love to get him some payback for that.
+ SAM: Maybe it’s because I have a personal connection here, but my husband was kidnapped and imprisoned, partially due to this. By Essek’s people. I’d love to get him some payback for that.
  TALIESIN: Does your husband want payback?
  SAM: I don’t want to speak for him, but... Yes! 
  MARISHA: There might be a way to do this. Slowly and over time. But not now. Not anytime soon.
- LIAM: I agree. I think if we blow this wide open now– and I fault our country far more heavily than the Dynasty– but if we try to grasp justice wildly now, as you say, Caduceus, it will spark the conflict More people will die. I think we try to bring this day through, and then find a way to surgically remove the problem after the fact, rather than just blasting it wide open.
- MARISHA: Yeah, that would be really dumb.
+ LIAM: I agree. I think if we blow this wide open now– and I fault our country far more heavily than the Dynasty– but if we try to grasp justice wildly now, as you say, Caduceus, it will spark the conflict. More people will die. I think we try to bring this day through, and then find a way to surgically remove the problem after the fact, rather than just blasting it wide open.
+ MARISHA: No, that would be really dumb.
  TALIESIN: Be gentle in your motives, is all I ask. Always– it’s always worth thinking about what you really want. It’s the only thing that really matters.
  LIAM: I want the murderers removed from power in my country. 
  TALIESIN: Why? Really. Why?
  LIAM: Because I’m tired of children being thrown on the pyre.
  TALIESIN: That’s what you really don’t want. That’s what you want, though. You want no more children on the pyre. Always remember that. You don’t want to punish the people who made you. You want to make sure that no one else makes you. You’ll get there quicker.
  LIAM: I don’t know, Caduceus.
- TALIESIN: Me neither. I’ll try to help. No more children. That, I can get behind.
+ TALIESIN: Me neither. I’ll try and help. No more children. That, I can get behind.
  ASHLEY: I can get behind that as well.
  MARISHA: Speaking of children, I wonder if Jester’s found her mom yet?
  SAM: I’m sure she has. Dissolve to...
  (Laughter)
  LAURA: I run back to the house.
- MATT: After rushing through the night streets of Nicodranas, the distant sound of high tide waves crashing on the shore getting more and more distant as you pass to the Opal Archways, you come to the soft distant sound of music.
- TRAVIS: [JENGA] (something about the hat and drag?)
+ MATT: After rushing through the night streets of Nicodranas, the distant sound of high tide waves crashing on the shore getting more and more distant as you pass through the Opal Archways, you come to the soft distant sound of music.
+ TRAVIS: (panting) Slow down! Slow down, this hat has incredible wind drag. 
+ (laughter)
  LAURA: Just take it off already! Just take the hat off!
  TRAVIS: But you bought this for me! 
- LAURA: Fjord, look at me. It was a joke.
+ LAURA: Fjord, look at me. 
+ TRAVIS: What?
+ LAURA: It was a joke.
  TRAVIS: What?
  LAURA: The hat was a joke.
- TRAVIS: It can’t be. I’ve gotten so many compliments on it. It’s part of my look.
+ TRAVIS: It can’t be. I’ve gotten so many compliments on it tonight . It’s part of my look.
  LAURA: If you like it, embrace it. But I got it as a joke.
  TRAVIS: Fuck this hat! (Takes it off and tosses it)
  SAM: Mrrrow!
@@ -774,29 +939,34 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  LAURA: Do we hear her singing still?
  MATT: No.
  LAURA: Fuck!
- MATT: You rush up to the gates, and the guards are there, and you see that there’s still people in the courtyard that are currently still talking amongst themselves, there’s soft music playing. The guards step aside and let you enter the courtyard. You quickly glance across the entire crew and you do notice your mother is currently surrounded by a group of six or seven people. There is laughter and she’s talking, and she has a wine flute in her hand, and immediately she locks eyes with you across the way and goes, “Jester! I was wondering where you went.”
- LAURA: I got pulled away for a conversation, but you sounded beautiful, Mama. You’re occupied. Do you want to continue?
+ MATT: You rush up to the gates, and the guards are there, and you see that there’s still people in the courtyard that are currently still talking amongst themselves. There’s soft music playing. The guards step aside and let you enter the courtyard. You quickly glance across the entire crew and you do notice your mother is currently surrounded by a group of six or seven people. There's laughter and she’s talking, and she has a wine flute in her hand, and immediately she locks eyes with you across the way and goes, “Jester! I was wondering where you went.”
+ LAURA: I got pulled away for a conversation, but you sounded beautiful, Mama. 
+ MATT: "Thank you very much."
+ LAURA: You’re occupied. Do you want to continue?
  MATT: “Honestly, this has been very nice. I am missing the comfort of my own room. But thank you, everyone. It has been a pleasure. To the Marquis.” And she gives a nod.
- LAURA: If you enjoyed her company, come and see her at the Lavish Chateau! She appears there– every night still? I don’t remember. You should check it out.
- MATT: “Thank you, Jester.” She turns and gives a kind of wave and she hands her glass over to one of the guards, who’s like, “I don’t know what to do with this,” and just holds it. And strolls our to the edge of the gate, takes a deep breath, puts her arm around yours, and then pushes into the night, back towards the Chateau.
+ LAURA: If you enjoyed her company, come and see her at the Lavish Chateau! She appears there (mumbling) every other night, still? I don’t remember. You should check it out.
+ MATT: “Thank you, Jester.” 
+ LAURA: Of course.
+ MATT: She turns and and a few people wave and she hands her glass over to one of the guards, who’s like, “I don’t know what to do with this,” and he just holds it. And strolls out toward the edge of the gate, takes a breath, puts her arm around yours, and then pushes into the night, back towards the Chateau.
  LAURA: Fjord, walk on the other side of her. It’s helpful.
- TRAVIS: Oh, yes.
- MATT: “Thank you so much. Well, that was very exhilarating.” 
+ TRAVIS: Oh, yes. Mm-hmm.
+ MATT: “Thank you so much. (sighs) Well, that was very exhilarating.” 
  LAURA: I’m very proud of you.
  MATT: “Thank you.”
  LAURA: Everyone was so enthralled.
  MATT: “Yeah. But that’s what I do. Thank you for helping me with that.”
  LAURA: Of course. I’m sorry we had to step away for a moment.
  MATT: “I’m sure you had your reasons. Thank you for your help.”
- TRAVIS: Of course. Beau and I were able to stay for more of your performance before the night really kicked into a different gear. It was thrilling though. I can see where Jester gets all of her exuberance and personality. It was quite amazing.
+ TRAVIS: Of course. Beau and I were able to stay for a bit more of your performance before the night really kicked into a different gear. It was thrilling though. I can see where Jester gets all of her exuberance and personality. It was quite amazing.
  MATT: “Thank you very much. What happened to your hat?”
- TRAVIS: You know, it was such a hit, someone just up and snatched that bitch in the middle of the road.
+ TRAVIS: You know, it was such a hit, someone just up and snatched that bitch in the middle of the party.
  MATT: “That is unfortunate.”
  TRAVIS: I agree. It was such–
- MATT: “I can get another one made for you.”
- TRAVIS: Oh. Could you?
+ MATT: “I could have another one made for you.”
+ TRAVIS: (high-pitched) Oh. Could you?
+ (laughter)
  MATT: “I’ll pull some strings.”
- LAURA: Yes, but then you’ll have to wear it all the time, Fjord, because it will be a gift from mama.
+ LAURA: Yes, and then you’ll have to wear it all the time, Fjord, because it will be a gift from Mama.
  TRAVIS: (strained) Oh, I would love that.
  MATT: “I can see your discomfort. Do not worry. It’s okay.”
  TRAVIS: Oh, no, I–
@@ -807,32 +977,34 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  LAURA: Let what you want be known to the world.
  TRAVIS: I really don’t wear a hat very well. It’s not–
  LAURA: Well, that’s not true. You looked fabulous in it. But I know you– 
- TRAVIS: Well, fucking pick one. Which one is it? Wear it or not?
+ TRAVIS: Well, fucking pick one. Which one is it? Am I wearing it or not?
  LAURA: You don’t have to wear it.
- TRAVIS: I really don’t wear a hat very–
+ TRAVIS: I don’t wear hats very–
  LAURA: Unless you really want to. I mean, I don’t want to–
  TRAVIS: I’ll take the hat. Rush delivery.
  MATT: “So be it.” You guys head back to the Chateau, escort her back to her room. It’s pretty late now in the evening, but she goes ahead and-- 
- LIAM: (whispered) Was that conversation too personal?
- MATT: –kisses you goodnight. “Thank you again. I am, as Jester would say, just pooped. Goodnight.”
+ LIAM: (whispered) Was that conversation too real?
+ MATT: –kisses you goodnight. “Thank you again. I am, as Jester would say, just pooped."
+ SAM and LAURA: Piew-ped.
+ MATT: "Piew-ped. Goodnight.”
  LAURA: Goodnight, Mama.
  MATT: And she closes the door.
  LAURA: Thank you, Fjord.
  TRAVIS: You’re welcome. She’s a charming woman. I can see why she has all the suitors and attention every night.
  LAURA: Yeah, everyone really loves her. Yeah.
- TRAVIS: I can’t feel my hamstrings. I think I pulled something.
+ TRAVIS: I can’t feel my hamstrings. I think I pulled something as we were running.
  LAURA: We can walk much slower back.
  TRAVIS: Do you mind?
- LAURA: No.
+ LAURA: Not at all. 
  TRAVIS: This coat does not breathe. It’s lovely, but fuck. 
  LAURA: I wonder what they all decided.
  TRAVIS: Who? Oh, yes! Should we head back to the docks?
  LAURA: I mean, probably. I guess I can send a message to everyone, see where they are now.
- TRAVIS: It’s so strange when the message doesn’t come from you. It’s very alienating. I think everyone’s just used to hearing you send messages. Caleb sent me one.  It sent this night down a whole other rabbit trail.
+ TRAVIS: It’s so strange when the message doesn’t come from you. It’s very alienating. I think everyone’s just used to hearing you send messages. Caleb sent me one. It sent this night down a whole other rabbit trail.
  LAURA: Oh, really?
  TRAVIS: Yep.
  LAURA: Yeah, you and Beau seemed a little...
- TRAVIS: Beau was tripping balls. There was all sorts of things. She was swinging at stuff that wasn’t even there.
+ TRAVIS: Beau was tripping balls! There was all sorts of things. She was swinging at stuff that wasn’t there.
  LAURA: Really?
  TRAVIS: Yeah, we unmasked a dragonborn fellow, I turned around, and he just– poof! He was gone!
  LAURA: What?
@@ -840,7 +1012,7 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  LAURA: What the heck was going on?
  TRAVIS: I don’t know.
  LAURA: I was just trying to talk to Essek and then all this hell broke loose.
- TRAVIS: Yeah, we thought we’d keep an eye on the room, and we thought we were doing the real investigating and digging. Turns out, nope, we’re just fucking things up.
+ TRAVIS: Yeah, we thought we’d keep an eye on the room, and we thought we were doing the real investigative  digging. Turns out, nope, we’re just fucking things up.
  LAURA: I was going to talk to him and then start talking about how much I liked Essek, and then all of a sudden, Nott had paralyzed him or something. I don’t remember. It was weird.
  TRAVIS: Nott paralyzed Essek?
  LAURA: I think so?
@@ -851,25 +1023,32 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  TRAVIS: Should we get that fellow down from the balcony that was harassing your mother?
  LAURA: Ooh. I should have told Mama about that.
  TRAVIS: I mean, there’s no way they could trace that back to you, though.
- LAURA: Oh, well, I’m pretty sure he saw it was me, and I’m pretty sure the spell’s worn off by now, and I’m pretty sure it’s exactly what I did before, so yeah, he’s going to be pretty pissed.
+ LAURA: Oh, well, I’m pretty sure he saw it was me, and I’m pretty sure the spell’s probably worn off by now, and I’m pretty sure it’s exactly what I did before, so yeah, he’s going to be pretty pissed.
  TRAVIS: I think we actually went up there and tried to scare him a little bit, so maybe he’ll keep his mouth shut.
  LAURA: Oh, good.
  MATT: The good news is... No. No, it’s worn off.
  LIAM: Nope, no good news.
  MATT: Never mind. No good news. 
  LAURA: Yeah.
- TRAVIS: Good. Good. You looked lovely this evening.
+ TRAVIS: Good. Good. 
+ LAURA: Yeah.
+ TRAVIS: You look lovely this evening.
  LAURA: Oh, thank you. 
  TRAVIS: You did a good job. We should make this our new vibe.
- LAURA: Our new look? We should be in formalwear all the time.
- TRAVIS: I don’t know. I think people like actually paid us respect.
- LAURA: Well, you do look quite dashing. You do look like a captain.
+ LAURA: Our new look? We should be in formal wear all the time.
+ TRAVIS: I don’t know. I think people actually paid us respect.
+ LAURA: Well, you do look quite dashing. You look like a captain.
  TRAVIS: Thank you. Without the hat?
  LAURA: Without the hat.
  TRAVIS: Yeah, because I went up to Captain Deremi and guess what? No fucking hat.
  LAURA: Well, maybe a smaller hat. That one was really big.
  TRAVIS: He’s a dwarf. He didn’t have a hat. 
- LAURA: Whatever. (Laughing) Hold on, let me send a message. “Hey everyone! Are you still at the docks? Or are you coming back to the Chateau? Or where should we meet you? Is Essek still around? Or what’s going on?”
+ LAURA: You don't have--
+ LAURA and TRAVIS: (random interrupting sounds)
+ LAURA: Whatever. 
+ TRAVIS: (chicken cluck)
+ (laughter)
+ LAURA: Hold on, I'm going to send a message. “Hey everyone! Are you still at the docks? Or are you coming back to the Chateau? Or where should we meet you? Is (whispers) Essek (normal volume) still around? Or what’s going on?”
  SAM: Who did you send that to?
  MATT: Who did you send that to?
  LAURA: Veth.
@@ -881,8 +1060,8 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  LAURA: Oh.
  SAM: Tell if you need us pick up anything. Fire bad!
  LAURA: Yeah, she suggested before that I use less words and make more ideas present, but it was very confusing when she just did it. I think they’re going to get some dinner or something. But she didn’t say where.
- TRAVIS: Oh, shit. Can you send another one?
- LAURA: As long as we go to sleep.
+ TRAVIS: Oh shit. I mean, do we want to-- can you send another one?
+ LAURA: (sighs) As long as we go to sleep.
  TRAVIS: Or, you know, we could just grab a bite.
  LAURA: Yeah, I mean, they’re on their way back. We might as well just go get something. Maybe we’ll find them there,
  TRAVIS: You have a favorite spot around here?
@@ -893,27 +1072,36 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  LAURA: Okay. All right, we’re going to go downstairs, and eat at the Chateau.
  MATT: All right, so you guys have a Chateau dinner. The rest of you guys. What are you doing?
  SAM: We’re walking back.
- MATT: All right, so you’re picking up a snack on the way? Sure.
- SAM: Yeah. We walk to a herring stand.
- MATT: At the fish market. They’re real popular recently. Okay, you guys come back to the Chateau, and you catch up as Jester and Fjord are eating, finishing up their meal down within the main area, which is mostly empty now.
+ MATT: All right.
+ TALIESIN: (plucked bass notes)  
+ MATT: So you’re picking up a snack on the way? Sure.
+ TRAVIS, ASHLEY, and TALIESIN: (plucked bass notes)
+ SAM: Yeah! 
+ MATT: All right.
+ SAM: We're going to a herring stand.
+ MATT: All right, the fish market, real popular recently. Okay, you guys come back to the Chateau, and you catch up as Jester and Fjord are eating, finishing up their meal down within the main area, which is mostly empty now.
  SAM: Is it candlelit? Is it– are we walking in on anything?
  LAURA: We’re just sitting at a table having some food.
  TRAVIS: Do you want some ice cream?
- SAM: Oh! Hi! Hi.
+ SAM: (gasps) Oh! Hi! Hi.
  LAURA: They have really good ice cream here. How did it go?
  SAM: So good.
  TALIESIN: I mean, all things considered.
  LIAM: It’s pretty delicate, actually. We let him go.
+ TRAVIS: Oh. 
  LAURA: Okay.
  TRAVIS: Alive?
+ LIAM: For now.
  LAURA: Well, yeah, he’s...
- TALIESIN: (as Liam mimes setting Essek’s head on the table) Out to sea. Be free.
- SAM: We’re going to keep our eye on him and we’re going to make sure that this truce thing happens and then afterwards, there’s a bit of an internal debate about whether we are going to go on the trail of blood and redemption and justice, or if we are going to turn a blind eye to all of the wrongs that have been committed in the last few years. Or somewhere in between. At the end, there was sort of floated an idea that we would become an elite ninja force that would go in and just very quietly kill those, or at least capture those who were responsible without causing any other ripples in the society.
+ TRAVIS: I'm just--
+ LAURA: Yeah, okay.
+ TALIESIN: (after Liam mimes setting Essek’s head on the table) Out to sea. Be free.
+ SAM: We’re going to keep our eye on him. We’re going to make sure that  this truce thing happens and then afterwards, there’s a bit of an internal debate about whether we are going to go on the trail of blood and redemption and justice, or if we are going to simply turn a blind eye to all of the wrongs that have been committed in the last few years. Or somewhere in between. At the end, there was sort of floated an idea that we would become an elite ninja force that would go in and just very quietly kill those, or at least capture those who were responsible without causing any other ripples in the society.
  LAURA: Ooh, I like being a task force. Let’s be a task force!
- LIAM: [JENGA]
+ LIAM: It was a little more nuanced than that.
  TRAVIS: Whose idea was the ninja force?
- MARISHA: That was...
- SAM: It was Caleb.
+ MARISHA: That was...(stuttering).
+ SAM: SAM: That was Caleb's. I think it was Caleb.
  LAURA: Caleb, you’re so smart! That sounds like so much fun!
  TRAVIS: You have access to ninja training?
  SAM: Bop bop!
@@ -930,13 +1118,15 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  TRAVIS: All right, that’s good enough for me.
  LAURA: I’m going to send a message to Essek. 
  MATT: Okay.
- SAM: You don’t need verbs or anything. Just cut right through to the balance.
+ SAM: Now, you don’t need verbs or anything. Just cut right through to the nouns.
  LAURA: Your message was terrible.
  TALIESIN: I find your– okay.
  SAM: You understood what I said!
- LAURA: Barely! It took a lot of thought. Much better to just talk to them.
+ LAURA: Barely! It took a lot of thought. It's much better to just talk to them.
  LIAM: Just use vowels.
- LAURA: Aa. Aa oo? Ow oo ow? “Ummm-- Hi! How are you feeling? Do you feel guilty? Or are you happy? Are you just crying in your room right now? We’re thinking about you.”
+ LAURA: Aa. Aa oo? Ow oo ow? 
+ SAM: Ah-ooh.
+ LAURA: “Ummm-- Hi! How are you feeling? Do you feel guilty? Or are you happy? Are you just crying in your room right now? We’re thinking about you.”
  MATT: A brief pause before the response comes. “I am just contemplating what is to come. I appreciate what sliver of trust allowed me to leave. It’s not forgotten.” That’s it.
  LAURA: He said he’s just sitting there thinking about you kissing him, Caleb. That’s all he said. He’s just like, “Caleb kissed me. Caleb kissed me.”
  LIAM: Sure. That checks out.
@@ -946,26 +1136,29 @@ Dark Waters/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  LIAM: (to Fjord) I mean, you held a sword to my neck once upon a time.
  TRAVIS: That’s true.
  LIAM: I’m not saying ignore what he’s done, Veth. He has a great many more footsteps to take if he indeed wishes to make up for what he has done. It’s very unlikely.
- TRAVIS: [JENGA] one step at a time.
+ TRAVIS: He'd have to earn it, one step at a time.
  TALIESIN: One step at a time.
  MARISHA: Glide.
  SAM: One glide at a time.
  TALIESIN: Wow, I hadn’t really– 
  LIAM: Just one long...
- TRAVIS: You don’t know, he could be just traveling under that shit. You don’t know. Just to keep track of where he’s going. Or his legs would just atrophy, right?
- 
- LAURA: They would, they would. Maybe he does a lot of squats when nobody’s around.
- 
+ MARISHA: It's just, like, a waft.
+ TRAVIS: You don’t know, he could just be treadmilling under that shit. You don’t know. Just to keep track of where he’s going. 
+ SAM: (quick footsteps)
+ TRAVIS: Otherwise his legs would just atrophy, right? 
+ LAURA: That's true, they would. Maybe he does a lot of squats when nobody’s around.
  SAM: When he’s at home? Yeah.
  TALIESIN: Maybe he’s just taller–
  TRAVIS: Air squats.
- SAM: Air sqauts? Good one. I didn’t know you knew what that was.
+ SAM: Air squats? Good one. I didn’t know you knew what that was.
  TRAVIS: What?
-SAM: An air squat, cause it’s clear that you’ve never done one.
+ SAM: An air squat, cause it’s clear that you’ve never done one.
  LIAM: What is an air squat?
  SAM: Oh, it’s... I don’t actually know.
+ (laughter)
  TALIESIN: I was really invested in...
  SAM: I don’t know. Maybe a jump at the end? I don’t know.
+ (laughter)
  TALIESIN: That would hurt.
  TRAVIS: Those are jump squats.
  LIAM: Also, truth be told, obviously we do not trust him, but we know more now than we did before and we can potentially use the man.
@@ -985,15 +1178,15 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  LIAM: They are obviously using the situation. Maybe we can use them in return. Long game. Like you say.
  MARISHA: Long game,
  SAM: When do they depart again? Is it imminent? Or do we have a few–
- MATT: A couple days.
+ MATT: It's a couple days.
  SAM: A couple days. Well, should we start thinking about any fortifications to the Balleater or any sort of– I don’t know. Do we need to be prepared?
- LAURA: Oh my gosh, are they going to bust out in a battle or something? Is somebody like lying?
+ LAURA: Oh my gosh, are they going to bust out in a battle or something? Is somebody, like, lying?
  SAM: I dunno. So many things could happen.
- LAURA: Oh.
- TRAVIS: We do have a fair amount of cannon on the ship. I just don’t know how much we could add without reducing the speed.
+ LAURA: Oh, man.
+ TRAVIS: We actually do have a fair amount of cannon on the ship. I just don’t know how much we could add without really reducing the speed.
  TALIESIN: I think more than anything, it’s going to be– we’re going to be important to be there. We’re all a lot to reckon with. Any one of us, in a fray.
  TRAVIS: In a fracas!
- TALIESIN: Ooh, in a fracas.
+ TALIESIN: Ooh, in a fracas. Yeah.
  TRAVIS: Sorry, that party’s got me amped.
  TALIESIN: That was a pretty good party. How are you holding up, Beau?
  MARISHA: Oh, I’m great. That was awesome.
@@ -1001,12 +1194,15 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  MARISHA: What?
  TALIESIN: Nothing, just drink some juice, try to lay off the ale a little bit and get some sleep, if you’re feeling a little low. You’ll be okay.
  LIAM: Take an off day.
- TALIESIN: Yeah. Just take it easy.
+ TALIESIN: Yeah. Just take it easy. There you go.
  LAURA: Everybody save your outfits because you all look really wonderful, okay?
  SAM: Did you say “save” your outfits?
  LAURA: Yeah. Don’t leave them here. Take them with us in case we want to dress up some other time.
  SAM: Okay.
- LIAM: If you prefer, I could– and I pull out that little piece of amber– I could store them in here, for safekeeping, so that they do not get ruined.
+ LIAM: If you prefer, I could– 
+ TALIESIN: You look good. 
+ ASHLEY: Thanks.
+ LIAM: And I pull out that little piece of amber– I could store them in here, for safekeeping, so they do not get ruined.
  LAURA: That’s wonderful. Yeah.  
  SAM: What does that do?
  LIAM: Isn’t it obvious?
@@ -1030,34 +1226,38 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  ASHLEY: Should I do it now?
  TRAVIS: Yeah. Is it cold? Is it hot?
  LIAM: I think maybe stick to pit fights, where you let yourself get whaled upon, and maybe don’t jump inside–
- TRAVIS: This is like event horizon. She’ll go through the portal. She’ll come right back. It’ll be fine.
- TALIESIN: This is like Flatliners. This is not like Event Horizon.
- TRAVIS: I know, those things work out terribly for people.
- LIAM: It’s longer than you think. Longer than you think.
+ TRAVIS: This is like Event Horizon. Go through the portal. She’ll come right back. It’ll be fine.
+ TALIESIN: This is like Flatliners. It's not like Event Horizon.
+ TRAVIS: I know, both of those things ended up terribly for the people.
+ LIAM: Yeah, The Long Jump. It’s longer than you think. Longer than you think!
+ (laughter)
  TALIESIN: You have a piece of amber that holds stuff?
  LIAM: Yeah. I– yeah.
  TALIESIN: That’s great.
- LIAM: I like to... you know, I like–
+ LIAM: I like to... you know, I–
  ASHLEY: How do you get stuff out? You just stick your hand in it or something?
  TALIESIN: Where would you–?
  LAURA: Do you have to cast a spell to bamf it out again?
  SAM: What do you call it? Do you call it Widogast’s Plane? Is that what you call it?
- LIAM: I call it Widogast’s– I just call it Vault of Amber, Veth.
+ LIAM: I call it Widogast’s– I just call it the Vault of Amber, Veth.
  MARISHA: That’s Widogast’s–
+ LAURA: But it's Widogast's Vault of Amber.
  SAM: Widogast’s Vault of Amber. That sounds really catchy.
  LAURA: Yeah, that does sound catchy.
  TRAVIS: WVOA.
- LIAM: I mean, only if you were to put it in some sort of players’ handbook, or something.
+ LIAM: I mean, only if you were to put it into some sort of players’ handbook, or something.
  SAM: Something that would last forever, and immortalize your name in canon forever?
  TALIESIN: Let’s not get ridiculous. This is just–
- TRAVIS: [JENGA]
- LIAM: Like you, Fjord, like you.
+ TRAVIS: Like a player? Like "play-ah."
+ LIAM: Like you, Fjord, like you. 
  MARISHA: You do have a very forward sense of branding, Caleb. You brand that a lot.
  SAM: I can see why that would be–
- LIAM: Do remember I am not using my actual name, Beauregard.
+ LIAM: Do I really? I am not using my actual name, Beauregard.
+ TRAVIS: You know what a great friend might do?
+ (laughter)
  LAURA: Yeah, let’s put it in your amber.
  TALIESIN: Actually, I would love to see how things come in and out of it, just in case you’re incapacitated.
- ASHLEY: What if I put my finger in an out?
+ ASHLEY: What happens if I put my finger in and out?
  LIAM: You’d have four fingers.
  ASHLEY: It would just fall off.
  LAURA: It would like clamp into her finger and...?
@@ -1065,14 +1265,16 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  TRAVIS: Does it have teeth?
  LIAM: Her finger?
  ASHLEY: You’d better believe they have teeth.
+ (laughter)
  LIAM: Where are we?
  LAURA: Let’s go to sleep–
  MATT: You guys are in the Chateau. I’m just waiting for you guys to finish up.
  LIAM: He starts putting out the ring of–
  LAURA: We’re in our clothes now. What, are we all just going to get naked right now in the middle of the bar?
  LIAM: Well, she was curious. She wanted to lose a finger.
- SAM: I wouldn’t mind. I have a wonderful body.
- TALIESIN: I take off my ascot and pass it to you. Show us how it works. Here’s an ascot.
+ SAM: I wouldn’t mind. I have a wonderful body now.
+ (laughter)
+ TALIESIN: I'm just going to take off my ascot and pass it to you. Show us how it works. Here’s an ascot.
  LIAM: An ascot? Give me the ascot, okay.
  TALIESIN: Just show us how it works.
  LIAM: All right, so he puts out the five pieces of amber, but it takes a while, so you strip naked, I guess, while I cast some mumbo-jumbo and the ascot goes (pfft!). And it’s gone.
@@ -1081,30 +1283,31 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  TRAVIS: Oops.
  LIAM: Una.  
  LAURA: What did he say?
- TRAVIS: Una like–
+ TRAVIS: Unagi.
  MARISHA: Uno?
  LIAM: And the ascot reappears.
  LAURA: Una! Una! Una!
  TALIESIN: Does it only work for you?
  LAURA: Is there anything else in there?
  LIAM: No.
- LAURA: Is it like saying Siri? [JENGA] Does it like open up if anybody says it?
+ LAURA: Is it like saying Siri? Does it open up if anybody says it?
  ALL: Hey, Siri.
  TRAVIS: You know, Caleb, what a great wizard would do would be to name new spells after all of his friends. Spread the love.
  LAURA: Yeah, yeah, yeah.
  LIAM: I will take that into consideration.
  MARISHA: What about–
- TRAVIS: If there’s a waiting list, I’m at the top. Go ahead.
+ TRAVIS: If there’s a waiting list, I’m at the top. Sorry, go ahead.
  MARISHA: Like a joint combo, you know.
  LIAM: Like pizza combo, or nachos– Widogast’s nacho combos.
  MARISHA: See? Branding.
  TRAVIS: I would equip that every morning.
- TALIESIN: Like natch your combos.
+ TALIESIN: Like not your combos.
  LAURA: Okay. Goodnight.
+ TRAVIS: Okay, good night!
  MATT: All right. You guys go to your respective rooms. You have your full rest for the night. There are two days before the armada leaves. You guys can choose to leave early if you want, or you can leave with them, or you can accomplish anything in the next few days you want to here in Nicodranas before you head out. What would you like to do?
  LAURA: I’m going to go to the store, and I’m going to buy some party decorations, and like long strips of fabric, because I noticed at the party that we were at they had that fabric stuff draping everywhere. I thought that looked really cool, so I’m going to get some of that stuff going.
  MATT: Okay, okay.
- LAURA: Probably like-- we already have a lot clay... maybe I’ll make a lot of little figurines. Yeah, I’m going to buy some clay so I can do some sculpting on the boat.
+ LAURA: Probably like-- we already have a lot of clay... maybe I’ll make a lot of little figurines. Yeah, I’m going to buy some clay so I can do some sculpting on the boat.
  MATT: All right. I’ll say with all of those materials purchased, it’ll run you two and a half gold.
  LAURA: Got it.  I’m talking lots of stuff. I’m going to make it for how many people? Like 200 people?
  MATT: Oh, this is for–
@@ -1122,19 +1325,22 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  LIAM: As we previously discussed. 
  MATT: Roll an arcana check. 
  LIAM: I will definitely in those two days cast Fortune’s Favor on myself. Natural 20 for a total of 30.
+ SAM: Ooh. 
+ MARISHA: Dang.
  MATT: Okay. The– You can ascertain that there is a particular kind of material that was utilized to power this device. Roll a history check as well.
+ SAM: Ooh, double roll.
  LIAM: This is all taking place in two days?
  MATT: This is over the period of time that you–
  LIAM: Can I Fortune’s Favor myself again in two days?
  MATT: Actually, no, I’d say for this, because this is a momentary epiphany–
- LIAM: You the boss. History you said?
+ LIAM: You da boss. History you said?
  MATT: Yes.
  LIAM: Total of 23.
- MATT: All right. You do recognize that whatever was used to power this as well as possibly the golems in Halas’s Folding Halls, that this material does not exist naturally. You don’t know the name of it, but it was utilized as essentially an arcane battery type technology that was employed by some of the top echelon of archmages during the Age of Arcanum. You would know that some elements of it have supposedly been traded around, usually scavenged from ruins, what elements you’ve heard of, coming from the north.
+ MATT: All right. You do recognize that whatever was used to power this as well as possibly the golems within Halas’s Folding Halls, that this material does not exist naturally. You don’t know the name of it, but it was utilized as essentially an arcane battery-type technology that was employed by some of the top echelon of archmages during the Age of Arcanum. You would know that some elements of it have supposedly been traded around, usually scavenged from ruins, what elements you’ve heard of, coming from the north.
  LIAM: From the north. And is this possibly connected to these cities floating in the sky?
- MATT: Possibly, yeah. And you do know– it wasn’t like every city was floating. There were maybe three major cities that themselves utilized, and had the– cornered the market on brumestone and were able to hold their entire city aloft, who could afford to. 
+ MATT: Possibly, yeah. And you do know– it wasn’t like every city was floating. There were maybe three major cities that themselves utilized, and had cornered the market on brumestone and were able to hold their entire city aloft, who could afford to. 
  LIAM: Brumestone? 
- MATT: Brumestone is the bluish stone that’s used in skyships and is a mineral that has the property that with a very basic, simple enchantment, that is very simple, causes it to lift. And there were a few cities that had enough of this that they had hoarded and built with that they were able to hold an entire city aloft. You know that supposedly one of these had crashed in Eiselcross, to the north, in the Biting North, and there are some elements of the Empire, outposts, out there, that are currently excavating what remnants they’re able to have access to of that fallen empire. You would know it’s referred to as Aeor. A-E-O-R.
+ MATT: Brumestone is the bluish stone that’s used in skyships and is a mineral that has the property that with a very basic, simple enchantment, that it's very susceptible to, causes it to lift. And there were a few cities that had enough of this that they had hoarded and built with that they were able to hold an entire city aloft. You know that supposedly one of these had crashed in Eiselcross, to the north, in the Biting North, and there are some elements of the Empire, outposts, out there, that are currently excavating what remnants they’re able to have access to of that fallen empire. You would know it’s referred to as Aeor. A-E-O-R.
  TRAVIS: (whispering, holding the map) Do you want this?
  LIAM: I will later. We have too much to do.
  MATT: So I’d say, between those two rolls, the only place you can think of that would probably have the materials that were utilized to power this– that’s one location that you know people have been able to scavenge and sell, often–
@@ -1144,10 +1350,11 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  MATT: Cool.
  LIAM: Done.
  MATT: Anybody else want to do anything?
- TRAVIS: I will spend those two nights changing my appearance and just hitting up any of the old haunts and bars that I would visit in Nicodranas when I was on the Tide’s Breath. The old ship. Just see if there are any familiar faces or particular persons of interest, just as a sort of means of reminiscing. No active conversations, but more like passive melancholy revisiting.
+ TRAVIS: I will spend those two nights changing my appearance and just hitting up any of the old haunts and bars that I would visit in Nicodranas when I was on the Tide’s Breath. The old ship. Just see if there are any familiar faces or particular persons of interest, just as a sort of means of reminiscing. No active conversations, but more like passive melancholy and revisiting.
  MATT: Okay, cool. Make a perception check for me.
+ SAM: Come on, come on.
  TRAVIS: Ten.
- MATT: Ten? The chaos around the wharf and the docks, the Open Quay– it’s pretty busy and you have a hard time finding a comfortable location within some of these old haunts. They are pretty busy given the fact that the entire town is abuzz with people getting ready to travel. Many from out of town. So while these are familiar old haunts to you, a lot of people there is a novelty to these spaces. A lot of these individuals have probably never been to Nicodranas and have just come south with the armada to be present to help defend this negotiation. But you do manage to enjoy thinking back to some of the old life, reminiscing about some of the good, some of the bad, and just contemplating on who you are now, and what this current path has for you, and throughout this entire venture, the one very visible structure that, growing up, was just a lighthouse, now has a much stronger significance, as it is the massive stone lighthouse carved in the shape of the Wildmother, that overlooks the harbor.  And what was once just a physical marker to get around the southern side of the city, is now almost a welcoming beacon to know exactly where you are, and reminding you that you’re always watched over.
+ MATT: Ten? The chaos around the wharf and the docks, the Open Quay– it’s pretty busy and you have a hard time finding a comfortable location within some of these old haunts. They are pretty busy given the fact that the entire town is abuzz with people getting ready to travel, many from out of town. So while these are familiar old haunts to you, for other people there is a novelty to these spaces. A lot of these individuals have probably never been to Nicodranas and have just come south with the armada to be present to help defend this negotiation. But you do manage to enjoy thinking back to some of the old life, reminiscing about some of the good and some of the bad. And just contemplating on who you are now, and what this current path has for you. And throughout this entire venture, the one very visible structure that, growing up, was just a lighthouse, now has a much stronger significance, as it is the massive stone lighthouse carved in the shape of the Wildmother, that overlooks the harbor.  And what was once just a physical marker to get around the southern side of the city, is now almost a welcoming beacon to know exactly where you are, and reminding you that you’re always watched over.
  TRAVIS: That’s pretty cool.
  LAURA: I’m going to spend some time finishing up and drawing some more of my tarot cards. I’ve listed a few that I would like to make.
  MATT: Okay.
@@ -1163,38 +1370,46 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  MARISHA: Sunday brunch?
  ASHLEY: Sunday brunch.
  TRAVIS: Ooh. Brisket tacos.
- MARISHA: Mimosas.
- MATT: Marion is the central performer of the Chateau. Aside from that, there’s less performances, more than there are occasional games, mild gambling, and in some cases, close-up magical performer might wander through and earn a little bit of coin on the off days. That’s the Chateau specifically. But there are about the city, there are all manner of performances, and there are musicians and dancers and a whole number of artists of all different kinds that go to the streets to busk and earn coin from those who are passing through, from those that live nearby. Some that this is where they reside and make their living. Others are just making their way up and down the Menagerie Coast, jumping from city-state to city-state, doing the best they can to make a splash and then leave before the Zhelezo get any wind of untoward activity. But there’s a lot of culture here. There’s a reason the city has its name. And it’s beautiful, and I guess for all the times you’ve been here, it’s nice to take a little bit of time for yourself, and just wander and experience. It’s interesting to be in a town that is based in color, and to be the monochromatic stranger, but yet still smiling and enjoying them all.
- ASHLEY: Yeah. After walking through and enjoying them all, I want to just go find a beach somewhere at night, and just go sit out by the water and play my bone harp and have a nice self-care Sunday.
- MATT: I dig it, I dig it. All rightie. It’s a beautiful night, with the moon is only barely visible across the horizon by the time you get out there. There’s a little bit of light dancing across the waves. The stars are out above you, and you’re far enough away where you can see the distant dotted glows of all the various points of lantern light throughout the entire city. But you feel peaceful and alone, comfortable, and in that moment, content, as you begin to practice along your harp.
+ MARISHA: Bottomless mimosas.
+ MATT: Marion is the central performer of the Chateau. Aside from that, there’s less performances more than there are occasional games, mild gambling, and in some cases, the occasional close-up magical performer might wander through and earn a little bit of coin on the off days. That’s the Chateau specifically. But throughout the city, there are all manner of performances, and there are musicians and dancers and a whole number of artists of all different kinds that go to the streets to busk and earn coin from those who are passing through, from those that live nearby. Some that this is where they reside and make their living. Others are just making their way up and down the Menagerie Coast, jumping from city-state to city-state, doing the best they can to make a splash and then leave before the Zhelezo get any wind of untoward activity. But there’s a lot of culture here. There’s a reason the city has its name. And it’s beautiful, and I guess for all the times you’ve been here, it’s nice to take a little bit of time for yourself, and just wander and experience. It’s interesting to be in a town that is based in color, and to be the monochromatic stranger from the east, but yet still smiling and enjoying it all.
+ ASHLEY: Yeah. After walking through just alone, I want to just go find a beach somewhere at night, and just go sit out by the water and play my bone harp and have a nice self-care Sunday.
+ MATT: I dig it, I dig it. All righty. It’s a beautiful night. The moon is only barely visible across the horizon by the time you get out there. There’s a little bit of light dancing across the waves. The stars are out above you, and you’re far enough away where you can see the distant dotted glows of all the various points of lantern light throughout the entire city. But you feel peaceful and alone, comfortable, and in that moment, content, as you begin to practice along your harp.
  ASHLEY: Okay.
  MATT: Anybody else?
  TALIESIN: I want to make a quick run to buy some magical supplies for some of my weirder spells, just so I have some options.
  MATT: Okay. The two places that you had uncovered as possible sources, there’s Meandering Treasures in Restless Wharf, or there is the Seafloor’s Bounty, in the Open Quay.   
+ TRAVIS: ♪ Key-Kway! ♪
+ SAM: Key-Kway?
  TALIESIN: I don’t know. Which has the better vibe?
+ TRAVIS: Contigo.
  MATT: Meandering Treasures definitely seems to be the larger and more prominent of the two.
  TALIESIN: I’ll support a small business. I go to the other one. Grabbing some incense and stuff like that, a couple hundred gold worth.
- MATT: No worries. So you enter the Seafloor’s Bounty. It seems to be a general store of kinds, but it specializes in pawning items and scavenged loot, and things that a lot of travelers come through and want to off-load, whether legal or not. The exterior itself looks similar to many of the base wooden buildings, but it’s been heavily decorated with dry rotten nets that have been pulled the corners of it, with all sorts of hanging glass bottles, and you can see outside against the walls there are strips of leather that are currently being tanned. There is a gathered group of what looks to be five different colorful tropical birds that aren’t in cages but are staying on perches outside, and as you approach, they begin to make noise (bird noises). This garbled bird noise as you approach, and look over towards you. 
- TALIESIN: Hey, everything going all right? Everything okay?
+ MATT: No worries. So you enter the Seafloor’s Bounty. It seems to be a general store of kinds, but it specializes in pawning items and scavenged loot, and things that a lot of travelers come through and want to off-load, whether legal or not. The exterior itself looks similar to many of the base wooden buildings, but it’s been heavily decorated with dry rotten nets that have been pulled across the corners of it, with all sorts of hanging glass bottles, and you can see outside against the walls there are strips of leather that are currently being tanned. There is a gathered group of what looks to be five different colorful tropical birds that aren’t in cages but are staying on perches outside, and as you approach, they begin to make noise (bird noises). This garbled bird noise as you approach, and look over towards you. 
+ TALIESIN: Hey, everything going all right? Doing okay?
  MATT: (is a bird)
- TALIESIN: That’s nice. That’s good. Hold on, I’ve got– I pull out whatever was growing in my pouch and– (holds it out) I have something different, from far away. Yeah. (Matt is a bird) I mean, come on, you either want it or you don’t.
+ TALIESIN: That’s nice. That’s good. Hold on, I’ve got– I pull out whatever the hell was growing in my pouch and– 
+ TRAVIS: Lichen.
+ TALIESIN: (holds it out) Yeah, have something-- This is different, it's from far away. Yeah. (Matt is a bird) I mean, come on, you either want it or you don’t.
  MATT: Lands on your arm and just eats it out of your fingers.
  TALIESIN: I figured.
  MATT: Shits on your arm. Goes back to its perch. 
  TALIESIN: I don’t clean it off. Okay.
  LAURA: Ew.
  ALL: Radagast.
- MATT: So you enter the interior. It smells so strong of medicinal herb and fish. Just the combination of the two. It’s this odd, somewhat pungent, to most people, but to you? I don’t think it would bother you too much. The inside, however, is pleasantly decorated. There are all manner of small pots that contain segmented gardens and a lot displaced herbalism– specifically built herb gardens that are dotting the interior at different heights on different shelves, that give part of the aroma that you encountered, and are probably over time part of what’s harvested and utilized in different balms and salves and stuff that are sold here. You can see there are clusters of fishing gear on one wall. You can see some long spears and fishing spears. You can see what looks to be a flintlock pistol on the one wall in the back. You can see there is one table that contains what looks like a bunch of tools and other odd objects that have just enough rust and barnacles on them that you assume they were probably pulled from the seafloor and then sold here. It’s an eclectic interior. You do see the one person who runs this place. This is an older female gnome, has this very deep-set smile lines in her face, and these crows feet that– the lid itself seems to almost completely cover the eyes except for a little bit of a beady black that pokes through. Very, very suntanned skin. You can see it’s been burned in places over and over again to the point where it gives her this very splotchy complexion that’s strangely adorable. Her hair is sunbleached to where you can see the gray and light brown beneath, but the entirety of the main surface itself is practically white and blond from sunbleaching. As soon as you look around and then notice, she just sits with her hands covered and goes, “Hi!”
+ TALIESIN: You're very welcome.
+ MATT: So you enter the interior. It smells so strong of medicinal herb and fish. Just the combination of the two. It’s this odd, somewhat pungent, to most people, but to you? I wouldn't say it would bother you too much. The inside, however, is pleasantly decorated. There are all manner of small pots that contain segmented gardens and a lot of displaced herbalism– specifically built herb gardens that are dotting the interior at different heights on different shelves, that give part of the aroma that you encountered, and are probably over time part of what’s harvested and utilized in different balms and salves and stuff that are sold here. You can see there are clusters of fishing gear on one wall. You can see some long spears and fishing spears. You can see what looks to be a flintlock pistol on the one wall in the back. You can see there is one table that contains what looks like a bunch of tools and other odd objects that have just enough rust and barnacles on them that you assume they were probably pulled from the seafloor and then sold here. It’s an eclectic interior. You do see the one person who runs this place. This is an older female gnome, has this very deep-set smile lines in her face, and these crows feet that– the lid itself seems to almost completely cover the eyes except for a little bit of a beady black that pokes through. Very, very suntanned skin. You can see it’s been burned in places over and over again to the point where it gives her this very splotchy complexion that’s strangely adorable. Her hair is sunbleached to where you can see the gray and light brown beneath, but the entirety of the main surface itself is practically white and blond from sunbleaching. As soon as you look around and then notice, she's just siting there with her hands covered and goes, “Hi!”
  TALIESIN: Hey, hi.
  MATT: “How can I help you?”
  TALIESIN: I’m Caduceus. I don’t know if we’ve had the pleasure.
  MATT: “I’m Sheila Bobsnopper.”
- TALIESIN: It’s a pleasure. And welcome to my establishment.
+ TALIESIN: It’s a pleasure. 
+ MATT: "And welcome to my establishment." 
+ MARISHA and LAURA: Bobsnopper?
  LAURA: I love it! 
  TALIESIN: I was hoping to pick up some sundries. I’m looking for some incense, a little bit of that– I can’t remember the name of it, but that saffron fat ointment that is used to make True Seeing tinctures... I do a little bit on my own, but I could use a little bit of that.
- MATT: “Let’s have a look and see what we can do for you. Come on, come on.” And she hops off her stool and scuttles over to you. Yeah. Those materials you can go ahead and purchase what’s necessary.
+ MATT: “Let’s have a look and see what we can do for you. Come on, come on.” And she hops off her stool and scuttles over to you. Yeah. Those materials, you can go ahead and purchase what’s necessary.
  TALIESIN: 100 each. And then, you got anything else interesting? I’m always a collector of odds and ends. Just for fun, I’m going to cast Detect Magic in the room and see what I see, if anything’s shiny.
- MATT: Okay. There are three things that catch your attention. You see on one wall a leather fan of some kind that is just set on the edge. It’s about maybe this long? (About 18 inches) And it’s sprawled out openwards. It looks like a hand fan, but it’s a little larger than the ones you’ve seen used as delicate social presentational type of design. It has a beautiful design on the front that looks like a continuously curled series of lines, almost like snakes or serpents that are winding around each other, but without a head, just these long coiling lines, gray and they fade at the tips, tangled and really beautiful. Very watercolor-esque. But that definitely gives a glow. There is a case that you see that gives a faint magical aura from the inside of it. You can just barely sense on the interior. It has a heavy bronze lock on the outside that looks very intricately carved and detailed. And there is a leather strap around her neck that has a bundle of dried herbs or roots that are bound and held to this almost choker-like necklace.
+ MATT: Okay. There are three things that catch your attention. You see on one wall a leather fan of some kind that is just set on the edge. It’s about maybe this long? (About 18 inches) And it’s sprawled out open-wards. It looks like a hand fan, but it’s a little larger than the ones you’ve seen used as delicate social presentational type of design. It has a beautiful design on the front that looks like a continuously curled series of lines, almost like snakes or serpents that are winding around each other, but without a head, just these long coiling lines, gray and they fade at the tips, tangled and weirdly beautiful. Very watercolor-esque. But that definitely gives a glow. There is a case that you see that gives a faint magical aura from the inside of it. You can just barely sense on the interior. It has a heavy bronze lock on the outside that looks very intricately carved and detailed. And there is a leather strap around her neck that has a bundle of dried herbs or roots that are bound and held to this almost choker-like necklace.
  TALIESIN: I’m going to ask in order. The fan’s interesting. What do you know about that?
  MATT: “Well, you see, that was sold to me not but seven or eight months ago, by Gerald Kingsman, who’s a fellow– a fisherman that comes over here from Brokenbank occasionally and provides all sorts of strange findings. And hasn’t had any takers yet, but from what he tells me, it’s got some magic in it.”
  TALIESIN: Well, that’s exciting! I mean, I’d be curious what– well, I’m going to ask about a couple more things but I would be curious about how much you’d be willing to–
@@ -1202,10 +1417,12 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  TALIESIN: Well, I mean, if you know what it does, sure.
  MATT: She takes it off the wall, and goes, “Let’s step outside.”
  SAM: Ooh.
- MATT: And you step outside into the warm daylight, and she goes, “Now, watch that barrel.” And she points to a barrel across the street about forty feet away from you. She opens the fan and goes (opens it, holds it in both hands and waves it) and suddenly this wind gust just bursts from it, slams into the barrel, and you watch it suddenly go (tumbling noise) and then roll and roll and roll and roll. She closes it, snaps it shut.
+ MATT: And you step outside into the warm daylight, and she goes, “Now, watch that barrel.” And she points to a barrel across the street about forty feet away from you. She opens the fan and goes (opens it, holds it in both hands and waves it) and suddenly this wind gust just bursts from it, slams into the barrel, and you watch it suddenly go (tumbling noise) and then roll and roll and roll and roll, before it comes to a stop. 
+ TALIESIN: (guffaws) 
+ MATT: She closes it, snaps it shut.
  TALIESIN: Oh, wow, that’s pretty cool.
  MATT: “200 gold.”
- TALIESIN: 200 gold. Well, all right. Other question. That’s pretty cool. That’s– wow. Wow. Is it just barrels or does it do other things?
+ TALIESIN: 200 gold. Well, all right. Other question. That’s pretty cool. That’s– wow. Wow. Is it just barrels or does it do other things, too?
  MATT: “I haven’t tried.”
  TALIESIN: Wow. Barrels alone are pretty exciting. Does it work on people?
  MATT: “I haven’t tried it.”
@@ -1219,28 +1436,34 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  MATT: “Isn’t it?”
  TALIESIN: Yeah.
  MATT: “Isn’t it?”
- TALIESIN: Wow. I mean, they’re both pretty good. Oh, man. And then, not that it’s for sale, but I was kind of curious. You have that– that’s such an interesting thing you’re wearing. I assume it’s not for sale. I was just sort of curious about it though.
+ TALIESIN: Wow. I mean, they’re both pretty good. Oh, man. 
+ MARISHA: -- grab bag.
+ TALIESIN: And then, not that it’s for sale, but I was kind of curious. You have that– that’s such an interesting thing you’re wearing. I assume it’s not for sale. I was just sort of curious about it though.
  MATT: “Oh, this helps me maintain a lot of my gardens in here. It allows me to converse with the creatures I grow from the earth, and see what they need when they need them.”
  TALIESIN: Well, I can already kind of do that, so–
  MATT: “They talk back and tell me what they require.”
- TALIESIN: Hm. Hm. I don’t suppose you’d be interested in parting with that, by any chance. Or making another one. I understand if–
+ TALIESIN: Hm. Hm. I don’t suppose you’d be interested in parting with that, by any chance?
+ MATT: "(skeptical noise)" 
+ TALIESIN: Or making another one. I understand if–
  MATT: “What’s your offer?”
  TALIESIN: Oh, man, I don’t know. You’ve got so much fun stuff. You want 500 gold for the box, 200 gold for the fan...
  MATT: “Yeah.”
- TALIESIN: How about 900 gold for the whole kit and kaboodle?
+ TALIESIN: How about 900 gold for the whole kit and caboodle?
  MATT: “Hmm. Cause I like your hair–“ Go ahead and make a persuasion check.
  SAM: Oh, boy, oh, boy.
  LAURA: Can you Guide yourself?
  TRAVIS: That’s a fair offer. That’s a fair–
- TALIESIN: I’m not going to Guide myself. I don’t wanna– Actually, I’ll do something before I do this. You like the hair?
+ TALIESIN: I’m not going to Guide myself. Because I don’t wanna– Actually, I’ll do something before I do this. You like the hair?
  MATT: “I do.”
  TALIESIN: I can sweeten the deal a little bit. And I remove some of the pink phosphorescent mold that’s growing on me that’s part of the stuff that makes the hair go. And I’ll just place some of it on the counter. You can see if you can get it going. This is not natural. This is a choice. This is a thing I do.
  MATT: Go ahead and roll your persuasion check.
  TALIESIN: All right.
  TRAVIS: Come on, baby.
  TALIESIN: Twelve.
- MATT: Twelve, well, the DC did decrease when you offered the lichen, so that helped. She goes, “The pile of pink stuff, 900 gold, and you have yourself a deal.” (Spits in her hand and shakes Caduceus’s hand) 
- TRAVIS: (Applauding) Yeah! We love that shit!
+ MATT: Twelve? Well, the DC did decrease when you offered the lichen, so that helped. She goes, “The pile of pink stuff, 900 gold, and you have yourself a deal.” (Spits in her hand and shakes Caduceus’s hand) 
+ TALIESIN: (spits)
+ (cheering)
+ TRAVIS: (Applauding) Yeah! We bought magic shit! You did.
  TALIESIN: I can’t wait to come back again. This place is so nice.
  MATT: “Anytime. Maybe wait a few weeks.”
  TALIESIN: Oh, I’m going to be gone for a while. Don’t worry about it.
@@ -1248,20 +1471,29 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  TALIESIN: And you buy, too, out of curiosity?
  MATT: “Always.” 
  TALIESIN: If I see something fun, I’ll bring it by.
- MATT: “Please do. Always looking to collect and find new owners for them.” So yeah you have... 
- TALIESIN: I mean, knock 900 gold off my... 
+ MATT: “Please do. Always looking to collect and find new owners for them.” 
+ TALIESIN: Pleasure.
+ MATT: So yeah you have... 
+ TALIESIN: Let me knock 900 gold off my... 
  SAM: That’s a lot.
- TALIESIN: That’s what gold does! I don’t care!
+ TALIESIN: That's what gold-- oh, he don't care!
+ ASHLEY: We should go sell those bracers--
  MATT: So here you go. (Hands Taliesin two slips of paper.)
- TALIESIN: Uh, all right, let’s see. Okay, okay.
+ ASHLEY: --that we don't need.
+ TALIESIN: Woo! All right, let’s see. Okay, okay.
  TRAVIS: It’s just the two, right? Because you can’t open the box yet?
- MATT: Yeah, you can’t open the box.
+ MATT: Yeah, haven't opened the box.
  TALIESIN: Can’t open the box yet, yeah. Oh, man.
+ ASHLEY: What's in the box?
+ TALIESIN: Oh man. 
+ LAURA: What if it's empty? You wouldn't do that. Would you do that? You would do that.
  TRAVIS: This is Matt Mercer we’re talking about.
  SAM: Mercer would do anything.
  TALIESIN: Oh, man. So this makes it so they can talk back, then.
  MATT: Yeah.
  TALIESIN: Okay, that’s pretty cool. And then I’ve got the weird box. Okay. Where’s my equipment? Let me knock 900 bucks off this.
+ MATT: All righty. 
+ TALIESIN: Worth it.
  MATT: Fantastic.
  TALIESIN: I skip back home. Magic beans!
  MATT: Anything else?
@@ -1269,12 +1501,18 @@ SAM: An air squat, cause it’s clear that you’ve never done one.
  MATT: Okay.
  MARISHA: Have some alone time.
  MATT: You got it. On the last night before the Armada leaves, you’re out there camping, and you do hear the soft sound of– well, roll a performance check.
+ LAURA: Aww.
+ (scatting, bass plucking noises)
  ASHLEY: Performance is -2... 10.
  MATT: Ten. You hear what at times falters, but is mostly a pleasant sound of a harp.
  MARISHA: Can I see where it’s coming from?
- MATT: I’d say with your perception, your passive perception, yeah. So you lean forward and you glance, and a ways away off, but you see a figure sitting just where the horizon and the ocean meets, there looks to be a bit of a sand dune there on the beach.
- MARISHA: I just nod and smile. Watch from a distance.
-MATT: Cool. All righty. So the morning is imminent. As you come to consciousness and begin to prepare yourselves for the day, the energy is palpable across the city. You see countless Righteous Brand soldiers and shore wardens being aided by Zhelezo in bringing final materials towards the harbor. You can see most ships are out there and arranged and ready to leave. The last few stragglers are being loaded up. You can see the final conversations are happening between the local lords and ladies, and those that will be leading as part of this journey. It’s going to happen soon, so what would you guys like to do?
+ MATT: I’d say with your perception, your passive perception, yeah. So you lean forward and you glance, and a ways away off, but you see a figure sitting just where the horizon and the ocean meets, there looks to be a bit of a sand dune there along the beach.
+ TRAVIS: (wave crashing) 
+ MARISHA: Yeah yeah yeah! I just nod and smile. Watch from a distance. 
+ MATT: Cool. All righty. 
+ ASHLEY: ♪ From a distance. ♪
+ (laughter)
+ MATT: So the morning is imminent. As you come to consciousness and begin to prepare yourselves for the day, the energy is palpable across the city. You see countless Righteous Brand soldiers and Shore Wardens being aided by Zhelezo in bringing final materials towards the harbor. You can see most ships are out there and arranged and ready to leave. The last few stragglers are being loaded up. You can see the final conversations are happening between the local lords and ladies, and those that will be leading as part of this journey. It’s going to happen soon, so what would you guys like to do?
  SAM: As we wake up, I’m going to grab my husband, just sort of have a private moment, and just be like, “Hey. Yeza. Let’s talk.”
  MATT: “Of course, of course.”
  SAM: Real quick. So I’m back now. I’m me. We’re a family again. This is pretty cool.
@@ -1286,17 +1524,17 @@ MATT: Cool. All righty. So the morning is imminent. As you come to consciousness
  SAM: Ew.
  MATT: “Right. Luc likes the ocean.”
  SAM: Okay. That’s okay.
- MATT: “I don’t know. Like, the culture here, the people– it’s a very different experience, and I’m rather enjoying the change of pace. So don’t feel like it’s a burden on either of us–“
- SAM: Well, I know, but don’t you think we should get some sort of a permanent hom– if you like it here, I like it here, too–
- MATT: “Well, I’m not saying that we should stay here forever, but I’m just saying don’t feel like it’s been a burden, either. I mean, our home’s in Felderwin, what remains of it, I suppose. But... yeah. I like it here for now. I am considering finding a tutor here for Luc.”
+ MATT: “I don’t know. Like, the culture here, the people– it’s a very different experience, and I’m rather enjoying the change of pace. So don’t feel like it’s a burden on either of us, necessarily–“
+ SAM: Well, I know, but don’t you think we should get some sort of a permanent home–? If you like it here, I like it here, too–
+ MATT: “Well, I’m not saying that we need to stay here forever, but I’m just saying don’t feel like it’s been a burden, either. I mean, our home’s in Felderwin, what remains of it, I suppose. But... yeah. I like it here for now. I am considering finding a tutor here for Luc.”
  SAM: Okay. Well...
  MATT: “Mainly because it’s important for him to– He’s getting to that age now where I think he can start learning more than shooting that crossbow.”
  SAM: Yes, no, he has to have education in other aspects of his life other than physical. We should definitely do that. In fact, maybe even Marion knows some tutors, the ones that helped raise Jester.
  MATT: “That’s true. That’s very true. I’ll go ahead and ask her. I think that– I’m going to ask her.”
  SAM: Okay. But– I don’t know. Do we have a plan? Should we go back to Felderwin at some point and just be a family?
  MATT: ‘I mean, I’d like to, eventually.”
- SAM: Well, I don’t want you guys just sitting in limbo here, waiting for me.
- MATT: “We’re not sitting in limbo, necessarily. I said, this has been an interesting change of pace. I think it’s a great opportunity for Luc to see more of the world, and meet people of all different walks of life and get away from the very, frankly, insular experience that Felderwin is a lot of the time. And... you’re doing some pretty big things. And the last thing I want to do is to get in the way of them.”
+ SAM: Well, I don’t want you guys to just be sitting in limbo here waiting for me.
+ MATT: “We’re not sitting in limbo, necessarily. Like I said, this has been an interesting change of pace. I think it’s a great opportunity for Luc to see more of the world, and meet people of all different walks of life and get away from the very, frankly, insular experience that Felderwin is a lot of the time. And... you’re doing some pretty big things. And the last thing I want to do is to get in the way of them.”
  SAM: It’s true. My friends are counting on me to help them. We have a pretty important thing coming up. I would hate to abandon them right now, but I can’t keep doing this forever, and leaving you guys after two days, three days. It’s not fair to you.
  MATT: “You’re not going to do it forever, right?”
  SAM: No, you’re right.
@@ -1304,15 +1542,17 @@ MATT: Cool. All righty. So the morning is imminent. As you come to consciousness
  SAM: No, you’re right. I’m not going to do it forever. 
  MATT: “Well, look what they did. They brought you back.”
  SAM: They did.
- MATT: “They saved you, and saved me from a very terrible experience. They helped keep our son safe. I don’t think I could ever find the words to express it, but I’m extremely grateful for everything that your friends have done. Whatever they need help with, and that involving my better half helping as she does, then what else can I for?”
+ MATT: “"They saved-- you all saved me from a very terrible experience. They helped keep our son safe. I don’t think I could ever find the words to express it, but I’m extremely grateful for everything that your friends have done. Whatever they need help with, and that involving my better half helping as she does, then what else could I ask for?”
  SAM: You are like the greatest husband ever, by the way. Can I just say?
  MATT: “Well, we kind of shaped each other. But to that point. I’m enjoying the change of pace for now. I think Luc is. We have a small plan to try to continue life as it is while we’re here, and I like not being under the thumb of some odd Assemblywoman, so I’m okay with this.”
  SAM: Okay. Well–
  MATT: “For now.”
  SAM: I’ll leave you enough money that if it feels weird that you’re in this hotel place that– if you want to get an apartment or something, you can, you should. Or if you like being here, that’s fine too.
  MATT: “How much is real estate out here in Nicodranas?”
- SAM: I passed an office last night that had all these pictures of like, “You can live here, for–“ I know they had some condos, and timeshare– there was a timeshare–
- MATT: “I’ve heard. Someone mentioned “time share”.”
+ SAM: I passed an office last night that had all these pictures of like, “You can live here, for–“ I know they had some condos--
+ MATT: "Oh, oh."
+ SAM: Timeshare, there was a timeshare.
+ MATT: “I’ve heard someone mention “timeshare”.”
  SAM: Yeah. I don’t quite know how it works, but–
  MATT: “They had free food. It was great.”
  SAM: Oh, yeah. Did you have to sit for–
@@ -1322,10 +1562,10 @@ MATT: Cool. All righty. So the morning is imminent. As you come to consciousness
  SAM: Well, if you see anything, let me know, because I’ve been collecting quite a bit of money.
  MATT: “Well, if you need somewhere to keep it, I can act as the accountant, I guess, in this arrangement.”
  SAM: Yeah, of course, of course. Here, I’ll leave you 100 platinum.
- MATT: He goes, “Veth... uh...”
+ MATT: You give it to him, he goes, “Veth... uh...”
  SAM: Well, I shouldn’t be carrying this with me. What if I lose it or something?
  MATT: “What if I lose– Um–“, and he quickly puts it in his pocket. “I’ve– Wow. Yeah. Go with your friends.”
- SAM: It’s pretty– we make a lot of money.
+ SAM: I mean, it's crazy. We make a lot of money.
  MATT: “I think I could probably find a place. Yeah. Wow. Okay, yeah, no, I’ll get on that.”
  SAM: Or not.
  MATT: “But as incredible as this is, don’t get yourself in any situations that are too dangerous.”
@@ -1341,20 +1581,376 @@ MATT: Cool. All righty. So the morning is imminent. As you come to consciousness
  MATT: “You think so?”
  SAM: Yeah, you’re very pasty.
  MATT: “Yeah.”
- SAM: When you’re tanning, just stay at least 25 feet from the water. Okay. All right. I’ll be back in a couple weeks, I think.
+ SAM: But you know, when you’re tanning, just stay at least 25 feet from the water. 
+ LAURA: You're such a shithead. (laughs)
+ MATT: "Okay."
+ SAM: Okay. Okay. All right. I’ll be back in a couple weeks, I think.
  MATT: “Okay. We’ll be here.”
  SAM: Okay. We probably have like ten minutes before I have to leave, so take off your pants!
  (Laughter)
+ MATT: "Yes, madam."
+ (laughter)
  MATT: All right. The rest of you guys gather your stuff. Any last minute business? Or are we heading to the docks?
  LAURA: Let’s go.
  MARISHA: To the docks.
  ASHLEY: Let’s go.
- TRAVIS: To the–
+ TRAVIS: To the boats–
  TALIESIN: Let’s go to the docks.
- MATT: All righty. You make your way to the Balleater. Your crew is waiting for you. Smaller than usual, just because there’s only so much room on the ship. So the four main crew that operate it, that includes Marius and Orly, and Gallan, and one other person, who you haven’t met. It is... yeah, Gallan, and the rest of you all make your way up there. The sails are unfurled, the anchor is raised, and you join the outskirts of the armada as it begins to make its way out into the open waters of the Lucidian Ocean, heading southward to southeast. And that’s where we’re going to take a break.
- SAM: To the sea!
- MATT: We’ll be back here in just a few minutes, but in the meantime we do have our Wyrmwood giveaway. Tonight is the padauk tabletop tray. Delightful leather interior dice tray, beautiful orange color, for one lucky winner in the chat. Tonight’s keyword is (singing) “sailing, takes me away to where”– no, we can’t clear that. Sailing. The word is sailing. Enter it once and only once in the chat. More than once and you’ll be disqualified, and once again, only people in the US and Canada excluding Quebec. We’ll be back here shortly with a winner. We’ll see you guys soon.
- [BREAK]
+ MATT: All righty. 
+ TALIESIN: To the docks. 
+ TRAVIS: What's in the docks?
+ MATT: You make your way to the Balleater. Your crew is waiting for you. Smaller than usual, just because there’s only so much room on the ship. So the four main crew that operate it, that includes Marius and Orly, and Gallan, and one other person, who you haven’t met. It is... yeah, Gallan, and the rest of you all make your way up there. The sails are unfurled, the anchor is raised, and you join the outskirts of the armada as it begins to make its way out into the open waters of the Lucidian Ocean, heading southward to southeast. And that’s where we’re going to take a break.
+ LIAM: To the sea!
+ MATT: We’ll be back here in just a few minutes, but in the meantime we do have our Wyrmwood giveaway. Tonight is the padauk tabletop tray.
+ (laughter)
+ LIAM: Bringing it back.
+ MATT: Delightful leather interior dice tray, beautiful orange color for one lucky winner there in the chat. Tonight's keyword is ♪ sailing ♪
+ MATT and TRAVIS: ♪ It takes me away ♪
+ ALL: ♪ To where I'm going ♪
+ MATT: No, we can't clear that. Sailing. The word is "sailing." Enter it once and only once in the chat. More than once, you'll be  disqualified and once again only people in the US and Canada, excluding Quebec. We'll be back here shortly with a winner. We'll see you guys soon.
+ 
+ Break Edit 
+ ♪ You got the perfect warlock ♪
+♪ Her weapon and supplies ♪
+♪ But you need place to track your stuff ♪
+♪ 'Cause you're so disorganized ♪
+♪ You click open the webpage ♪
+♪ You heard about on Critical Role ♪
+♪ And now you're ready to kick some butt ♪
+♪ In that mineshaft full of gnolls ♪
+♪ It's D&D ♪
+♪ D&D (yeah!) ♪
+♪ D&D Beyond ♪
+♪ Yeah, D&D ♪
+♪ D&D (yeah!) ♪
+♪ D&D Beyond ♪
+♪ You got your stats ♪
+♪ You've got your swords ♪
+♪ And you got your invisible wand ♪
+♪ It's D&D ♪
+♪ D&D ♪
+♪ D&D ♪
+♪ D&D Beyond ♪
+MISTY: You got them both? Do you guys know?
+LIAM: Yeah. MISTY: Yeah.
+LIAM: What the fuck?!
+SAM: How?
+ASHLY: How did you-- SAM: That's impossible.
+MISTY: Right here is the one pair of handcuffs from which Houdini
+could not escape.
+Then you can actually ask this owl yes or no questions.
+SAM: Will I die a painful death?
+Eyy! That's good! ASHLY: That's nice!
+MISTY: Do you have any martial arts background or anything?
+LIAM: One more time.
+MISTY: Yes, yes!
+SAM: And then, I've seen magicians do this where they
+(chains rattling)
+MISTY: Definitely!
+ASHLEY: Put some mustard on it, okay.
+MISTY: Yeah, girl! ASHLY: Don't do that face.
+SAM: Oh! Oh! Oh!
+ASHLY: Magic.
+(jazzy music)
+BRANDON: No one has ever really tried to adapt
+an RPG campaign into an animated series.
+So we're actually breaking new ground.
+JENNIFER: They created something that we
+didn't know the world needed.
+MEREDITH: Really there's something there for everyone.
+MARC: Even if you are steeped in this world,
+there's still a couple of moments
+I think we can surprise you.
+MATT: All this stuff coming out is just so freaking cool.
+(intense music)
+MATT: So the story of Vox Machina takes place on Tal'Dorei,
+which is a continent in the world of Exandria.
+It is an area of smaller nations, but there is an overall
+sovereign, Uriel, who is the leader of the area.
+Vox Machina are a bunch of-- I can't say heroes, really.
+But they are people that are trying to get by
+and they found that it's easier to survive
+and succeed as a group than independently.
+And so, out of necessity, they became a party.
+The series begins with a new story.
+This is a telling of Vox Machina as they come into their own
+as a group.
+EUGENE: It's a fantasy series. It's mature.
+It is fun. It is about camaraderie, it's about friendship.
+We are going to explore all of these amazing
+fantasy elements that people shied away from.
+We embrace that. We love that stuff.
+BRANDON: It's a completely unique thing, in terms of high fantasy.
+There's been no high fantasy that's even remotely
+similar to The Legend of Vox Machina.
+MAE: I think people will be able to look at this and be like,
+"Oh, this is a show with dragons and demons,
+"and, like, everything in between, but ultimately,
+"it's about this group of friends."
+MATT: We wanted to capture the spark and the magic
+of when we were playing at the table,
+just in a different form of media.
+MEREDITH: I'm just really excited to
+see the really heartfelt, touching scenes.
+That's what got me into the stream in the first place.
+MAE: This is something that is very serious and dramatic,
+but has moments of intense and beautiful levity
+and lightheartedness, and that comes from literally
+this was a group of friends having fun.
+And we, as the writers' room,
+should also be a group of friends having fun.
+And that was the moment I was like, we got this.
+BRANDON: Well, the writers' room was just, it was just a blast,
+you know, getting to work with all these amazingly talented
+writers who are all big fans of fantasy and RPGs.
+EUGENE: God, the writers were all amazing.
+And they all brought different things to the table.
+JENNIFER: We had a mix of seasoned and new.
+There's young, excited energy, and then
+wise, laid back energy, a little bit.
+KEVIN: There is sort of the who's who
+for what sort of action animation we've done
+have been to the top tier people,
+some really great new voices that have come from
+science fiction and from live action.
+It's really been a nice mix.
+♪ Role, Critical Role ♪
+MATT: We've never worked with Brandon before, so
+this is the first time me and him were able to collaborate
+on something, but he was just a great idea guy,
+as well as being the person who's guiding the production side.
+BRANDON: Eugene Son, our story editor,
+he's been incredibly helpful along the way,
+really implementing all of our notes,
+coming in and having all kinds of great ideas.
+EUGENE: Jen Muro knows so much about Critical Role.
+She's been a fan for a while
+and she could recall a lot of the things, the adventures
+and such that the characters have gone through.
+Mae Catt has so much energy and so many ideas.
+She was fantastic in the writers' room that way.
+Kevin and Doc are an amazing writing team that I've gotten
+the pleasure work with over the years.
+Their dynamic as a writing team is fantastic.
+I'd never worked with Marc before, but he brings a wealth
+of experience in comics and live acted TV.
+We also worked with Daniel Thomsen,
+who came from the live action world.
+Brought a whole different kind of storytelling to the room.
+Ashly Burch, I had never worked with before until
+Vox Machina, but she's fantastic!
+MATT: Beyond just being a talented writer,
+she's actually played with us.
+She played Keg in our second campaign for a number
+of episodes, as well as a live show.
+And so I think bringing that to the table,
+made her even that much more of a powerhouse.
+MARC: Everybody was, you know, soup to nuts, like,
+really, really nice and really, really smart.
+MATT: I love when the writers' room is everyone throwing out
+ideas and everyone's building on each other.
+And it's from all different facets, just
+brick after brick, you can see the wall coming to fruition.
+EUGENE: It's fascinating adapting The Legend of Vox Machina
+from a role playing game campaign
+and trying to translate that and bring that to life
+in an animated series.
+MAE: An adaptation need not be beat for beat.
+And so our job, as the writers, was to maintain the spirit
+of the story and the spirit of each character
+and the character arcs and what they're going through
+and act as the translators from what it was
+into what it can be now in the animated form.
+BRANDON: There's going to be surprises,
+there's going to be things that are changed,
+but also at the same time, we want to do that because
+we want the diehard fans to not just come in
+and know everything. Like, you want to be surprised.
+You want things to change just enough.
+MARC: To find a way to get to a place in the story
+where you're giving the audience
+the thing they didn't know that they wanted,
+but they actually needed.
+EUGENE: When you're dealing with a preexisting property,
+like a, say, a graphic novel, you'd say,
+"Okay, we have to keep this moment. This is a pivotal moment.
+"Maybe we can lose this, maybe we can plus this."
+When you're going with a campaign where it's
+hundreds of hours of material
+and a lot of it is really brilliant, it's like,
+okay, now what are the things that would translate
+really well to an animated series?
+What have they not seen
+that we think, "Wow okay, we can take this,
+"and we can really do something fantastic with it."
+And those are the things that really excite us.
+JENNIFER: Whittling down source material was an undertaking
+that I was terrified about because
+Matt has such a clear vision,
+and I definitely did not want to step on that.
+MATT: Certain ideas have to be changed
+or altered as part of the adaptation. It's a hard process.
+JENNIFER: There's things we were, like,
+"Oh, my god, he'll kill us."
+And then he was like, "No, that's fine."
+We're like, "We were worrying for three days about this."
+MARC: Matt would always sit down and say,
+"Yeah, no, this is the way it was in the campaign,
+"but if this is better, let's talk about it,
+"let's litigate it. Let's investigate it, let's rattle test it."
+MATT: Sometimes the harder ideas, the ones that go against
+what you initially expected, make the most important changes.
+EUGENE: Every project I've ever taken on,
+research is a huge part of it.
+You want to dive and get in that mindset and that mentality
+of the world you're exploring.
+MAE: Critical Role is an IP and is a legacy IP,
+but it's happening right now.
+You can interface with the creators of this thing
+that you love immediately.
+MATT: Everyone, for the most part, were able to make it
+for an element of the writers' room to
+answer questions about their particular character,
+how they would react to certain elements.
+You know, questions that I couldn't have answered
+anywhere near as good as they could've.
+DOC: The fact that the cast created their own characters
+and that Matt, as the game master, created the scenarios
+and then you're in the writers' room with those people,
+with that cast, you get to feed off that immediacy.
+It's like writing a Spider-Man script
+in the room with Stan Lee.
+MEREDITH: It's working very hard to honor the original canon
+and the original content and the original game.
+BRANDON: Nothing is getting past these guys.
+We're making sure that, like, this is very much
+the show that they want to make.
+MATT: It's been really cool to watch it all come together.
+And as each thing gets approved and, you know,
+we see every facet of it begin to become more and more realized,
+you can just feel the palpable energy of excitement.
+Not just within us, but the animation studio,
+and everyone who's working on the actual production side.
+It's already turning into something very special.
+KEVIN: We are as excited as any fan of Critical Role
+to see how these things turn out.
+There's nothing better than if you love a property
+and you're seeing it expanded to a new world.
+It just takes it in a way you never even
+could envision as a fan.
+MATT: We wanted to capture the spark and the magic of
+when we were playing at the table,
+just in a different form of media.
+MARC: It will be like drinking a drink that you really like
+by a bartender you've never met before,
+who, like, adds a little something
+and you can't quite put your finger on what it is.
+Is like, "Did you put, like, nutmeg in this?"
+And like, "Mm, I'm not sure, but I love this drink.
+"Oh, it's delicious. Give me more of this drink because I like being drunk."
+If you like being drunk on Critical Role,
+then I think you'll like what this series
+of bartenders have done to it.
+(intense drums)
+(Critical Role theme backing track)
+BRIAN (V.O.): Last time on Talks Machina.
+SAM: What are those things where you have two sticks
+and then a third stick and you, like, boop boop boop boop.
+MARISHA: Are they just called, like, juggling sticks?
+SAM: What are they called? They got to be called something.
+You don't do this?
+MARISHA: Devil sticks?
+SAM: Devil sticks. I knew you'd get it.
+SAM and MARISHA: Yeah.
+SAM: That's what you should learn how to do with the Wyrmwood stuff.
+Devil sticks.
+BRIAN: Do you understand how valuable and rare a lot of this wood is,
+and you want me to juggle with it?
+(giggling)
+SAM: How dare I. BRIAN: How dare you, sir.
+Can I come over and-- you know, have you ever seen people
+juggle with bowling pins? SAM: Sure.
+BRIAN: Can I do that with your rare wines? SAM: Hmm.
+BRIAN: Huh? Then I won't let you do it with my fucking Wyrmwood.
+Ask something like that again on this fucking show.
+Wait till we go on break or something to ask shit like that.
+MARISHA: There's so much tension on the show.
+BRIAN: We're tired!
+MARISHA: We're so tired and cranky.
+SAM: I'm fine.
+I'm fine!
+MARISHA: I know you've cried in the shower.
+BRIAN: You've cried in the shower.
+MARISHA: I know you have. I know you're fucking lying.
+SAM: What would I cry about in the shower?
+MARISHA: Oh, you fucking liar.
+BRIAN: What makes you sad, Sam?
+SAM: (exhales)
+BRIAN: "One of the most subtly powerful moments in a show
+"with lots of them was Nott turning down
+"Yasha's offer of a sip of wine just before
+"the transformation."
+MARISHA: Oh yeah, it was beautiful.
+BRIAN: "Could you walk us through what Nott/Veth was thinking
+"in that moment and how Veth's attitude toward
+"her drinking problem has changed."
+SAM: Yeah, maybe she thinks that she she might be okay now.
+She doesn't need it anymore.
+BRIAN: Wow. SAM: Yeah.
+BRIAN: Is that a reflection on you, Sam?
+Will you be giving up booze as well
+and perhaps maybe auctioning off
+some of your rare wines that we referenced earlier
+in the juggling conversation?
+SAM: I think I need to go take a shower.
+BRIAN: Oh! Oh goodness. DANI: Finally.
+BRIAN: Is it possible that we have cracked the--
+there we go. SAM: (fake crying)
+BRIAN: There we go.
+SAM: I don't want to give up my wine!
+I love it.
+(crying) I love it so much.
+BRIAN: All the wine's coming with me.
+SAM: What are these bubbles?
+MARISHA: That's your tears.
+SAM: Oh, the tears!
+BRIAN: That's tears in the shower.
+SAM: I've never cried before, so I didn't understand what was-- (sobbing)
+I love my wine.
+BRIAN: Like tears in--
+SAM: (crying) I love my Brunello di Montalcino!
+I love my Pinot Noir!
+BRIAN: List them off for us, all your wine.
+SAM: I love my Cab Francs!
+It's almost Beaujolais season!
+DANI: Beaujolais has to be made up.
+(birds chirping)
+SAM: I'm a fan of hot air balloon rides above
+the Venetian countryside.
+I'm a fan of Momlan.
+She's always got my back.
+I'm a fan of wine older than Taliesin.
+Hmm.
+I'm a fan of Twitch subscriptions.
+I'm a fan of emotes by Arsequeef, they're neat.
+I'm a fan of a wife so cool
+(distorted) people forget I exist exist.
+Exist.
+(monkey calls)
+(elephant trumpeting)
+(explosion)
+(warning alarm)
+(distorted high-pitch electronic notes)
+(intense scary noises)
+(baby crying)
+(harmonica)
+(short panting)
+I'm a fan of
+wearing your skin as a mask.
+(Vivaldi's "Spring" from "Four Seasons")
+(intense folk rock music)
+ 
+ Part II Edit 
  MATT: And welcome back. Before we go ahead and get into the game, we do have our Wymwood winner. Wyrmwood winner for tonight is FamtheWizard. Fam! The Wizard. Congratulations to you, FamTheWizard. We’ll have that box sent out to you ASAP. All rightie, so, the Mighty Nein, heading out to sea for a many days journey. It is about– looking at the detailed elements, about 395 miles around the southern edge of the Ashkeeper Peaks, avoiding the Inkclaw Reef, that would be to the south, and into the open waters of the designated meeting location within the Lucidian Ocean. The armada moves at the speed of its slowest ship, as one piece–
  TALIESIN: Is that us?
  MATT: In optimal weather, travel is set to be between nine to eleven days.
@@ -4110,15 +4706,15 @@ jump into the ocean.
  
   
 NewPP limit report
-Preprocessor node count: 1/300000
+Preprocessor node count: 15/300000
 Post‐expand include size: 0/2097152 bytes
 Template argument size: 0/2097152 bytes
 Expensive parser function count: 0/100
 ExtLoops count: 0/100
  
-  Saved in parser cache with key criticalrole:pcache:idhash:20070-0!*!0!*!*!*!*  
+  Saved in parser cache with key criticalrole:pcache:idhash:20070-0!*!0!!en!*!*  
  
-Retrieved from " https://criticalrole.fandom.com/wiki/Dark_Waters/Transcript?oldid=89850 " 
+Retrieved from " https://criticalrole.fandom.com/wiki/Dark_Waters/Transcript?oldid=93045 " 
  
  
  
@@ -4185,17 +4781,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Dark_Waters/Transcript?old
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -4209,6 +4801,18 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Dark_Waters/Transcript?old
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Club 57 Wiki 
  
  
  
@@ -4224,15 +4828,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Dark_Waters/Transcript?old
  
  
  
- Camila Cabello Wiki 
- 
- 
- 
- 
- 
- 
- 
- Dynasty Wiki 
+ Xavier Riddle and the Secret Museum Wiki 
  
  
  
@@ -4460,10 +5056,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Dark_Waters/Transcript?old
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

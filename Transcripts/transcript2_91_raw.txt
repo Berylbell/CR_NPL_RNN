@@ -126,7 +126,7 @@ Stone to Clay/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Stone to Clay/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:
  
  
  
- Geek & Sundry 
- 
- 
- Wildemount 
- 
- 
- The Knowing Mistress 
+ Vasselheim 
  
  
  Caleb Widogast 
  
  
- Fjord 
+ Jester Lavorre 
  
  
- Lost Treasures 
+ Chapter 10 
  
  
- Converging Fury 
+ Theodore 
+ 
+ 
+ Calianna 
+ 
+ 
+ Dubious Pursuits 
  
  
  
@@ -3918,13 +3918,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Stone_to_Clay/Transcript?o
  
  
  2 
- Jester Lavorre 
+ Caleb Widogast 
  
  
  
  
  3 
- Caleb Widogast 
+ Jester Lavorre 
  
  
  
@@ -3957,7 +3957,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Stone_to_Clay/Transcript?o
  
  
  
- Gossip Girl Wiki 
+ Club 57 Wiki 
  
  
  
@@ -3965,7 +3965,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Stone_to_Clay/Transcript?o
  
  
  
- Let's Go Luna! Wiki 
+ Wubbzypedia 
  
  
  
@@ -4193,10 +4193,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Stone_to_Clay/Transcript?o
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

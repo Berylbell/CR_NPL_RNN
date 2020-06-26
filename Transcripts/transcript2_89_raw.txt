@@ -126,7 +126,7 @@ Lingering Wounds/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb)
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Lingering Wounds/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb)
  
  
  
- Geek & Sundry 
+ Vasselheim 
  
  
- Wildemount 
+ Exandria 
  
  
- The Knowing Mistress 
+ Gatshadow Mountain 
  
  
- Caleb Widogast 
+ Darrington Brigade 
  
  
- Fjord 
+ Theodore 
  
  
- Converging Fury 
+ A Pirate's Life for Me 
  
  
- Commerce & Chaos 
+ A Hole In the Plan 
  
  
  
@@ -3860,17 +3860,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Lingering_Wounds/Transcrip
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3891,7 +3887,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Lingering_Wounds/Transcrip
  
  
  
- Hilda Wiki 
+ 
+ 
+ 
+ 
+ Xavier Riddle and the Secret Museum Wiki 
  
  
  
@@ -4135,10 +4135,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Lingering_Wounds/Transcrip
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

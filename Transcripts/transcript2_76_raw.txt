@@ -126,7 +126,7 @@ Refjorged/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:lang
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Refjorged/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:lang
  
  
  
- Ashly Burch 
+ Critical Role 
  
  
- Remnants 
+ Campaign Two: The Mighty Nein 
  
  
- Golden Grin 
+ Jester Lavorre 
  
  
- Dwendalian Empire 
+ Gustav Fletching 
  
  
- Myriad 
+ Soltryce Academy 
  
  
- Cerberus Assembly 
+ Desmond Moondrop 
  
  
- Babenon Dosal 
+ Berleben 
  
  
  
@@ -5518,17 +5518,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Refjorged/Transcript?oldid
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -5546,18 +5542,6 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Refjorged/Transcript?oldid
  
  
  
- 
- 
- 
- Rurouni Kenshin Wiki 
- 
- 
- 
- 
- 
- 
- 
- Dynasty Wiki 
  
  
  
@@ -5566,6 +5550,22 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Refjorged/Transcript?oldid
  
  
  Wubbzypedia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Club 57 Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Xavier Riddle and the Secret Museum Wiki 
  
  
  
@@ -5793,10 +5793,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Refjorged/Transcript?oldid
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591758327048/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591758327048/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

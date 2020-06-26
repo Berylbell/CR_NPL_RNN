@@ -126,7 +126,7 @@ Beneath Bazzoxan/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb)
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Beneath Bazzoxan/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb)
  
  
  
- Geek & Sundry 
- 
- 
- Wildemount 
- 
- 
- The Knowing Mistress 
+ Vasselheim 
  
  
  Caleb Widogast 
  
  
- Fjord 
+ Jester Lavorre 
  
  
- Converging Fury 
+ Chapter 10 
  
  
- Dunamancy 
+ Theodore 
+ 
+ 
+ Calianna 
+ 
+ 
+ Dubious Pursuits 
  
  
  
@@ -4500,17 +4500,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Beneath_Bazzoxan/Transcrip
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -4524,6 +4520,26 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Beneath_Bazzoxan/Transcrip
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Club 57 Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adopt Me! Wikia 
  
  
  
@@ -4532,22 +4548,6 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Beneath_Bazzoxan/Transcrip
  
  
  Britney Spears Wiki 
- 
- 
- 
- 
- 
- 
- 
- Camila Cabello Wiki 
- 
- 
- 
- 
- 
- 
- 
- Xavier Riddle and the Secret Museum Wiki 
  
  
  
@@ -4775,10 +4775,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Beneath_Bazzoxan/Transcrip
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

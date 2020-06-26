@@ -126,7 +126,7 @@ Perspective/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Perspective/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:la
  
  
  
- Geek & Sundry 
+ Critical Role 
  
  
- Wildemount 
+ Campaign Two: The Mighty Nein 
  
  
- The Knowing Mistress 
+ Jester Lavorre 
  
  
- Caleb Widogast 
+ Gustav Fletching 
  
  
- Fjord 
+ Soltryce Academy 
  
  
- Converging Fury 
+ Desmond Moondrop 
  
  
- Dunamancy 
+ Berleben 
  
  
  
@@ -4360,17 +4360,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Perspective/Transcript?old
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -4391,7 +4387,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Perspective/Transcript?old
  
  
  
- Club 57 Wiki 
+ 
+ 
+ 
+ 
+ Camila Cabello Wiki 
  
  
  
@@ -4399,7 +4399,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Perspective/Transcript?old
  
  
  
- Adopt Me! Wikia 
+ Hilda Wiki 
  
  
  
@@ -4407,7 +4407,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Perspective/Transcript?old
  
  
  
- Dynasty Wiki 
+ Wubbzypedia 
  
  
  
@@ -4635,10 +4635,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Perspective/Transcript?old
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

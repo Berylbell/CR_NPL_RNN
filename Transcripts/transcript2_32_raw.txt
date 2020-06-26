@@ -126,7 +126,7 @@ Beyond the Boundaries/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Beyond the Boundaries/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang
  
  
  
- Ashly Burch 
+ Critical Role 
  
  
- Bertrand Dwendal 
+ Race to the Tower 
  
  
- Remnants 
+ Campaign Two: The Mighty Nein 
  
  
- Golden Grin 
+ Gustav Fletching 
  
  
- Dwendalian Empire 
+ Soltryce Academy 
  
  
- Myriad 
+ Desmond Moondrop 
  
  
- Cerberus Assembly 
+ Berleben 
  
  
  
@@ -3347,17 +3347,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Beyond_the_Boundaries/Tran
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3378,15 +3374,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Beyond_the_Boundaries/Tran
  
  
  
- Rurouni Kenshin Wiki 
  
  
  
  
- 
- 
- 
- Club 57 Wiki 
+ Dynasty Wiki 
  
  
  
@@ -3395,6 +3387,14 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Beyond_the_Boundaries/Tran
  
  
  Camila Cabello Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Club 57 Wiki 
  
  
  
@@ -3622,10 +3622,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Beyond_the_Boundaries/Tran
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591758327048/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591758327048/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

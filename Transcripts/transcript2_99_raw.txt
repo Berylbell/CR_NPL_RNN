@@ -126,7 +126,7 @@ High Seas, High Stakes/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lan
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ High Seas, High Stakes/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lan
  
  
  
- Geek & Sundry 
+ Critical Role 
  
  
- Wildemount 
+ Campaign Two: The Mighty Nein 
  
  
- The Knowing Mistress 
+ Jester Lavorre 
  
  
- Caleb Widogast 
+ Gustav Fletching 
  
  
- Fjord 
+ Soltryce Academy 
  
  
- Lost Treasures 
+ Desmond Moondrop 
  
  
- Converging Fury 
+ Berleben 
  
  
  
@@ -3837,13 +3837,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/High_Seas,_High_Stakes/Tra
  
  
  2 
- Jester Lavorre 
+ Caleb Widogast 
  
  
  
  
  3 
- Caleb Widogast 
+ Jester Lavorre 
  
  
  
@@ -3876,15 +3876,15 @@ Retrieved from " https://criticalrole.fandom.com/wiki/High_Seas,_High_Stakes/Tra
  
  
  
+ Club 57 Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Dynasty Wiki 
- 
- 
- 
- 
- 
- 
- 
- Camila Cabello Wiki 
  
  
  
@@ -4112,10 +4112,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/High_Seas,_High_Stakes/Tra
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

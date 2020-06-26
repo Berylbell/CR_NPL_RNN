@@ -126,7 +126,7 @@ The Second Seal/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ The Second Seal/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),
  
  
  
- Ashly Burch 
+ Critical Role 
  
  
- Remnants 
+ Campaign Two: The Mighty Nein 
  
  
- Golden Grin 
+ Jester Lavorre 
  
  
- Dwendalian Empire 
+ Gustav Fletching 
  
  
- Myriad 
+ Soltryce Academy 
  
  
- Cerberus Assembly 
+ Desmond Moondrop 
  
  
- Babenon Dosal 
+ Berleben 
  
  
  
@@ -3113,17 +3113,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/The_Second_Seal/Transcript
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3144,7 +3140,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/The_Second_Seal/Transcript
  
  
  
- Wubbzypedia 
+ 
+ 
+ 
+ 
+ Club 57 Wiki 
  
  
  
@@ -3160,7 +3160,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/The_Second_Seal/Transcript
  
  
  
- Camila Cabello Wiki 
+ Hilda Wiki 
  
  
  
@@ -3388,10 +3388,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/The_Second_Seal/Transcript
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591758327048/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591758327048/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

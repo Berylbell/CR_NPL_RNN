@@ -126,7 +126,7 @@ A Pirate's Life for Me/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lan
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ A Pirate's Life for Me/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lan
  
  
  
- Geek & Sundry 
+ Vasselheim 
  
  
- Wildemount 
+ Exandria 
  
  
- The Knowing Mistress 
+ Gatshadow Mountain 
  
  
- Caleb Widogast 
+ Darrington Brigade 
  
  
- Fjord 
+ Theodore 
  
  
- Lost Treasures 
+ A Pirate's Life for Me 
  
  
- Converging Fury 
+ A Hole In the Plan 
  
  
  
@@ -2853,17 +2853,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Pirate%27s_Life_for_Me/T
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -2884,7 +2880,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Pirate%27s_Life_for_Me/T
  
  
  
- Camila Cabello Wiki 
+ 
+ 
+ 
+ 
+ Wubbzypedia 
  
  
  
@@ -2892,7 +2892,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Pirate%27s_Life_for_Me/T
  
  
  
- Rurouni Kenshin Wiki 
+ Gossip Girl Wiki 
  
  
  
@@ -2900,7 +2900,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Pirate%27s_Life_for_Me/T
  
  
  
- Hilda Wiki 
+ Xavier Riddle and the Secret Museum Wiki 
  
  
  
@@ -3128,10 +3128,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Pirate%27s_Life_for_Me/T
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

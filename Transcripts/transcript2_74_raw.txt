@@ -126,7 +126,7 @@ Manifold Morals/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Manifold Morals/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),
  
  
  
- The Knowing Mistress 
+ Vasselheim 
  
  
- Myriad 
+ Caleb Widogast 
  
  
- Cerberus Assembly 
+ Jester Lavorre 
  
  
- Babenon Dosal 
+ Chapter 10 
  
  
- Korshad 
+ Theodore 
  
  
- Oremid Hass 
+ Calianna 
  
  
- Lost Treasures 
+ Dubious Pursuits 
  
  
  
@@ -4275,17 +4275,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Manifold_Morals/Transcript
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -4306,7 +4302,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Manifold_Morals/Transcript
  
  
  
- Britney Spears Wiki 
+ 
+ 
+ 
+ 
+ Wubbzypedia 
  
  
  
@@ -4314,7 +4314,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Manifold_Morals/Transcript
  
  
  
- Rurouni Kenshin Wiki 
+ Dynasty Wiki 
  
  
  
@@ -4550,10 +4550,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Manifold_Morals/Transcript
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

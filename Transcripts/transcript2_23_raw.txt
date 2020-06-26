@@ -126,7 +126,7 @@ Have Bird, Will Travel/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lan
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Have Bird, Will Travel/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lan
  
  
  
- Geek & Sundry 
+ Exandria 
  
  
- The Knowing Mistress 
+ Gatshadow Mountain 
  
  
- Caleb Widogast 
+ Darrington Brigade 
  
  
- Beauregard Lionett 
+ Theodore 
  
  
- Fjord 
+ Jennah 
  
  
- Converging Fury 
+ Professor Thaddeus 
  
  
- Uthodurn (episode) 
+ A Pirate's Life for Me 
  
  
  
@@ -3581,17 +3581,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Have_Bird,_Will_Travel/Tra
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3612,7 +3608,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Have_Bird,_Will_Travel/Tra
  
  
  
- Xavier Riddle and the Secret Museum Wiki 
+ 
+ 
+ 
+ 
+ Camila Cabello Wiki 
  
  
  
@@ -3628,7 +3628,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Have_Bird,_Will_Travel/Tra
  
  
  
- Adopt Me! Wikia 
+ Xavier Riddle and the Secret Museum Wiki 
  
  
  
@@ -3856,10 +3856,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Have_Bird,_Will_Travel/Tra
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

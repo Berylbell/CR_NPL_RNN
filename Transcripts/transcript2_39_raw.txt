@@ -126,7 +126,7 @@ Temple of the False Serpent/Transcript | Critical Role Wiki | Fandom a:lang(ar),
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Temple of the False Serpent/Transcript | Critical Role Wiki | Fandom a:lang(ar),
  
  
  
- Geek & Sundry 
+ Vasselheim 
  
  
- Wildemount 
+ Exandria 
  
  
- The Knowing Mistress 
+ Gatshadow Mountain 
  
  
- Caleb Widogast 
+ Darrington Brigade 
  
  
- Fjord 
+ Theodore 
  
  
- Lost Treasures 
+ A Pirate's Life for Me 
  
  
- Converging Fury 
+ A Hole In the Plan 
  
  
  
@@ -4011,17 +4011,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Temple_of_the_False_Serpen
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -4035,6 +4031,18 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Temple_of_the_False_Serpen
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dynasty Wiki 
  
  
  
@@ -4050,15 +4058,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Temple_of_the_False_Serpen
  
  
  
- Club 57 Wiki 
- 
- 
- 
- 
- 
- 
- 
- Hilda Wiki 
+ Xavier Riddle and the Secret Museum Wiki 
  
  
  
@@ -4286,10 +4286,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Temple_of_the_False_Serpen
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

@@ -409,13 +409,13 @@ Part I Edit
  TRAVIS: What did you come to Trostenwald for?
  LIAM: We are tired. We've been traveling a long time. We've been saving. Wanted to take it easy for a few days. 
  TRAVIS: Sure, I'm not trying to pry. I was just curious where you were going. 
- MARISH: Just curious why you have a mask.
+ MARISHA: Just curious why you have a mask.
  TALIESIN: If I'm going to listening to somebody's life story I'm going to need a drink. You, gorgeous, what's your name? 
  MATT: You look over and see a woman with darker hair, the general barmaid. "Adelaine."
  TALIESIN: Adelaine, I would like a round for all these terrible people and one for myself. What's the difference between these three beers? I've honestly got to admit, they all taste the same to me. 
  MATT: "Go with the von Brandt."
  TALIESIN: Let's get a round of von Brandt for everybody. 
- TARVIS: Actually, if it's all the same I'm not really an ale fan. Do you have any fire whiskey?
+ TRAVIS: Actually, if it's all the same I'm not really an ale fan. Do you have any fire whiskey?
  MATT: "We can get you some liquor, aye."
  LAURA: Can I have some milk?
  SAM: Two, please.
@@ -2090,7 +2090,7 @@ TRAVIS: We’ll be quick, super fast.
  
  SAM: I’m with the girls.
  MATT: Oh sorry, you’re right .
- TRAVS: Where did the bodies fall? Over there, didn’t they? 
+ TRAVIS: Where did the bodies fall? Over there, didn’t they? 
  LIAM: That’s right, yeah.
  TRAVIS: Well let’s search the grounds.
  MATT: You make your way inside, the smell is pretty bad. You can smell the flesh beginning to decay.

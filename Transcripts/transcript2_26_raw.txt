@@ -126,7 +126,7 @@ Found & Lost/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:l
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Found & Lost/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a:l
  
  
  
- Geek & Sundry 
+ Vasselheim 
  
  
- Wildemount 
+ Exandria 
  
  
- The Knowing Mistress 
+ Gatshadow Mountain 
  
  
- Caleb Widogast 
+ Darrington Brigade 
  
  
- Fjord 
+ Theodore 
  
  
- Converging Fury 
+ A Pirate's Life for Me 
  
  
- Dunamancy 
+ A Hole In the Plan 
  
  
  
@@ -4267,17 +4267,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Found_%26_Lost/Transcript?
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -4298,7 +4294,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Found_%26_Lost/Transcript?
  
  
  
- Camila Cabello Wiki 
+ 
+ 
+ 
+ 
+ Rurouni Kenshin Wiki 
  
  
  
@@ -4306,7 +4306,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Found_%26_Lost/Transcript?
  
  
  
- Hilda Wiki 
+ Britney Spears Wiki 
  
  
  
@@ -4314,7 +4314,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Found_%26_Lost/Transcript?
  
  
  
- Dynasty Wiki 
+ Adopt Me! Wikia 
  
  
  
@@ -4542,10 +4542,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Found_%26_Lost/Transcript?
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

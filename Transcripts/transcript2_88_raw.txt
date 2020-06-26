@@ -126,7 +126,7 @@ Unwanted Reunions/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Unwanted Reunions/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb
  
  
  
- Ashly Burch 
+ Vasselheim 
  
  
- Bertrand Dwendal 
+ Caleb Widogast 
  
  
- Remnants 
+ Jester Lavorre 
  
  
- Golden Grin 
+ Chapter 10 
  
  
- Dwendalian Empire 
+ Theodore 
  
  
- Myriad 
+ Calianna 
  
  
- Cerberus Assembly 
+ Dubious Pursuits 
  
  
  
@@ -3703,17 +3703,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Unwanted_Reunions/Transcri
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3731,18 +3727,6 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Unwanted_Reunions/Transcri
  
  
  
- 
- 
- 
- Xavier Riddle and the Secret Museum Wiki 
- 
- 
- 
- 
- 
- 
- 
- Adopt Me! Wikia 
  
  
  
@@ -3751,6 +3735,22 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Unwanted_Reunions/Transcri
  
  
  Britney Spears Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dynasty Wiki 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wubbzypedia 
  
  
  
@@ -3978,10 +3978,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Unwanted_Reunions/Transcri
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591758327048/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591758327048/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

@@ -126,7 +126,7 @@ A Show of Scrutiny/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ck
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ A Show of Scrutiny/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ck
  
  
  
- Geek & Sundry 
+ Exandria 
  
  
- Wildemount 
+ Gatshadow Mountain 
  
  
- The Knowing Mistress 
+ Darrington Brigade 
  
  
- Caleb Widogast 
+ Theodore 
  
  
- Fjord 
+ Jennah 
  
  
- Lost Treasures 
+ Professor Thaddeus 
  
  
- Converging Fury 
+ A Pirate's Life for Me 
  
  
  
@@ -3438,17 +3438,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Show_of_Scrutiny/Transcr
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3469,7 +3465,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Show_of_Scrutiny/Transcr
  
  
  
- Camila Cabello Wiki 
+ 
+ 
+ 
+ 
+ Rurouni Kenshin Wiki 
  
  
  
@@ -3477,7 +3477,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Show_of_Scrutiny/Transcr
  
  
  
- Adopt Me! Wikia 
+ Gossip Girl Wiki 
  
  
  
@@ -3485,7 +3485,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Show_of_Scrutiny/Transcr
  
  
  
- Xavier Riddle and the Secret Museum Wiki 
+ Britney Spears Wiki 
  
  
  
@@ -3713,10 +3713,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/A_Show_of_Scrutiny/Transcr
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591687599820/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592340372548/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  

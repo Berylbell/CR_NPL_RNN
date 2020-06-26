@@ -126,7 +126,7 @@ Lost Treasures/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a
  Critical Role Wiki 
  
  
- 2,299 
+ 2,305 
  Pages 
  
  
@@ -374,25 +374,25 @@ Lost Treasures/Transcript | Critical Role Wiki | Fandom a:lang(ar),a:lang(ckb),a
  
  
  
- Geek & Sundry 
+ Critical Role 
  
  
- The Knowing Mistress 
+ Race to the Tower 
  
  
- Caleb Widogast 
+ Campaign Two: The Mighty Nein 
  
  
- Beauregard Lionett 
+ Gustav Fletching 
  
  
- Fjord 
+ Soltryce Academy 
  
  
- Converging Fury 
+ Desmond Moondrop 
  
  
- Uthodurn (episode) 
+ Berleben 
  
  
  
@@ -3241,17 +3241,13 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Lost_Treasures/Transcript?
  
  
  2 
- Jester Lavorre 
- 
- 
- 
- 
- 3 
  Caleb Widogast 
  
  
  
  
+ 3 
+ Jester Lavorre 
  
  
  
@@ -3272,7 +3268,11 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Lost_Treasures/Transcript?
  
  
  
- Gossip Girl Wiki 
+ 
+ 
+ 
+ 
+ Adopt Me! Wikia 
  
  
  
@@ -3280,7 +3280,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Lost_Treasures/Transcript?
  
  
  
- Club 57 Wiki 
+ Rurouni Kenshin Wiki 
  
  
  
@@ -3288,7 +3288,7 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Lost_Treasures/Transcript?
  
  
  
- Camila Cabello Wiki 
+ Dynasty Wiki 
  
  
  
@@ -3516,10 +3516,10 @@ Retrieved from " https://criticalrole.fandom.com/wiki/Lost_Treasures/Transcript?
  
  
  [if lt IE 8]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/json2/json2.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/json2/json2.js"></script>
 	<![endif] 
  [if lt IE 9]>
-		<script src="https://slot1-images.wikia.nocookie.net/__cb1591640562057/common/resources/wikia/libraries/html5/html5.min.js"></script>
+		<script src="https://slot1-images.wikia.nocookie.net/__cb1592400094195/common/resources/wikia/libraries/html5/html5.min.js"></script>
 	<![endif] 
   Combined JS files and head scripts  
  
