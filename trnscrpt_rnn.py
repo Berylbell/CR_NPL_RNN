@@ -109,10 +109,11 @@ def generateScript (order, speak_text):
             break
     
 #Run TODO: option to download the transcripts, options for generate text, option for filepath for gen
-def runRNNTrans ():
+def runRNNTrans (pullScrip = False):
     #Choose File Path
     #OPTIONAL PULL TRANSCRIPTS
-    #pullTran.pullScripts()
+    if(pullScrip):
+        pullTran.pullScripts()
     path_to_file = 'Transcripts\\transcript2_master.txt'
     text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
 
@@ -132,7 +133,7 @@ def runRNNTrans ():
                 #print(''.join(speak_text[speak]))
                 #input('running rnn. cont:')
                 if(len(''.join(speak_text[speak]))>=400):
-                    rnn_nlp.run_rnn_nlp(''.join(speak_text[speak]), speak, 3)
+                    rnn_nlp.run_rnn_nlp(''.join(speak_text[speak]), speak, 1)
         
     train_speakers(speak_text)
     #---------------------------Learn the Dialogue Order---------------------------
@@ -146,4 +147,15 @@ def runRNNTrans ():
     #-----------------------Generate Script-----------------------------------------
     generateScript(order, speak_text)
 
+#Produce text after checkpoints generated
+def generateAll():
+    path_to_file = 'Transcripts/transcript2_master.txt'
+    text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
+    #First load text and run transcript clean
+    [speakers, dia, speak_text] = trclean.seperate_Chara(text)
+    #order = build_order(speakers)
+    order = ["OTHER", "MATT", "LAURA", "SAM", "LIAM", "TRAVIS", "TALIESIN", "MARISHA"]
+    generateScript(order, speak_text)
+  
+#generateAll()
 runRNNTrans()

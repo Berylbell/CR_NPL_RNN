@@ -11,18 +11,18 @@ train a 3 layer RNN on them to produce Matt Style Tweets
 import tensorflow as tf
 import numpy as np
 import os
-
+#tf.enable_eager_execution()
 #Given a chunk of text, spilt it into the input and target text
 def split_input_target(chunk):
     input_text = chunk[:-1]
     target_text = chunk[1:]
     return input_text, target_text
 
-
 #Given a piece of text from the transcript, build a 3 layer RNN to predict it
 def build_model(vocab_size, embedding_dim, rnn_units, batch_size):
     model = tf.keras.Sequential([tf.keras.layers.Embedding(vocab_size, embedding_dim, batch_input_shape= [batch_size, None]),
-                                 tf.keras.layers.GRU(rnn_units, return_sequences = True, stateful = True, recurrent_initializer = 'glorot_uniform'),
+                                 tf.keras.layers.GRU(rnn_units, return_sequences = True, stateful = True, 
+                                 recurrent_initializer = 'glorot_uniform'),
                                  tf.keras.layers.Dense(vocab_size)])
     return model
 
@@ -73,8 +73,6 @@ def generate_text(model, start_string, text, num_generate=100, temperature =1, r
 def run_rnn_nlp (text, suffix='suffix', EPOCHS =3):
     #Make vocab 
     vocab = sorted(set(text))
-    
-    print(vocab)
     #set up mapping
     char2idx = {u:i for i, u in enumerate(vocab)}
     #char2spe = np.array(vocab)    
@@ -82,19 +80,16 @@ def run_rnn_nlp (text, suffix='suffix', EPOCHS =3):
     
     #define size of speaker and dataset slices
     seq_length = 100#int(len(text)/20)
-    print(seq_length)
-    #input('cont')
+    examples_per_epoch = len(text)
     speaker_dataset = tf.data.Dataset.from_tensor_slices(text_2_int)
-    
     sequences = speaker_dataset.batch(seq_length+1, drop_remainder=True)
     dataset = sequences.map(split_input_target)
-    print(dataset)
-    
+
     # Define Batch Size/ Buffer size
     BATCH_SIZE = 4
     BUFFER_SIZE = 10000
     dataset = dataset.shuffle(BUFFER_SIZE).batch(BATCH_SIZE, drop_remainder=True)
-    
+    dataset = dataset.repeat()
     
     #Building the Model
     vocab_size_s = len(vocab)
@@ -112,14 +107,14 @@ def run_rnn_nlp (text, suffix='suffix', EPOCHS =3):
         filepath= checkpoint_prefix, save_weights_only=True)
     
     
-    steps = int(len(text)/BATCH_SIZE)
+    steps = int(len(text)/(100*BATCH_SIZE)-1)
     #Run the code with Epochs
     history = model.fit(dataset,epochs=EPOCHS, callbacks= [checkpoint_callback], steps_per_epoch = steps)
     tf.train.latest_checkpoint(checkpoint_dir)
     
     #Build the Model
     model = build_model(vocab_size_s, embedding_dim, rnn_units, batch_size=1)
-    model.load_weights(tf.train.latest_checkpoint(checkpoint_dir))
+    model.load_weights(tf.train.latest_checkpoint(checkpoint_dir)).expect_partial()
     model.build(tf.TensorShape([1,None]))
     
 #Given a file, load the model and produce text 
@@ -140,4 +135,4 @@ def prod_text_from_file(text, suffix='suffix', start_string='', length=100):
     #print(model.summary())
     gen= generate_text(model,start_string, text, length, 1, 'str')
     return gen
-    
+
